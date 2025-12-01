@@ -6,7 +6,7 @@
  IO_PARLIAMENT_DURATION_TXT: "#T [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] 회기 중#!\n@location![InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetParliamentLocation.GetName]에서 [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetCurrentDebate.GetName]에 대해 [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetRemainingParliamentDuration|W]일 동안 추가로 논의합니다."
  PARLIAMENT_ISSUE_WILL_FAIL: "#T 쟁점 부결 예상#!\n@trigger_no! [Player.GetGovernment.GetParliament.GetName](은)는 [Player.GetGovernment.GetParliament.GetCurrentDebate.GetName](을)를 통과하지 #R 못할#! 것입니다."
  PARLIAMENT_ISSUE_WILL_NOT_FAIL: "#T 쟁점 통과 예상#!\n[Player.GetGovernment.GetParliament.GetName](은)는 [Player.GetGovernment.GetParliament.GetCurrentDebate.GetName](을)를 통과할 것입니다."
- HOSTILE_PARLIAMENT_MARKER: "#T 적대적 [ParliamentMarker.GetGovernment.GetParliament.GetName] 회기 중#!\n해당 [location|e]을 [occupying|e]하면 중단시킬 수 있습니다."
+ HOSTILE_PARLIAMENT_MARKER: "#T 적대적 [ParliamentMarker.GetCountry.GetGovernment.GetParliament.GetName] 회기 중#!\n해당 [location|e]을 [occupying|e]하면 중단시킬 수 있습니다."
  PARLIAMENT_NEVER_CALLED: "$NAME$(은)는 소집되지 않았습니다."
  PARLIAMENT_CALLED_DATE: "$NAME$(은)는 $WHEN|Y$ 전에 소집되었습니다"
  PARLIAMENT_MODIFIER_WHEN_DEBATED_TT: "쟁점이 논의되는 동안"

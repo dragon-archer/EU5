@@ -9,7 +9,7 @@
  orthodox_icon_events.4.desc: "万物的主，全能者基督在全国诸多教堂的穹顶上观察着世人。我们对圣障上这一中心圣像的尊崇与注重也似乎引起了许多人的思考，提醒着他们在所创之世和[ROOT.GetCountry.GetGovernment.GetRulerTitle]治下应扮演的角色。大部分人都对他们的人生和他们的政府感到满意。"
  orthodox_icon_events.4.a: "为了上主的王国。"
  orthodox_icon_events.5.title: "圣尼古拉的三件礼物"
- orthodox_icon_events.5.desc: "我们对圣尼古拉的尊崇似乎给近期[benevolent_if_distant_neighbor.GetName]使团的一名商人留下了深刻的印象。这名商人被[nicholas_icon_was_here.GetName]的圣尼古拉斯圣像所触，他不仅被圣人的事迹所感动，也为我们对圣尼古拉斯事业的投入而折服。于是他决定效仿圣尼古拉斯赠送三份礼物: 一份将赠予那座尊此圣像的教堂，一份将赠予绘制此圣像的艺术家，一份将赠予捐助此圣像的布施者。"
+ orthodox_icon_events.5.desc: "我们对圣尼古拉的尊崇似乎给近期[benevolent_if_distant_neighbor.GetName]使团的一名商人留下了深刻的印象。这名商人被[nicholas_icon_was_here.GetName]的圣尼古拉斯圣像所触，他不仅被圣人的事迹所感动，也为我们对圣尼古拉斯事业的投入而折服。于是他决定效仿圣尼古拉斯赠送三份礼物：一份将赠予那座尊此圣像的教堂，一份将赠予绘制此圣像的艺术家，一份将赠予捐助此圣像的布施者。"
  orthodox_icon_events.5.a: "我们必须替教会感谢他。"
  STATIC_MODIFIER_NAME_famous_icon: "当地著名圣像"
  STATIC_MODIFIER_DESC_famous_icon: "一位外国商人抵达当地宏伟的大教堂后，立即选择了皈依。此后，这里的一幅圣像开始声名远扬。这位新皈依者迅速成为教会的重要赞助人，而那幅圣像的声誉如今也吸引了更多朝圣者前来参观。"

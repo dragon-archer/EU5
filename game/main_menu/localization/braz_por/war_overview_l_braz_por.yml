@@ -96,7 +96,7 @@
  CANNOT_INTERVENE_WAR_ENEMY_IN_OTHER_WAR: "O país [COUNTRY.GetName] não pode intervir nesta guerra porque é inimigo do país [TARGET_COUNTRY.GetName] em outra"
  CANNOT_INTERVENE_WAR_ENEMY: "O país $COUNTRY|Y$ não pode intervir porque $SUBJECT|Y$ ficou do lado de $DEFENDER|Y$ nesta guerra, e o país $COUNTRY|Y$ já está em guerra com $SUBJECT|Y$."
  ALLIED_TO_ENEMY: "Eles são aliados do inimigo."
- DIPLOMACY_JOIN_WAR: "Talvez participe da guerra"
+ DIPLOMACY_JOIN_WAR: "Talvez participe da guerra.\n"
  DIPLOMACY_CHANCE_JOIN_WAR: "Probabilidade de participar da guerra: $VAL$.\n"
  JOIN_WAR_REASON_Instigator: "Agressor"
  JOIN_WAR_REASON_DESC_Instigator: "O país [COUNTRY.GetName] iniciou a [war|e]."

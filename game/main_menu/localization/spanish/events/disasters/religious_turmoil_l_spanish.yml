@@ -9,7 +9,7 @@
  religious_turmoil.3.title: "Los herejes se multiplican"
  religious_turmoil.3.desc: "A pesar de los contundentes intentos destinados a erradicar la herejía, la población de ciertas provincias se siente muy apegada a su fe y se resiste a la conversión."
  religious_turmoil.3.a: "Persigamos a los inconformistas."
- religious_turmoil.3.a.tt: "Algunas [pops|e|l] que no siguen el [ROOT.GetCountry.GetReligion.GetName|l] pierden un [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] de [pop_satisfaction|e|l]."
+ religious_turmoil.3.a.tt: "Algunas [pops|el] que no siguen el [ROOT.GetCountry.GetReligion.GetName|l] pierden un [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] de [pop_satisfaction|el]."
  religious_turmoil.3.b: "Incrementemos los fondos destinados a convertir a los herejes."
  religious_turmoil.4.title: "Represión de la herejía"
  religious_turmoil.4.desc: "La dura represión de los herejes que tiene lugar en nuestro país no ha aportado los resultados esperados. En lugar de restaurar el orden y unificar la fe religiosa, nuestras acciones han alterado aún más a la población, lo que ha traído más violencia y crueldad."

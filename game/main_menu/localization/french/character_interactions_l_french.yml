@@ -106,7 +106,7 @@
  pap_reassign_cleric: "Détacher un clerc"
  pap_reassign_cleric_concept: "[character|e]"
  pap_reassign_cleric_act: "$pap_reassign_cleric$"
- pap_reassign_cleric_desc_specific: "En raison de notre ascendant sur tout le clergé [ShowReligionAdjective('catholic')], nous pouvons contraindre [recipient.GetName] à quitter [recipient.GetCountry.GetName] et à prendre une nouvelle charge dans un autre [country|e]. Le coût est proportionnel à son [total_ability|e]. Nous gagnons au passage un [spy_network|e] dans son [country] d'accueil, proportionnel à sa valeur [mil|e]."
+ pap_reassign_cleric_desc_specific: "En raison de notre ascendant sur tout le clergé [ShowReligionAdjective('catholic')|l], nous pouvons contraindre [recipient.GetName] à quitter [recipient.GetCourtCountry.GetName] et à prendre une nouvelle charge dans un autre [country|e]. Le coût est proportionnel à son [total_ability|e]. Nous gagnons au passage un [spy_network|e] dans son [country] d'accueil, proportionnel à sa valeur [mil|el]."
  pap_reassign_cleric_desc: "Le [character|e] quittera notre [country|e] et prendra de nouvelles fonctions dans un autre. Son [total_ability|e] déterminera le coût de l'opération, et sa valeur [mil|e] affectera l'étendue du [spy_network|e] établi dans son pays d’accueil."
  pap_reassign_cleric_past: "[recipient.GetNameWithNoTooltip] Détaché"
  pap_reassign_cleric_act_past: "[recipient.GetName] a été détaché par le [actor.GetLongName]."

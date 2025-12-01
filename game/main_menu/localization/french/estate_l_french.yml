@@ -272,7 +272,7 @@
  #Papacy
  powerful_italian_families: "Familles italiennes puissantes"
  powerful_italian_families.tt: "Notre capitale ne se trouve PAS dans la région d'Italie."
- powerful_italian_families_desc: "L'anarchie et la désobéissance qui règnent à [ShowLocationName('rome')] et dans les autres cités #L [ShowCultureGroupName('italian_group')|l]nes#! ont considérablement augmenté lorsque le [GetCountry('PAP').GetGovernment.GetRulerTitle] a installé sa cour à [ShowLocationName('avignon')]. Aujourd'hui, ces territoires sont sous le contrôle de puissantes familles italiennes telles que les Colonna et les Orsini, qui se sont presque totalement libérées du [GetCountry('PAP').GetGovernment.GetRulerTitle]."
+ powerful_italian_families_desc: "L'anarchie et la désobéissance qui règnent à [ShowLocationName('rome')] et dans les autres cités [ShowCultureGroupName('italian_group')|l]nes ont considérablement augmenté lorsque le [GetCountry('PAP').GetGovernment.GetRulerTitle] a installé sa cour à [ShowLocationName('avignon')]. Aujourd'hui, ces territoires sont sous le contrôle de puissantes familles italiennes telles que les Colonna et les Orsini, qui se sont presque totalement libérées du [GetCountry('PAP').GetGovernment.GetRulerTitle]."
  french_cardinals: "Cardinaux français"
  french_cardinals_desc: "Depuis la mort de [GetCharacter('pap_boniface_viii').GetName] et le déplacement de la cour papale à [ShowLocationName('avignon')], la plupart des cardinaux sont [ShowCultureGroupName('french_group')|l] et sous l'influence du [GetCountry('FRA').GetGovernment.GetRulerTitle] de [GetCountry('FRA').GetName], dont le contrôle sur [GetCountry('PAP').GetName] ne permet pas un retour dans la province de [ShowLocationName('rome')]."
  cardinal_lead_guilds: "Guildes dirigées par un cardinal"
@@ -344,7 +344,7 @@
  tribes_creach_desc: "Le grain, le bétail et les [ShowGoodsName('livestock')] que nous avons obtenus par la guerre et les raids sont un excellent moyen d'assurer la prospérité de nos tribus et de notre peuple."
  tribes_pasture_access: "Accès aux pâturages"
  tribes_pasture_access_desc: "En accordant l'accès aux pâturages à nos tribus, nous pouvons utiliser leurs connaissances avancées en matière de culture vivrière et d'élevage."
- tribes_tribal_levies: "Accroître les levées tribales"
+ tribes_tribal_levies: "Autoriser les levées dans les tribus"
  tribes_tribal_levies_desc: "Les hommes des tribus sont réputés pour leur expérience de la guerre. Les enrôler dans nos armées servira à renforcer nos forces et à mieux assurer la sécurité de notre domaine."
  tribes_tribal_registry: "Registre élargi"
  tribes_tribal_registry_desc: "Bien que les tribus mènent une vie à l'écart de notre société, nous pouvons néanmoins créer un registre recensant ceux qui vivent parmi nous."

@@ -212,7 +212,7 @@
  GLD_f: "$GLD$"
  GLD_f_desc: "Zdobyliśmy ogromne ziemie w Polsce. Zamiast zarządzać nimi bezpośrednio, powołamy pełnomocnika, który będzie tam rządzić w naszym imieniu."
  DAH_f: "$DAH$"
- DAH_desc: "Skonsolidowaliśmy swoje terytoria i będziemy już gotowi stworzyć nowe państwo, by sprzeciwić się obcym wpływom."
+ DAH_f_desc: "We have consolidated our territories and will now be able to establish a new country to resist foreign influences."
  IRO_f: "$IRO$"
  IRO_f_desc: "Plemiona [ShowCultureGroupName('haudenosaunee_group')] od dawna współistniały w zjednoczonej konfederacji, chociaż każde z nich zachowało swoją autonomię. Teraz, gdy pięć narodów jest kierowanych przez jedno główne plemię, możemy otworzyć nowy rozdział w historii tej wzmocnionej konfederacji."
  PUE_f: "$PUE$"

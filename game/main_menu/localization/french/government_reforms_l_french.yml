@@ -68,7 +68,7 @@
  colonial_subject_desc: "Notre situation à l'avant-garde de la civilisation a fait de nous une terre d'opportunités pour ceux qui, dans leur pays d'origine, sont assez courageux et intrépides pour venir ici et se forger une vie nouvelle et prospère."
  #Steppe Horde
  legacy_of_genghis: "Héritage de $genghis_khan_name_no_tooltip$"
- legacy_of_genghis_desc: "Nous sommes les descendants de $genghis_khan_name_no_tooltip$, le grand conquérant du monde. Son sang coule dans nos veines, faisant de nous un peuple fier et puissant, et nous promettant que partout où nos chevaux pourront nous emmener, ce sera à nous de conquérir."
+ legacy_of_genghis_desc: "Nous sommes les descendants de $genghis_khan_name_no_tooltip$, le plus grand conquérant du monde. Son sang coule dans nos veines, faisant de nous un peuple fier et puissant, et nous promettant que partout où nos chevaux pourront nous emmener, ce sera à nous de conquérir."
  #Theocracies
  military_order_reform: "Ordre militaire"
  military_order_reform_desc: "Les ordres militaires ont été créés au Moyen Âge en tant que corps militant de l'Église catholique. Ses membres sont des guerriers (#italicmiles#!) et des moines (#italic fratres#!, qui prononcent des vœux religieux et sont destinés à défendre et à étendre la Chrétienté."

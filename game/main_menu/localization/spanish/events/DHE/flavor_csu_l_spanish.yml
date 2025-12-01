@@ -2,7 +2,7 @@
  flavor_csu.100.title: "El [ShowBuildingTypeNameWithNoTooltip('panaqa_building')|l] de [ROOT.GetCountry.GetNameWithNoTooltip]"
  flavor_csu.100.desc: "Tras la muerte del último gran monarca, la familia real ha distribuido nuestras tierras al viejo [ShowBuildingTypeName('panaqa_building')|l]. Una vez más, el ciclo empieza y quien ostenta ahora el título de [ROOT.GetCountry.GetGovernment.GetRulerTitle|l] debe fundar su propio legado mediante la conquista."
  flavor_csu.100.a: "Como es nuestra tradición."
- add_panaqas_to_every_location_tt: "#R Toda [location|e|l] en propiedad gana un [ShowBuildingTypeName('panaqa_building')|l].#!"
+ add_panaqas_to_every_location_tt: "#R Toda [location|el] en propiedad gana un [ShowBuildingTypeName('panaqa_building')|l].#!"
  flavor_csu.200.title: "El mejor aqha de los Andes"
  flavor_csu.200.desc: "[concubine_poisoner.GetName], esposa de nuestro gobernante, es una de las mayores expertas en la elaboración de #italic aqha#! de [ShowAreaName('acamama_area')]. Su capacidad para convertir los granos de maíz en una deliciosa bebida fue uno de los beneficios que ayudó a acordar el matrimonio real entre [ROOT.GetCountry.GetName] y [GetCountry('AYA').GetName], a pesar de la larga historia de rivalidad y fricciones fronterizas.\n\nHoy, [concubine_poisoner.GetShortNameWithNoTooltip] ha vuelto a preparar su famosa #italic aqha#!. ¿La disfrutará [ROOT.GetCountry.GetGovernment.GetRuler.GetName] como siempre?"
  flavor_csu.200.a: "¡Bebámosla!"

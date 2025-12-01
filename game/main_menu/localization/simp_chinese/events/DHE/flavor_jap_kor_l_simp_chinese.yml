@@ -5,5 +5,5 @@
  flavor_jap_kor.1.b: "我们必须为这场冲突做好准备。"
  flavor_jap_kor.1.c: "我们不应与邻邦挑起争端。"
  flavor_jap_kor.2.title: "战争来临"
- flavor_jap_kor.2.desc: "[ShowRegionName('japan_region')]的统一本已令人不安，而最坏的预想已成现实——好战的[from_country.GetAdjective]向我们宣战了！必须立即整备陆军与海军，迎接他们必然在[ShowRegionName('korea_region')]发动的登陆。尽管其动机尚且未明，但有一点可以确定: 他们视我们为阻碍其真正目标——[GetInternationalOrganization('middle_kingdom').GetName]——的绊脚石而已。"
+ flavor_jap_kor.2.desc: "[ShowRegionName('japan_region')]的统一本已令人不安，而最坏的预想已成现实——好战的[from_country.GetAdjective]向我们宣战了！必须立即整备陆军与海军，迎接他们必然在[ShowRegionName('korea_region')]发动的登陆。尽管其动机尚且未明，但有一点可以确定：他们视我们为阻碍其真正目标——[GetInternationalOrganization('middle_kingdom').GetName]——的绊脚石而已。"
  flavor_jap_kor.2.a: "我们绝不会让他们得逞！"

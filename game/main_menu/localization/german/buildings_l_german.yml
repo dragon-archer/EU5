@@ -422,7 +422,7 @@
  magistrato_alla_sanita: "Magistrato alla Sanità"
  magistrato_alla_sanita_desc: "Die Magistrato alla Sanità ist eine öffentliche Gesundheitsbehörde, die für die Überwachung und Verwaltung aller Maßnahmen verantwortlich ist, welche die Verbreitung von Krankheiten verhindern und steuern sollen – insbesondere von Seuchen."
  imperial_city_of_hue: "Kaiserstadt von $hue_location$"
- imperial_city_of_hue_desc: "Die Kaiserstadt von $imperial_city_of_hue$ ist ein von Mauern umschlossener Bereich innerhalb der Hauptsitzzitadelle, der als Sitz der Kaiserfamilie von $DAI$ dient."
+ imperial_city_of_hue_desc: "Die $imperial_city_of_hue$ ist ein von Mauern umschlossener Bereich innerhalb der Hauptsitzzitadelle, der als Sitz der Kaiserfamilie von $DAI$ dient."
  lighthouse_of_alexandria: "Leuchtturm von Alexandria"
  lighthouse_of_alexandria_desc: "Der $lighthouse_of_alexandria$ war ein hoch aufragendes Bauwerk, das zu den Sieben Weltwundern der antiken Welt zählte. Er wurde vor Kurzem neu errichtet und erhebt sich als Erinnerung an sein antikes Erbe, während er wieder Schiffe in den Hafen von Alexandria lotst."
  al_azhar_madrasa: "Al-’Azhar-Madrasa"
@@ -915,7 +915,7 @@
  sufi_mosque: "Sufimoschee"
  sufi_mosque_desc: "Ein Gebäude, das von örtlichen #L [ShowReligionGroupAdjective('muslim')|l]en#! Bekehrten errichtet wurde und für einen synkretistischen Umgang mit dem Glauben steht."
  wali_songo_shrine: "Wali-Schrein"
- wali_songo_shrine_desc: "Ein Schrein, der einem #L [ShowReligionGroupAdjective('muslim')|l]en#! Heiligen gewidmet ist, welcher einen bedeutenden Beitrag zur Verbreitung des #L [ShowReligionGroupNameWithNoTooltip('muslim')|l]en#! Glaubens in diesem Gebiet leistete."
+ wali_songo_shrine_desc: "Ein Schrein, der einem #L [ShowReligionGroupAdjective('muslim')|l]en#! Heiligen gewidmet ist, welcher einen bedeutenden Beitrag zur Verbreitung des #L [ShowReligionGroupAdjectiveWithNoTooltip('muslim')|l]en#! Glaubens in diesem Gebiet leistete."
  #Mali
  fulani_cattle_rearing_pen: "Kälberaufzuchtgehege"
  fulani_cattle_rearing_pen_desc: "Die Kälberaufzuchtgehege an diesem [location|e] erlauben es den Fulbe, ihr Können bei der Rinderzucht weiter zu verfeinern."

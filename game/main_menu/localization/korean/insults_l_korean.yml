@@ -36,7 +36,7 @@
  insult_against_denmark: "덴마크에는 뭔가 썩은 내가 진동한단 말이지."
  insult_against_england: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName](이)가 템스강에 빠진다면, 그건 불운이지. 하지만 누군가 [TARGET_COUNTRY.GetGovernment.GetRuler.GetHerHim](을)를 끄집어낸다면, 그건 재앙이다."
  insult_marprelate: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName](은)는 오만하고, 옹졸하고, 건방지고, 불경하고, 유해하고, 오만 잡것과 붙어먹는 타락한 성직자이자 찬탈자다."
- insult_marprelate2: "너희 [TARGET_COUNTRY.GetGovernment.GetRuler.GetTitle](은)는 법과 자연에 반하고, 근본 없는 사이비 교회의 수장이자, 악마의 하수인이자, 치졸한 교황이자, 적그리스도이자, 악마의 화신이자, 사기꾼이자, 병적인 거짓말쟁이다."
+ insult_marprelate2: "너희 [TARGET_COUNTRY.GetGovernment.GetRulerTitle](은)는 법과 자연에 반하고, 근본 없는 사이비 교회의 수장이자, 악마의 하수인이자, 치졸한 교황이자, 적그리스도이자, 악마의 화신이자, 사기꾼이자, 병적인 거짓말쟁이다."
  insult_against_saxony: "너희 마이센 자기에 무슨 일이라도 생기면 참 큰일이겠군..."
  insult_fort: "너희 성벽은 우리 대포 앞에서 파도에 부서지는 모래처럼 무너질 것이다."
  insult_revolutionary: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName], 네 시체로 진보를 향한 길을 닦을 것이다!"

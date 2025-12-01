@@ -27,7 +27,7 @@
  # Override
  CAMERA_TABLETOP: "Masaüstü"
  # Audio Volume Settings
- SETTING_Master: "Usta"
+ SETTING_Master: "Ana"
  SETTING_Music: "     Müzik"
  SETTING_UI: "     Arayüz"
  SETTING_Ui_Clock: "          Oyun Hızı Saat Sesi"

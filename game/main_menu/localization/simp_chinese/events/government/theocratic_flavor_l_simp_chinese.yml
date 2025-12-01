@@ -14,7 +14,7 @@
  theocratic_flavor.3.desc: "[target_ruler.GetName]的地位并没有被我们的人民忽视。[target_ruler.GetHerHis]的权威是我们历史上最伟大的英雄才能与之媲美的，[target_ruler.GetHerHis]专横的目光落在敌人身上就像复仇的箭，[target_ruler.GetHerHis]的声音是无情的雷声。[target_ruler.GetNameWithNoTooltip]的决心是鼓舞我军的源泉。"
  theocratic_flavor.3.a: "我们的军队知道这一点。"
  theocratic_flavor.4.title: "非凡之眼"
- theocratic_flavor.4.desc: "统治者看到了此般幻象: 曈曈如火的眼睛从诸天陨落，如同致命的流星，融化了敌人的血肉，直到仅剩累累白骨。我们的将军和顾问被指派去将这一幻象化为现实，我国最优秀的火炮专家也被下达命令，使我军拥有同太阳一般不可直视的威能。"
+ theocratic_flavor.4.desc: "统治者看到了此般幻象：曈曈如火的眼睛从诸天陨落，如同致命的流星，融化了敌人的血肉，直到仅剩累累白骨。我们的将军和顾问被指派去将这一幻象化为现实，我国最优秀的火炮专家也被下达命令，使我军拥有同太阳一般不可直视的威能。"
  theocratic_flavor.4.a: "他们不能直视我们。"
  STATIC_MODIFIER_NAME_avert_thy_mortal_eyes: "非凡之眼"
  STATIC_MODIFIER_DESC_avert_thy_mortal_eyes: "为了实现我们统治者所见的幻象，我国着重发展军事科技。"

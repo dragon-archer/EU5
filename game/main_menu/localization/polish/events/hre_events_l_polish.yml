@@ -78,3 +78,4 @@
  hre.801.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle] nie żyje..."
  hre.801.desc: "[previous_emperor.GetName] niedawno [Select_CString(previous_emperor.IsFemale,'zmarła','zmarł')]. Teraz [ShowSpecialStatusNamePlural('elector')] i [ShowSpecialStatusNamePlural('archbishop_elector')] zbierają się na kolegium elektorskim, by zadecydować, kto zasiądzie na cesarskim tronie."
  hre.801.a: "Smutny dzień dla cesarstwa!"
+ hre_the_emperor_is_dead_tt: "The [GetInternationalOrganization('hre').GetName] will have to chose a new [GetUniqueInternationalOrganization('hre').GetLeaderTitle]!"

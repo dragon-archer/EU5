@@ -8,7 +8,7 @@
  papal_conclave_events.2.desc: "次の[ROOT.GetCountry.GetGovernment.GetRulerTitle]を決めるためのコンクラーベが招集された。選挙のゆくえを操作しようと、外交交渉や駆け引きが盛んにおこなわれている。多くの強国がこの重要な選挙をめぐり裏で動いているが、彼らからの好意を得るために多少結果を操作することも検討すべきかもしれない。\n\nもちろん、それなりのコストを要する上に成功する保証はない。しかし、もし枢機卿を支持する国を得られたなら、我々にとっては非常に有益だ。"
  papal_conclave_events.2.a: "彼らに取引を提案しよう。"
  papal_conclave_events.2.b: "神への冒涜だ！"
- papal_conclave_events.2.tt: "[target_country.GetName]が我々の提案を受け取る。相手が受け入れた場合: "
+ papal_conclave_events.2.tt: "[target_country.GetName]が我々の提案を受け取る。相手が受け入れた場合："
  papal_conclave_events.3.title: "コンクラーベからの提案"
  papal_conclave_events.3.desc: "[GetCountry('PAP').GetLongName]からメッセージが届いた。同国は現在、新しい[GetCountry('PAP').GetGovernment.GetRulerTitle]を選出するためのコンクラーベの真っ最中である。彼らによれば、次の[GetCountry('PAP').GetGovernment.GetRulerTitle]に誰がふさわしいかは、神学的な問題だけでなく政治的な問題でもあるという。そこで、今回の選挙の支援をわが国に要請してきたのだ。協力した場合、わが国に対し多大な利益を約束するという。"
  papal_conclave_events.3.a: "提案を受け入れる。"

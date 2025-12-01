@@ -25,7 +25,7 @@
  court_and_country.7.desc: "[target_province.GetName]では、[target_character.GetName]によって入念に精査された近年の条例や税に従うことを現地の指導者たちが断固拒否していることから、緊張が高まっている。これらの指導者たちは黙従するどころか、団結して[target_capital.GetName]に正式な要請を送り、彼らの地方に駐在する幾人かの徴税人を即座に交代させるよう求めている。彼らは、これらの[ROOT.GetCountry.GetGovernment.GetAdjective]の代理人がその権限を乱用し、この地域で長く尊重されてきた古い権利や特権を無視し、限度を超えた振る舞いをしていると主張する。\n\nすでに大きな負担を強いられる農民に対する過度な徴税、合法的な理由のない突然の物品の押収、現地の慣習を公然と無視するなど、あまりにも多くの不満が寄せられている。こうした行為は恨みを買うだけでなく、地方全体の秩序と忠誠心の繊細な均衡をも崩すおそれがあると彼らは主張している。民衆はこれを自分たちの尊厳に対する冒涜とみなしており、我々が迅速に対応しなければ、異論のささやきは鎮圧しがたい力へと発展する可能性もあるだろう。"
  court_and_country.7.a: "彼らの指導者を捕らえよ！"
  court_and_country.7.b: "交渉できるはずだ。"
- gain_modifier_loc_key: "対象の[province|e]のすべての[location|e]が以下を得る: "
+ gain_modifier_loc_key: "対象の[province|e]のすべての[location|e]が以下を得る："
  every_pop_in_target_province_loses_20_satisfaction_tt: "対象の[province|e]に居住するわが国の[pops|e]の[pop_satisfaction|e]が[ShowNamedValue('pop_satisfaction_severe_penalty')|+=2%]減少する"
  every_location_in_target_province_gets_cnc_local_authority_asserted_tt: "$gain_modifier_loc_key$[modifier|e]「[ShowModifier('cnc_local_authority_asserted')]」"
  every_pop_in_target_province_gains_20_satisfaction_tt: "対象の[province|e]に居住するわが国の[pops|e]の[pop_satisfaction|e]が[ShowNamedValue('pop_satisfaction_severe_bonus')|+=2%]増加する"

@@ -40,7 +40,7 @@
  appoint_not_owner: "@trigger_no! No podemos elegir a esta persona porque es de [COUNTRY.GetName]."
  already_advisor: "@trigger_no! Ya forma parte del gabinete."
  appoint_exploration: "Nombrar como explorador"
- no_explorations_explorer: "@trigger_no! No hay [areas|e|l] que explorar"
+ no_explorations_explorer: "@trigger_no! No hay [areas|el] que explorar"
  #Character List
  CHARACTER_ROLE_RULER: "[ruler|e]"
  CHARACTER_ROLE_HEIR: "[heir|e]"

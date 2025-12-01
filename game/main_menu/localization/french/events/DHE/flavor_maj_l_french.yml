@@ -82,7 +82,7 @@
  flavor_maj.17.title: "[target_character.GetNameWithNoTooltip]"
  flavor_maj.17.desc: "Un personnage vraiment exceptionnel a fait son chemin jusqu'à notre pays. [target_character.GetName], comme on l'appelle, est un prédicateur [target_religion.GetAdjective|l] venu tout droit de [birth_location.GetArea.GetName]. Avant d'arriver en [ROOT.GetCountry.GetName], [target_character.GetShortNameWithNoTooltip] prêchait également en [ShowAreaName('champa_area')] et s'est maintenant lancé dans la construction d'une nouvelle communauté #L [target_religion.GetGroup.GetAdjective|l]e#! dans notre [ROOT.GetCountry.GetFlavorRank]."
  flavor_maj.17.a: "Cela nous convient."
- wali_songo_tt: "Lorsque [THIS.GetCharacter.GetName] mourra, un [ShowBuildingTypeName('wali_songo_shrine')] sera construit dans un [location|e] [ShowReligionAdjective('sunni')|l] [owned|e|l]."
+ wali_songo_tt: "Lorsque [THIS.GetCharacter.GetName] mourra, un [ShowBuildingTypeName('wali_songo_shrine')] sera construit dans un [location|e] [ShowReligionAdjective('sunni')|l] [owned|el]."
  flavor_maj.18.title: "Mort d'un Wālī"
  flavor_maj.18.desc: "Nous avons appris le décès de [target_character.GetName]. De son vivant, [target_character.GetSheHe] était vénéré comme un grand enseignant [ShowReligionAdjective('sunni')] et un [target_character.GetWomanMan] véritablement dévoué à la propagation de sa foi. Reste à savoir si cela est une bonne chose ou non. Une chose est sûre cependant, il y en aura d'autres comme lui."
  flavor_maj.18.a: "C'est comme ça."

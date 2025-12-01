@@ -18,6 +18,6 @@
  LOBBY_UNAVAILABLE_IRONMAN: "#X 鉄人モードでは国家選択は利用できません#!"
  LOBBY_UNAVAILABLE_LOGIN: "#X マルチプレイをするにはParadoxアカウントにログインしてください#!"
  LOBBY_UNAVAILABLE_USERNAME: "#X マルチプレイにはユーザー名の設定が必要です。ユーザー名はアカウントウィンドウから設定可能。#!"
- PAUSE_MENU_INVITE: "サーバーIDを送信してプレイヤーを招待: \n[GetServerInfo.GetServerID]"
+ PAUSE_MENU_INVITE: "サーバーIDを送信してプレイヤーを招待：\n[GetServerInfo.GetServerID]"
  COPY_CLIPBUFFER_TT: "#T サーバーIDをクリップボードにコピー#!\nほかのプレイヤーはIDを使用して、このマルチプレイのゲームに直接参加できます"
  COPY_CLIPBUFFER_TT_TILTE: "サーバーIDをクリップボードにコピー"

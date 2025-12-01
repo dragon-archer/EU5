@@ -9,7 +9,7 @@
  sinicization_disaster.1.b: "我们必须保护自己的主权！"
  chi_may_be_sympathetic_tt: "#Y [target_emperor_scope.GetNameWithNoTooltip]#!可能会在这动荡时期支持我们"
  sinicization_disaster.2.title: "亲外分子"
- sinicization_disaster.2.desc: "宫廷内窃窃私语地讨论着一个鲜为人知的秘密: 有人正暗中受人恩惠来替人言好。这个秘密指向的不是别人，正是我们的内阁成员[target_character.GetName]，此人近来发表的政策言论的确与[target_emperor_scope.GetAdjectiveWithNoTooltip]的代表不谋而合。"
+ sinicization_disaster.2.desc: "宫廷内窃窃私语地讨论着一个鲜为人知的秘密：有人正暗中受人恩惠来替人言好。这个秘密指向的不是别人，正是我们的内阁成员[target_character.GetName]，此人近来发表的政策言论的确与[target_emperor_scope.GetAdjectiveWithNoTooltip]的代表不谋而合。"
  sinicization_disaster.2.a: "我们暂且默许……"
  sinicization_disaster.2.b: "[target_character.GetSheHe|U]将被驱逐。"
  sinicization_disaster.2.c: "处死[target_character.GetHerHis]！"

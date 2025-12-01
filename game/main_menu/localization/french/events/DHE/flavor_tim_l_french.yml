@@ -121,7 +121,7 @@
  flavor_tim.1004.a: "La paix, enfin."
  flavor_tim_1100_shared: "L'ascension de [target_character.GetNameWithNoTooltip]"
  flavor_tim.1100.title: "$flavor_tim_1100_shared$"
- flavor_tim.1100.desc: "Le mouvement hurûfî a connu une forte expansion, devenant une nouvelle force religieuse au sein de [ROOT.GetCountry.GetName]. Mené par [target_character.GetName], celui-ci affirme être l'incarnation de [target_character.GetReligion.GetGodName], et qu'[target_character.GetSheHe] apparaîtra comme le Mahdî au jour du Jugement. Ce ne sont là que des propos délirants, mais l'exécuter pourrait provoquer une rébellion."
+ flavor_tim.1100.desc: "Le mouvement hurûfî a connu une forte expansion, devenant une nouvelle force religieuse au sein de [ROOT.GetCountry.GetName]. Mené par [target_character.GetName], celui-ci affirme être l'incarnation d'[target_character.GetReligion.GetGodName], et qu'[target_character.GetSheHe] apparaîtra comme le Mahdî au jour du Jugement. Ce ne sont là que des propos délirants, mais l'exécuter pourrait provoquer une rébellion."
  flavor_tim.1100.a: "[target_character.GetSheHe|U] peut rester."
  flavor_tim.1100.b: "Qu'on l'expulse immédiatement !"
  flavor_tim.1100.c: "Nous ne prendrons aucun risque, même si cela déclenche une rébellion."

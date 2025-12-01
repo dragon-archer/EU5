@@ -44,7 +44,7 @@
  ikko_ikki.9.d: "#italic 南无三#!。可我们不能让他们拥有更多统治力了。"
  ikko_ikki_lots_of_mahayana.tt: "治下大量[pops|e]将皈依[ShowReligionName('mahayana')]"
  ikko_ikki.10.title: "$ikko_ikki$"
- ikko_ikki.10.desc: "近来[target_io.GetName]信仰在[target_origin_country.GetLongName]的兴起成为了一个预兆: 所有[ShowReligionAdjective('shinto')]国家都将面临一场剧变，他们必须决定如何与这个新兴的派别相处。无论他们决定支持这种新信仰，还是回避它的追随者，不可否认的是，这种信仰的影响将遍布每个角落。"
+ ikko_ikki.10.desc: "近来[target_io.GetName]信仰在[target_origin_country.GetLongName]的兴起成为了一个预兆：所有[ShowReligionAdjective('shinto')]国家都将面临一场剧变，他们必须决定如何与这个新兴的派别相处。无论他们决定支持这种新信仰，还是回避它的追随者，不可否认的是，这种信仰的影响将遍布每个角落。"
  ikko_ikki.10.a: "耐人寻味的时代将要来临。"
  ikko_ikki_enabled.tt: "我们现在解锁了$ikko_ikki$[religious_faction|e]"
  ikko_ikki.11.title: "$ikko_ikki.6.title$"

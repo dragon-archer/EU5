@@ -38,7 +38,7 @@
  ciompi_revolt.8.a: "我们的人民经受住了历史的考验。"
  ciompi_revolt.8.b: "我们需要一位强人来施行强力的统治！"
  #Custom Tooltips
- every_location_capital_area_tt: "治下所有位于[target_capital_area.GetName]地区的[location|e]将获得以下效果: "
- random_owned_non_rural_location_tt: "治下随机一个城镇地点将承受以下效果: "
+ every_location_capital_area_tt: "治下所有位于[target_capital_area.GetName]地区的[location|e]将获得以下效果："
+ random_owned_non_rural_location_tt: "治下随机一个城镇地点将承受以下效果："
  end_disaster_tt: "这会结束当前[disaster|e]"
- every_location_pops_dissatisfaction_tt: "治下所有[location|e]的人口将会承受以下效果: "
+ every_location_pops_dissatisfaction_tt: "治下所有[location|e]的人口将会承受以下效果："

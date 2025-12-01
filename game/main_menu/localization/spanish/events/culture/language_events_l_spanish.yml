@@ -2,7 +2,7 @@
  language.1.title: "La lengua del enemigo"
  language.1.desc: "El uso continuado del [enemy_dialect.GetLanguage.GetName|l] como idioma de preferencia en nuestra corte ha causado estupor debido al conflicto actual con [enemy_country.GetLongName|l]. Los consejeros de [ROOT.GetCountry.GetGovernment.GetRuler.GetName] han sugerido que pongamos remedio a esta evidente contradicción."
  language.1.a: "Promovamos el uso oficial de nuestra lengua materna."
- language.1.a.subject: "Nuestros [subjects|E|l] pueden seguir nuestro ejemplo."
+ language.1.a.subject: "Nuestros [subjects|El] pueden seguir nuestro ejemplo."
  language.1.b: "Adoptemos nuestro idioma litúrgico."
  language.1.c: "Adoptemos el idioma [ruler_language.GetNameWithNoTooltip|l] de [ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip]."
  language.1.d: "Nuestro uso del [enemy_dialect.GetNameWithNoTooltip|l] es anterior a esta riña absurda."

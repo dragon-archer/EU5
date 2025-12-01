@@ -76,7 +76,7 @@
  prices.23.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_sugar: "Popularité croissante du sucre"
  prices.24.title: "Popularité croissante de la soie"
- prices.24.desc: "Depuis bien avant le Moyen Âge, la soie a été un bien très demandé, partout dans le monde, et c'est en partie elle qui a poussé à lancer des voyages de découverte vers l'Orient. Maintenant qu'elle est devenue plus facilement disponible, que ce soit sous forme brute ou tissée, la demande n'a fait que s'accroître en Occident."
+ prices.24.desc: "Depuis des siècles, la [ShowGoodsName('silk')] est un symbole de richesse et de raffinement, convoité par les élites d'[ShowContinentName('asia')], du [ShowRegionName('middle_east')] et d'[ShowContinentName('europe')]. Cette popularité a joué un rôle crucial dans le développement des routes commerciales et dans l'exploration mondiale, notamment au cours de l'ère des [ShowAgeName('age_3_discovery')]. Maintenant, grâce à l'amélioration de la production et du commerce, la soie et les étoffes tissées sont plus accessibles que jamais. Cette nouvelle disponibilité a suscité un regain de demande dans de nombreux nouveaux marchés, où la [ShowGoodsNameWithNoTooltip('silk')] se mue rapidement de produit de luxe en raffinement à la mode pour la classe moyenne urbaine en plein essor."
  prices.24.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_silk: "Popularité croissante de la soie"
  prices.27.title: "Déclin des éléphants en Asie du Sud-Est"

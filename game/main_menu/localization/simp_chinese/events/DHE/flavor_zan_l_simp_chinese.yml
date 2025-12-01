@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  flavor_zan.1.title: "[ShowBuildingTypeNameWithNoTooltip('husuni_kubwa')]"
- flavor_zan.1.desc: "[GetCharacter('zan_abu_al_mawahib_al_hasan_ibn_suleiman').GetName]最初下令在[target_location.GetName]中心建造[ROOT.GetCountry.GetGovernment.GetAdjective]宫殿，意图打造最宏伟的皇家居所。然而厄运连连，资金挪用与君主患病使工程屡屡受阻。尽管困难重重，我们的建筑师仍提交了新方案: 增设专门用于商贸的货仓与厅堂，并配以辉煌的觐见大厅。如今唯一阻碍，便是资金短缺。"
+ flavor_zan.1.desc: "[GetCharacter('zan_abu_al_mawahib_al_hasan_ibn_suleiman').GetName]最初下令在[target_location.GetName]中心建造[ROOT.GetCountry.GetGovernment.GetAdjective]宫殿，意图打造最宏伟的皇家居所。然而厄运连连，资金挪用与君主患病使工程屡屡受阻。尽管困难重重，我们的建筑师仍提交了新方案：增设专门用于商贸的货仓与厅堂，并配以辉煌的觐见大厅。如今唯一阻碍，便是资金短缺。"
  flavor_zan.1.a: "批准建造工程。"
  flavor_zan.1.b: "眼下开支过大……"
  flavor_zan.1.historical_info: "胡苏尼库布瓦宫殿是14世纪基尔瓦苏丹国建筑与政治实力的见证。由苏丹哈桑·伊本·苏莱曼在基尔瓦基西瓦尼建造，这座占地1.6公顷的珊瑚石宫殿融合了斯瓦希里、伊斯兰与波斯建筑风格，包含豪华寝宫、庭院、浴场与仓库，兼具王宫、商站与要塞功能。"
@@ -12,7 +12,7 @@
  flavor_zan.2.c: "通货问题让[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('burghers_estate')]决定。"
  zan_gold_coinage: "[ShowGoodsNameWithNoTooltip('goods_gold')]钱币需求"
  flavor_zan.3.title: "[target_character2.GetNameWithNoTooltip]之影"
- flavor_zan.3.desc: "我国的前任统治者，[target_character2.GetName]以慷慨仁慈闻名。当这位贤明的[GetCountry('ZAN').GetGovernment.GetRulerTitle]逝世后，[target_character2.GetHerHis]的弟弟[target_character.GetName]继位。与前任截然不同，[target_character.GetShortNameWithNoTooltip]对子民疾苦漠不关心。\n\n据说当贫民向[target_character.GetShortNameWithNoTooltip]求助时，这位[GetCountry('ZAN').GetGovernment.GetRulerTitle]竟回应: #italic “施舍者已死，未留分文可赠”#!。由于[target_character.GetHerHis]近来展现的吝啬姿态，外国使节来访也日渐稀少。"
+ flavor_zan.3.desc: "我国的前任统治者，[target_character2.GetName]以慷慨仁慈闻名。当这位贤明的[GetCountry('ZAN').GetGovernment.GetRulerTitle]逝世后，[target_character2.GetHerHis]的弟弟[target_character.GetName]继位。与前任截然不同，[target_character.GetShortNameWithNoTooltip]对子民疾苦漠不关心。\n\n据说当贫民向[target_character.GetShortNameWithNoTooltip]求助时，这位[GetCountry('ZAN').GetGovernment.GetRulerTitle]竟回应：#italic “施舍者已死，未留分文可赠”#!。由于[target_character.GetHerHis]近来展现的吝啬姿态，外国使节来访也日渐稀少。"
  flavor_zan.3.a: "我们必须效法[target_character2.GetShortNameWithNoTooltip]！"
  flavor_zan.3.b: "慷慨捐赠以推进议程。"
  flavor_zan.3.c: "[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('peasants_estate')]饿死也无妨。"

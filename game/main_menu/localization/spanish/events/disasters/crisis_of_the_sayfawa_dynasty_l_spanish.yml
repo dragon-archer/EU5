@@ -8,7 +8,7 @@
  crisis_of_the_sayfawa_dynasty.2.a: "¡Sois todos unas serpientes!"
  crisis_of_the_sayfawa_dynasty.2.b: "Ha llegado tu hora, [target_character.GetNameWithNoTooltip]."
  rival_branch_sayfawa: "Rama rival Sayfawa"
- csd_every_pop_satisfaction_tt: "Todas las comunidades de [target_province.GetName]:\nPierde un [ShowNamedValue('pop_satisfaction_severe_penalty')|+=2%] de [pop_satisfaction|e|l].\nSe une a [rival_branch_sayfawa_scope.GetName]."
+ csd_every_pop_satisfaction_tt: "Todas las comunidades de [target_province.GetName]:\nPierde un [ShowNamedValue('pop_satisfaction_severe_penalty')|+=2%] de [pop_satisfaction|el].\nSe une a [rival_branch_sayfawa_scope.GetName]."
  crisis_of_the_sayfawa_dynasty.3.title: "Contiendas familiares"
  crisis_of_the_sayfawa_dynasty.3.desc: "No es raro que el estamento [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')|l] y los miembros del linaje gobernante [ROOT.GetCountry.GetGovernment.GetAdjective|l] discutan y se peleen por las migajas del poder. Se ha convertido en una tradición que un príncipe de ascendencia noble se levante en armas contra un hermano, especialmente durante los turbulentos tiempos que corren. Este flagrante desprecio de la etiqueta [ROOT.GetCountry.GetGovernment.GetAdjective|l] nos ha hecho parecer incultos y en decadencia a los ojos del mundo.\n\nSi no mantenemos a raya a nuestra familia, sufriremos las consecuencias más adelante. Las instituciones [ROOT.GetCountry.GetGovernment.GetAdjective|l] deben recuperar su antiguo esplendor y librarse de agravios mezquinos y bufones ávidos de poder."
  crisis_of_the_sayfawa_dynasty.3.a: "Debemos ponerlos en su sitio."
@@ -34,5 +34,5 @@
  #Tooltips
  gave_autonomy_to_the_bulala_and_sao_tt: "Autonomía otorgada a los pueblos #Y $bilala_culture$#! y #Y $sao_culture$#!"
  kbo_join_tt: "[kbo_strong_general_scope.GetNameWithNoTooltip] liderará nuestras tropas y asegurará el fin de nuestros enemigos"
- sao_and_bilala_reduced_control_tt: "Toda [location|e|l] con [pops|e|l] de [ShowCultureName('bilala_culture')|l] o [ShowCultureName('sao_culture')|l] perderá un [ShowNamedValue('control_severe_penalty')|+=2%] de [control|e|l]."
+ sao_and_bilala_reduced_control_tt: "Toda [location|el] con [pops|el] de [ShowCultureName('bilala_culture')|l] o [ShowCultureName('sao_culture')|l] perderá un [ShowNamedValue('control_severe_penalty')|+=2%] de [control|el]."
  had_csd_disaster_variable_tt: "No se ha enfrentado antes a este desastre"

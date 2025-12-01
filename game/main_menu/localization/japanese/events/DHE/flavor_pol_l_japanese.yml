@@ -343,7 +343,7 @@
  flavor_pol.1500.a: "詩人は誰でも歓迎だ！"
  flavor_pol.1500.b: "廷臣は足りている。"
  flavor_pol.1501.title: "[target_character.GetNameWithNoTooltip]の作品"
- flavor_pol.1501.desc: "[ShowReligionAdjective('catholic')]の[ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]にとって、[target_character.GetName]の雇用は受け入れがたいものだ。彼の文筆力に異議を唱える者は少ないだろうが、多くの者にとって、反教権主義と[ShowReligionAdjectiveWithNoTooltip('catholic')]に対する不敬は、文学にいて無作法に映るからだ。その典型的な例が、『#italic 3人の間の簡単な議論: 主、ヴイト、司祭#!』と題された詩的対話作品である。"
+ flavor_pol.1501.desc: "[ShowReligionAdjective('catholic')]の[ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]にとって、[target_character.GetName]の雇用は受け入れがたいものだ。彼の文筆力に異議を唱える者は少ないだろうが、多くの者にとって、反教権主義と[ShowReligionAdjectiveWithNoTooltip('catholic')]に対する不敬は、文学にいて無作法に映るからだ。その典型的な例が、『#italic 3人の間の簡単な議論：主、ヴイト、司祭#!』と題された詩的対話作品である。"
  flavor_pol.1501.historical_info: "$flavor_pol.1500.historical_info$"
  flavor_pol.1501.a: "我々は自由の国であり、この作品を検閲することはない。"
  flavor_pol.1501.b: "これは許せない！"

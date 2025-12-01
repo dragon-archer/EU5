@@ -30,7 +30,7 @@
  flavor_wls.14.a: "我们可以原谅，但不会忘记。"
  flavor_wls.14.tt: "[owain_glyndwr.GetNameWithNoTooltip]的财产将得到恢复"
  flavor_wls.15.title: "[GetCountry('ENG').GetAdjectiveWithNoTooltip]贵族被俘"
- flavor_wls.15.desc: "我们在近期的边境冲突中俘虏了贵族将领[edmund_mortimer.GetName]，而[GetCountry('ENG').GetName][GetCountry('ENG').GetGovernment.GetRulerTitle]却拒绝为其支付赎金。\n\n[northumberland.GetName]的[percy_dynasty.GetName]与[shropshire.GetName]的[mortimer_dynasty.GetName]两大家族向我们提出了秘密协定: 只要我们释放[edmund_mortimer.GetNameWithNoTooltip]，他们就加入我方阵营，共同瓜分[GetCountry('ENG').GetNameWithNoTooltip]，[ROOT.GetCountry.GetName]将获得西方的数个省份。"
+ flavor_wls.15.desc: "我们在近期的边境冲突中俘虏了贵族将领[edmund_mortimer.GetName]，而[GetCountry('ENG').GetName][GetCountry('ENG').GetGovernment.GetRulerTitle]却拒绝为其支付赎金。\n\n[northumberland.GetName]的[percy_dynasty.GetName]与[shropshire.GetName]的[mortimer_dynasty.GetName]两大家族向我们提出了秘密协定：只要我们释放[edmund_mortimer.GetNameWithNoTooltip]，他们就加入我方阵营，共同瓜分[GetCountry('ENG').GetNameWithNoTooltip]，[ROOT.GetCountry.GetName]将获得西方的数个省份。"
  flavor_wls.15.desc_ransom_paid: "近期边境冲突中，我们俘虏了[GetCountry('ENG').GetAdjective]将军[edmund_mortimer.GetName]。\n\n[GetCountry('ENG').GetNameWithNoTooltip]已同意支付赎金将其赎回。"
  flavor_wls.15.a: "同意他们的条件。"
  flavor_wls.15.tt1: "当我们对[GetCountry('ENG').GetNameWithNoTooltip]宣战时，叛军将发动起义"

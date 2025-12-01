@@ -18,7 +18,7 @@
  muscovite_succession_war.19.desc_sibling_defecting: "Ciertos informes afirman que hay conflicto en el seno de la familia de [pretender.GetName] por la rivalidad fraternal y la falta de un liderazgo fuerte. Puede ser una oportunidad de persuadir a [target_sibling.GetName], hermano de [pretender.GetNameWithNoTooltip], para que se una a nuestras filas, a cambio de una suma considerable y ciertas garantías.\n\n$muscovite_succession_war.19.desc_common$"
  muscovite_succession_war.19.a: "¡Por supuesto!"
  muscovite_succession_war.19.b: "No hay redención para tal tesoro."
- muscovite_succession_war.19.tt1: "Las [pops|e|l] de [target_location.GetName], acostumbradas al gobierno de los rebeldes, empiezan a alinearse con [pretender.GetNameWithNoTooltip]"
+ muscovite_succession_war.19.tt1: "Las [pops|el] de [target_location.GetName], acostumbradas al gobierno de los rebeldes, empiezan a alinearse con [pretender.GetNameWithNoTooltip]"
  muscovite_succession_war.19.historical_info: "Tras la muerte de Yuri Dmitrievich, su hijo Vasily Yuryevich continuó reclamando el título de príncipe de Moscovia. Sin embargo, sus dos hermanos se dieron cuenta de que no sería capaz de mantener el control sobre Moscú y se pusieron de parte de Basilio II a cambio de concesiones territoriales. Yuryevich fue expulsado de Moscú y tuvo que huir del principado."
  muscovite_succession_war.20.title: "La conclusión"
  muscovite_succession_war.20.desc: "El conflicto interno que ha sumido nuestro país en el caos por fin ha acabado con la reconquista de las fortalezas rebeldes y la muerte de todo miembro de la dinastía que se nos había opuesto abiertamente. Recemos para que sucesos como estos no se repitan nunca."

@@ -84,7 +84,7 @@
  woods_desc: "Рощи — это местность с менее плотной растительностью, чем в лесах."
  forest_desc: "Леса — это местность с плотной растительностью."
  jungle_desc: "Джунгли — это местность с густым лесом и переплетением растительности, что затрудняет любые виды деятельности."
- WEATHER_SYSTEM_NAME: "$TYPE$ в [Location.Custom('LR_PP')|l] [Location.GetNameWithNoTooltip]"
+ WEATHER_SYSTEM_NAME: "$TYPE$ в [Location.Custom('LR_PREP')|l] [Location.GetNameWithNoTooltip]"
  WEATHER_FRONT: "Атмосферный фронт"
  WEATHER_CYCLONE: "Циклон"
  WEATHER_TORNADO: "Торнадо"

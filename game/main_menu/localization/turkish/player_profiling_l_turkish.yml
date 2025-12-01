@@ -1,6 +1,6 @@
 ﻿l_turkish:
  PLAYER_PROFILING_WELCOME_HEADER: "#italic Europa Universalis V#!'e Hoş Geldin!"
- PLAYER_PROFILING_WELCOME: "#italic Europa Universalis V#!, Geç Orta Çağ ve Yeni Çağ dönemlerinde savaş, diplomasi, sömürgeleştirme, sosyal ve ekonomik değişim gibi yollarda küresel güç uğruna yarışan ulusların kaderini çizen derin bir tarihsel Büyük Strateji Oyunudur.\n\n#italic Europa Universalis#!'e ve mekaniklerine aşina değilsen #W $PLAYER_PROFILING_BT$#! ülkelerinden birini seçebilirsin.\n\nZaten deneyimli bir dünya lideriysen ve Rehberi atlamak istersen ekranın sağ üst köşesindeki #W $PLAYER_PROFILING_START_NEW_GAME_BT$#! seçeneğine tıklayabilirsin."
+ PLAYER_PROFILING_WELCOME: "#italic Europa Universalis V#!, Geç Orta Çağ ve Yeni Çağ dönemlerinde savaş, diplomasi, sömürgeleştirme, sosyal ve ekonomik değişim gibi yollarda küresel güç uğruna yarışan ulusların kaderini çizen derin bir tarihsel Büyük Strateji Oyunudur.\n\n#italic Europa Universalis#!'e ve mekaniklerine aşina değilsen #W $PLAYER_PROFILING_BT$#! arasından seçim yapabilirsin.\n\nZaten deneyimli bir dünya lideriysen ve Rehberi atlamak istersen #W $PLAYER_PROFILING_START_NEW_GAME_BT$#! seçeneğine tıklayabilirsin."
  PLAYER_PROFILING_PLAY: "Oyna"
  PLAYER_PROFILING_COUNTRY_DESC: "Ülke Odağı"
  PLAYER_PROFILING_BT: "Önerilen Ülkeler"

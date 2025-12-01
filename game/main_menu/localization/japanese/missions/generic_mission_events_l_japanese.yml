@@ -74,7 +74,7 @@
  generic_mission_events.18.desc: "[target_location.GetName]の静かな研究ホールに現れたのは、支援を求めるだけでなく評価されることを望む、小規模だが熱心な学者集団だった。知識、理性、そして発見の追求こそが、中央集権的で啓蒙的な[ROOT.GetCountry.GetFlavorRank]にとって不可欠であるという彼らの声は、[target_character.GetName]の耳にも届いた。\n\n彼らの請願は、野心的な計画を提案するものだった。外国文献の翻訳、海外の思想家との往復書簡、そして質素ながらも永続的な学術機関の建設といった彼らの計画は、[ROOT.GetCountry.GetFlavorRank]を席巻する最近の革新的な流れと一致しているようだ。しかし、この事業には金銭と忍耐力と、こうした学術的な研究を国政からの無意味な逃避とみなす者たちからの保護が必要となる。"
  generic_mission_events.18.a: "この取り組みに出資せよ。"
  generic_mission_events.18.b: "つまらぬ試みに出す金などない。"
- based_on_target_location_average_literacy_tt: "[target_location.GetName]の平均[literacy|e]に基づく: "
+ based_on_target_location_average_literacy_tt: "[target_location.GetName]の平均[literacy|e]に基づく："
  scholars_in_target_location_wont_approach_tt: "#italic 現在の[mission_task|e]が進むあいだ、数ヵ月後に[target_location.GetName]の学者たちが再び接触してくる可能性がある#!"
  generic_mission_events.19.title: "[ROOT.GetCountry.GetGovernment.GetCourtTitle]の頭脳"
  generic_mission_events.19.desc: "[ROOT.GetCountry.GetCapital.GetName]の宮廷で、ある噂が急速に広まっている。有望だがまだ無名の芸術家の[target_character2.GetName]が、大胆な理論、文字で埋め尽くされた手稿、そしてわが[ROOT.GetCountry.GetFlavorRank]の知的文化を再構築するという構想を携えてやってきたというのだ。ある者は[target_character2.GetSheHe]を詐欺師と呼び、またある者は神童と呼ぶ。確かなのは、[target_character2.GetName]がパトロン、つまり自身の思想が開花する宮廷での地位を求めているということだ。\n\n理性と改革を重んじる者は我々に賭けに乗ることを促すが、階級と伝統に固執する者は、[target_character2.GetName]にすぐにでも消えてほしいと願っている。"

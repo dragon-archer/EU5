@@ -78,3 +78,4 @@
  hre.801.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle]驾崩……"
  hre.801.desc: "[previous_emperor.GetName]近期过世了。如今[ShowSpecialStatusNamePlural('elector')]和[ShowSpecialStatusNamePlural('archbishop_elector')]正在召集选帝侯团，商议由谁继承大统。"
  hre.801.a: "帝国的悲伤之日！"
+ hre_the_emperor_is_dead_tt: "The [GetInternationalOrganization('hre').GetName] will have to chose a new [GetUniqueInternationalOrganization('hre').GetLeaderTitle]!"

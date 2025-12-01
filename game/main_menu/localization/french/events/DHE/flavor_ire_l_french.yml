@@ -17,7 +17,7 @@
  ireland.30.a: "Nous pouvons faire confiance au [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')] pour moderniser [ROOT.GetCountry.GetNameWithNoTooltip]."
  ireland.30.b: "Le [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')] devrait continuer de prier."
  ireland.40.title: "Plus [native_culture.GetNameWithNoTooltip] que les [native_culture.GetNameWithNoTooltip]"
- ireland.40.desc: "Vivre pendant des générations parmi les [native_culture.GetName] a entraîné un changement progressif, mais important, dans notre façon de vivre. Les [judgmental_culture.GetName] ne nous voient plus comme des [judgmental_culture.GetNameWithNoTooltip], alors que les [native_culture.GetNameWithNoTooltip] ne nous considèrent plus comme des nouveaux venus..."
+ ireland.40.desc: "Vivre pendant des générations parmi les #L [native_culture.GetName|l]s#! a entraîné un changement progressif, mais important, dans notre façon de vivre. Les #L [judgmental_culture.GetName|l]s#! ne nous voient plus comme des #L [judgmental_culture.GetNameWithNoTooltip|l]s#!, alors que les #L [native_culture.GetNameWithNoTooltip|l]s#! ne nous considèrent plus comme des nouveaux venus..."
  ireland.40.a: "Nous sommes devenus plus [native_culture.GetNameWithNoTooltip] que les [native_culture.GetNameWithNoTooltip] !"
  ireland.40.b: "Nous devons préserver notre héritage dans ces territoires sauvages !"
  opinion_gone_native: "Devenir indigène"

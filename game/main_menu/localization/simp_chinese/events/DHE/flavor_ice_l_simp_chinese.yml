@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  flavor_ice.10.title: "[ROOT.GetCountry.GetNameWithNoTooltip]的两主教区"
- flavor_ice.10.desc: "[ROOT.GetCountry.GetReligion.GetAdjective]信仰长期以来都占据了[ROOT.GetCountry.GetAdjective]人生活的重要部分。然而，这座小小的岛屿却容纳了两个分属的主教辖区: [target_location.GetName]堂区以及[skalholt.GetName]堂区。\n\n[target_location.GetNameWithNoTooltip]堂区位于[target_location.GetProvince.GetName]，以独立于自足而闻名；而坐落于[skalholt.GetProvince.GetName]的[skalholt.GetNameWithNoTooltip]堂区则被认为更加亲近于[overlord.GetLongName]。\n\n既然[ROOT.GetCountry.GetNameWithNoTooltip]要向前发展，考虑两个主教辖区之间的独特特征便是一件重大事项。"
+ flavor_ice.10.desc: "[ROOT.GetCountry.GetReligion.GetAdjective]信仰长期以来都占据了[ROOT.GetCountry.GetAdjective]人生活的重要部分。然而，这座小小的岛屿却容纳了两个分属的主教辖区：[target_location.GetName]堂区以及[skalholt.GetName]堂区。\n\n[target_location.GetNameWithNoTooltip]堂区位于[target_location.GetProvince.GetName]，以独立于自足而闻名；而坐落于[skalholt.GetProvince.GetName]的[skalholt.GetNameWithNoTooltip]堂区则被认为更加亲近于[overlord.GetLongName]。\n\n既然[ROOT.GetCountry.GetNameWithNoTooltip]要向前发展，考虑两个主教辖区之间的独特特征便是一件重大事项。"
  flavor_ice.10.a: "支持独立的[target_location.GetNameWithNoTooltip]主教。"
  flavor_ice.10.b: "讨好[overlord.GetAdjectiveWithNoTooltip]的主教。"
  opinion_opposed_our_bishop: "反对我们的主教"

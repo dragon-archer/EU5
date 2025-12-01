@@ -208,7 +208,7 @@
  MOVING_CAPITAL: "Verlegt Hauptsitz nach „[LOCATION.GetNameWithNoTooltip]“"
  MARKET_CREATING: "Schafft Markt in „[LOCATION.GetNameWithNoTooltip]“"
  EXPLORATION_CREATING: "Bereitet in [LOCATION.GetNameWithNoTooltip] [exploration|e] von „[AREA.GetNameWithNoTooltip|U]“ vor"
- CONQUISTADOR_CREATING: "Bereitet in [LOCATION.GetNameWithNoTooltip] den Aufbruch eines #L [ShowSubjectTypeName('conquistador')]s#! für „[AREA.GetNameWithNoTooltip|U]“ vor"
+ CONQUISTADOR_CREATING: "Bereitet in „@location![LOCATION.GetName]“ den Aufbruch eines #L [ShowSubjectTypeName('conquistador')]s#! für „@area![AREA.GetName]“ vor"
  ROAD_TO: "„[ROAD_TYPE.GetName|U]“ nach „$TO$“"
  ARMY_NAVY_LEVY_IN_SHORT: "Aushebung"
  ARMY_LEVY_IN: "[army_levy|e] ausheben in „$PROV$“"

@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  anglican_events.1.title: "张挂王室纹章"
- anglican_events.1.desc: "教皇主义的符号被毁坏与去除之后，圣公宗的教堂变得缺少装饰。已经下达的旨意要求，[ROOT.GetCountry.GetGovernment.GetRuler.GetName]的王室纹章将进行展示，取代过去渎神的偶像。王室纹章的出现将会使民众确实认知到新秩序的现实: [ROOT.GetCountry.GetGovernment.GetRuler.GetName]不仅仅被上帝指派为[ROOT.GetCountry.GetName]的[ROOT.GetCountry.GetGovernment.GetRulerTitle]，同时也是国教最高领袖。"
+ anglican_events.1.desc: "教皇主义的符号被毁坏与去除之后，圣公宗的教堂变得缺少装饰。已经下达的旨意要求，[ROOT.GetCountry.GetGovernment.GetRuler.GetName]的王室纹章将进行展示，取代过去渎神的偶像。王室纹章的出现将会使民众确实认知到新秩序的现实：[ROOT.GetCountry.GetGovernment.GetRuler.GetName]不仅仅被上帝指派为[ROOT.GetCountry.GetName]的[ROOT.GetCountry.GetGovernment.GetRulerTitle]，同时也是国教最高领袖。"
  anglican_events.1.a: "在每个教堂里骄傲地悬挂王室纹章。"
  anglican_events.2.title: "不服国教"
  anglican_events.2.desc: "出席圣公宗的仪式在[ROOT.GetCountry.GetName][ROOT.GetCountry.GetGovernment.GetGovernmentType.GetName]是强制性的。不服国教者将会被施以严厉的处罚。一个被判有罪的人会被没收他们的货物、动产、土地、房产、可继承财产、地租和年金。然而，由于潜在的叛徒实在太多了，我们的执法变得相当困难，我们应该把精力放在最有威胁的罪犯身上。\n\n信从教宗是一项极其恶劣的罪行。由于教宗否认了[ROOT.GetCountry.GetGovernment.GetRulerTitle]统治的合法性，因此虔诚的天主教徒也必然如此，故而所有的天主教徒都可被视为国家的叛徒。\n\n而像清教徒这样激进的非国教新教徒，要是偏离教会教义太多，也可能遭到这些法规的针对。\n\n该法律强化了[ROOT.GetCountry.GetName]的宗教统一，但它也可以用来抑制宫廷内部的党派之争。只要对圣公宗稍稍出言不逊就可以毁掉一个人的名声。"
@@ -31,7 +31,7 @@
  anglican_events.7.b: "[ROOT.GetCountry.GetGovernment.GetCourtTitle]不允许存在[ShowReligionAdjectiveWithNoTooltip('catholic')]信徒！"
  anglican_events.7.c: "砍了[minister.GetHerHis]的头！"
  anglican_events.8.title: "向圣徒祷告"
- anglican_events.8.desc: "当[ROOT.GetCountry.GetName]与罗马教廷决裂，我们挥别了以下迷信的陋习: 教徒必须被圣人引导，而非是上帝自身。我们的新神学中没有炼狱的概念，因此不需要圣人为我们的罪恶灵魂代祷。尽管如此，许多人依然在向圣人祷告，而许多教堂依旧对他们的主保圣人留有过度的尊崇。"
+ anglican_events.8.desc: "当[ROOT.GetCountry.GetName]与罗马教廷决裂，我们挥别了以下迷信的陋习：教徒必须被圣人引导，而非是上帝自身。我们的新神学中没有炼狱的概念，因此不需要圣人为我们的罪恶灵魂代祷。尽管如此，许多人依然在向圣人祷告，而许多教堂依旧对他们的主保圣人留有过度的尊崇。"
  anglican_events.8.a: "它是无害的，我们可以容许。"
  anglican_events.8.b: "宗教统一势在必行。"
  anglican_events.9.title: "废除圣人瞻礼日"

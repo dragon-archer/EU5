@@ -37,7 +37,7 @@
  colonial_charter.100.a: "Создадим здесь нового колониального ленника."
  colonial_charter.100.b: "Отдадим эти земли [SCOPE.sCountry('potential_join_1').Custom('CL_DAT')]."
  colonial_charter.100.c: "Отдадим эти земли [SCOPE.sCountry('potential_join_2').Custom('CL_DAT')]."
- colonial_charter.100.d: "Оставим эти земли во владении #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_RP')|L]#!#!."
+ colonial_charter.100.d: "Оставим эти земли во владении #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#!."
  colonial_charter.100.e: "Почему бы не начать новую жизнь в колонии?"
  colonial_charter.100.f: "Отдадим эти земли [SCOPE.sCountry('potential_join_big_regional_subject').Custom('CL_DAT')]."
  colonial_charter.100.e.tt: "Вы начнёте играть за нового колониального ленника."

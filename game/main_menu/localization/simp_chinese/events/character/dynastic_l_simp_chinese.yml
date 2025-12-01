@@ -11,7 +11,7 @@
  dynastic.3.a: "[ruler_char.GetShortNameWithNoTooltip]已经老了。"
  dynastic.3.b: "[heir_char.GetShortNameWithNoTooltip]，你这个被宠坏的小畜生！"
  dynastic.4.title: "垂泪的挽歌"
- dynastic.4.desc: "战争给[ROOT.GetCountry.GetFlavorRank]的每一位母亲和妻子们带来了沉重的打击。当[ROOT.GetCountry.GetGovernment.GetRulerTitle]和[ROOT.GetCountry.GetGovernment.GetHeirTitle]经过一位衣衫褴褛的老寡妇时，她正将脸深深埋在手心。看到这一幕，[ROOT.GetCountry.GetGovernment.GetHeirTitle]问道: “为什么所有的女人都在哭泣？”"
+ dynastic.4.desc: "战争给[ROOT.GetCountry.GetFlavorRank]的每一位母亲和妻子们带来了沉重的打击。当[ROOT.GetCountry.GetGovernment.GetRulerTitle]和[ROOT.GetCountry.GetGovernment.GetHeirTitle]经过一位衣衫褴褛的老寡妇时，她正将脸深深埋在手心。看到这一幕，[ROOT.GetCountry.GetGovernment.GetHeirTitle]问道：“为什么所有的女人都在哭泣？”"
  dynastic.4.a: "她们都在为了她们的丈夫与儿子哭泣。"
  dynastic.4.b: "她们只是单纯抹抹眼泪罢了。"
  dynastic.5.title: "寂静的春天"

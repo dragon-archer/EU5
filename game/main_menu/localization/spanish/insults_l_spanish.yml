@@ -36,7 +36,7 @@
  insult_against_denmark: "Hay algo podrido en Dinamarca."
  insult_against_england: "Que [TARGET_COUNTRY.GetGovernment.GetRuler.GetName|l] cayera al Támesis sería una desgracia. Pero que alguien [TARGET_COUNTRY.GetGovernment.GetRuler.GetHerHim] sacara, una calamidad."
  insult_marprelate: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName] es un ser vanidoso, presuntuoso, papista, pesado patán, parco, pestilente, pernicioso e ilegítimo."
- insult_marprelate2: "Quien ocupa el puesto de [TARGET_COUNTRY.GetGovernment.GetRuler.GetTitle|l] es una persona malvada, antinatural, falsa, cobarde, servidora del Diablo y mentirosa, además de trasunto de papa, anticristo y demonio encarnado, así que o debería gobernar la Iglesia."
+ insult_marprelate2: "Quien ocupa el puesto de [TARGET_COUNTRY.GetGovernment.GetRulerTitle|l] es una persona malvada, antinatural, falsa, cobarde, servidora del Diablo y mentirosa, además de trasunto de papa, anticristo y demonio encarnado, así que no debería gobernar la Iglesia."
  insult_against_saxony: "Sería una pena que le pasara algo a vuestra porcelana de Meissen..."
  insult_fort: "Tus murallas caerán ante nuestros cañones como la arena contra el mar."
  insult_revolutionary: "¡Tu cadáver allanará el camino del progreso, [TARGET_COUNTRY.GetGovernment.GetRuler.GetName|l]!"

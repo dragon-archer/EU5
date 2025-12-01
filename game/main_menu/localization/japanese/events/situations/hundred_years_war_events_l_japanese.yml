@@ -156,4 +156,4 @@
  hundred_years_war.1537.title: "膠着状態の[ShowSituationNameWithNoTooltip('hundred_years_war')]"
  hundred_years_war.1537.desc: "数百年にもわたり、[GetCountry('ENG').GetName]軍と[GetCountry('FRA').GetName]軍は[ShowSubContinentName('western_europe')]各地で戦いを繰り広げてきた。ときには紛争の終結を予感させたこともあったが、両者はいずれも相手を完全に滅ぼすことはできなかった。そして何百年もの時を経たいまでは、[target_character1.GetName]や[target_character2.GetName]でさえも対立の根本原因を忘れてしまっている。両国間で繰り返された数々の戦争の残虐さは、徐々に記憶から薄れつつある。"
  war_what_is_it_good_for_tt: "[ShowSituationName('hundred_years_war')]は膠着状態のまま終結した。"
- based_on_current_relative_strength_with_our_opponent_in_hyw_tt: "以下の[situation|e]におけるわが国と相手国の[country_strength|e]に基づく: "
+ based_on_current_relative_strength_with_our_opponent_in_hyw_tt: "以下の[situation|e]におけるわが国と相手国の[country_strength|e]に基づく："

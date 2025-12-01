@@ -19,10 +19,10 @@
  mission_colonial_ambitions: "殖民雄心"
  mission_colonial_ambitions_desc: "在异域海岸建立定居点并开发资源，是拓展商业影响力进而增强国力的绝佳途径。为此，我们必须建立愿意服务并促进我们利益的殖民属国。"
  #Tooltips
- land_explo_key: "若完成使命时完成了至少#Y 1#!次陆上[exploration|e]: "
+ land_explo_key: "若完成使命时完成了至少#Y 1#!次陆上[exploration|e]："
  yes_land_explo_bonus_tt: "@trigger_yes!$land_explo_key$"
  no_land_explo_bonus_tt: "@trigger_no!$land_explo_key$"
- sea_explo_key: "若完成使命时完成了至少#Y 1#!次海上[exploration|e]: "
+ sea_explo_key: "若完成使命时完成了至少#Y 1#!次海上[exploration|e]："
  yes_sea_explo_bonus_tt: "@trigger_yes!$sea_explo_key$"
  no_sea_explo_bonus_tt: "@trigger_yes!$sea_explo_key$"
  mission_colonial_ambitions_tt: "我们的一个殖民地[subjects|e]将#G 失去#![liberty_desire|e]"

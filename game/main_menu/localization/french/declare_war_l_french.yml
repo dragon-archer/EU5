@@ -23,4 +23,5 @@
  CANNOT_DECLARE_WAR_NO_WAR_GOAL: "@trigger_no! Nous devons choisir un objectif de guerre."
  CANNOT_DECLARE_WAR_NO_CASSUS_BELLI: "@trigger_no! Nous n'avons pas de [casus_belli|e]"
  BREAKING_COBELLIGERENT_TRUCE: "Appeler ce [country|e] en tant que [cobelligerent|e] tout en ayant une [truce|e] se traduira par une perte de [stability|e] !"
+ CANT_BREAK_COBELLIGERENT_TRUCE: "This [country|e] cannot be called while having a [truce|e] with the enemy"
  WILL_ACCEPT_PROMISE_LAND: "[Country.GetName] acceptera l'[call_to_arms] si nous promettons de leur octroyer des terres dans le [peace_treaty|e]."

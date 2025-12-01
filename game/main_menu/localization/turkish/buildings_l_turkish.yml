@@ -872,7 +872,7 @@
  zeeland_admiralty_desc: "$dutch_admiralty_desc_common$"
  amsterdam_admiralty: "Amsterdam Amiralliği"
  amsterdam_admiralty_desc: "$dutch_admiralty_desc_common$"
- library_of_vijayanagar: "Vijayanagar Kütüphanesi"
+ library_of_vijayanagar: "$vijayanagar$ Kütüphanesi"
  library_of_vijayanagar_desc: "[ShowLocationName('vijayanagar')] içerisindeki en önemli eğitim merkezlerinden birisi olan bu kütüphane, halkımızın eğitim seviyesinin daha da yükselmesini sağlayacaktır."
  city_of_victory: "Zafer Şehri"
  city_of_victory_desc: "Güney $india$ topraklarının umut ışığı olan bu şehir, dünyanın en görkemli yerlerinden birisidir. Her yıl çok sayıda âlim ve elçi, [ShowLocationName('vijayanagar')] ilinde medeniyeti yakından görmek için burayı ziyaret eder."

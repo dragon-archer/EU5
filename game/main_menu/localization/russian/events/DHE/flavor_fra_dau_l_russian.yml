@@ -10,4 +10,4 @@
  flavor_fra_dau.101.b: "Мы ни за что не продадим свою независимость!"
  #Tooltips
  dau_sale_of_viennois_tt: "Если власти #ONCLICK:COUNTRY,[target_country.Custom('CL_tt')] #TOOLTIP:COUNTRY,[target_country.Custom('CL_tt')],X [target_country.Custom('CL_RP')|L]#!#! согласятся, мы станем младшим партнёром в личной унии и получим #G 1000#!#! [Concept('gold', 'дукатов')|e]."
- heirs_will_inherit_dauphin_title: "Титул «$country_flavor_france_dauphin$» перейдёт к наследнику престола из #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_RP')|L]#!#!."
+ heirs_will_inherit_dauphin_title: "Титул «$country_flavor_france_dauphin$» перейдёт к наследнику престола из #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#!."

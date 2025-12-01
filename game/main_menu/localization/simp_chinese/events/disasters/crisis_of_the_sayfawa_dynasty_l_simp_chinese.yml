@@ -8,7 +8,7 @@
  crisis_of_the_sayfawa_dynasty.2.a: "蛇鼠一窝，你们个个都是！"
  crisis_of_the_sayfawa_dynasty.2.b: "该下台了，[target_character.GetNameWithNoTooltip]。"
  rival_branch_sayfawa: "赛法瓦的野心家宗亲"
- csd_every_pop_satisfaction_tt: "[target_province.GetName]所有人群: \n失去[ShowNamedValue('pop_satisfaction_severe_penalty')|+=2%][pop_satisfaction|e]\n加入[rival_branch_sayfawa_scope.GetName]"
+ csd_every_pop_satisfaction_tt: "[target_province.GetName]所有人群：\n失去[ShowNamedValue('pop_satisfaction_severe_penalty')|+=2%][pop_satisfaction|e]\n加入[rival_branch_sayfawa_scope.GetName]"
  crisis_of_the_sayfawa_dynasty.3.title: "兄弟阋墙"
  crisis_of_the_sayfawa_dynasty.3.desc: "对于[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]和[ROOT.GetCountry.GetGovernment.GetAdjective]的王族而言，为了一点蝇头小利争执甚至大打出手已经是司空见惯了。贵族出身的王子拿起武器砍向自己的兄弟，尤其是在这个动荡的时期，已经成为一种恶劣的传统。这种公然忤逆[ROOT.GetCountry.GetGovernment.GetAdjective]秩序的行为让我们在世人眼里毫无教养，衰败不已。\n\n如果我们不能鞭策我们的族亲各就各位，这一恶果最终必然由我们吞下。只有摒弃琐碎的矛盾和对权力的贪恋，我们伟大的[ROOT.GetCountry.GetGovernment.GetAdjective]家族才能重振雄风。"
  crisis_of_the_sayfawa_dynasty.3.a: "我们必须让他们明白自己的身份。"

@@ -327,7 +327,7 @@
  flavor_byz.1302.desc: "[target_country2.GetLongName](이)가 우리 요청에 응답했습니다. [target_location2.GetName]의 [ShowPopTypeName('burghers')]들이 [target_location.GetName]에 정착할 수 있도록 준비시켰다고 합니다."
  flavor_byz.1302.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  flavor_byz.1303.title: "$flavor_byz.1300_title_key$"
- flavor_byz.1303.desc: "[target_country2.GetName](이)가 우리 요청을 거절했습니다. [ShowPopTypeName('burghers')]들을 보내는 것이 자국에 아무런 도움이 안 된다고 생각합니다."
+ flavor_byz.1303.desc: "[target_country2.GetName](이)가 우리 요청을 거절했습니다. [ShowPopTypeName('burghers')]들을 보내는 것이 자국에 아무런 도움이 안 된다고 생각한 듯합니다."
  flavor_byz.1303.a: "[ROOT.GetCountry.Custom('common_string_negative')]"
  flavor_byz.1400_title_key: "바랑인 부대 복원"
  flavor_byz.1400.title: "$flavor_byz.1400_title_key$"

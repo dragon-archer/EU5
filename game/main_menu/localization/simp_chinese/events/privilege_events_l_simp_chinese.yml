@@ -11,7 +11,7 @@
  privilege_events.101.title: "移民去[target_province.GetNameWithNoTooltip]"
  privilege_events.101.desc: "受到从[migration_destination_country.GetLongName]迁居后的特权的激励，许多[scope_german_location.GetProvinceDefinition.GetName]的定居者离弃家人，希望能到[target_province.GetName]开启更美好的生活。尽管我国此类人口流动是合法的，但是大量此类移民可能导致我国人口的枯竭。"
  privilege_events.101.a: "难道我们什么都做不了么？"
- privilege_events.101.tt: "该[event|e]触发由于[german_province.GetName]满足以下条件: \n[ShowTriggerConditionsForScope('privilege_events_100_is_in_bad_shape', SCOPE.sProvince('german_province').GetProvince.MakeScope.Self)]"
+ privilege_events.101.tt: "该[event|e]触发由于[german_province.GetName]满足以下条件：\n[ShowTriggerConditionsForScope('privilege_events_100_is_in_bad_shape', SCOPE.sProvince('german_province').GetProvince.MakeScope.Self)]"
  privilege_events.110.title: "金书添新名"
  privilege_events.110.desc: "新近富有的[target_dynasty.GetName]家族在他们家的所在地[location_scope.GetName]已经变得非常有影响力，但他们低微的出身将阻碍他们在[ROOT.GetCountry.GetName]获得真正的权力职位。\n\n他们派了一名使者到我们的宫廷，请求我们允许他们家族列入#italic 《金册》#!，这将使他们获得贵族身份，成为[ROOT.GetCountry.GetNameWithNoTooltip]的#italic 显贵#!。\n\n以这种方式在[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]中添加一个新的家族肯定会让其他成员不高兴，但[target_dynasty.GetNameWithNoTooltip]家族也送来了一箱满满的金子，帮助我们做出决定。"
  privilege_events.110.a: "同意并邀请他们来到宫廷"

@@ -23,4 +23,5 @@
  CANNOT_DECLARE_WAR_NO_WAR_GOAL: "@trigger_no! 전쟁 목표를 선택해야 합니다."
  CANNOT_DECLARE_WAR_NO_CASSUS_BELLI: "@trigger_no! [casus_belli|e]이 없습니다."
  BREAKING_COBELLIGERENT_TRUCE: "[truce|e] 중 이 [country|e]를 [cobelligerent|e]으로 소환할 경우 [stability|e]가 감소합니다!"
+ CANT_BREAK_COBELLIGERENT_TRUCE: "This [country|e] cannot be called while having a [truce|e] with the enemy"
  WILL_ACCEPT_PROMISE_LAND: "[Country.GetName](은)는 [peace_treaty|e]을 체결할 때 영토를 할양해 주겠다고 약속하면 [call_to_arms]에 응할 것입니다."

@@ -50,7 +50,7 @@
  flavor_son.10.b: "Anstelle der einzelnen Orte sollten wir den gesamten Handel stärken."
  flavor_son.10.c: "Diese Angelegenheit ist das Geld nicht wert."
  son_unlock_unique_buildings_in_alexandria_tunis_and_fez_tt: "Entsperrt den Bau des Gebäudes „[ShowBuildingTypeName('trans_saharan_trade_outposts')]“ in [ShowLocationName('fez')], [ShowLocationName('tunis')] und [ShowLocationName('alexandria')]"
- flavor_son.11.title: "Einladung von [ShowReligionGroupNameWithNoTooltip('muslim')|l]en Gelehrten"
+ flavor_son.11.title: "Einladung von [ShowReligionGroupAdjectiveWithNoTooltip('muslim')|l]en Gelehrten"
  flavor_son.11.desc: "Mit unserem Aufstieg zur führenden Macht in [ShowRegionName('guinea_region')] haben viele #L [ShowReligionGroupAdjective('muslim')|l]e#! Gelehrte begonnen, sich für [ROOT.GetCountry.GetName] zu interessieren. [target_character.GetName] und [target_character.Custom('DE_PRO_POS_S_3P')] [ROOT.GetCountry.GetGovernment.GetCourtTitle] planen, einige dieser Gelehrten einzuladen, da [ROOT.GetCountry.GetNameWithNoTooltip] als eines der stärksten Mitglieder des [ShowReligionGroupNameWithNoTooltip('muslim')] gilt."
  flavor_son.11.a: "Wir sollten sie an unserem [ROOT.GetCountry.GetGovernment.GetCourtTitle] fördern."
  flavor_son.11.b: "Wir brauchen keine solchen Gelehrten."

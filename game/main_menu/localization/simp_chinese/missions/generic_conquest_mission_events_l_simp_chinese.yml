@@ -10,7 +10,7 @@
  conquest_mission_events.2.b: "我们可以给予一些金钱上的让步。"
  conquest_mission_events.2.c: "改为授予他们一项特权。"
  conquest_mission_events.3.title: "战争贷款"
- conquest_mission_events.3.desc: "随着重大军事行动准备工作的加强，各阶层看到了从[ROOT.GetCountry.GetGovernment.GetAdjective]对充实军费的需求中获利的机会。我们[ROOT.GetCountry.GetFlavorRank]内主要的金融家向[ROOT.GetCountry.GetGovernment.GetCourtTitle]提出了诱人的提议: 以优惠利率提供大额贷款，旨在资助当前的战争行动。\n\n然而接受他们的提议会增强他们的影响力，可能改变各阶层之间的力量平衡。"
+ conquest_mission_events.3.desc: "随着重大军事行动准备工作的加强，各阶层看到了从[ROOT.GetCountry.GetGovernment.GetAdjective]对充实军费的需求中获利的机会。我们[ROOT.GetCountry.GetFlavorRank]内主要的金融家向[ROOT.GetCountry.GetGovernment.GetCourtTitle]提出了诱人的提议：以优惠利率提供大额贷款，旨在资助当前的战争行动。\n\n然而接受他们的提议会增强他们的影响力，可能改变各阶层之间的力量平衡。"
  conquest_mission_events.3.b: "很好，签署贷款协议。"
  conquest_mission_events.3.c: "我们承受不起后果。"
  conquest_mission_events.3.a: "争取更好的条件！"

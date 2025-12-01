@@ -11,7 +11,7 @@
  flavor_chi_mon.2.b: "En ausencia de [captured_emperor.GetNameWithNoTooltip], su [sibling_candidate.GetSisterBrother|l] puede gobernar [ROOT.GetCountry.GetFlavorRank|l]."
  flavor_chi_mon.2.c: "Un vástago de quien ejercía de [ROOT.GetCountry.GetGovernment.GetRulerTitle|l] sería lo ideal."
  flavor_chi_mon.2.d: "[dynasty_candidate.GetNameWithNoTooltip] es una opción ideal."
- chi_recapture_emperor_tt: "Se debe recuperar a [captured_emperor.GetName] mediante el [peace_treaty|e|l] [ShowPeaceTreatyTypeName('chi_recapture_emperor')]. Si [captured_emperor.GetName] muere en cautividad, recibirás las siguientes penalizaciones:"
+ chi_recapture_emperor_tt: "Se debe recuperar a [captured_emperor.GetName] mediante el [peace_treaty|el] [ShowPeaceTreatyTypeName('chi_recapture_emperor')]. Si [captured_emperor.GetName] muere en cautividad, recibirás las siguientes penalizaciones:"
  flavor_chi_mon.3.title: "[target.GetNameWithNoTooltip] muere en prisión"
  flavor_chi_mon.3.desc: "Nuestro activo más valioso, [target.GetName], exgobernante de [target_country.GetName], ha perecido en cautividad. No cabe duda de que hemos perdido a [target.GetManWoman] sin igual, y por siempre recordaremos su nombre como sinónimo de grandeza."
  flavor_chi_mon.3.a: "¡Maldición!"

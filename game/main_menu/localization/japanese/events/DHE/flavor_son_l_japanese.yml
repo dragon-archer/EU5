@@ -88,6 +88,6 @@
  flavor_son.1006.title: "ハッジの完遂"
  flavor_son.1006.desc: "数ヵ月にわたる[ShowLocationName('mecca')]への旅と、[ShowReligionGroupAdjective('muslim')]徒としての務めを果たし、我々はついに故郷に戻った。再び[ROOT.GetCountry.GetName]を統治する準備は万端だ。"
  flavor_son.1006.a: "旅行隊にどれだけ残っているか見てみよう……"
- son_show_hajj_money_tt: "現在の#Y 旅行隊#!の[gold|e]: @gold! #G [THIS.GetVariable('hajj_money').GetValue]#!"
+ son_show_hajj_money_tt: "現在の#Y 旅行隊#!の[gold|e]：@gold! #G [THIS.GetVariable('hajj_money').GetValue]#!"
  son_continue_hajj_tt: "#Y ハッジ#!を続行する"
  son_all_remaining_gold_will_return_to_treasury_tt: "#Y ハッジ#!で残った[gold|e]はすべてわが国の[treasury|e]に戻る"

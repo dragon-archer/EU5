@@ -144,7 +144,7 @@
  exploration_monthly.38.a: "[target_root_country.Custom('common_string_positive')]"
  exploration_monthly.39.title: "Insectes infernaux"
  exploration_monthly.39.desc: "Les assauts incessants d'un essaim de mouches noires ont forcé notre courageuse expédition à rebrousser chemin depuis [ROOT.GetExploration.GetLocation.GetName].\n\nNos explorateurs ont découvert une vaste étendue de basses terres sillonnées de nombreuses rivières et cours d'eau, dont le courant s'achemine vers une immense baie aux flots salés.\n\nÀ leur grand désarroi, lorsqu'ils se sont approchés de la côte, ils ont été assaillis par un essaim infatigable de petites mouches noires qui les mordaient et buvaient leur sang. Couverts de piqûres douloureuses, ils ont été contraints de battre en retraite et nous demandent maintenant de les laisser chercher un autre itinéraire."
- exploration_monthly.39.a: "[target_root_country.Custom('common_string_positive')]"
+ exploration_monthly.39.a: "[target_root_country.Custom(« common_string_positive »)]"
  exploration_monthly.39.b: "Retournons-y sur le champ !"
  exploration_monthly.40.desc: "Motivés par la quête de territoires inexplorés et les mystères de l'inconnu, des explorateurs de [target_root_country.GetName] sont arrivés sur des rivages reculés. Ces terres sont habitées par des peuples indigènes, qui parlent des langues inconnues et se parent d'ornements remarquables. Cette découverte soulève plus de questions qu'elle n'apporte de réponses et pourrait modifier le cours de l'histoire d'une manière que nous ne pouvons anticiper à ce jour. Un nouveau monde nous attend, dont le potentiel et les défis sont encore entourés de mystère."
  exploration_monthly.40.a: "N'est-ce pas merveilleux ?"

@@ -78,3 +78,4 @@
  hre.801.title: "[GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetGovernment.GetRuler.Custom('DE_ART_DEF_S_N')] [GetUniqueInternationalOrganization('hre').GetLeaderTitle] ist tot …"
  hre.801.desc: "[previous_emperor.GetName|U] ist vor Kurzem verschieden. [ShowSpecialStatusNamePlural('elector')] und [ShowSpecialStatusNamePlural('archbishop_elector')] versammeln sich nun im Kurfürstenrat, um zu bestimmen, wer als Nächstes den Kaiserthron besteigt."
  hre.801.a: "Ein trauriger Tag für das Reich!"
+ hre_the_emperor_is_dead_tt: "The [GetInternationalOrganization('hre').GetName] will have to chose a new [GetUniqueInternationalOrganization('hre').GetLeaderTitle]!"

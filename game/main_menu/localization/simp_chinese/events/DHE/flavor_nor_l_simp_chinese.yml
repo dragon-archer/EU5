@@ -16,7 +16,7 @@
  flavor_nor.5.desc: "自从13世纪的珀斯条约以来，[GetCountry('SCO').GetName]必须每年向[ROOT.GetCountry.GetLongName]缴纳一笔款项以换取对赫布里底的控制。然而这些拖付的欠款现在已经逾期，这也造成了局势的紧张。尽管我们对[ShowAreaName('scottish_highlands')]握有自古以来的宣称，但我们在这一带施加影响的能力已经大不如前，而且我们内部还有着更大的问题要处理。有人建议将这一冲突一劳永逸地解决。[ShowLocationName('orkney')]雅尔领地将作为抵押，然后转移给苏格兰。\n\n然而，[ShowLocationNameWithNoTooltip('orkney')]的头衔在[ROOT.GetCountry.GetLongNameWithNoTooltip]国内历来地位甚高，有时足以成为登上[ROOT.GetCountry.GetAdjectiveWithNoTooltip]王位的垫脚石。虽然[ROOT.GetCountry.GetAdjectiveWithNoTooltip][ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]依旧十分弱势，他们还是对这项交易抱持着小心谨慎的态度。"
  flavor_nor.5.historical_info: "1468年，贫困潦倒的丹麦、挪威和瑞典国王克里斯蒂安一世将独女玛格丽特嫁给了苏格兰的詹姆斯三世。由于付不起许诺的嫁妆，他于同年将奥克尼和设得兰质押给了詹姆斯三世，其中奥克尼群岛抵押了50000弗罗林嫁妆，而设得兰群岛抵押了8000弗罗林。"
  flavor_nor.5.a: "让我们结束这场冲突吧。"
- flavor_nor.5.a.tt: "#flavor 如果[GetCountry('SCO').GetName]同意，以下会发生: #!"
+ flavor_nor.5.a.tt: "#flavor 如果[GetCountry('SCO').GetName]同意，以下会发生：#!"
  nor_gave_away_orkney: "放弃奥克尼群岛"
  nor_strategic_marriage: "战略联姻"
  flavor_nor.5.b: "我们永远不会放弃对这些土地的宣称！"

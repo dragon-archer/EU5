@@ -18,7 +18,7 @@
  flavor_nov.3.b: "우리는 누구의 지배도 받지 않는다!"
  flavor_nov.3.b.tt: "#italic [overlord_country.GetName]에서 우리의 독립을 인정하지 않는 이상 #R 30#!일 후에 전쟁이 발발합니다#!"
  flavor_nov.4.title: "우리의 권위를 인정한 [pskov_country.GetNameWithNoTooltip]"
- flavor_nov.4.desc: "[pskov_country.GetName]에서 좋은 소식이 전해졌습니다! [pskov_country.GetGovernment.GetRuler.GetTitle](이)가 우리의 [pskov_country.GetNameWithNoTooltip] 통치권을 인정하고 [ROOT.GetCountry.GetAdjective] [ROOT.GetCountry.GetFlavorRank]에 충성을 맹세했다고 합니다. 이제 [pskov_country.GetNameWithNoTooltip]의 독립 시도를 걱정하지 않아도 됩니다."
+ flavor_nov.4.desc: "[pskov_country.GetName]에서 좋은 소식이 전해졌습니다! [pskov_country.GetGovernment.GetRulerTitle](이)가 우리의 [pskov_country.GetNameWithNoTooltip] 통치권을 인정하고 [ROOT.GetCountry.GetAdjective] [ROOT.GetCountry.GetFlavorRank]에 충성을 맹세했다고 합니다. 이제 [pskov_country.GetNameWithNoTooltip]의 독립 시도를 걱정하지 않아도 됩니다."
  flavor_nov.4.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  flavor_nov.5.title: "[pskov_country.GetNameWithNoTooltip]의 독립 전쟁 선포!"
  flavor_nov.5.desc: "[pskov_country.GetName]에서 어처구니없는 소식이 전해졌습니다! 이 간악한 들개 무리가 자신들의 하찮은 [pskov_country.GetFlavorRank]에 대한 [ROOT.GetCountry.GetName]의 정당하고 공정한 통치를 인정하지 않고, 우리에게 독립 전쟁을 선포했습니다! 전쟁 준비를 해야 합니다. 아니면 [pskov_country.GetNameWithNoTooltip](이)가 우리에게서 독립할 것입니다!"

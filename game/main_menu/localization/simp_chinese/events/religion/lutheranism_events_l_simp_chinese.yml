@@ -108,7 +108,7 @@
  lutheranism_events.31.desc: "大量的小册、木刻版画和其他小型刊物最近开始在很多处地方流通。这无疑是我们的敌人搞的鬼。这些邪恶的文字称，[ROOT.GetCountry.GetName]教会在很多地方只为了国家利益运作。\n\n尽管此类诋毁不太可能动摇我国教会的长久声誉，但其短期形象已受到损害。"
  lutheranism_events.31.a: "太遗憾了。"
  lutheranism_events.32.title: "新区域的合并"
- lutheranism_events.32.desc: "随着我国扩张到有路德宗信徒群体的新地区，我们已开始将这些民众纳入国家教会的进程。在向部分新获取土地推行教区登记制度的过程中，我们有了一个令人惊讶的发现: 该地区的人口密度，比其前统治者似乎意识到的要大得多。"
+ lutheranism_events.32.desc: "随着我国扩张到有路德宗信徒群体的新地区，我们已开始将这些民众纳入国家教会的进程。在向部分新获取土地推行教区登记制度的过程中，我们有了一个令人惊讶的发现：该地区的人口密度，比其前统治者似乎意识到的要大得多。"
  lutheranism_events.32.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  lutheranism_events.33.title: "虔敬派"
  lutheranism_events.33.desc: "一种新型的路德宗运动，虔敬主义，开始在我国兴起。他们只关注内心的救赎，对神学研究和国家教会的教条兴趣不大。"

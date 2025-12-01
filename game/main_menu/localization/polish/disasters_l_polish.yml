@@ -1,5 +1,6 @@
 ﻿l_polish:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "Nie występuje żadne [event|el]"
  an_event_occurs_tt: "Może wystąpić [event|el] związane z tą [Concept('disaster','katastrofą')|e]"
  #Succession Crisis
@@ -115,9 +116,9 @@
  revolution_disaster: "Rewolucja"
  revolution_disaster_desc: "Dekady ucisku feudalnego, trudności gospodarczych i nietolerancji religijnej odcisnęły piętno na naszym narodzie, a pragnienie wolności wyrażane przez naszą populację może stanowić poważne zagrożenie dla naszej władzy."
  revolution_disaster_end_trigger_tt: "#Y Rewolucyjni buntownicy#! nie planują [Concept('civil_war','wojny domowej')|e]."
- MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] – rozmiar [Concept('army','armii')|e]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] – potencjalni [Concept('levy','poborowi')|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] – [manpower|el]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] – rozmiar [Concept('army','armii')|e]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] – potencjalni [Concept('levy','poborowi')|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] – [manpower|el]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName] – potencjalna [military_strength|el]"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] – rozmiar [Concept('army','armii')|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] – potencjalni [Concept('levy','poborowi')|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] – [manpower|el]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] – rozmiar [Concept('army','armii')|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] – potencjalni [Concept('levy','poborowi')|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] – [manpower|el]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName] – potencjalna [military_strength|el]"
  #Revolutionary Chaos
  #Disaster
@@ -167,7 +168,7 @@
  french_wars_of_religion_breakdown_tt: "Odsetek istotnych #L [ShowReligionGroupAdjective('christian')|l]ich#! [Concept('religions','religii')|e] w naszym [Concept('country','kraju')|e]\n[ShowReligionName('catholic')]:"
  x_catholic: "[Concept('catholic','katolickie')|e] [pops|el]: [GetCountry('FRA').GetReligionPercentage(GetReligionByKey('catholic'))|%2]"
  court_and_country_7_tt: "[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')] mogą odmówić zapłaty podatku w ramach [Concept('event','wydarzenia')|e]"
- court_and_country_8_tt: "Może dojść do wywołanych niestabilnością lokalnych [Concept('revolt', 'rewolt')] w ramach [Concept('event','wydarzenia')|e]"
+ court_and_country_8_tt: "Może dojść do wywołanych niestabilnością lokalnych [Concept('revolt', 'rewolt')|e] w ramach [Concept('event','wydarzenia')|e]"
  court_and_country_9_tt: "[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')] mogą zbuntować się i zażądać odzyskania dawnych przywilejów w ramach [Concept('event','wydarzenia')|e]"
  court_and_country_10_tt: "[ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')] mogą stworzyć ligę i zbuntować się przeciw nam w ramach [Concept('event','wydarzenia')|e]"
  court_and_country_11_tt: "Lojalność oficerów naszej armii może zostać podana w wątpliwość w ramach [Concept('event','wydarzenia')|e]"
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "[ShowDisasterName('english_civil_war')] dobiegnie końca."
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "Francuskie wojny religijne"
- french_wars_of_religion_desc: "W miarę, jak [ShowContinentName('europe')] staje się miejscem narodzin coraz to kolejnych #L [ShowReligionGroupAdjective('christian')|l]kich#! odłamów, tarcia w naszym społeczeństwie osiągnęły punkt wrzenia. Zbrojni fanatycy, heretycy i obrońcy prawdziwej wiary mogą teraz doprowadzić do wpędzenia całego kraju w serię konfliktów."
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "Nie zakończono wcześniej tej [Concept('disaster','katastrofy')|e] ani przez osiągnięcie [Concept('religious_unity','jedności religijnej')|e], ani przez podpisanie [Concept('policy','polityki')|e] „[ShowPolicyName('edict_of_nantes')]”."
  lutheran_huguenots: "Hugenoci luterańscy"
  calvinist_huguenots: "Hugenoci kalwińscy"

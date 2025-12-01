@@ -42,7 +42,7 @@
  buddhism_events.9.b: "支持[ShowBuildingTypeNameWithNoTooltip('monastery')]。"
  buddhism_events.9.c: "支持高僧的俗家继承。"
  buddhism_events.10.title: "外使侮辱[target_ruler.GetNameWithNoTooltip]"
- buddhism_events.10.desc: "[target_country.GetLongName]的使团最近发生了一件令人不快的事情: 使者拒绝参加为此次访问特别安排的仪式，严重冒犯了[ROOT.GetCountry.GetGovernment.GetRulerTitle]。[target_ruler.GetName]勃然大怒，虽然使者是否故意冒犯尚存疑虑，但公众显然将其视为蓄意之举。\n\n如果我们不公开谴责大使，就有可能颜面尽失；然而，我朝[ROOT.GetCountry.GetGovernment.GetCourtTitle]中也有许多人劝我们谨慎处理。"
+ buddhism_events.10.desc: "[target_country.GetLongName]的使团最近发生了一件令人不快的事情：使者拒绝参加为此次访问特别安排的仪式，严重冒犯了[ROOT.GetCountry.GetGovernment.GetRulerTitle]。[target_ruler.GetName]勃然大怒，虽然使者是否故意冒犯尚存疑虑，但公众显然将其视为蓄意之举。\n\n如果我们不公开谴责大使，就有可能颜面尽失；然而，我朝[ROOT.GetCountry.GetGovernment.GetCourtTitle]中也有许多人劝我们谨慎处理。"
  buddhism_events.10.a: "公开嘲讽使节。"
  buddhism_events.10.b: "作为[ROOT.GetCountry.GetGovernment.GetRulerTitle]一定要可以克制住[target_ruler.GetHerHis]的脾气。"
  buddhism_events.11.title: "[ROOT.GetCountry.GetNameWithNoTooltip]的法律"

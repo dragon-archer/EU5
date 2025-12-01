@@ -7,7 +7,7 @@
  flavor_usa.2.desc: "各州已正式批准将[ROOT.GetCountry.GetLongName]确立为主权国家邦联的法律文书，这项条例将成为我国维护内部稳定与处理对外关系的宪法性框架。"
  flavor_usa.2.a: "批准《条例》。"
  flavor_usa.3.title: "《西北土地法令》"
- flavor_usa.3.desc: "西北领地——这片位于密西西比河、[ShowAreaName('great_lakes_sea_zones_area')]与俄亥俄河之间的疆土，长期以来都处于我国版图的边缘地带。如今争议焦点在于其行政归属: 究竟是继续作为联邦直辖领地，还是升格为[ROOT.GetCountry.GetName]的正式成员州？我们应立即解决这一争议，以确立对这些领土的有效管辖。"
+ flavor_usa.3.desc: "西北领地——这片位于密西西比河、[ShowAreaName('great_lakes_sea_zones_area')]与俄亥俄河之间的疆土，长期以来都处于我国版图的边缘地带。如今争议焦点在于其行政归属：究竟是继续作为联邦直辖领地，还是升格为[ROOT.GetCountry.GetName]的正式成员州？我们应立即解决这一争议，以确立对这些领土的有效管辖。"
  flavor_usa.3.a: "它们将成为独立州。"
  flavor_usa.3.a.tt: "治下位于“西北领地”的所有[location|e]将获得[ShowNamedValue('development_weak_bonus')|+=][development|e]，但降低[ShowNamedValue('control_mild_penalty')|+=2%][control|e]"
  flavor_usa.3.b: "对这些省份实施直接统治"

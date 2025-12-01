@@ -27,7 +27,7 @@
  prices.6.b: "Запретить импорт хлопка!"
  STATIC_MODIFIER_NAME_cotton_imports_banned: "Импорт хлопка запрещён"
  prices.7.title: "Чай с сахаром"
- prices.7.desc: "Попав на территорию #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_RP')|L]#!#! из Китая, чай быстро превратился в любимый [ROOT.GetCountry.GetAdjectiveWithNoTooltip|l]ий напиток. И богатые, и бедные, и даже [ROOT.GetCountry.GetGovernment.GetRuler.GetName] вряд ли откажутся от чашечки чая с сахаром."
+ prices.7.desc: "Попав на территорию #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#! из Китая, чай быстро превратился в любимый [ROOT.GetCountry.GetAdjectiveWithNoTooltip|l]ий напиток. И богатые, и бедные, и даже [ROOT.GetCountry.GetGovernment.GetRuler.GetName] вряд ли откажутся от чашечки чая с сахаром."
  prices.7.a: "Это повысит спрос на чай и сахар."
  tea_and_sugar_for_britain: "Куда же без чая?"
  prices.8.title: "Торговля специями"

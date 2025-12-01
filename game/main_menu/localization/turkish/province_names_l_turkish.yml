@@ -2952,7 +2952,7 @@
  pingyue_province: "Pingyue" #平越
  puan_province: "Pu'an" #普安
  sinan_province: "Sinan" #思南
- sizhou_guizhou_province: "Sizhou" #思州
+ sizhou_guizhou_province: "Sīzhōu" #思州
  shunyuan_province: "Shunyuan" #順元
  tongren_province: "Tongren" #铜仁/銅仁
  wusawei_province: "Wusawei" #乌撒卫/烏撒衛
@@ -3531,7 +3531,7 @@
  umluj_province: "Umluj"
  yanbu_province: "Yenbu"
  #Najd Area
- afif_province: "Afîf"
+ afif_province: "'Afīf"
  al_hisu_province: "El Hisu"
  ar_rayn_province: "El Reyn"
  arid_province: "El Arid"
@@ -3569,9 +3569,9 @@
  mahra_province: "El Mehra"
  marib_province: "Marib"
  ranyah_province: "Ranyah"
- sana_province: "San'a"
+ sana_province: "Ṣan'ā"
  sayhad_province: "Ṣayhad"
- taizz_province: "Taiz"
+ taizz_province: "Ta'izz"
  tathlith_province: "Tathlith"
  turbah_province: "Turbah"
  zabid_province: "Zabid"

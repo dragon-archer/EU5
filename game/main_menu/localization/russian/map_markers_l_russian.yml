@@ -56,7 +56,7 @@
  MAPICON_SHIP_ENTRY_TT: "$NAME$ — $WHEN$"
  MAPICON_BUILD_RECRUIT_TT: "$NAME|Y$: идёт набор, который завершится $WHEN|Y$."
  CITY_MARKER_TOOLTIP: "[LOCATION.GetRank.GetName] [LOCATION.GetName]"
- CITY_MARKER_TOOLTIP_CAPITAL: "[Concept('capital','Столица')|e] #ONCLICK:COUNTRY,[COUNTRY.Custom('CL_tt')] #TOOLTIP:COUNTRY,[COUNTRY.Custom('CL_tt')],X [COUNTRY.Custom('CL_RP')|L]#!#!"
+ CITY_MARKER_TOOLTIP_CAPITAL: "[Concept('capital','Столица')|e] #ONCLICK:COUNTRY,[COUNTRY.Custom('CL_tt')] #TOOLTIP:COUNTRY,[COUNTRY.Custom('CL_tt')],X [COUNTRY.Custom('CL_GEN')|L]#!#!"
  BLOCKED_VISION_TOOLTIP: "Вражеские [Concept('units','отряды')|e] могут [Concept('hidden','скрываться')|e] в районе [LOCATION.GetName]. Причины:\n$WHY$"
  BLOCKED_VISION_TOOLTIP_TEXT: "Перекрытый обзор"
  DESERT_CONNECTOR_TOOLTIP: "Примыкание к пустыне"

@@ -79,7 +79,7 @@
  ich_kaan_ti_ho: "Ich Kaan Ti'Ho"
  mayapan_holy_site: "$mayapan$"
  kaaba: "Mescid-i Haram"
- kaaba_desc: "[ShowLocationName('mecca')] topraklarında bulunan ve en yaygın adıyla al-Ka ʿba olarak bilinen $kaaba$, [ShowReligionGroupName('muslim')] halkın en kutsal mabedidir. Kisve adlı siyah bir örtüyle kaplı bu mabet, tüm $muslim_ADJ$ halkların namaz kılarken yönünü döneceği kıbleyi işaret eder."
+ kaaba_desc: "[ShowLocationName('mecca')] topraklarında bulunan ve en yaygın adıyla al-Ka'ba olarak bilinen $kaaba$, [ShowReligionGroupName('muslim')] halkın en kutsal mabedidir. Kisve adlı siyah bir örtüyle kaplı bu mabet, tüm $muslim_ADJ$ halkların namaz kılarken yönünü döneceği kıbleyi işaret eder."
  prophets_mosque: "Mescid-i Nebevî"
  umayyad_mosque: "Emevî Camii"
  cave_patriarchs: "Atababalar Mağarası"

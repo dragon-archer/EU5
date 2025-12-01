@@ -17,7 +17,7 @@
  STATIC_MODIFIER_NAME_excommunicated: "Отлучение от церкви"
  STATIC_MODIFIER_NAME_interdict: "Интердикт"
  STATIC_MODIFIER_NAME_chi_factional_strife: "Борьба между фракциями"
- STATIC_MODIFIER_DESC_chi_factional_strife: "Конфликт между фракцией, отстаивающей #TOOLTIP:CULTURE,$mongolian_culture_tt$,X #L монгольские#!#! интересы, и #TOOLTIP:LANGUAGE_FAMILY,chinese_language_family,X #L китаеязычными#!#! конфуцианцами привёл к убийству предыдущего императора и упадку центральной власти, бюрократии и армии #ONCLICK:COUNTRY,[GetCountry('CHI').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('CHI').Custom('CL_tt')],X [GetCountry('CHI').Custom('CL_RP')|L]#!#!."
+ STATIC_MODIFIER_DESC_chi_factional_strife: "Конфликт между фракцией, отстаивающей #TOOLTIP:CULTURE,$mongolian_culture_tt$,X #L монгольские#!#! интересы, и #TOOLTIP:LANGUAGE_FAMILY,chinese_language_family,X #L китаеязычными#!#! конфуцианцами привёл к убийству предыдущего императора и упадку центральной власти, бюрократии и армии #ONCLICK:COUNTRY,[GetCountry('CHI').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('CHI').Custom('CL_tt')],X [GetCountry('CHI').Custom('CL_GEN')|L]#!#!."
  STATIC_MODIFIER_NAME_chi_administration_in_disarray: "Беспорядок в административных делах"
  STATIC_MODIFIER_DESC_chi_administration_in_disarray: "Даже если разрешить все вопросы с #ONCLICK:COUNTRY,[GetCountry('CHI').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('CHI').Custom('CL_tt')],X [GetCountry('CHI').Custom('CL_INST')|L]#!#! и урегулировать конфликт между различными фракциями, проблемы в административных делах никуда не денутся."
  STATIC_MODIFIER_NAME_temporary_insanity_adm: "Безумие в административных делах"
@@ -735,6 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Добрые знамения"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Время обновления, благоприятная погода и обилие пищи — всё это добрые знаки, ниспосланные богами."
  #Ottomans
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Мечта Османа"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Нам суждено править империей, которая простоит до конца мира."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Бюрократы Ахи"
@@ -1273,7 +1275,7 @@
  STATIC_MODIFIER_NAME_bra_wittelsbacher_neglect: "Пренебрежение Виттельсбахов"
  STATIC_MODIFIER_DESC_bra_wittelsbacher_neglect: "[GetCountry('BRA').GetName] — забытая и заброшенная земля, совершенно не нужная далёкой правящей династии. Бароны-грабители, а также осмелевшие от свободы горожане и священники пользуются отсутствием сильной власти. Настоящее и будущее этого края под вопросом.\n\nЭтот модификатор исчезнет, как только державой перестанет править династия #TOOLTIP:DYNASTY,wittelsbach_dynasty_tt,X #L Виттельсбахов#!#!."
  STATIC_MODIFIER_NAME_bra_false_waldemar: "Претендент на престол"
- STATIC_MODIFIER_DESC_bra_false_waldemar: "Этот персонаж не будет никаким образом служить государству, пока не сядет на престол #ONCLICK:COUNTRY,[GetCountry('BRA').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('BRA').Custom('CL_tt')],X [GetCountry('BRA').Custom('CL_RP')|L]#!#!."
+ STATIC_MODIFIER_DESC_bra_false_waldemar: "Этот персонаж не будет никаким образом служить государству, пока не сядет на престол #ONCLICK:COUNTRY,[GetCountry('BRA').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('BRA').Custom('CL_tt')],X [GetCountry('BRA').Custom('CL_GEN')|L]#!#!."
  STATIC_MODIFIER_NAME_bra_waldemar_rallies_nobility: "Возвращение Вальдемара"
  STATIC_MODIFIER_DESC_bra_waldemar_rallies_nobility: "Вальдемар из рода Асканиев вернулся в надежде захватить престол. Враги нашей династии объединились с некоторыми дворянами и выступили в его поддержку, тем самым ещё больше ослабив наше влияние и власть."
  STATIC_MODIFIER_NAME_bra_revoked_clergy_power: "Ослабление влияния духовенства"
@@ -1724,6 +1726,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Ослабление влияние крестьян"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Укрепление местной власти"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Налоговые льготы"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "Восстановление законодательных собраний"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Низкий боевой дух"
@@ -1852,6 +1856,7 @@
  #Nahua Reform
  STATIC_MODIFIER_NAME_major_push_for_reform: "Сильное стремление к реформам"
  STATIC_MODIFIER_NAME_nahuatl_temple_expansion_modifier: "Расширение храма"
+ nahuatl_temple_expansion_modifier: "[ShowModifier('nahuatl_temple_expansion_modifier')]"
  #Muscovy
  STATIC_MODIFIER_NAME_siege_artillery_engineer: "Наём командующего артиллерией"
  #Hussite Wars
@@ -1985,6 +1990,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Командир мамлюков"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Интеграция Скании"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Правительство Пенсильвании"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Урожай «трёх сестёр»"

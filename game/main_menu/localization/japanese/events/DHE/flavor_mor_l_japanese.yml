@@ -66,7 +66,7 @@
  flavor_mor.18.a: "ならば[target_character2.GetSheHe]は斬首刑だ。"
  flavor_mor.18.b: "[ROOT.GetCountry.Custom('common_string_nothing_we_can_do')]"
  marinid_pretender_rebels: "[ShowDynastyName('marinid_dynasty')]の反乱"
- no_head_of_cabinet_tt: "[head_of_the_cabinet|e]がいない場合、以下の結果となる: "
+ no_head_of_cabinet_tt: "[head_of_the_cabinet|e]がいない場合、以下の結果となる："
  flavor_mor.19.title: "誤った者への権力"
  flavor_mor.19.desc: "権威と栄華の緩やかな衰退は、手遅れになって初めて気づく。[target_character.GetName]の場合もまさにそうだ。[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]の権力を抑制しようとする我々の試みが失敗し、その結果として、彼らは政府のあらゆる重要な側面を完全に掌握してしまった……"
  flavor_mor.19.a: "我々は一体どうすればいい？"

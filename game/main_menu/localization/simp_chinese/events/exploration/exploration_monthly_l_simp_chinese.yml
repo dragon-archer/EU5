@@ -16,7 +16,7 @@
  exploration_monthly.4.desc: "瞭望员报告发现了零星的人类住所，但并未发现任何原住民，直到最终在[ROOT.GetExploration.GetLocation.GetName]出现了一座沿海村庄。\n\n小股船员登岸拜访并得到[native_pop.GetCulture.GetName]村民的热情款待，似乎是由于他们对三名身材高大、胡须茂密的[explorers_pop.GetCulture.GetName]船员十分迷恋。这些原住民没有胡须，在克服了一些困难后，他们设法表达他们的神话传说预示了有一天他们长着胡须的神会从海上来见他们。\n\n原住民赠送的食物和珍宝，都向[target_character.GetName]表明了这片土地的富裕，以及对我们的巨大价值。"
  exploration_monthly.4.a: "这片土地很有前途！"
  exploration_monthly.5.title: "入夏之舟"
- exploration_monthly.5.desc: "发现的部落可以用克里斯托弗·哥伦布的话完美地描述: “与我交易，商品无私藏，心念皆善……好悦我……民皆君子，邪恶不知，杀盗不作……陛下可信其善世间无所比焉……睦邻如亲，其言天下至美，其行以礼，其民常乐。”"
+ exploration_monthly.5.desc: "发现的部落可以用克里斯托弗·哥伦布的话完美地描述：“与我交易，商品无私藏，心念皆善……好悦我……民皆君子，邪恶不知，杀盗不作……陛下可信其善世间无所比焉……睦邻如亲，其言天下至美，其行以礼，其民常乐。”"
  exploration_monthly.5.a: "榨取他们！"
  angry_natives: "被压榨！"
  exploration_monthly.5.b: "好好利用他们的绅士之道。"

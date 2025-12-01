@@ -809,9 +809,8 @@
  mlo_restore_kingdom_lombardy_active: "Integracja roszczeń lombardzkich"
  mlo_restore_kingdom_lombardy_action_progress: "$mlo_restore_kingdom_lombardy_active$"
  mlo_restore_kingdom_lombardy_action_progress_wordier: "$mlo_restore_kingdom_lombardy_active$"
+ mlo_restore_kingdom_lombardy_action_progress_long_wordier: "@restore_lombardy! [SCOPE.sProvince('target').GetIntegrationETA] \n\n@province_integration_speed! #W [Cabinet.GetActionNumProgress|%]#!"
  mlo_restore_kingdom_lombardy_action_progress_tooltip: "$mlo_restore_kingdom_lombardy_active$"
- #Swedish/Finnish colonization
- swe_slash_and_burn_new_farms: "Wsparcie dla nowych gospodarstw na północy lub wschodzie"
  swe_slash_and_burn_new_farms_desc: "Wspieramy #L [ShowCultureName('finnish')|l]kich#! i #L [ShowCultureName('swedish')|l]kich#! osadników na północy, aby skolonizować i zaludnić nowe ziemie."
  swe_slash_and_burn_new_farms_action: "Wesprzyj nowe gospodarstwa w prowincji [SCOPE.sProvince('target').GetNameWithNoTooltip]"
  swe_slash_and_burn_new_farms_active: "Wspieranie nowych gospodarstw w prowincji [SCOPE.sProvince('target').GetNameWithHighlightOnly]"

@@ -42,7 +42,7 @@
  MIL_SCORE_ARMY: "[army|e]: $VAL|+=2$"
  MIL_SCORE_DISCIPLINE: "[discipline|e]: $VAL|+=2$"
  MIL_SCORE_EXHAUSTION: "[war_exhaustion|e]: $VAL|+=2$"
- ENDGAME_SCORE: "우리의 마지막 [score|e]는 [Player.GetScore.GetScore|2]점이었습니다"
+ ENDGAME_SCORE: "우리의 마지막 [score|e]는 [Player.GetScore.GetScore|0]점이었습니다"
  SORT_BY_RANK_TT: "클릭해서 [score|e] 순위에 따라 정렬"
  SORT_SCORE_RANK: "순위"
  SORT_SCORE_NAME: "국가"

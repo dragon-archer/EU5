@@ -6,7 +6,7 @@
  IO_PARLIAMENT_DURATION_TXT: "#T [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] tagt#!\n„[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetCurrentDebate.GetName]“ wird noch [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetRemainingParliamentDuration|W] Tage in @location![InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetParliamentLocation.GetName] debattiert."
  PARLIAMENT_ISSUE_WILL_FAIL: "#T Vorlage scheitert#!\n@trigger_no! „[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]“ wird #R NICHT#! von der Volksvertretung ([Player.GetGovernment.GetParliament.GetName]) verabschiedet werden."
  PARLIAMENT_ISSUE_WILL_NOT_FAIL: "#T Vorlage wird beschlossen#!\n„[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]“ wird von der Volksvertretung ([Player.GetGovernment.GetParliament.GetName]) verabschiedet werden."
- HOSTILE_PARLIAMENT_MARKER: "#T Feindliche Volksvertretung ([ParliamentMarker.GetGovernment.GetParliament.GetName]) tagt#!\nKann unterbrochen werden durch [Concept('occupying', 'Besetzen')|e] des [Concept('location', 'Orts')|e]."
+ HOSTILE_PARLIAMENT_MARKER: "#T Feindliche Volksvertretung ([ParliamentMarker.GetCountry.GetGovernment.GetParliament.GetName]) tagt#!\nKann unterbrochen werden durch [Concept('occupying', 'Besetzen')|e] des [Concept('location', 'Orts')|e]."
  PARLIAMENT_NEVER_CALLED: "$NAME$ wurde nicht einberufen."
  PARLIAMENT_CALLED_DATE: "$NAME$ wurde $WHEN|Y$ zuvor einberufen"
  PARLIAMENT_MODIFIER_WHEN_DEBATED_TT: "Während die Debatte läuft"

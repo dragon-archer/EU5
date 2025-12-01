@@ -79,7 +79,7 @@
  republics.21.a: "Probablemente, el ataque sea la única opción."
  republics.21.b: "A estas alturas, lo mejor sería defenderse."
  republics.22.title: "Opiniones enfrentadas"
- republics.22.desc: "Al parecer, siempre hay un pequeño grupo en la cámara ([ROOT.GetCountry.GetGovernment.GetParliament.GetName]) que no logra ponerse de acuerdo con los demás. Sea cual sea el tema en cuestión, este grupo siempre opina distinto a los demás."
+ republics.22.desc: "Al parecer, siempre hay un pequeño grupo en el [ROOT.GetCountry.GetGovernment.GetParliament.GetName] que no puede ponerse de acuerdo con los demás. Al margen del tema que se trate, este grupo particular siempre tiene una opinión diferente a la de todos los demás."
  republics.22.a: "Quizá sea mejor dejar las cosas como están."
  republics.22.b: "Puede que sea necesaria una reestructuración."
  republics.23.title: "Un infiltrado en la cámara ([ROOT.GetCountry.GetGovernment.GetParliament.GetName])"

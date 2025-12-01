@@ -208,7 +208,7 @@
  MOVING_CAPITAL: "[LOCATION.GetNameWithNoTooltip](으)로 수도 이전 중"
  MARKET_CREATING: "[LOCATION.GetNameWithNoTooltip]에 시장 개설 중"
  EXPLORATION_CREATING: "[LOCATION.GetNameWithNoTooltip]에서 [AREA.GetNameWithNoTooltip] [exploration|e] 준비 중"
- CONQUISTADOR_CREATING: "[LOCATION.GetNameWithNoTooltip]에서 [AREA.GetNameWithNoTooltip] [ShowSubjectTypeName('conquistador')] 시작 준비 중"
+ CONQUISTADOR_CREATING: "@location![LOCATION.GetName]에서 @area![AREA.GetName] [ShowSubjectTypeName('conquistador')] 시작 준비 중"
  ROAD_TO: "$TO$(으)로 가는 [ROAD_TYPE.GetName]"
  ARMY_NAVY_LEVY_IN_SHORT: "징집 중"
  ARMY_LEVY_IN: "$PROV$에서 [army_levy|e] 징집"

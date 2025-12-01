@@ -38,7 +38,7 @@
  overextension.12.a: "这是[ROOT.GetCountry.GetReligion.GetGodName]的意志"
  overextension.13.title: "恶人有恶报！"
  overextension.13.desc: "[ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')]认为我们的[antagonism|e]水平导致了贸易机会的减少，影响了我国的财务状况！"
- overextension.13.a: "这是我们可以接受的权衡……"
+ overextension.13.a: "这是我们可以接受的权衡。"
  overextension.14.title: "恶名违背[ROOT.GetCountry.GetAdjectiveWithNoTooltip]的传统"
  overextension.14.desc: "[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')]声称我们的[antagonism|e]违背了国家的传统，这在过去的好日子里是未曾有过的。"
  overextension.14.a: "时代已经改变"

@@ -1,6 +1,6 @@
 ﻿l_german:
  flavor_kni.3.title: "Die Große Karacke von [ShowLocationNameWithNoTooltip('alexandria')]"
- flavor_kni.3.desc: "Die kleine, aber kompetente Flotte, die [ROOT.GetCountry.GetName] besitzt, war über Jahrhunderte die Geißel verschiedenster #L [ShowReligionAdjective('muslim')|ll]er#! Feinde. Sie hielt die Meere frei von gegnerischen Freibeutern und kaperte #L [ShowReligionAdjective('muslim')|l]e#! Handelsschiffe, was die Staatskassen von [ROOT.GetCountry.GetCapital.GetName] füllte und #L [ShowReligionAdjective('muslim')|l]e#! Seefahrer in Schrecken versetzte. Eines der berühmtesten Ereignisse war das Kapern der Großen Karacke von [ShowLocationName('alexandria')] im Jahr [GetCurrentYear], die voller Reichtümer war."
+ flavor_kni.3.desc: "Die kleine, aber kompetente Flotte, die [ROOT.GetCountry.GetName] besitzt, war über Jahrhunderte die Geißel verschiedenster #L [ShowReligionAdjective('muslim')|l]er#! Feinde. Sie hielt die Meere frei von gegnerischen Freibeutern und kaperte #L [ShowReligionAdjective('muslim')|l]e#! Handelsschiffe, was die Staatskassen von [ROOT.GetCountry.GetCapital.GetName] füllte und #L [ShowReligionAdjective('muslim')|l]e#! Seefahrer in Schrecken versetzte. Eines der berühmtesten Ereignisse war das Kapern der Großen Karacke von [ShowLocationName('alexandria')] im Jahr [GetCurrentYear], die voller Reichtümer war."
  flavor_kni.3.a: "Die Göttlichkeit ist uns hold!"
  opinion_captured_alexandria_great_carrack: "Brachte die Große Karacke von Alexandria auf"
  flavor_kni.4.title: "[target_character.GetNameWithNoTooltip|U]"

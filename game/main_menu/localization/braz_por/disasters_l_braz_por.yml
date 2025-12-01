@@ -1,5 +1,6 @@
 ﻿l_braz_por:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "Nenhum [event|e] acontece"
  an_event_occurs_tt: "Um [event|e] relevante a este [disaster|e] pode acontecer"
  #Succession Crisis
@@ -115,9 +116,9 @@
  revolution_disaster: "Revolução"
  revolution_disaster_desc: "Décadas de opressão feudal, dificuldades econômicas e intolerância religiosa custaram um preço à nossa nação e o desejo de liberdade da população representa uma grave ameaça ao nosso reinado."
  revolution_disaster_end_trigger_tt: "Os #Y Rebeldes Revolucionários#! não planejam uma [civil_war|e]"
- MONARCHIST_STR_DESC: "Tamanho do Exército [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nPotencial [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] de [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[manpower|e] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "Tamanho do Exército [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nPotencial [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] de [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[manpower|e] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[military_strength|e] potencial da entidade política [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]"
- REVOLUTIONARIES_STR_DESC: "Tamanho do [army|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nPotencial [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] de [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[manpower|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "Tamanho do [army|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nPotencial [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] de [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[manpower|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[military_strength|e] potencial da entidade política [DisasterView.GetDisaster.GetOwner.GetName]"
  #Revolutionary Chaos
  #Disaster
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "A [ShowDisasterName('english_civil_war')] terminará"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "Guerras Francesas de Religião"
- french_wars_of_religion_desc: "À medida que novas ramificações da fé [ShowReligionGroupAdjective('christian')] crescem pela [ShowContinentName('europe')], o atrito criado em nossa sociedade ficou insustentável. Agora, fanáticos, hereges e defensores armados da fé verdadeira também ameaçam afundar o país em uma série de conflitos."
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "Não concluiu esse desastre anteriormente conquistando uma [religious_unity|e] ou assinando a [policy|e] [ShowPolicyName('edict_of_nantes')]"
  lutheran_huguenots: "Huguenotes da fé $lutheran_ADJ$"
  calvinist_huguenots: "Huguenotes da fé $calvinist_ADJ$"

@@ -5,7 +5,7 @@
  flavor_nap_pap.1.a: "すぐに[lorenzo_valla_scope.GetHerHim]を雇おう！"
  flavor_nap_pap.1.b: "[lorenzo_valla_scope.GetHerHim]にはせいぜい学校を任せておけばよい。"
  flavor_nap_pap.1.c: "[lorenzo_valla_scope.GetSheHe]が諜報員ならどうする？"
- NAP_when_done: "[lorenzo_valla_scope.GetName]が著作を完成させると、[GetCountry('PAP').GetName]の権威の暴露が可能になる: "
+ NAP_when_done: "[lorenzo_valla_scope.GetName]が著作を完成させると、[GetCountry('PAP').GetName]の権威の暴露が可能になる："
  flavor_nap_pap.2.title: "#italic コンスタンティヌスの寄進状#!の暴露"
  flavor_nap_pap.2.desc: "「#italic コンスタンティヌスの寄進状#!」に対する[lorenzo_valla_scope.GetName]の疑念には根拠があった。実際、[lorenzo_valla_scope.GetSheHe]はより綿密に調査をおこない、この文書の数多くの矛盾点を見つけ出して、#italic 寄進状#!がただの偽造品であることを突き止めたのだ。この事実の重大さはともかく、[lorenzo_valla_scope.GetShortNameWithNoTooltip]はすでにその仕事に対する報酬を受け取っている。そして次に我々は、この真実を暴露するかどうかを検討しなくてはならない。"
  flavor_nap_pap.2.historical_info: "4世紀に教皇シルウェステル1世が与えたとされる「#italic コンスタンティヌスの寄進状#!」は、ローマ教皇庁に4つの総主教座に対する優越権と帝国西部の権利を与えた偽書。この文書は11世紀以降、教皇庁がさまざまな権益を守るための根拠として広く使用された。"

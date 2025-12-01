@@ -6,7 +6,7 @@
  IO_PARLIAMENT_DURATION_TXT: "#T [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] em Sessão#!\nDebatendo [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetCurrentDebate.GetName] por mais [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetRemainingParliamentDuration|W] dias em @location![InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetParliamentLocation.GetName]."
  PARLIAMENT_ISSUE_WILL_FAIL: "#T A Questão Não Passará#!\n@trigger_no! A questão [Player.GetGovernment.GetParliament.GetName] #R NÃO#! será aprovada pelo(a) [Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]."
  PARLIAMENT_ISSUE_WILL_NOT_FAIL: "#T A Questão Passará#!\nA questão [Player.GetGovernment.GetParliament.GetName] será aprovada pelo(a) [Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]."
- HOSTILE_PARLIAMENT_MARKER: "#T [ParliamentMarker.GetGovernment.GetParliament.GetName] Hostil em Sessão#!\nÉ possível interromper [occupying|e] o [location|e]."
+ HOSTILE_PARLIAMENT_MARKER: "#T [ParliamentMarker.GetCountry.GetGovernment.GetParliament.GetName] Hostil em Sessão#!\nÉ possível interromper [occupying|e] o [location|e]."
  PARLIAMENT_NEVER_CALLED: "Não houve a convocação de $NAME$."
  PARLIAMENT_CALLED_DATE: "A convocação de $NAME$ ocorreu há $WHEN|Y$."
  PARLIAMENT_MODIFIER_WHEN_DEBATED_TT: "Enquanto a Questão estiver em debate"

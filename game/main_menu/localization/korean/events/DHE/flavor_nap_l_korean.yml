@@ -120,7 +120,7 @@
  flavor_nap.270.a: "교황청에 [elzear_sabran.GetShortNameWithNoTooltip](을)를 [GetCountry('NAP').GetAdjectiveWithNoTooltip]의 새로운 성인으로 제안하라."
  flavor_nap.270.b: "이런 이야기에 시간을 낭비할 순 없다."
  flavor_nap.280.title: "양시칠리아 왕국의 통일!"
- flavor_nap.280.desc: "국민들이 환호합니다! 두 시칠리아 왕국이 위대한 [GetCountry('TWS').GetGovernment.GetRuler.GetName]의 통치 아래 다시 하나가 되었습니다.\n\n시칠리아 만종 전쟁 이후 루제루 2세가 세운 왕국은 분열되었고, 한때 형제였던 이들은 시간이 지나면서 이방인, 경쟁자, 적으로 바뀌고 말았습니다. 우리의 [GetCountry('TWS').GetGovernment.GetRulerTitle] 덕분에 그 암흑의 시대가 끝나고 우리는 오랫동안 떨어졌던 친족과 다시 하나의 연합된 국민으로 뭉칠 수 있게 되었습니다."
+ flavor_nap.280.desc: "국민들이 환호합니다! 두 시칠리아 왕국이 위대한 [GetCountry('TWS').GetGovernment.GetRulerOrRegent.GetName]의 통치 아래 다시 하나가 되었습니다.\n\n시칠리아 만종 전쟁 이후 루제루 2세가 세운 왕국은 분열되었고, 한때 형제였던 이들은 시간이 지나면서 이방인, 경쟁자, 적으로 바뀌고 말았습니다. 우리의 [GetCountry('TWS').GetGovernment.GetRulerOrRegentTitle] 덕분에 그 암흑의 시대가 끝나고 우리는 오랫동안 떨어졌던 친족과 다시 하나의 연합된 국민으로 뭉칠 수 있게 되었습니다."
  flavor_nap.280.a: "먼 옛날 왕국의 수도를 복원하자!"
  flavor_nap.280.b: "새 시대에는 새 수도가 어울리지!"
  flavor_nap.280.c: "우리 국민의 연합은 역사에 파문을 일으킬 것이다."

@@ -43,7 +43,7 @@
  sikhism.10.tt: "为[GetUniqueInternationalOrganization('sikhism').GetName]解锁[ShowLawName('guru_gobind_singh_guruship')]"
  sikhism.10.khalsa.tt: "为[GetUniqueInternationalOrganization('sikhism').GetName]解锁[ShowLawName('khalsa_law')]"
  sikhism.11.title: "[ShowWorkOfArtNameWithNoTooltip('guru_granth_sahib')]"
- sikhism.11.desc: "[previous_guru.GetName]已逝，但将古鲁之位传予一位永生的继任者。这部名为《[ShowPolicyName('adi_granth')]》的圣典集，最初由[GetCharacter('guru_arjan').GetName]编纂，并由[GetCharacter('guru_arjan').GetHerHim]之后的[ROOT.GetCountry.GetGovernment.GetRulerTitle]不断完善，被[previous_guru.GetNameWithNoTooltip]指定为最终继任者，将指引[ROOT.GetCountry.GetReligion.GetAdjective]人民: 这便是[ShowWorkOfArtName('guru_granth_sahib')]。今后，[ROOT.GetCountry.GetReligion.GetAdjectiveWithNoTooltip]信徒对[ROOT.GetCountry.GetGovernment.GetRulerTitle]的任何疑问，都将由其中所载的知识解答。"
+ sikhism.11.desc: "[previous_guru.GetName]已逝，但将古鲁之位传予一位永生的继任者。这部名为《[ShowPolicyName('adi_granth')]》的圣典集，最初由[GetCharacter('guru_arjan').GetName]编纂，并由[GetCharacter('guru_arjan').GetHerHim]之后的[ROOT.GetCountry.GetGovernment.GetRulerTitle]不断完善，被[previous_guru.GetNameWithNoTooltip]指定为最终继任者，将指引[ROOT.GetCountry.GetReligion.GetAdjective]人民：这便是[ShowWorkOfArtName('guru_granth_sahib')]。今后，[ROOT.GetCountry.GetReligion.GetAdjectiveWithNoTooltip]信徒对[ROOT.GetCountry.GetGovernment.GetRulerTitle]的任何疑问，都将由其中所载的知识解答。"
  sikhism.11.a: "[ROOT.GetCountry.GetGovernment.GetRulerTitle]满足心灵的渴求。"
  sikhism.11.b: "那些想要寻找[ROOT.GetCountry.GetReligion.GetGodName]的人，可以在经书的字里行间中寻找到祂。"
  sikhism.11.tt: "为[GetUniqueInternationalOrganization('sikhism').GetName]解锁[ShowLawName('guru_granth_sahib_guruship')]"

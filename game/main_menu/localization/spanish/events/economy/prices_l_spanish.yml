@@ -76,7 +76,7 @@
  prices.23.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_sugar: "Popularización del azúcar"
  prices.24.title: "Popularización de los tejidos de seda"
- prices.24.desc: "Siempre ha habido gran demanda de seda en todo el mundo, mucho antes de la Edad Media, y conseguirla era una de las fuerzas impulsoras de los viajes de descubrimiento hacia Oriente. Con la mayor disponibilidad de la seda, tanto como materia prima como tejido, la demanda en Occidente sube más alto que nunca."
+ prices.24.desc: "Durante siglos, la [ShowGoodsName('silk')|l] ha sido símbolo de riqueza y refinamiento, codiciada por las élites a lo largo y ancho de [ShowContinentName('asia')], [ShowRegionName('middle_east')] y [ShowContinentName('europe')]. Su atractivo ha tenido un papel crucial en la creación de rutas comerciales y en la exploración mundial, especialmente durante la [ShowAgeName('age_3_discovery')]. Gracias a las mejoras en la producción y el comercio, tanto la seda en bruto como sus tejidos son más accesibles que nunca. Esta disponibilidad ha generado un aumento de la demanda en muchos mercados nuevos, donde la [ShowGoodsNameWithNoTooltip('silk')|l] está pasando rápidamente de artículo de lujo a mercancía elegante entre las crecientes clases medias."
  prices.24.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_silk: "Popularización de la seda"
  prices.27.title: "Disminución de las poblaciones de elefantes en el sudeste asiático"

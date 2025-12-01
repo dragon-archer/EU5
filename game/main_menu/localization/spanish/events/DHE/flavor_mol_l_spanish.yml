@@ -25,4 +25,4 @@
  flavor_mol.1004.a: "¡Las tierras de [target_area.GetNameWithNoTooltip] permanecerán unidas!"
  flavor_mol.1004.b: "Debemos luchar junto con [target_country.GetLongNameWithNoTooltip|l]."
  opinion_hun_moldavian_push: "Impulso moldavo"
- become_moldavia_tt: "Formemos #Y $MOL$#! y convirtámonos en [ShowSubjectTypeName('march')|l] [subject|e|l] de [root_country.GetName]."
+ become_moldavia_tt: "Formemos #Y $MOL$#! y convirtámonos en [ShowSubjectTypeName('march')|l] [subject|el] de [root_country.GetName]."

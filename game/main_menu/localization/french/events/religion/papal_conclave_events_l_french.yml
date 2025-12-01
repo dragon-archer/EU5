@@ -39,7 +39,7 @@
  papal_conclave_events.10.title: "Refus du candidat élu"
  papal_conclave_events.10.desc: "La procédure du Conclave est toujours ardue, et le soulagement des cardinaux lorsque le candidat a été choisi est évident. Mais cette fois, ses visages sont devenus empeints de dégoût lorsque le vote s'est terminé et que le candidat élu a eu l'audace de refuser la position.\n\nMême si les candidats ont le droit de refuser leurs élections, cela reste très rare, ou ils ont au moins la décence de faire part de leurs intentions avant que le vote ne soit conclu. Le Conclave est désormais contraint de relancer la procédure."
  papal_conclave_events.10.a: "Comment peut-on refuser l'appel de Dieu ?"
- papal_conclave_events.10.b: "Nous ne pouvons le contraindre à l'accepter."
+ papal_conclave_events.10.b: "Nous ne pouvons le contraindre à accepter."
  papal_conclave_events.11.title: "Conclave papal terminé"
  papal_conclave_events.11.desc: "Le Conclava papal a terminé de débattre sur quel cardinal doit être élu en tant que nouveau [ROOT.GetCountry.GetGovernment.GetRulerTitle]. Il y a eu trois candidats majeurs, mais lequel a remporté l'élection ?"
  papal_conclave_events.11.a: "Le cardinal de [first_candidate.GetNameWithNoTooltip]"

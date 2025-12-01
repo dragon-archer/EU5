@@ -9,5 +9,5 @@
  flavor_fra_dau.101.a: "Ofrezcamos el acuerdo a la corte del [GetCountry('DAU').GetNameWithNoTooltip]."
  flavor_fra_dau.101.b: "¡Jamás venderemos nuestra independencia!"
  #Tooltips
- dau_sale_of_viennois_tt: "Si [GetCountry('FRA').GetName] acepta, nos convertiremos en socio menor en una unión personal y obtendremos #G +1000# de [gold|e|l]."
+ dau_sale_of_viennois_tt: "Si [GetCountry('FRA').GetName] acepta, nos convertiremos en socio menor en una unión personal y obtendremos #G +1000# de [gold|el]."
  heirs_will_inherit_dauphin_title: "Se concederá el título de delfín al heredero de Francia."

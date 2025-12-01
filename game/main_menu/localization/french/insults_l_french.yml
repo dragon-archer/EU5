@@ -36,7 +36,7 @@
  insult_against_denmark: "Il y a quelque chose de pourri dans l'empire du Danemark."
  insult_against_england: "Si [TARGET_COUNTRY.GetGovernment.GetRuler.GetName] tombait dans la Tamise, ce serait un triste accident. Mais si quelqu'un l'en ressortait, ce serait une catastrophe nationale."
  insult_marprelate: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName] n'est qu'un usurpateur et un prélat pernicieux, présomptueux, profane, pestilent et papiste."
- insult_marprelate2: "Votre [TARGET_COUNTRY.GetGovernment.GetRuler.GetTitle] est un dirigeant ecclésiastique illégitime, contre nature, indigne et bâtard. Un véritable suppôt de Satan, une marionnette du pape, l'antéchrist, le péché incarné, une fripouille et un menteur invétéré."
+ insult_marprelate2: "Votre [TARGET_COUNTRY.GetGovernment.GetRulerTitle] est un dirigeant ecclésiastique illégitime, contre nature, indigne et bâtard. Un véritable suppôt de Satan, une marionnette du pape, l'antéchrist, le péché incarné, une fripouille et un menteur invétéré."
  insult_against_saxony: "Il serait tout de même dommage qu'un malheur arrive à votre jolie porcelaine de Meissen..."
  insult_fort: "Vos forteresses vont s'effondrer devant nos canons comme le sable devant les vagues."
  insult_revolutionary: "Votre corps va paver la voie du progrès, [TARGET_COUNTRY.GetGovernment.GetRuler.GetName] !"

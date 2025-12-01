@@ -36,7 +36,7 @@
  insult_against_denmark: "Какая-то в державе датской гниль."
  insult_against_england: "Если [TARGET_COUNTRY.GetGovernment.GetRuler.GetName] упадёт в Темзу — это будет несчастье. Если [Select_CString(TARGET_COUNTRY.GetGovernment.GetRuler.IsFemale,'её','его')] вытащат — это будет катастрофа."
  insult_marprelate: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName] — подлый, пакостный, претенциозный, поганый, паскудный папский прелат и узурпатор."
- insult_marprelate2: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetTitle] вашей страны — нелегитимный, противоестественный, фальшивый, отвратительный церковный наместник, посланник Сатаны, Антихрист, чёрт во плоти, подлый трус и лжец."
+ insult_marprelate2: "[TARGET_COUNTRY.GetGovernment.GetRulerTitle] вашей страны — нелегитимный, противоестественный, фальшивый, отвратительный церковный наместник, посланник Сатаны, Антихрист, чёрт во плоти, подлый трус и лжец."
  insult_against_saxony: "Будет обидно, если ваш мейсенский фарфор вдруг разобьётся…"
  insult_fort: "Ваши стены рухнут под нашими ядрами, словно замок из песка — под набежавшей волной."
  insult_revolutionary: "Путь к прогрессу начнётся с твоего трупа, [TARGET_COUNTRY.GetGovernment.GetRuler.GetName]!"

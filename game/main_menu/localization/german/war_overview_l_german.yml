@@ -96,7 +96,7 @@
  CANNOT_INTERVENE_WAR_ENEMY_IN_OTHER_WAR: "„[COUNTRY.GetName]“ kann in diesen Krieg nicht eingreifen, weil man in einem anderen Krieg mit „[TARGET_COUNTRY.GetName]“ verfeindet ist"
  CANNOT_INTERVENE_WAR_ENEMY: "„$COUNTRY|Y$“ kann in diesem Krieg nicht eingreifen, da sich „$SUBJECT|Y$“ in diesem Krieg gegen „$DEFENDER|Y$“ gewandt hat und „$COUNTRY|Y$“ schon gegen „$SUBJECT|Y$“ Krieg führt."
  ALLIED_TO_ENEMY: "Sie sind mit dem Feind verbündet."
- DIPLOMACY_JOIN_WAR: "Könnte dem Krieg beitreten."
+ DIPLOMACY_JOIN_WAR: "Könnte dem Krieg beitreten.\n"
  DIPLOMACY_CHANCE_JOIN_WAR: "Wahrscheinlichkeit eines Kriegsbeitritts: $VAL$.\n"
  JOIN_WAR_REASON_Instigator: "Aggressor"
  JOIN_WAR_REASON_DESC_Instigator: "„[COUNTRY.GetName|U]“ begann den [war|e]."

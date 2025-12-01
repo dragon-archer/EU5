@@ -38,7 +38,7 @@
  pops_in_target_area_lose_90_sat_and_join_parliamentarists_tt: "我们位于[target_area.GetNameWithNoTooltip]的[pops|e]会失去[ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%][pop_satisfaction|e]并加入[english_civil_war_rebels_scope.GetNameWithNoTooltip]"
  target_area_suffers_33_control_penalty_tt: "我们位于[target_area.GetNameWithNoTooltip]的[locations|e]会失去[ShowNamedValue('control_extreme_penalty')|+=2%][control|e]"
  english_civil_war.258.title: "臣属与[ShowDisasterNameWithNoTooltip('english_civil_war')]"
- english_civil_war.258.desc: "[ShowDisasterName('english_civil_war')]的动荡局势为附庸国[target_subject.GetLongName]创造了可乘之机。该国统治者表面上维持着效忠姿态，实则对[ROOT.GetCountry.GetAdjective]当局为镇压[english_civil_war_rebels_scope.GetName]而持续加征赋税的政策日益不满。\n\n[ROOT.GetCountry.GetGovernment.GetCourtTitle]中的顾问已形成对立两派: 以[target_character_1.GetName]为首的一派主张强行征收钱粮以扩充军备；而反对派则警告说，这种高压政策可能最终迫使附庸国加入[english_civil_war_rebels_scope.GetNameWithNoTooltip]倒戈相向。我们面临艰难抉择——是冒险强化征税以充实战备，还是减轻赋税负担以维系附庸国的忠诚。"
+ english_civil_war.258.desc: "[ShowDisasterName('english_civil_war')]的动荡局势为附庸国[target_subject.GetLongName]创造了可乘之机。该国统治者表面上维持着效忠姿态，实则对[ROOT.GetCountry.GetAdjective]当局为镇压[english_civil_war_rebels_scope.GetName]而持续加征赋税的政策日益不满。\n\n[ROOT.GetCountry.GetGovernment.GetCourtTitle]中的顾问已形成对立两派：以[target_character_1.GetName]为首的一派主张强行征收钱粮以扩充军备；而反对派则警告说，这种高压政策可能最终迫使附庸国加入[english_civil_war_rebels_scope.GetNameWithNoTooltip]倒戈相向。我们面临艰难抉择——是冒险强化征税以充实战备，还是减轻赋税负担以维系附庸国的忠诚。"
  english_civil_war.258.a: "我们不能冒险损害我们的关系。"
  english_civil_war.258.b: "继续从他们那压榨高额贡税。"
  target_subject_will_appreciate_this_tt: "[target_subject.GetLongNameWithNoTooltip]将对这一举动表示感激"

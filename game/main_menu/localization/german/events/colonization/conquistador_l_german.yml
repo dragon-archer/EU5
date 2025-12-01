@@ -3,7 +3,7 @@
  conquistador.1.desc: "Unser Konquistador ist in [SCOPE.sLocation('target_location').GetName] angekommen und bereit, unseren Einfluss auszudehnen."
  conquistador.1.a: "Lasst uns sehen, was wir finden können."
  conquistador.10.title: "Eroberung von [ROOT.GetLocation.GetNameWithNoTooltip|U]"
- conquistador.10.desc: "Wir haben nun noch mehr Territorium erobert, uns selbst bereichert und unserem Suzerän ([ROOT.GetLocation.GetOwner.GetDiplomacy.GetOverlord.GetLongName|U]) großes Ansehen und Ruhm verschafft. Lobpreis sei Gott!"
+ conquistador.10.desc: "Wir haben nun noch mehr Territorium erobert, uns selbst bereichert und unserem Suzerän ([ROOT.GetLocation.GetOwner.GetDiplomacy.GetOverlord.GetLongName|U]) großes Ansehen und Ruhm verschafft. Lobpreis sei [former_overlord.GetReligion.GetGodName]!"
  conquistador.10.a: "Es warten noch mehr Reichtümer auf uns!"
  conquistador.10.b: "Wir brauchen administrative Unterstützung!"
  conquistador.11.title: "Die Kolonie von „[conquistador_country.GetGovernment.GetRuler.GetNameWithNoTooltip|U]“"

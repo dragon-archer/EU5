@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  parliaments.1.title: "[target_city.GetRank.GetNameWithNoTooltip]要求[ROOT.GetCountry.GetGovernment.GetParliament.GetName]席位"
- parliaments.1.desc: "[target_city.GetName]已是一片繁荣富庶的景象，然而当地民众却因未能获选成为本届[ROOT.GetCountry.GetGovernment.GetParliament.GetName]的会址[target_city.GetRank.GetName]而群情激愤。[target_city.GetNameWithNoTooltip]当地的代表不仅向我们索要补偿，更要求我们作出保障其未来利益的承诺。他们甚至发出威胁: 若诉求得不到满足，将考虑脱离我们国家。"
+ parliaments.1.desc: "[target_city.GetName]已是一片繁荣富庶的景象，然而当地民众却因未能获选成为本届[ROOT.GetCountry.GetGovernment.GetParliament.GetName]的会址[target_city.GetRank.GetName]而群情激愤。[target_city.GetNameWithNoTooltip]当地的代表不仅向我们索要补偿，更要求我们作出保障其未来利益的承诺。他们甚至发出威胁：若诉求得不到满足，将考虑脱离我们国家。"
  parliaments.1.a: "授予议席！"
  parliaments.1.b: "否决！"
  parliaments.2.title: "腐败选区"
@@ -86,7 +86,7 @@
  parliaments.23.a: "取缔这些出版物。"
  parliaments.23.b: "做出含糊的改革承诺。"
  parliaments.24.title: "财政援助"
- parliaments.24.desc: "当前，我国政府财政拮据以及我们竭尽全力筹措各类资金的困境，已为公众所知。尽管这势必损害我国在[ROOT.GetCountry.GetName]本土及海外的声誉，却也随之带来些许转机——[target_location.GetName]的数名[ROOT.GetCountry.GetGovernment.GetParliament.GetName]成员主动前来提出援助。然而，他们的条件是: 要求在政府中扩大其整体话语权，同时建立国家未来可依循的正式求援机制。"
+ parliaments.24.desc: "当前，我国政府财政拮据以及我们竭尽全力筹措各类资金的困境，已为公众所知。尽管这势必损害我国在[ROOT.GetCountry.GetName]本土及海外的声誉，却也随之带来些许转机——[target_location.GetName]的数名[ROOT.GetCountry.GetGovernment.GetParliament.GetName]成员主动前来提出援助。然而，他们的条件是：要求在政府中扩大其整体话语权，同时建立国家未来可依循的正式求援机制。"
  parliaments.24.a: "授予他们更多的代表权。"
  parliaments.24.b: "拒绝他们的资金。"
  parliaments.24.c: "承诺将会考虑他们的建议。"

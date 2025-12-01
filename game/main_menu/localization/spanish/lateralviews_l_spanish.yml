@@ -30,7 +30,7 @@
  lateralview_multi_unit_entry_name: "Panel multiselección"
  lateralview_select_market_entry_name: "Mercado: [Market.GetNameWithNoTooltip|L]"
  lateralview_building_entry_name: "Edificio: [BUILDING.GetNameWithNoTooltip|L]"
- lateralview_building_multiple_entry_name: "Varios [buildings|e|l]"
+ lateralview_building_multiple_entry_name: "Varios [buildings|el]"
  lateralview_goods_details_entry_name: "Panel de detalles de bienes"
  lateralview_character_entry_name: "Personaje: [CHARACTER.GetNameWithNoTooltip|L]"
  lateralview_war_entry_name: "Panel de historial bélico"

@@ -1,5 +1,6 @@
 ﻿l_russian:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "Никакого [Concept('event','события')|e] не произойдёт"
  an_event_occurs_tt: "Может произойти [Concept('event', 'событие')|e], связанное с этим [Concept('disaster','бедствием')|e]"
  #Succession Crisis
@@ -99,8 +100,8 @@
  hook_and_cod_wars_desc: "Пока не решён вопрос о том, кому достанется наш трон, родственники покойного монарха заявляют о своих правах на корону. Пользуясь этим, [ShowEstateTypeName('burghers_estate')|l] пытаются расширить права своих городов, с чем категорически не согласны [ShowEstateTypeName('nobles_estate')|l]…"
  hook_and_cod_wars_hooks_have_won_tt: "Фракция #Y «крючков»#! приобрела #Y 20#! ед. влияния (сейчас #Y [THIS.GetVariable('hacw_hook_faction_power').GetValue]#!)"
  hook_and_cod_wars_cods_have_won_tt: "Фракция #Y «трески»#! приобрела #Y 20#! ед. влияния (сейчас #Y [THIS.GetVariable('hacw_cod_faction_power').GetValue]#!)"
- HACW_HOOK_TOOLTIP: "Во фракцию #Y «крючки»#! входят [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('nobles_estate')|l] #ONCLICK:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')] #TOOLTIP:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')],X [DisasterView.GetDisaster.GetOwner.Custom('CL_RP')|L]#!#!. Среди представителей этой группы населения поддержкой пользуется [Select_CString(DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.IsFemale, 'претендентка', 'претендент' )] на трон [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.GetName]."
- HACW_COD_TOOLTIP: "Во фракцию #Y «трески»#! входят [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('burghers_estate')|l] #ONCLICK:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')] #TOOLTIP:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')],X [DisasterView.GetDisaster.GetOwner.Custom('CL_RP')|L]#!#!. Среди представителей этой группы населения поддержкой пользуется [Select_CString(DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.IsFemale, 'претендентка', 'претендент' )] на трон [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.GetName]."
+ HACW_HOOK_TOOLTIP: "Во фракцию #Y «крючки»#! входят [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('nobles_estate')|l] #ONCLICK:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')] #TOOLTIP:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')],X [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')|L]#!#!. Среди представителей этой группы населения поддержкой пользуется [Select_CString(DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.IsFemale, 'претендентка', 'претендент' )] на трон [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.GetName]."
+ HACW_COD_TOOLTIP: "Во фракцию #Y «трески»#! входят [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('burghers_estate')|l] #ONCLICK:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')] #TOOLTIP:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')],X [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')|L]#!#!. Среди представителей этой группы населения поддержкой пользуется [Select_CString(DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.IsFemale, 'претендентка', 'претендент' )] на трон [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.GetName]."
  #Horde Civil War
  #Disaster
  horde_civil_war: "Гражданская война в орде"
@@ -115,9 +116,9 @@
  revolution_disaster: "Революция"
  revolution_disaster_desc: "Десятилетия феодального гнёта, экономических трудностей и религиозной нетерпимости не прошли для нас бесследно. Население жаждет свободы, и наша власть оказалась под угрозой."
  revolution_disaster_end_trigger_tt: "#Y Революционеры#! не собираются развязывать [Concept('civil_war', 'гражданскую войну')|e]."
- MONARCHIST_STR_DESC: "Размер [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]ой [Concept('army', 'армии')|e]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nПотенциальное [Concept('levy', 'ополчение')|e] [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[Concept('manpower', 'Число рекрутов')|e] [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "Размер [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]ой [Concept('army', 'армии')|e]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nПотенциальное [Concept('levy', 'ополчение')|e] [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[Concept('manpower', 'Число рекрутов')|e] [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "Потенциальная [Concept('military_strength', 'военная численность')|e] #ONCLICK:COUNTRY,[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_tt')] #TOOLTIP:COUNTRY,[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_tt')],X [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_GEN')|L]#!#!"
- REVOLUTIONARIES_STR_DESC: "Размер [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]ой [Concept('army', 'армии')|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nПотенциальное [Concept('levy', 'ополчение')|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[Concept('manpower', 'Число рекрутов')|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "Размер [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]ой [Concept('army', 'армии')|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nПотенциальное [Concept('levy', 'ополчение')|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[Concept('manpower', 'Число рекрутов')|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.Custom('CL_GEN')]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "Потенциальная [Concept('military_strength', 'военная численность')|e] #ONCLICK:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')] #TOOLTIP:COUNTRY,[DisasterView.GetDisaster.GetOwner.Custom('CL_tt')],X [DisasterView.GetDisaster.GetOwner.Custom('CL_GEN')|L]#!#!"
  #Revolutionary Chaos
  #Disaster
@@ -126,13 +127,13 @@
  #Sinicization Disaster
  #Disaster
  sinicization_disaster: "Китайское влияние"
- sinicization_disaster_desc: "Глубоко проникшее влияние #ONCLICK:COUNTRY,[GetCountry('CHI').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('CHI').Custom('CL_tt')],X [GetCountry('CHI').Custom('CL_RP')|L]#!#! принесло немалые блага нашему народу. К несчастью, также оно вызвало разложение нашего традиционного жизненного уклада, а теперь и напрямую угрожает независимости страны."
+ sinicization_disaster_desc: "Глубоко проникшее влияние #ONCLICK:COUNTRY,[GetCountry('CHI').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('CHI').Custom('CL_tt')],X [GetCountry('CHI').Custom('CL_GEN')|L]#!#! принесло немалые блага нашему народу. К несчастью, также оно вызвало разложение нашего традиционного жизненного уклада, а теперь и напрямую угрожает независимости страны."
  has_opted_to_side_with_china_in_events_tt: "Успешное #G продвижение#! #L [GetCountry('CHI').GetAdjective|l]ого#! влияния при нашем дворе в ходе событий"
  has_opted_to_stay_sovereign_from_china_in_events_tt: "Успешное #G ограничение#! #L [GetCountry('CHI').GetAdjective|l]ого#! влияния при нашем дворе в ходе событий"
  #Crisis of the Chinese Dynasty
  #Disaster
  crisis_of_the_chinese_dynasty: "Кризис династии [GetCountry('CHI').GetLongNameWithNoTooltip]"
- crisis_of_the_chinese_dynasty_desc: "Небеса потемнели. Мы вот-вот утратим божественную благодать! Внутреннее и внешнее давление усиливаются, бюрократия деградирует, а неудачи в сельском хозяйстве только множатся — всё складывается против нас. Народ больше не признаёт нас законными правителями [GetCountry('CHI').Custom('CF_RP')|l]."
+ crisis_of_the_chinese_dynasty_desc: "Небеса потемнели. Мы вот-вот утратим божественную благодать! Внутреннее и внешнее давление усиливаются, бюрократия деградирует, а неудачи в сельском хозяйстве только множатся — всё складывается против нас. Народ больше не признаёт нас законными правителями [GetCountry('CHI').Custom('rank_ru_GEN')|l]."
  ccd_celestial_authority_trigger: "Наш [Concept('celestial_authority_gc', 'небесный авторитет')|e] составляет не ниже #Y 90#! (сейчас: #Y [GetUniqueInternationalOrganization('middle_kingdom').MakeScope.GetVariable('celestial_authority').GetValue|V1]#!)"
  #Triggers
  cmd_has_reformed_cabinet_tt: "Применено [Concept('action', 'действие')|e] «[ShowGenericActionName('cmd_reform_the_cabinet')]»"
@@ -198,7 +199,7 @@
  #Death of Hayam Wuruk
  #Disaster
  death_of_hayan_wuruk: "[GetCharacter('maj_hayam_wuruk').GetNameWithNoTooltip] и его смерть"
- death_of_hayan_wuruk_desc: "Великий лидер [GetCharacter('maj_hayam_wuruk').GetName] [Select_CString(GetCharacter('maj_hayam_wuruk').IsFemale,'скончалась. Её','скончался. Его')] смерть привела к тому, что на территории [GetCountry('MAJ').Custom('CF_RP')|l] разразилась великая смута. Этот неспокойный период времени может затянуться на многие годы, и те, кто когда-то подчинялись нам, могут восстать и оспорить наши права на власть. Среди проблем, которые необходимо срочно решить, спорные вопросы наследования и упадок нашей [GetCountry('MAJ').GetAdjective|l]ой власти."
+ death_of_hayan_wuruk_desc: "Великий лидер [GetCharacter('maj_hayam_wuruk').GetName] [Select_CString(GetCharacter('maj_hayam_wuruk').IsFemale,'скончалась. Её','скончался. Его')] смерть привела к тому, что на территории [GetCountry('MAJ').Custom('rank_ru_GEN')|l] разразилась великая смута. Этот неспокойный период времени может затянуться на многие годы, и те, кто когда-то подчинялись нам, могут восстать и оспорить наши права на власть. Среди проблем, которые необходимо срочно решить, спорные вопросы наследования и упадок нашей [GetCountry('MAJ').GetAdjective|l]ой власти."
  #Curse of Stefan Uros III
  #Disaster
  curse_of_stefan_uros_iii: "Проклятый род"
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "[ShowDisasterName('english_civil_war')] завершится"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "Религиозные войны во Франции"
- french_wars_of_religion_desc: "Возникновение новых ответвлений #TOOLTIP:RELIGIONGROUP,christian,X #L христианской#!#! веры по всей #TOOLTIP:CONTINENT,europe,X #L Европе#!#! привело к тому, что трения в нашем обществе достигли критической отметки. Теперь вооружённые фанатики, еретики и защитники истинной веры угрожают погрузить всю страну в череду конфликтов."
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "Это [Concept('disaster', 'бедствие')|e] не завершилось достижением [Concept('religious_unity', 'религиозного единства')|e] или подписанием [Concept('policy', 'политики')|e] в форме #TOOLTIP:POLICY,edict_of_nantes,X #L Нантского эдикта#!#!"
  lutheran_huguenots: "Лютеранские гугеноты"
  calvinist_huguenots: "Кальвинистские гугеноты"
@@ -233,7 +234,7 @@
  has_not_had_decline_of_empire_last_25_years: "Это [Concept('disaster', 'бедствие')|e] не происходило в последние #Y 25#! лет"
  #Decline of Mali
  #Disaster
- decline_of_mali: "Упадок [GetCountry('MAL').Custom('CL_RP')]"
+ decline_of_mali: "Упадок [GetCountry('MAL').Custom('CL_GEN')]"
  decline_of_mali_desc: "[GetCountry('MAL').GetLongName] — слабая власть, гражданские войны, усиление внешних врагов и внутренняя стагнация и прочие испытания встают перед этой державой. Её стабильность и безопасность под угрозой. Лишь сильная рука способна вернуть стране былое величие."
  #Coup Attempt
  #Disaster

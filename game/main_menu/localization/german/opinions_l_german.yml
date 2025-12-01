@@ -302,8 +302,8 @@
  opinion_raided_our_borders: "Plünderte unsere Grenzgebiete"
  opinion_resisted_sinicization: "Widersetzte sich der Sinisierung"
  opinion_jurchen_friction: "Disput in Konföderation"
- opinion_unfavorable_judgement: "Günstiges Urteil"
- opinion_favorable_judgement: "Ungünstiges Urteil"
+ opinion_unfavorable_judgement: "Ungünstiges Urteil"
+ opinion_favorable_judgement: "Günstiges Urteil"
  opinion_accepted_chinese_influences: "Chinesische Kooperation"
  opinion_denied_chinese_influences: "Widerstand gegen Sinisierung"
  opinion_anti_chinese_legislation: "Schränkte den chinesischen Einfluss ein"
@@ -492,6 +492,7 @@
  opinion_asked_for_favor: "Bat um einen Gefallen"
  opinion_got_our_claim_revoked: "Eigener Anspruch widerrufen"
  opinion_denied_sinicization_modifier: "Verweigerte Sinisierung"
+ opinion_released_from_unlawful_territory: "Released us from Unlawful Territory"
  opinion_eclipsed_in_union: "In Personalunion überschattet"
  opinion_enforced_succession_law_changes: "Aufgezwungenes Erbfolgerecht ändert sich"
  #Italian Wars

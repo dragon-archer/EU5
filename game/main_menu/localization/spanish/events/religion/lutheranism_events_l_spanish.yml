@@ -38,7 +38,7 @@
  lutheranism_events.11.desc: "Numerosos teólogos tenían carreras prometedoras mucho antes de que la Reforma alcanzara nuestro país y [ROOT.GetCountry.GetLongName|l] crease su propia iglesia estatal. Como personas influyentes con ideas firmemente consolidadas, ha sido difícil convencerlas para que abracen la nueva naturaleza de la Iglesia. Esta resistencia al cambio ha ido aumentando con los años y ahora se considera que estos teólogos van abiertamente en contra de la Iglesia. Nuestra gente no puede oponerse de manera tan manifiesta contra [ROOT.GetCountry.GetGovernment.GetRuler.GetName|l], ¡hay que actuar!"
  lutheranism_events.11.a: "¡Hay que desterrar a esas personas!"
  lutheranism_events.11.b: "Juzguémosles por blasfemia y ordenemos su ejecución."
- lutheranism_events.11.c: "Qué desgracia..."
+ lutheranism_events.11.c: "Qué desgracia."
  lutheranism_events.12.title: "Pensador católico en la corte"
  lutheranism_events.12.desc: "[target_character.GetName] es célebre por su gran intelecto, y su presencia en la corte le otorga cierta grandeza a nuestro nombre. Sin embargo, [target_character.GetNameWithNoTooltip] es también firme practicante del [ShowReligionName('catholic')|l] a quien se le autorizó profesar su fe para que se mantuviera aquí. Sería impensable que la Iglesia de [ROOT.GetCountry.GetName] lanzase críticas hacia [ROOT.GetCountry.GetGovernment.GetRuler.GetName|l], pero en las calles de [ROOT.GetCountry.GetCapital.GetName] se habla de que [target_character.GetNameWithNoTooltip] trata de implantar ideas católicas subversivas en [ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip]."
  lutheranism_events.12.a: "Dejemos que hablen."

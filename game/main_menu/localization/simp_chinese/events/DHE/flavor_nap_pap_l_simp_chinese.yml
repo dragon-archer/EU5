@@ -5,7 +5,7 @@
  flavor_nap_pap.1.a: "立即聘用[lorenzo_valla_scope.GetHerHim]！"
  flavor_nap_pap.1.b: "至多允许[lorenzo_valla_scope.GetHerHim]开办学校。"
  flavor_nap_pap.1.c: "若[lorenzo_valla_scope.GetSheHe]是间谍怎么办？"
- NAP_when_done: "在[lorenzo_valla_scope.GetName]完成著作时，我们将能够揭穿[GetCountry('PAP').GetName]的骗局: "
+ NAP_when_done: "在[lorenzo_valla_scope.GetName]完成著作时，我们将能够揭穿[GetCountry('PAP').GetName]的骗局："
  flavor_nap_pap.2.title: "揭伪#italic 《君士坦丁赠礼》#!"
  flavor_nap_pap.2.desc: "[lorenzo_valla_scope.GetName]先前对#italic 《君士坦丁赠礼》#!的质疑已得到证实。经过严谨考证，[lorenzo_valla_scope.GetSheHe]发现该文献存在诸多自相矛盾之处，确凿无疑地证明这份所谓的#italic “献土谕令”#!实为伪造。虽然事实已无法改变，但[lorenzo_valla_scope.GetShortNameWithNoTooltip]的研究成果已获得学界认可。现在，是否公开[lorenzo_valla_scope.GetHerHis]的这一重大发现将由我们决定。"
  flavor_nap_pap.2.historical_info: "据称由四世纪罗马皇帝君士坦丁授予教宗西尔维斯特一世的#italic 《君士坦丁赠礼》#!，实际上是一份伪造的帝国敕令。该文件声称赋予罗马教廷高于其他四大牧首区的宗教权威，以及对西罗马地区的世俗统治权。自11世纪以来，教廷一直利用这份文件作为其各项特权主张的法律依据。"

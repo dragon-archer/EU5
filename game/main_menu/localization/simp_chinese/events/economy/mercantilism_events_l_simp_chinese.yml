@@ -14,7 +14,7 @@
  mercantilism_events.3.a: "我们需要为我们的军队进口铁矿。"
  mercantilism_events.3.b: "我们必须依靠自己的资源，一颗勇敢的心比钢铁更重要。"
  mercantilism_events.4.title: "进口海军物资"
- mercantilism_events.4.desc: "提升我国海军实力的野心最近陷入了停滞。[ROOT.GetCountry.GetAdjective]的造船工匠们既不缺乏想法，也不缺乏计划，却苦于物资匮乏。他们中的一些人不禁注意到这个问题，言辞激烈地指出: 我们邻国的市场上拥有充足的材料，可以用来打造一支现代化的海军。我们尽可能的不使舰队依赖于国外的资源，但是如果这项政策阻碍了进步，或许我们可以进口仅限用于测试新造船技术的材料。"
+ mercantilism_events.4.desc: "提升我国海军实力的野心最近陷入了停滞。[ROOT.GetCountry.GetAdjective]的造船工匠们既不缺乏想法，也不缺乏计划，却苦于物资匮乏。他们中的一些人不禁注意到这个问题，言辞激烈地指出：我们邻国的市场上拥有充足的材料，可以用来打造一支现代化的海军。我们尽可能的不使舰队依赖于国外的资源，但是如果这项政策阻碍了进步，或许我们可以进口仅限用于测试新造船技术的材料。"
  mercantilism_events.4.a: "如果这样做能够推动计划实施，那么我们可以妥协。"
  mercantilism_events.4.b: "用洋木头造船？那还不如直接用石头造更靠谱呢！"
  mercantilism_events.5.title: "备受争议的贸易保护主义者"

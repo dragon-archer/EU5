@@ -120,7 +120,7 @@
  flavor_nap.270.a: "Proposons sa sanctification à la Curie."
  flavor_nap.270.b: "Ne perdons pas notre temps avec ces histoires."
  flavor_nap.280.title: "Réunification des Deux-Siciles"
- flavor_nap.280.desc: "Le peuple se réjouit ! Les Deux-Siciles sont à nouveau réunies sous le règne de notre grand [GetCountry('TWS').GetGovernment.GetRuler.GetName].\n\nDepuis la guerre des Vêpres siciliennes, le royaume fondé par Roger II a été divisé, et ceux qui étaient autrefois frères se sont transformés en étrangers, rivaux et ennemis. Grâce à notre [GetCountry('TWS').GetGovernment.GetRulerTitle], cette période sombre a pris fin et nous pouvons à nouveau rejoindre nos parents perdus de vue depuis longtemps et reformer un peuple uni."
+ flavor_nap.280.desc: "Le peuple se réjouit ! Les Deux-Siciles sont à nouveau réunies sous le règne de notre grand [GetCountry('TWS').GetGovernment.GetRulerOrRegent.GetName].\n\nDepuis la guerre des Vêpres siciliennes, le royaume fondé par Roger II a été divisé, et ceux qui étaient autrefois frères se sont transformés en étrangers, rivaux et ennemis. Grâce à notre [GetCountry('TWS').GetGovernment.GetRulerOrRegentTitle], cette période sombre a pris fin et nous pouvons à nouveau rejoindre nos parents perdus de vue depuis longtemps et reformer un peuple uni."
  flavor_nap.280.a: "Restaurons l'ancienne capitale du Royaume !"
  flavor_nap.280.b: "Une nouvelle ère appelle une nouvelle capitale !"
  flavor_nap.280.c: "L'union de nos peuples se répercutera dans l'histoire."

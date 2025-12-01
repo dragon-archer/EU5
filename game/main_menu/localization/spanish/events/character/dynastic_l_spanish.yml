@@ -33,7 +33,7 @@
  dynastic.6001.b: "Es evidentemente [target_child.GetDaughterSon] de [ROOT.GetCountry.GetGovernment.GetConsort.GetNameWithNoTooltip]."
  dynastic.6001.c: "¿Qué podemos hacer?"
  dynastic.7.title: "[target_child.GetNameWithNoTooltip|U] sufre una enfermedad"
- dynastic.7.desc: "[target_child.GetName|U] respira con dificultad. Lleva tres días en cama y el sudor que perla su frente aumenta el miedo por su vida, que se refleja en los ojos de su asistente. Si no se hace nada, puede que [target_child.GetShortNameWithNoTooltip|U|l] no pase de esta noche."
+ dynastic.7.desc: "[target_child.GetName|U] respira con dificultad. Lleva tres días en cama y el sudor que perla su frente aumenta el miedo por su vida, que se refleja en los ojos de su asistente. Si no se hace nada, puede que [target_child.GetShortNameWithNoTooltip|Ul] no pase de esta noche."
  dynastic.7.a: "Hagamos venir a un médico instruido."
  dynastic.7.b: "Traigamos a un médico formado en la escuela de [target_location.GetNameWithNoTooltip]."
  dynastic.7.c: "Recemos por su vida."

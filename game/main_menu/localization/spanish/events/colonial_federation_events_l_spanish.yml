@@ -7,4 +7,4 @@
  colonial_federation_events.1001.desc: "Ya se han emitido los votos y nuestro pueblo ha hablado. La antigua alianza, [target_io.GetName], se unificará en un único Estado bajo la cuidadosa guía de [target_character.GetName]... Y nosotros formaremos parte de él."
  colonial_federation_events.1001.a: "¡Larga vida al nuevo Estado!"
  colonial_federation_events.1001.b: "¡Jamás nos inclinaremos ante nadie!"
- colonial_federation_break_away_tt: "Toda ubicación en propiedad que sea un [core|e|l] de [target_country.GetName] se separará de nosotros"
+ colonial_federation_break_away_tt: "Toda ubicación en propiedad que sea un [core|el] de [target_country.GetName] se separará de nosotros"

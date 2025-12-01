@@ -105,7 +105,7 @@
  flavor_ira.23.title: "[ROOT.GetCountry.GetLongNameWithNoTooltip]の[ShowCultureNameWithNoTooltip('georgian_culture')]人奴隷"
  flavor_ira.23.desc: "征服は、新たな人材の流入をもたらす。[ShowRegionName('caucasus_region')]の誉れ高き戦士である[ShowCultureName('georgian_culture')]と[ShowCultureName('armenian_culture')]の民は、運命のなせる業か、[ROOT.GetCountry.GetFlavorRank]の手によって打ち砕かれた。新たな主として、それらの民をいかに扱うべきかという難題が、[target_ruler.GetName]とその[ROOT.GetCountry.GetGovernment.GetCourtTitle]に重くのしかかる。\n\n[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]の多くは、不穏な異教徒を受け入れるべきではないと主張する。一方で、彼らをわが国の旗のもとで平和に繁栄させることには、大きな価値と将来性が秘められているのも否定できない。"
  flavor_ira.23.a: "わが偉大なる[ROOT.GetCountry.GetFlavorRank]で繁栄するがいい！"
- flavor_ira.23.tt.common: "[ShowCultureName('georgian_culture')]または[ShowCultureName('armenian_culture')][culture|e]に属するすべての[owned|e][pop|e]が以下を得る: "
+ flavor_ira.23.tt.common: "[ShowCultureName('georgian_culture')]または[ShowCultureName('armenian_culture')][culture|e]に属するすべての[owned|e][pop|e]が以下を得る："
  flavor_ira.23.a.tt: "$flavor_ira.23.tt.common$[pop_satisfaction|e]#G 15%#!"
  flavor_ira.23.b: "[ROOT.GetCountry.GetAdjectiveWithNoTooltip]など認めない！"
  flavor_ira.23.b.tt: "$flavor_ira.23.tt.common$[pop_satisfaction|e]#R -10%#!"

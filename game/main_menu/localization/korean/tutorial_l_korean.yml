@@ -80,7 +80,7 @@
  lesson_estates_4: "[privileges_icon] 특권"
  lesson_estates_4_desc: "[estates]에는 [privileges_with_icon|e]을 부여할 수 있습니다. 이는 보통 [estate_satisfaction_with_icon|e]와 [estate_power_with_icon|e]을 모두 증가시키며, 국가와 국민에게 추가적인 효과를 가져다줍니다.\n\n특권을 철회하면 대상 계층을 분노하게 만드는 대신 약화시킬 수 있지만, 상당한 비용이 뒤따르며 [stability_with_icon|e]를 저해할 가능성이 높습니다.\n\n일부 특권은 계층의 행사력을 증가시켜 [crown_power_with_icon|e]이 감소하는 결과를 낳을지라도 여러분의 이익과 부합할 수 있습니다. 따라서 필요시 계층에 몇 가지 특권을 부여하는 것은 현명한 선택일 수 있습니다. 단지 [rebellion_with_icon|e]의 준동을 막기 위해서라도 말입니다. 어떤 왕도 홀로 통치할 수는 없는 법이니까요."
  lesson_estates_5: "[pop_type_icon|e] 사회 계급"
- lesson_estates_5_desc: "[privileges] 외에도, [estates_with_icon|e]의 [estate_power_with_icon|e]은 주로 [population_with_icon|e]의 사회적 구성에서 비롯됩니다.\n\n국가 내의 [population]는 여러 [pop_types_with_icon|e]으로 나뉘며, 각 [pop_types]은 서로 다른 [estate]을 지원합니다:\n\n$BULLET_WITH_TAB$[GetEstateName('nobles_estate')]은 @nobles! [ShowPopTypeName('nobles')]의 지원을 받습니다\n$BULLET_WITH_TAB$[GetEstateName('clergy_estate')]는 @clergy! [ShowPopTypeName('clergy')]의 지원을 받습니다\n$BULLET_WITH_TAB$[GetEstateName('burghers_estate')]은 @burghers! [ShowPopTypeName('burghers')]의 지원을 받습니다\n$BULLET_WITH_TAB$[GetEstateName('peasants_estate')]은 다음 사회 계급의 지원을 받습니다:\n$TAB$$BULLET_WITH_TAB$@peasants! [ShowPopTypeName('peasants')], @laborers! [ShowPopTypeName('laborers')], @soldiers! [ShowPopTypeName('soldiers')]\n\n모든 [population]는 지도상의 [locations_with_icon|e]에서 태어나 삶을 마감합니다. 그럼 이제 지도를 더 자세히 들여다보도록 하겠습니다."
+ lesson_estates_5_desc: "[privileges] 외에도, [estates_with_icon|e]의 [estate_power_with_icon|e]은 주로 [population_with_icon|e]의 사회적 구성에서 비롯됩니다.\n\n국가 내의 [population]는 여러 [pop_types_with_icon|e]으로 나뉘며, 각 [pop_types]은 서로 다른 [estate]을 지원합니다:\n\n$BULLET_WITH_TAB$[GetEstateName('nobles_estate')](은)는 @nobles! [ShowPopTypeName('nobles')]의 지원을 받습니다\n$BULLET_WITH_TAB$[GetEstateName('clergy_estate')](은)는 @clergy! [ShowPopTypeName('clergy')]의 지원을 받습니다\n$BULLET_WITH_TAB$[GetEstateName('burghers_estate')](은)는 @burghers! [ShowPopTypeName('burghers')]의 지원을 받습니다\n$BULLET_WITH_TAB$[GetEstateName('peasants_estate')](은)는 다음 사회 계급의 지원을 받습니다:\n$TAB$$BULLET_WITH_TAB$@peasants! [ShowPopTypeName('peasants')], @laborers! [ShowPopTypeName('laborers')], @soldiers! [ShowPopTypeName('soldiers')]\n\n모든 [population]는 지도상의 [locations_with_icon|e]에서 태어나 삶을 마감합니다. 그럼 이제 지도를 더 자세히 들여다보도록 하겠습니다."
  lesson_map_1: "[known_world_icon] 지도"
  lesson_map_1_desc: "#high Europa Universalis V#!의 세계는 지도상의 [locations_with_icon|e]을 소유한 다양한 [countries_with_icon|e]로 구성되어 있습니다. 이들은 이웃 국가들보다 앞서 나가기 위해 해당 [locations]에서 필요한 자원과 인력을 확보합니다.\n\n지도를 축소하면 지도에 [country] 이름이 나타납니다. 이름 위에 커서를 올리면 [country] 툴팁이 표시되며, 클릭하면 #high 외국 패널#!이 열립니다. 이 패널에서 다른 [country]의 정보를 확인하고 상호 작용할 수 있습니다."
  lesson_trigger_zoom_out: "@centerscroll! 지도를 축소해 국가를 표시하십시오"
@@ -166,7 +166,7 @@
  lesson_basics_open_agenda: "안건을 여십시오"
  lesson_basics_final: "[mission_icon] 임무를 향해!"
  lesson_basics_final_desc: "이제 #W 기초 튜토리얼#!의 막바지에 다다랐습니다. 원하시는 [mission_with_icon|e] 경로를 선택해 계속해서 진행하십시오.\n\n각 임무는 선택한 플레이 스타일에 따라 @caesar!#W Europa Universalis V#!의 초반부를 진행하는 데 도움이 될 여러 목표와 보상을 제공합니다.\n\n임무 중점을 선택하면 해당 분야의 게임 경험과 관련해 지식을 쌓을 수 있는 간단한 설명이 표시됩니다.\n\n그럼, 행운을 빕니다. 여러분의 나라가 시대의 풍파 속에서도 영원토록 번영하길!"
- lesson_basics_mission_focus: "(선택 사항) 임무 중점을 선택하십시오"
+ lesson_basics_mission_focus: "임무 중점을 선택하십시오"
  ############ POLITICS ############
  lesson_diplomacy_0: "@diplomacy! 정치 튜토리얼"
  lesson_diplomacy_0b: "@diplomacy! 정치 튜토리얼"

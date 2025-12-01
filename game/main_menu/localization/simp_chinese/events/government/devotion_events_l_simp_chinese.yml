@@ -129,7 +129,7 @@
  devotion_events.201.a: "使它成为支柱之一。"
  devotion_events.201.b: "这似乎是管理我们国家的一种简单方法。"
  devotion_events.202.title: "怜悯之心"
- devotion_events.202.desc: "先知的堂弟阿里·伊本·艾比·塔利卜（愿主赐他平安）曾说过: “为了你的臣民，向你的内心注入怜悯，爱与善良。在他们的面前不要做一个贪婪的动物，把他们看做容易下手的猎物，因为他们中不是你在信仰上的兄弟，就是与你平等的创造物。在不备时他们就会出错，身心上的不足会压倒他们，他们会有意或无意地做出邪恶的事，犯下罪行。所以如你希望[ROOT.GetCountry.GetReligion.GetGodName]对你赦免和原谅，你也应给予他们你的赦免与原谅。因为你在他们之上，任命你的人在你之上，而[ROOT.GetCountry.GetReligion.GetGodName]则在任命你的人和你之上。[ROOT.GetCountry.GetReligion.GetGodName]希望你满足对这些人的要求，他也会把你与这些人一同审判。”\n\n我们可以从他的话中学到许多珍贵的教导。我们可以终于这些教导，并找到一种把它融入我们的管理的方法。"
+ devotion_events.202.desc: "先知的堂弟阿里·伊本·艾比·塔利卜（愿主赐他平安）曾说过：“为了你的臣民，向你的内心注入怜悯，爱与善良。在他们的面前不要做一个贪婪的动物，把他们看做容易下手的猎物，因为他们中不是你在信仰上的兄弟，就是与你平等的创造物。在不备时他们就会出错，身心上的不足会压倒他们，他们会有意或无意地做出邪恶的事，犯下罪行。所以如你希望[ROOT.GetCountry.GetReligion.GetGodName]对你赦免和原谅，你也应给予他们你的赦免与原谅。因为你在他们之上，任命你的人在你之上，而[ROOT.GetCountry.GetReligion.GetGodName]则在任命你的人和你之上。[ROOT.GetCountry.GetReligion.GetGodName]希望你满足对这些人的要求，他也会把你与这些人一同审判。”\n\n我们可以从他的话中学到许多珍贵的教导。我们可以终于这些教导，并找到一种把它融入我们的管理的方法。"
  devotion_events.202.a: "若主愿之。"
  devotion_events.202.b: "我们会听从明智的建议。"
  devotion_events.203.title: "贝特马尔"

@@ -79,7 +79,7 @@
  ich_kaan_ti_ho: "七子之像神庙"
  mayapan_holy_site: "$mayapan$"
  kaaba: "禁寺"
- kaaba_desc: "$kaaba$位于[ShowLocationName('mecca')]，是[ShowReligionGroupName('muslim')]最神圣的圣地，更广为人知的名字叫做克尔白天房。它被一块黑布覆盖，所有$muslim_ADJ$信徒祷告时都要面朝这里。"
+ kaaba_desc: "$kaaba$位于[ShowLocationName('mecca')]，是[ShowReligionGroupName('muslim')]最神圣的圣地，更广为人知的名字叫做克尔白天房。它被一块黑色幔帐覆盖，所有$muslim_ADJ$信徒祷告时都要面朝这里。"
  prophets_mosque: "先知清真寺"
  umayyad_mosque: "伍麦叶清真寺"
  cave_patriarchs: "列祖之洞"

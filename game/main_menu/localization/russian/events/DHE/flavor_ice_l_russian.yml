@@ -1,5 +1,5 @@
 ﻿l_russian:
- flavor_ice.10.title: "Епархии [ROOT.GetCountry.Custom('CL_RP')]"
+ flavor_ice.10.title: "Епархии [ROOT.GetCountry.Custom('CL_GEN')]"
  flavor_ice.10.desc: "[ROOT.GetCountry.GetReligion.GetAdjective]ая вера испокон веков остаётся важной составляющей [ROOT.GetCountry.GetAdjective|l]ой жизни. При этом на острове одновременно существуют две очень разные епархии: [target_location.GetName] и [skalholt.GetName].\n\nЕпархия [target_location.GetNameWithNoTooltip] в провинции [target_location.GetProvince.GetName] считается более независимой и самодостаточной, а [skalholt.GetNameWithNoTooltip] в провинции [skalholt.GetProvince.GetName], напротив, отличается тесными связями с такой силой, как [overlord.GetLongName].\n\nС развитием [ROOT.GetCountry.Custom('CL_RP')] уникальные особенности каждой епархии приобретают всё большую важность для нас."
  flavor_ice.10.a: "Поддержать независимую епархию [target_location.GetNameWithNoTooltip]"
  flavor_ice.10.b: "Снискать расположение [overlord.GetAdjectiveWithNoTooltip|l]ого епископа."

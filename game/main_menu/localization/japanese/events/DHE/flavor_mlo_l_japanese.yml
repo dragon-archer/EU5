@@ -234,7 +234,7 @@
  mlo_waterways_estates_pay_tt: "[GetCountry('MLO').GetGovernment.GetEstateName('burghers_estate')]、[GetCountry('MLO').GetGovernment.GetEstateName('clergy_estate')]、[GetCountry('MLO').GetGovernment.GetEstateName('nobles_estate')]の代表者たちが維持費を負担し、そのあいだ各階級の[estate_satisfaction|e]が#R -20%#!低下する"
  mlo_access_restore_kingdom_lombardy_cabinet_action_tt: "わが国は#Y 30#!年間、固有の[cabinet|e]アクション「[ShowCabinetActionName('mlo_restore_kingdom_lombardy')]」を使用できるようになる。\n\nこのアクションにより、[ShowAreaName('lombardy_area')], [ShowAreaName('emilia_area')], [ShowAreaName('piemonte_area')], [ShowAreaName('liguria_area')], [ShowAreaName('veneto_area')], [ShowAreaName('tuscany_area')]の各[areas|e]の領土をより速く統合できる。"
  mlo_every_location_italy_5_control_tt: "イタリア[region|e]にあるわが国の各ロケーションの[control|e]が[ShowNamedValue('control_weak_bonus')|+=2%]増加する"
- mlo_every_province_scope_province_tt: "影響下の[province|e]にあるすべての所有[location|e]が以下の影響を受ける: "
+ mlo_every_province_scope_province_tt: "影響下の[province|e]にあるすべての所有[location|e]が以下の影響を受ける："
  mlo_sforza_given_influence_tt: "[target_character.GetName]がわが軍隊の指揮権を得る"
  mlo_sforza_joins_tt: "[target_character.GetName]が宮廷に加わる"
  produce_any_fine_cloth_or_silk_tt: "わが国は[ShowGoodsName('fine_cloth')]または[ShowGoodsName('silk')]を生産する"

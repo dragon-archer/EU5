@@ -1,6 +1,6 @@
 ﻿l_russian:
  mercs.1.title: "Недовольство среди членов отряда «[SCOPE.sMercenary('patriotic_mercs').GetName]»"
- mercs.1.desc: "Многие члены отряда «[SCOPE.sMercenary('patriotic_mercs').GetName]» прониклись беспочвенными сентиментальными чувствами к #ONCLICK:COUNTRY,[SCOPE.sCountry('merc_home_country').Custom('CL_tt')] #TOOLTIP:COUNTRY,[SCOPE.sCountry('merc_home_country').Custom('CL_tt')],X [SCOPE.sCountry('merc_home_country').Custom('CL_DP')|L]#!#!, своей жалкой родине. Значительная часть отряда дезертировала, потрясённая мыслью о том, что их родные города сгорят в пожаре войны."
+ mercs.1.desc: "Многие члены отряда «[SCOPE.sMercenary('patriotic_mercs').GetName]» прониклись беспочвенными сентиментальными чувствами к #ONCLICK:COUNTRY,[SCOPE.sCountry('merc_home_country').Custom('CL_tt')] #TOOLTIP:COUNTRY,[SCOPE.sCountry('merc_home_country').Custom('CL_tt')],X [SCOPE.sCountry('merc_home_country').Custom('CL_DAT')|L]#!#!, своей жалкой родине. Значительная часть отряда дезертировала, потрясённая мыслью о том, что их родные города сгорят в пожаре войны."
  mercs.1.a: "Они слабы духом."
  mercs.1.b: "Золото — вот что шотландцы по-настоящему любят."
  mercs.2.title: "Враг их врага"
@@ -12,8 +12,8 @@
  mercs.3.a: "Пусть оставят себе часть награбленного."
  mercs.3.b: "Запретим грабить, но увеличим жалованье."
  mercs.4.title: "Ветераны встают под знамёна отряда «[veteran_mercs.GetName]»"
- mercs.4.desc: "Предводители наёмников уважают #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_VP')|L]#!#! за наш международный престиж, но прежде всего за то, что мы всегда платим солдатам удачи в срок и в оговорённом размере. К отряду «[veteran_mercs.GetName]» присоединилась целая группа чужеземных ветеранов, прибывших в страну в надежде найти здесь достойную работу на нашей службе."
- mercs.4.a: "Кто бы не захотел сражаться за #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_VP')|L]#!#!?"
+ mercs.4.desc: "Предводители наёмников уважают #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_ACC')|L]#!#! за наш международный престиж, но прежде всего за то, что мы всегда платим солдатам удачи в срок и в оговорённом размере. К отряду «[veteran_mercs.GetName]» присоединилась целая группа чужеземных ветеранов, прибывших в страну в надежде найти здесь достойную работу на нашей службе."
+ mercs.4.a: "Кто бы не захотел сражаться за #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_ACC')|L]#!#!?"
  mercs.5.title: "Слоны!"
  mercs.5.desc: "Впервые со времён Ганнибала и Пунических войн боевые слоны вернулись в Европу под предводительством #L [ROOT.GetCountry.GetAdjective|l]их#! полководцев. Наши враги трепещут от страха перед этими огромными и величественными зверями, облачёнными в доспехи и украшенными символами войны."
  mercs.5.a: "Пусть трепещут перед отрядом «[elephant_mercs.GetName]»."

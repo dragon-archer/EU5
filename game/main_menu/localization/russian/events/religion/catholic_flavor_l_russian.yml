@@ -89,7 +89,7 @@
  catholic_flavor.103.title: "Отказ назначать кардинала-племянника"
  catholic_flavor.103.desc: "[ROOT.GetCountry.GetGovernment.GetRulerTitle] [Select_CString(ROOT.GetCountry.GetGovernment.GetRuler.IsFemale,'выдвинула','выдвинул')] своего племянника на должность кардинала в провинции [cardinal_nephew_province.GetName], однако правительство державы [cardinal_nephew_country.GetName] отклонило [Select_CString(ROOT.GetCountry.GetGovernment.GetRuler.IsFemale,'её','его')] просьбу."
  catholic_flavor.103.a: "[ROOT.GetCountry.Custom('common_string_disappointing')]"
- catholic_flavor.1000.title: "Кафедра кардинала для [SCOPE.sCountry('actor').Custom('CL_RP')]"
+ catholic_flavor.1000.title: "Кафедра кардинала для [SCOPE.sCountry('actor').Custom('CL_GEN')]"
  catholic_flavor.1000.desc: "Власти #ONCLICK:COUNTRY,[SCOPE.sCountry('actor').Custom('CL_tt')] #TOOLTIP:COUNTRY,[SCOPE.sCountry('actor').Custom('CL_tt')],X [SCOPE.sCountry('actor').Custom('CL_GEN')|L]#!#! попросили нас предоставить им новую #TOOLTIP:BUILDING_TYPE,seat_of_cardinal,X #L кафедру кардинала#!#!. Если мы согласимся, кардинал будет заседать в [target_location.Custom('LR_PREP')|l] [target_location.GetName]."
  catholic_flavor.1000.a: "Выполним их просьбу."
  catholic_flavor.1000.b: "Мы вынуждены им отказать."

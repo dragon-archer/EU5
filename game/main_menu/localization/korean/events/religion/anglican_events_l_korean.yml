@@ -22,7 +22,7 @@
  anglican_events.5.b: "똑같은 방법으로 대응하라. 소책자 전쟁이다!"
  anglican_events.5.c: "소책자를 쓴 자들을 색출해 체포하라."
  anglican_events.6.title: "기도서 반란"
- anglican_events.6.desc: "성공회의 교리는 일반 기도서에 기록되어 있습니다. 성공회 사상은 신학의 급진적 관점과 전통적 관점을 오가므로, 그러한 변화를 반영하려면 일반 기도서 역시 주기적으로 개정되어야 합니다. [prayer_book_province.GetName] 주민 다수는 여전히 가톨릭 교리와 관습을 고수하고 있으며, 기도서의 최신 판본에는 그 주민들을 크게 격노하게 만든 내용이 들어 있습니다. 이에 주민들은 기도서의 내용을 이전 판본으로 돌려놓으라며 반란을 일으켰습니다."
+ anglican_events.6.desc: "성공회의 교리는 공동 기도문에 기록되어 있습니다. 성공회 사상은 신학의 급진적 관점과 전통적 관점을 오가므로, 그러한 변화를 반영하려면 공동 기도문 역시 주기적으로 개정되어야 합니다. [prayer_book_province.GetName] 주민 다수는 여전히 가톨릭 교리와 관습을 고수하고 있으며, 기도서의 최신 판본에는 그 주민들을 크게 격노하게 만든 내용이 들어 있습니다. 이에 주민들은 기도서의 내용을 이전 판본으로 돌려놓으라며 반란을 일으켰습니다."
  anglican_events.6.a: "개정판을 폐기하고 전통주의자들과 타협하라."
  anglican_events.6.b: "가톨릭 신자들의 반역은 용납할 수 없다!"
  anglican_events.7.title: "숨은 [ShowReligionAdjectiveWithNoTooltip('catholic')] 정치인"

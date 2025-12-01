@@ -48,7 +48,7 @@
  coup_attempt.9.desc.innocent: "悲しいかな、処刑人が喜び勇んで斧を振り下ろしたのは、まったくの無実の人間だった！ [target_character_2.GetName]に対する糾弾は誤りだったようだが、その首はいま、我々の足元に転がっている。[ROOT.GetCountry.GetGovernment.GetCourtTitle]は恐怖でざわめいており、[target_character.GetName]の統治への信頼が揺らいでいる。"
  coup_attempt.9.a: "なんということだ。[target_character_2.GetSheHe|U]が無実だったとは！"
  coup_attempt.9.b: "裏切り者の首はわが国の壁に飾られるだろう！"
- because_they_are_consort_or_heir_tt: "無実の[target_character_2.GetShortNameWithNoTooltip]の重要性により: "
+ because_they_are_consort_or_heir_tt: "無実の[target_character_2.GetShortNameWithNoTooltip]の重要性により："
  coup_attempt.100.title: "消えざる影"
  coup_attempt.100.desc: "クーデターは鎮圧されず、不満は影のなかに潜み、国を蝕みつづけている。陰謀者たちは潜んでいるかもしれないが、その思想は消えることなく、残った人々の心を蝕んでいる。我々が警戒を怠れば、歴史は繰り返されるかもしれない。"
  coup_attempt.100.a: "次の陰謀に備えなくては。"

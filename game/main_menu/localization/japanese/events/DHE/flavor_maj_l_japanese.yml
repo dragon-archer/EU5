@@ -52,7 +52,7 @@
  flavor_maj.11.desc: "無数の国々を征服することで、我々は数十年にわたり比類なき覇権を謳歌してきた。臣下の多くは、遥か遠方の土地ですら、神から授けられたわが国の領土と確信してやまない。\n\n近年の幾多の勝利は、まさしく神意の顕れにほかならない。我々ごときが、その御心を疑うなど許されるはずもない。[ROOT.GetCountry.GetName]の民は、[target_character.GetName]の導きのもとに偉業を成し遂げる宿命にあるのだ！"
  flavor_maj.11.a: "この好機を逃してはならない。"
  flavor_maj.11.b: "焦らずに、慎重に事を進めるべきだ。"
- such_a_proclamation_will_incur_the_following_penalty_tt: "このような好戦的な宣言は以下のペナルティをもたらす: "
+ such_a_proclamation_will_incur_the_following_penalty_tt: "このような好戦的な宣言は以下のペナルティをもたらす："
  flavor_maj.12.title: "新しい寺院"
  flavor_maj.12.desc: "わが国は、信心深い民と力強い社会構造を誇っている。それらを支えにして領土を広げ、幸運を掴み、大いなる繁栄を享受しているのだ。財を分け与える豪商、民を思いやる貴族、そして教義を守る聖職者たちからなる社会は、必ずや発展するだろう。\n\n我々の熱意を示し、我々をひとつに結びつける神聖な力を讃えるため、多くの臣下は[ROOT.GetCountry.GetLongName]各地の寺院の資金調達、増築、修復を[target_character.GetName]に監督させるべきだと提案している。"
  flavor_maj.12.a: "資金を提供せよ。"

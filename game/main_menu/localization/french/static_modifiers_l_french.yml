@@ -130,7 +130,7 @@
  STATIC_MODIFIER_NAME_mian_mir: "Miyân Mîr"
  STATIC_MODIFIER_NAME_est_val_sharia: "Lois de la $sharia$ plus strictes"
  STATIC_MODIFIER_NAME_baha_al_din_al_amili: "Bahā' al-Dīn al-'Āmilī"
- STATIC_MODIFIER_NAME_muslim_madrassa: "Médersas soutenues"
+ STATIC_MODIFIER_NAME_muslim_madrassa: "Madrasas soutenues"
  STATIC_MODIFIER_NAME_charitable_spouse: "Partenaire charitable"
  STATIC_MODIFIER_NAME_serafeddin_sabuncuoglu: "Şerafeddin Sabuncuoğlu"
  STATIC_MODIFIER_NAME_al_birjandi: "Al-Birjandi"
@@ -366,9 +366,9 @@
  STATIC_MODIFIER_DESC_winter_normal: "La période hivernale aura des effets négatifs"
  STATIC_MODIFIER_NAME_winter_severe: "Hiver rigoureux"
  STATIC_MODIFIER_DESC_winter_severe: "La période hivernale aura de grands effets négatifs"
- STATIC_MODIFIER_NAME_present_troops: "[armies|e] #L [friendly|e|l]es#!"
- STATIC_MODIFIER_NAME_hostile_troops: "[armies|e] [Concept('enemy', 'ennemies')|e|l]"
- STATIC_MODIFIER_NAME_provincial_troops: "[armies|e] #L [friendly|e|l]es#! dans la [province|e]"
+ STATIC_MODIFIER_NAME_present_troops: "[armies|e] #L [friendly|el]es#!"
+ STATIC_MODIFIER_NAME_hostile_troops: "[armies|e] [Concept('enemy', 'ennemies')|el]"
+ STATIC_MODIFIER_NAME_provincial_troops: "[armies|e] #L [friendly|el]es#! dans la [province|e]"
  STATIC_MODIFIER_NAME_raised_levies: "Levées déployées"
  STATIC_MODIFIER_NAME_isolating_cities: "Confinement des cités"
  STATIC_MODIFIER_NAME_recently_slave_raided: "Capture d'esclaves récente"
@@ -388,8 +388,8 @@
  STATIC_MODIFIER_NAME_disagreed_with_mufti: "Protestations sociales"
  STATIC_MODIFIER_NAME_waqfs_donated: "Création d'un nouveau waqf"
  STATIC_MODIFIER_NAME_urban_decay: "Développement entravé"
- STATIC_MODIFIER_NAME_expanded_madrasah: "Médersa renommée"
- STATIC_MODIFIER_NAME_hampered_expansion_of_madrasah: "Développement ralenti de la médersa"
+ STATIC_MODIFIER_NAME_expanded_madrasah: "Madrasa renommée"
+ STATIC_MODIFIER_NAME_hampered_expansion_of_madrasah: "Développement ralenti de la madrasa"
  STATIC_MODIFIER_NAME_disease_outbreak: "Épidémie"
  STATIC_MODIFIER_NAME_sufi_shrine: "Sanctuaire soufi"
  STATIC_MODIFIER_NAME_alevi_modifier: "Alévis favorisés"
@@ -735,6 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Signes favorables"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Une période de renouveau, accompagnée d'un temps clément et d'une abondance de nourriture, sont autant de signes favorables : les dieux sont satisfaits."
  #Ottomans
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Le rêve d'Osman"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Notre destinée est de régner sur un empire qui durera jusqu'à la fin des temps."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Bureaucrates ahis"
@@ -821,7 +823,7 @@
  #Hungary
  STATIC_MODIFIER_NAME_hun_absolute_rule: "Règne absolutiste de $Karoly$"
  STATIC_MODIFIER_NAME_prefection_modifier: "Statut de praefecta"
- STATIC_MODIFIER_DESC_prefection_modifier: "Par le droit et l'autorité d'un souverain, ce personnage détient le statut de #italic praefecta#!. Il est donc promu au rang de fils de noble et considéré comme [legally_male|e|l]."
+ STATIC_MODIFIER_DESC_prefection_modifier: "Par le droit et l'autorité d'un souverain, ce personnage détient le statut de #italic praefecta#!. Il est donc promu au rang de fils de noble et considéré comme [legally_male|el]."
  STATIC_MODIFIER_NAME_appoint_as_heir_modifier: "Héritier désigné"
  STATIC_MODIFIER_DESC_appoint_as_heir_modifier: "Grâce au droit et à l'autorité d'un souverain, ce personnage a été choisi comme héritier du Pays."
  #Chivalry Orders
@@ -1724,6 +1726,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Puissance de la paysannerie réfrénée"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Autorité locale réaffirmée"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Exemption fiscale"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "A réinstauré l'assemblée législative"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Moral bas"
@@ -1852,6 +1856,7 @@
  #Nahua Reform
  STATIC_MODIFIER_NAME_major_push_for_reform: "Poussée cruciale pour la réforme"
  STATIC_MODIFIER_NAME_nahuatl_temple_expansion_modifier: "Agrandissement des temples"
+ nahuatl_temple_expansion_modifier: "[ShowModifier('nahuatl_temple_expansion_modifier')]"
  #Muscovy
  STATIC_MODIFIER_NAME_siege_artillery_engineer: "Emploie un commandant d'artillerie"
  #Hussite Wars
@@ -1985,6 +1990,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Commandant mamelouk"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Intégration de la Scanie"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Administration de la Pennsylvanie"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Récoltes des trois sœurs"

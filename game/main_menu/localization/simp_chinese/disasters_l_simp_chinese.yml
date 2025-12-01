@@ -1,11 +1,12 @@
 ﻿l_simp_chinese:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "无[event|e]发生"
  an_event_occurs_tt: "将触发一项与[disaster|e]相关的[event|e]"
  #Succession Crisis
  #Disaster
  succession_crisis: "继承危机"
- succession_crisis_desc: "我们的领地风雨飘零！一个强大的宣称者不顾人民的意愿，强行篡夺了我们的王位。我们的国家正面临内忧外患的严重威胁中……"
+ succession_crisis_desc: "我们的领地风雨飘零！一个强大的宣称者不顾人民的意愿，妄图强行篡夺我们的王位。我们的国土正面临有僭主、外有强敌的严重威胁中……"
  pretender_enforced_claim_tt: "这位篡位者通过继承获得了王位"
  no_heir_or_regent_or_bad_heir_tt: "由于处于[regent|e]、[heir|e]贫弱或缺失，这一[disaster|e]的爆发条件降低了。"
  pretender_is_cold_tt: "这位篡位者已经死亡或者离开了我们的宫廷"
@@ -30,7 +31,7 @@
  #Ambrosian Republic
  #Disaster
  ambrosian_republic_disaster: "金色安布罗斯共和国"
- ambrosian_republic_disaster_desc: "由于没有对权位的强力宣称者，充满理想主义的学者们试图在米兰建立起一个新生的共和国。"
+ ambrosian_republic_disaster_desc: "一场继承危机已然爆发，且局势颇为特殊：由于当前并无实力强劲的王位觊觎者，充满理想主义的学者们试图在[ShowLocationName('milano')]建立起一个新生的共和国。这群持反抗立场的学者已赢得了相当规模的民众支持，其行动恐将进一步破坏整个国家的稳定局面。"
  has_chosen_ally_union_variable_tt: "在#Y 安布罗斯共和国#!事件中与一个[ally|e]建立了[union|e]"
  #Religious Turmoil
  #Disaster
@@ -97,8 +98,8 @@
  #Disaster
  hook_and_cod_wars: "鱼钩派与鳕鱼派战争"
  hook_and_cod_wars_desc: "由于我们的继承权尚不明确，我们已故统治者家族的成员们提出了对我们王位的宣称。在所有人中间的则是[ShowEstateTypeName('burghers_estate')]，他们蔑视[ShowEstateTypeName('nobles_estate')]并试图扩大城市权利……"
- hook_and_cod_wars_hooks_have_won_tt: "#Y 鱼钩派#!已经获得#Y 20#!影响力分数（当前: #Y [THIS.GetVariable('hacw_hook_faction_power').GetValue]#!）"
- hook_and_cod_wars_cods_have_won_tt: "#Y 鳕鱼派#!已经获得#Y 20#!影响力分数（当前: #Y [THIS.GetVariable('hacw_cod_faction_power').GetValue]#!）"
+ hook_and_cod_wars_hooks_have_won_tt: "#Y 鱼钩派#!已经获得#Y 20#!影响力分数（当前：#Y [THIS.GetVariable('hacw_hook_faction_power').GetValue]#!）"
+ hook_and_cod_wars_cods_have_won_tt: "#Y 鳕鱼派#!已经获得#Y 20#!影响力分数（当前：#Y [THIS.GetVariable('hacw_cod_faction_power').GetValue]#!）"
  HACW_HOOK_TOOLTIP: "#Y 鱼钩派#!是[DisasterView.GetDisaster.GetOwner.GetName][DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('nobles_estate')]的代表。他们支持[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.GetName]及其对王位的野心。"
  HACW_COD_TOOLTIP: "#Y 鳕鱼派#!是[DisasterView.GetDisaster.GetOwner.GetName][DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('burghers_estate')]的代表。他们支持[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.GetName]及其对王位的野心。"
  #Horde Civil War
@@ -108,16 +109,16 @@
  horde_civil_war_end_trigger_no_rebels: "已经不存在一支#Y 觊觎者#![rebel|e]"
  horde_civil_war_crown_supporters: "部落效忠者"
  horde_civil_war_pretender_supporters: "部落叛徒"
- GUI_REBEL_OWNED_LOCATIONS: "[rebels|e]持有的[locations|e]: [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('GUI_pretender_rebel_character').GetCharacter.GetCourtCountry.GetOwnedLocationCount]"
+ GUI_REBEL_OWNED_LOCATIONS: "[rebels|e]持有的[locations|e]：[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('GUI_pretender_rebel_character').GetCharacter.GetCourtCountry.GetOwnedLocationCount]"
  GUI_REBEL_MILITARY_STRENGTH_COMPARED_TO_US: "[rebels|e]与我们的[military_strength|e]对比。"
  #Revolution
  #Disaster
- revolution_disaster: "革命"
+ revolution_disaster: "大革命"
  revolution_disaster_desc: "几十年来的封建压制、经济困难以及宗教压迫，已经对我国造成了很多损失。民众对于自由的渴望已经对我们的统治构成了严重威胁。"
  revolution_disaster_end_trigger_tt: "#Y 革命叛军#!未在策划[civil_war|e]"
- MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]的[army|e]规模: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]的[levy|e]潜力: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]的[manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]的[army|e]规模：[DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]的[levy|e]潜力：[DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]的[manpower|e]：[DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]的[military_strength|e]潜力"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]的[army|e]规模: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]的[levy|e]潜力: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]的[manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]的[army|e]规模：[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]的[levy|e]潜力：[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]的[manpower|e]：[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName]的[military_strength|e]潜力"
  #Revolutionary Chaos
  #Disaster
@@ -133,7 +134,7 @@
  #Disaster
  crisis_of_the_chinese_dynasty: "[GetCountry('CHI').GetLongNameWithNoTooltip]的危机"
  crisis_of_the_chinese_dynasty_desc: "皇天将崩，后土将颓，国朝之鼎祚将见弃于天！随着国内外困境日益加剧，官僚体系逐渐瓦解以及连年不断的灾荒，统治的天平已经不再向我们倾斜。民众也不再认同我们是[GetCountry('CHI').GetFlavorRank]合法的统治者。"
- ccd_celestial_authority_trigger: "我们的[celestial_authority_gc|e]至少为#Y 90#!（当前: #Y [GetUniqueInternationalOrganization('middle_kingdom').MakeScope.GetVariable('celestial_authority').GetValue|V1]#!）"
+ ccd_celestial_authority_trigger: "我们的[celestial_authority_gc|e]至少为#Y 90#!（当前：#Y [GetUniqueInternationalOrganization('middle_kingdom').MakeScope.GetVariable('celestial_authority').GetValue|V1]#!）"
  #Triggers
  cmd_has_reformed_cabinet_tt: "已执行[ShowGenericActionName('cmd_reform_the_cabinet')][action|e]"
  cmd_has_restored_stability_tt: "已执行[ShowGenericActionName('cmd_restore_stability')][action|e]"
@@ -143,7 +144,7 @@
  fire_event_5_tt: "可能触发[provinces|e][prosperity|e]降低的[event|e]"
  #Decline of Majapahit
  #Disaster
- decline_of_majapahit: "满者伯夷的衰落"
+ decline_of_majapahit: "$MAJ$的衰落"
  decline_of_majapahit_desc: "如今，我国已不复往日的繁荣昌盛。内部深受王朝纷争的困扰，正值国力衰弱之际，多个敌国虎视眈眈，伺机侵犯我国边疆。更令人忧心的是，随着[ShowReligionGroupName('muslim')]在[ShowRegionName('indonesia_region')]的迅速崛起，我国恐怕将很快失去在这一地区的影响力。"
  demak_progress: "[ShowReligionAdjectiveWithNoTooltip('sunni')]优势"
  SUNNI_POPS: "逊尼派人群"
@@ -152,9 +153,9 @@
  DEMAK_PROGRESS_GROWTH_TOOLTIP_TITLE: "提高$demak_progress$"
  DEMAK_PROGRESS_GROWTH_TITLE: "$demak_progress$"
  DEMAK_MONTHLY_CHANGE_HEADER: "$demak_progress$每月改变[Country.MakeScope.GetVariable('demak_progress_growth').GetValue|-=2%]。"
- DEMAK_MONTHLY_CHANGE_POP_SHARE: "[ShowReligionAdjective('sunni')]与[ShowReligionAdjective('hindu')]的信徒比例: [Country.MakeScope.GetVariable('maj_sunni_percentage').GetValue|-=2%]"
- DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT: "[stability]: [Country.MakeScope.GetVariable('maj_stability_impact').GetValue|-=2%]"
- DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT: "[legitimacy]: [Country.MakeScope.GetVariable('maj_legitimacy_impact').GetValue|-=2%]"
+ DEMAK_MONTHLY_CHANGE_POP_SHARE: "[ShowReligionAdjective('sunni')]与[ShowReligionAdjective('hindu')]的信徒比例：[Country.MakeScope.GetVariable('maj_sunni_percentage').GetValue|-=2%]"
+ DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT: "[stability]：[Country.MakeScope.GetVariable('maj_stability_impact').GetValue|-=2%]"
+ DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT: "[legitimacy]：[Country.MakeScope.GetVariable('maj_legitimacy_impact').GetValue|-=2%]"
  DEMAK_MONTHLY_CHANGE_BREAKDOWN: "$DEMAK_MONTHLY_CHANGE_POP_SHARE$\n$DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT$\n$DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT$"
  DEMAK_PROGRESS_GROWTH_HEADER: "$demak_progress$"
  DEMAK_PROGRESS_GROWTH_TOOLTIP: "$demak_progress$是[ShowReligionAdjective('sunni')][religion|e]在我们[Country.GetFlavorRank]普遍程度的指标。[ShowReligionAdjective('sunni')][pops|e]占比越高，$demak_progress$进度提升越快，进度达到#y 100.0%#!后，我们[dominant_religion|e]为[ShowReligionAdjective('sunni')]的所有[locations|e]会脱离建立$DEM$。"
@@ -163,8 +164,8 @@
  court_and_country: "宫廷与外省"
  court_and_country_desc: "加强中央集权的尝试在国内遭遇了激烈的反对，并最终引发了宫廷与外省之间全面的危机与冲突。然而，只要我们妥善应对这一危机，我国未来将比以往更加强大。"
  court_and_country_tips_header: "宫廷与外省灾难提示"
- court_and_country_tips_tt: "我们可通过以下方式提升[crown_power|e]: \n$BULLET_WITH_TAB$撤销[privileges|e]\n$BULLET_WITH_TAB$增强[locations|e]的[control|e]\n$BULLET_WITH_TAB$建造[ShowBuildingTypeName('counting_house')]\n$BULLET_WITH_TAB$提高我们的[legitimacy|e]\n$BULLET_WITH_TAB$实施某些[policies|e]"
- french_wars_of_religion_breakdown_tt: "我们[country|e]当前的[ShowReligionGroupAdjective('christian')][religions|e]占比\n[ShowReligionName('catholic')]: "
+ court_and_country_tips_tt: "我们可通过以下方式提升[crown_power|e]：\n$BULLET_WITH_TAB$撤销[privileges|e]\n$BULLET_WITH_TAB$增强[locations|e]的[control|e]\n$BULLET_WITH_TAB$建造[ShowBuildingTypeName('counting_house')]\n$BULLET_WITH_TAB$提高我们的[legitimacy|e]\n$BULLET_WITH_TAB$实施某些[policies|e]"
+ french_wars_of_religion_breakdown_tt: "我们[country|e]当前的[ShowReligionGroupAdjective('christian')][religions|e]占比\n[ShowReligionName('catholic')]："
  x_catholic: "[GetCountry('FRA').GetReligionPercentage(GetReligionByKey('catholic'))|%2][catholic|e][pops|e]"
  court_and_country_7_tt: "[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')]可能通过一个[event|e]拒绝缴税"
  court_and_country_8_tt: "可能在低稳定度时触发地方叛乱的[event|e]"
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "[ShowDisasterName('english_civil_war')]会结束"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "法兰西宗教战争"
- french_wars_of_religion_desc: "随着[ShowReligionGroupAdjective('christian')]新教派在[ShowContinentName('europe')]各地兴起和传播，我国社会内部的摩擦与矛盾即将达到沸点。现在，武装的狂热者、异端分子和正信的捍卫者针锋相对，可能将整个国家带入一系列冲突之中。"
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "尚未达到特定[religious_unity|e]或以实施[ShowPolicyName('edict_of_nantes')][policy|e]的方式结束这场灾难"
  lutheran_huguenots: "$lutheran_ADJ$胡格诺派"
  calvinist_huguenots: "$calvinist_ADJ$胡格诺派"

@@ -72,5 +72,5 @@
  war_of_religions.1400.a: "让我们看看[target_artist.GetSheHe]会以自己的名字发布什么作品。"
  war_of_religions.1400.b: "回去做[target_artist.GetHerHis]的流浪汉吧！"
  war_of_religions.1401.title: "$simplicius_simplicissimus$"
- war_of_religions.1401.desc: "[target_artist.GetName]终于发表了[target_artist.GetSheHe]称之为代表作的#italic 《德意志痴愚冒险者西木传》#!，简称$simplicius_simplicissimus$。\n\n这部小说讲述了一个冒险家的一生: 幼年失去家人，在[GetInternationalOrganization('hre').GetName]的宗教战争中服役，游历[ShowContinentName('europe')]各地的诸多奇遇，以及最终选择隐士生活的经历。[target_artist.GetNameWithNoTooltip]的这部作品是对昔日分裂帝国的战争进行的讽刺性描述，我们应当颂扬[target_artist.GetHerHis]为[ShowLanguageName('german_language')]语言所做的贡献。"
+ war_of_religions.1401.desc: "[target_artist.GetName]终于发表了[target_artist.GetSheHe]称之为代表作的#italic 《德意志痴愚冒险者西木传》#!，简称$simplicius_simplicissimus$。\n\n这部小说讲述了一个冒险家的一生：幼年失去家人，在[GetInternationalOrganization('hre').GetName]的宗教战争中服役，游历[ShowContinentName('europe')]各地的诸多奇遇，以及最终选择隐士生活的经历。[target_artist.GetNameWithNoTooltip]的这部作品是对昔日分裂帝国的战争进行的讽刺性描述，我们应当颂扬[target_artist.GetHerHis]为[ShowLanguageName('german_language')]语言所做的贡献。"
  war_of_religions.1401.a: "多么精彩又荒谬的故事！"

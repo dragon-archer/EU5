@@ -344,7 +344,7 @@
  pirate_stronghold: "해적 성채"
  pirate_stronghold_desc: "온갖 인간 말종과 악당, 간이 배 밖으로 나온 불법 사략 업자가 득시글거리는 해적 공화국의 심장부입니다."
  #Market Center
- entrepot: "중계 무역항"
+ entrepot: "무역 창고"
  trading_hub: "교역 중추"
  customs_house: "세관"
  stock_exchange: "증권 거래소"
@@ -872,7 +872,7 @@
  zeeland_admiralty_desc: "$dutch_admiralty_desc_common$"
  amsterdam_admiralty: "암스테르담 해군성"
  amsterdam_admiralty_desc: "$dutch_admiralty_desc_common$"
- library_of_vijayanagar: "비자야나가라 도서관"
+ library_of_vijayanagar: "$vijayanagar$ 도서관"
  library_of_vijayanagar_desc: "[ShowLocationName('vijayanagar')]를 대표하는 교육 중심지 중 하나로 자리 잡은 도서관으로, 백성들의 전반적인 교육 수준을 높입니다."
  city_of_victory: "승리의 도시"
  city_of_victory_desc: "남$india$의 승리를 대표하는 등불인 이 도시는 수많은 학자와 사절들이 [ShowLocationName('vijayanagar')] 문명을 보기 위해 찾아오는, 세계에서 가장 위대한 지역 중 한 곳에 자리 잡고 있습니다."

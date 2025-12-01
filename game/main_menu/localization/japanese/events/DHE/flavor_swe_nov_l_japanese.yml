@@ -54,7 +54,7 @@
  flavor_swe_nov.9.title: "論争終了！"
  flavor_swe_nov.9.desc: "[swedish_theologian.GetName]と[novgorod_country.GetAdjective]の神学者の論争が終了した。これは両国の信仰に影響を及ぼすことになる。"
  flavor_swe_nov.9.a: "彼らの言うとおりかもしれない……"
- flavor_swe_nov.9.a.tt: "#Y 神学論争#!は#Y 3日間#!で終了する。\n[sweden_country.GetAdjectiveWithNoTooltip]の神学者のスキル: [swedish_theologian.GetTotalAbility]\n[novgorod_country.GetAdjectiveWithNoTooltip]の神学者のスキル: [novgorodian_theologian.GetTotalAbility]"
+ flavor_swe_nov.9.a.tt: "#Y 神学論争#!は#Y 3日間#!で終了する。\n[sweden_country.GetAdjectiveWithNoTooltip]の神学者のスキル：[swedish_theologian.GetTotalAbility]\n[novgorod_country.GetAdjectiveWithNoTooltip]の神学者のスキル：[novgorodian_theologian.GetTotalAbility]"
  flavor_swe_nov.10.title: "論争に勝利した！"
  flavor_swe_nov.10.desc: "わが国の神学者が論争に勝利した！ これにより、我らの信仰こそがキリストの唯一の正しい教義であることが証明された！"
  flavor_swe_nov.10.desc.auto_win: "異教徒どもは論争に参加できなかった！ これにより、我らの信仰こそがキリストの唯一の正しい教義であることが証明された！"

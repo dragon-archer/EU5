@@ -5,7 +5,7 @@
  flavor_ere.1.b: "还不是时候。"
  declare_indep_war_tt: "这可能导致一场针对他们的#italic 独立战争#!！"
  flavor_ere.2.title: "[ShowRegionNameWithNoTooltip('anatolia_region')]问题"
- flavor_ere.2.desc: "在伊尔汗国覆灭之后，我们尽了最大的努力来控制混乱的局面。尽管如此，[target_character.GetName]统治下的臣民已经向我们发出了最后通牒。他们宣称: 除非我们能给予他们明确的自由，他们就将拿起武器让他们脱离我们的统治！"
+ flavor_ere.2.desc: "在伊尔汗国覆灭之后，我们尽了最大的努力来控制混乱的局面。尽管如此，[target_character.GetName]统治下的臣民已经向我们发出了最后通牒。他们宣称：除非我们能给予他们明确的自由，他们就将拿起武器让他们脱离我们的统治！"
  flavor_ere.2.a: "战争不可避免！"
  flavor_ere.2.b: "我们不能冒险与他们为敌，就这样吧……"
  flavor_ere.2.historical_info: "在14世纪中叶，埃雷特纳人的独立情绪愈发强烈，他们意在强化对安纳托利亚半岛的控制。而这必然导致他们同试图恢复伊尔汗国领土控制权的札剌亦儿王朝产生冲突。在谢赫大哈散及其继承人乌畏思的领导下，札剌亦儿王朝尝试将其影响力拓展至安纳托利亚，并维持突厥-蒙古人派系在当地的权威。"

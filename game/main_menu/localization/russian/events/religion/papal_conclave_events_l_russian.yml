@@ -14,7 +14,7 @@
  papal_conclave_events.3.a: "Примем предложение."
  papal_conclave_events.3.b: "Мы не станем вмешиваться в дела Святого Престола."
  papal_conclave_events.4.title: "Предложение принято"
- papal_conclave_events.4.desc: "[target_country.GetLongName] — это держава, куда мы отправили своего посланника. Он вернулся оттуда с отличными новостями. [target_country.GetGovernment.GetRulerTitle] [target_country.Custom('CL_RP')] принимает наше предложение и будет поддерживать нас на текущих выборах. Дипломатические связи между нашими державами укрепились."
+ papal_conclave_events.4.desc: "[target_country.GetLongName] — это держава, куда мы отправили своего посланника. Он вернулся оттуда с отличными новостями. [target_country.GetGovernment.GetRulerTitle] [target_country.Custom('CL_GEN')] принимает наше предложение и будет поддерживать нас на текущих выборах. Дипломатические связи между нашими державами укрепились."
  papal_conclave_events.4.a: "Благослови Господь эту державу."
  papal_conclave_events.5.title: "Предложение отклонено"
  papal_conclave_events.5.desc: "[target_country.GetLongName] — это держава, где правит [Select_CString(target_country.GetGovernment.GetRuler.IsFemale, 'многогрешная', 'многогрешный' )] [target_country.GetGovernment.GetRulerTitle|l]. [Select_CString(target_country.GetGovernment.GetRuler.IsFemale, 'Она отклонила', 'Он отклонил' )] наше предложение, повернувшись к нам спиной. Мы остались без поддержки этой державы, но такое нежелание исполнить волю Святого Престола не останется без последствий."

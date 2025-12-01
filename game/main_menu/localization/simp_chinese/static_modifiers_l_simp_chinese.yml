@@ -735,6 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "吉兆"
  STATIC_MODIFIER_DESC_good_omen_modifier: "适逢更新之时，气候温和、粮食充足，一切征兆皆表明众神心满意足。"
  #Ottomans
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "奥斯曼之梦"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "我们的命运是统治一个延续至世界尽头的帝国。"
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "艾赫兄弟会官僚"
@@ -1307,7 +1309,7 @@
  STATIC_MODIFIER_NAME_rebel_leader_modifier: "叛军领袖"
  STATIC_MODIFIER_DESC_rebel_leader_modifier: "此人不过是国家的祸源，拒绝以任何正面形式为国家效力。"
  STATIC_MODIFIER_NAME_rtr_support_of_the_people: "人民的支持"
- STATIC_MODIFIER_DESC_rtr_support_of_the_people: "作为脱离$YUA$独立的统治者，此人已获得人民的全力支持，无论是推翻还是拥护旧王朝。"
+ STATIC_MODIFIER_DESC_rtr_support_of_the_people: "作为脱离$YUA$独立的统治者，此人已获得人民的全力支持，无论其选择推翻还是拥护旧王朝。"
  STATIC_MODIFIER_NAME_rtr_yuanzhangs_leadership: "无可置疑的领导地位"
  STATIC_MODIFIER_DESC_rtr_yuanzhangs_leadership: "此人获得了全国上下的支持，并将抓住一切机会，谋求对[GetUniqueInternationalOrganization('middle_kingdom').GetName]的领导权。"
  STATIC_MODIFIER_NAME_chi_new_dynasty: "新朝崛起"
@@ -1346,11 +1348,11 @@
  STATIC_MODIFIER_NAME_chi_palace_branch: "殿院"
  STATIC_MODIFIER_NAME_chi_admonishment_branch: "台院"
  STATIC_MODIFIER_NAME_chi_touring_censors: "巡按御史"
- STATIC_MODIFIER_NAME_chi_recommendation_legalism: "祖训: 法家要义"
- STATIC_MODIFIER_NAME_chi_recommendation_invasions: "祖训: 不征之国"
- STATIC_MODIFIER_NAME_chi_recommendation_traitors: "祖训: 肃清内患"
- STATIC_MODIFIER_NAME_chi_recommendation_public_works: "祖训: 营缮规制"
- STATIC_MODIFIER_NAME_chi_recommendation_legislation: "祖训: 变法精要"
+ STATIC_MODIFIER_NAME_chi_recommendation_legalism: "祖训：法家要义"
+ STATIC_MODIFIER_NAME_chi_recommendation_invasions: "祖训：不征之国"
+ STATIC_MODIFIER_NAME_chi_recommendation_traitors: "祖训：肃清内患"
+ STATIC_MODIFIER_NAME_chi_recommendation_public_works: "祖训：营缮规制"
+ STATIC_MODIFIER_NAME_chi_recommendation_legislation: "祖训：变法精要"
  STATIC_MODIFIER_NAME_chi_eunuchs: "宦官临门"
  STATIC_MODIFIER_NAME_chi_grand_encyclopedia: "大典编纂"
  STATIC_MODIFIER_NAME_chi_salt_black_market: "黑$salt$市"
@@ -1724,6 +1726,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "限制农民权力"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "主张地方权威"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "免税政策"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "立法机构恢复"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "士气下降"
@@ -1852,6 +1856,7 @@
  #Nahua Reform
  STATIC_MODIFIER_NAME_major_push_for_reform: "全面改革推动"
  STATIC_MODIFIER_NAME_nahuatl_temple_expansion_modifier: "神殿扩建"
+ nahuatl_temple_expansion_modifier: "[ShowModifier('nahuatl_temple_expansion_modifier')]"
  #Muscovy
  STATIC_MODIFIER_NAME_siege_artillery_engineer: "任命炮兵指挥官"
  #Hussite Wars
@@ -1985,6 +1990,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "马穆鲁克指挥官"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "整合斯科讷"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "宾夕法尼亚的行政管理"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "“三姐妹”丰收"

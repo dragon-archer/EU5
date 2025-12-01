@@ -54,7 +54,7 @@
  parliaments.15.title: "La carga de [target_location.GetNameWithNoTooltip]"
  parliaments.15.desc: "Muchos habitantes de [target_location.GetName] han quedado bastante decepcionados con la propuesta de aumentar nuestros esfuerzos en infraestructura marítima. Tienen la sensación de que la región ya contribuye de sobra a las fuerzas armadas de nuestro país y esperaban que la cámara ([ROOT.GetCountry.GetGovernment.GetParliament.GetName]) autorizase más fondos discrecionales para ellos, en lugar de pedir más dinero para la armada."
  parliaments.15.a: "[ROOT.GetCountry.Custom('common_string_negative')]"
- parliaments.15.a.tt: "Todas nuestras [pops|e|l] de [target_location.GetName] perderán un [ShowNamedValue('pop_satisfaction_weak_penalty')|+=2%] de [pop_satisfaction|e|l]."
+ parliaments.15.a.tt: "Todas nuestras [pops|el] de [target_location.GetName] perderán un [ShowNamedValue('pop_satisfaction_weak_penalty')|+=2%] de [pop_satisfaction|el]."
  parliaments.16.title: "Dominio marítimo en [target_location.GetNameWithNoTooltip]"
  parliaments.16.desc: "El dominio de la armada en [target_location.GetName] ha acarreado que la propuesta de la cámara ([ROOT.GetCountry.GetGovernment.GetParliament.GetName]) de aumentar el gasto en el ejército de tierra haya sido recibida con bastante frialdad. A pesar de haber sido favorables a la propuesta en un principio, ahora los miembros de la cámara de esa zona no ven más opción que votar en contra."
  parliaments.16.a: "[ROOT.GetCountry.Custom('common_string_negative')]"

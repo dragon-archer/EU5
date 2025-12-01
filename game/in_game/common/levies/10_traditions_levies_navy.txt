@@ -1,5 +1,5 @@
 ﻿levy_fishing_boat = {
-	size = 0.005
+	size = levy_ship_size
 	
 	#these guys own the boats. 1 burgher per boat
 	allow = {
@@ -12,4 +12,26 @@
 	}
 
 	unit = n_fishing_boat
+}
+
+levy_birlinn = {
+	size = levy_ship_size_special
+	
+	#these guys own the boats. 1 noble per boat
+	allow = {
+		pop_type = pop_type:nobles
+		culture.language = language:gaelic_language
+	}
+
+	#crew members. Number per boat is set by the sub unit definition
+	allow_as_crew = {
+		OR = {
+			pop_type = pop_type:peasants
+			pop_type = pop_type:tribesmen
+			pop_type = pop_type:laborers
+			pop_type = pop_type:slaves
+		}
+	}
+
+	unit = n_birlinn
 }

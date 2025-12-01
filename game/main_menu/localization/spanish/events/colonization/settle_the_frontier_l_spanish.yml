@@ -7,7 +7,7 @@
  settle_the_frontier.2.desc: "Si bien [from_province.GetName] es la provincia capital de [target_country.GetName], algunos de sus residentes desean buscar nuevas oportunidades en [target.GetName], cuyas tierras está explorando [target_character.GetName]."
  settle_the_frontier.2.a: "Dejemos que empiecen una nueva vida en la provincia."
  settle_the_frontier.2.b: "Mejoremos su situación en la capital."
- settle_the_frontier.2.b.tt: "Ninguna de las [pops|e|l] migrará a [target.GetName] el año que viene."
+ settle_the_frontier.2.b.tt: "Ninguna de las [pops|el] migrará a [target.GetName] el año que viene."
  settle_the_frontier.3.title: "Expansión cultural"
  settle_the_frontier.3.desc: "Durante la colonización de [target.GetName], [recipient.GetName] ha entrado junto a sus seguidores en contacto con la población nativa de estas tierras. Solicita apoyo [actor.GetAdjective|l] para difundir los ideales [target_culture.GetName|l] entre los nativos."
  settle_the_frontier.3.a: "Llevemos algunas de nuestras mejores historias y obras de arte a [target.GetNameWithNoTooltip]."

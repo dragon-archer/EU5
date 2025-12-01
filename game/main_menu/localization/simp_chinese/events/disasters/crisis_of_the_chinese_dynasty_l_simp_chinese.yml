@@ -10,7 +10,7 @@
  crisis_of_the_chinese_dynasty.3.title: "重膺天眷"
  crisis_of_the_chinese_dynasty.3.desc: "动荡时期终告结束！那些曾密谋颠覆我朝、乐见我邦倾覆的宵小之辈，如今已销声匿迹！艰难岁月将国民意志淬炼得坚不可摧，即便面临上天最严峻的考验也能从容应对。\n\n笑看落日余晖，让我们以缔造[ROOT.GetCountry.GetFlavorRank]辉煌的坚定信念，迎接崭新黎明的到来。"
  crisis_of_the_chinese_dynasty.3.a: "我等天命未绝！"
- based_on_current_celestial_authority_tt: "根据我们当前的[celestial_authority_gc|e]: "
+ based_on_current_celestial_authority_tt: "根据我们当前的[celestial_authority_gc|e]："
  crisis_of_the_chinese_dynasty.4.title: "农民抗税"
  crisis_of_the_chinese_dynasty.4.desc: "对于[target_province.GetName]的民众而言，即使是在最好的年景，他们也仅仅能艰难地维持生计罢了。而随着最近的动荡由[ROOT.GetCountry.GetGovernment.GetCourtTitle]蔓延到[ROOT.GetCountry.GetFlavorRank]的几乎每个省份，那些曾经向[target_character.GetName]屈膝称尊的人们，现在也拒绝缴纳即便是最低限度的钱税和粮赋。"
  crisis_of_the_chinese_dynasty.4.a: "武力征收粮赋。"

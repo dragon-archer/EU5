@@ -42,7 +42,7 @@
  MIL_SCORE_ARMY: "[Concept('army','Армия')|e]: $VAL|+=2$"
  MIL_SCORE_DISCIPLINE: "[Concept('discipline','Дисциплина')|e]: $VAL|+=2$"
  MIL_SCORE_EXHAUSTION: "[Concept('war_exhaustion','Усталость от войны')|e]: $VAL|+=2$"
- ENDGAME_SCORE: "Наш итоговый [Concept('score','счёт')|e] составил [Player.GetScore.GetScore|2]"
+ ENDGAME_SCORE: "Наш итоговый [Concept('score','счёт')|e] составил [Player.GetScore.GetScore|0]"
  SORT_BY_RANK_TT: "Сортировать по рангу [Concept('score','счёта')|e]"
  SORT_SCORE_RANK: "Ранг"
  SORT_SCORE_NAME: "Держава"

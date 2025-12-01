@@ -98,7 +98,7 @@
  AGENDA_SKIP_AGENDA_SETTING: "Ne pas montrer la Situation en début de partie."
  AGENDA_HISTORICAL_CONTEXT: "Contexte historique"
  AGENDA_WALKTHROUGH_DISABLED_MISSIONS: "@trigger_no! Vous ne pouvez pas exécuter le didacticiel si les missions sont désactivées. Activez-les dans les Règles de la partie du menu principal."
- AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! Quittez d'abord la partie pour relancer le didacticiel."
+ AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! La navigation fonctionne."
  # Map
  SETTING_DRAW_TERRAIN: "Afficher le terrain"
  SETTING_DRAW_WATER: "Afficher l'eau"

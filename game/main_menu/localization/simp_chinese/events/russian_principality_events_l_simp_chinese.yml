@@ -3,7 +3,7 @@
  russian_principality_events.2.desc: "长时间的和平与稳定使得归属于大型修道院和波雅尔领地的农民开始采用更现代化的农耕技术。虽然刀耕火种在我国的大部分地区仍然常见，但随着作物轮作的推广，我国部分地区的人口正在显著增长。"
  russian_principality_events.2.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  russian_principality_events.3.title: "小领主"
- russian_principality_events.3.desc: "随着鞑靼征服的记忆的渐行渐远以及[ROOT.GetCountry.GetGovernment.GetRulerTitle]直领土地的扩张，情况已愈发明显: 我们需要更多的小领主。根据传统，拥有土地的贵族是获得这一特权的主要人选，即使分配的是小面积的土地。但更高的内部稳定度使得我们也可以提拔其他身份的人来处理这些土地上的经济和农业问题。"
+ russian_principality_events.3.desc: "随着鞑靼征服的记忆的渐行渐远以及[ROOT.GetCountry.GetGovernment.GetRulerTitle]直领土地的扩张，情况已愈发明显：我们需要更多的小领主。根据传统，拥有土地的贵族是获得这一特权的主要人选，即使分配的是小面积的土地。但更高的内部稳定度使得我们也可以提拔其他身份的人来处理这些土地上的经济和农业问题。"
  russian_principality_events.3.a: "我们要继续支持波雅尔。"
  russian_principality_events.3.b: "我们要把土地分给小地主。"
  russian_principality_events.4.title: "征用土地"

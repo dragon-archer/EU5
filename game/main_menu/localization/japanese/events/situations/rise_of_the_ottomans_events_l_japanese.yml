@@ -54,7 +54,7 @@
  rise_of_the_ottomans.207.desc: "幾度もの征服により、わが国の民に莫大な富がもたらされた。いまは、この富を保護することが我々の優先課題である。我々の王冠に輝く[target_location.GetName]という宝石は、わが国の成功を示す輝かしい例であり、地域で拡大する権威の象徴である。現地の[ShowBuildingTypeName('bey_fortress')]が竣工したことで、この都市の輝きはさらに増した。ここは時代を超えて重要な地となるだろう。"
  rise_of_the_ottomans.200.title: "旧帝国の首都"
  rise_of_the_ottomans.200.a: "さらなる高みへの道が拓かれんことを！"
- based_on_target_location_splendor_and_importance_tt: "[location_importance|e]に応じた[target_location.GetNameWithNoTooltip]: "
+ based_on_target_location_splendor_and_importance_tt: "[location_importance|e]に応じた[target_location.GetNameWithNoTooltip]："
  rise_of_the_ottomans.108.title: "[GetCountry('BYZ').GetNameWithNoTooltip]との外交"
  rise_of_the_ottomans.108.desc: "わが国は、その歴史の大部分において、[GetCountry('BYZ').GetLongName]とある程度の交流がある。かつてほどの栄光や力はないものの、それでもなお[GetCountry('BYZ').GetLongName]は[ShowLocationName('bosphorus')]地域で強大な存在感を示している。しかし、両国の宮廷の力関係には偏りがあるため、我々は彼らに何かと要求できる特殊な立場にある。これを利用して、この地方における我々の地位を高めることもできるだろう……"
  rise_of_the_ottomans.108.a: "[ShowRegionNameWithNoTooltip('anatolia_region')]における我々の支配力を認めさせよう。"

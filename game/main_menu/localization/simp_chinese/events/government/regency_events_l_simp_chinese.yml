@@ -15,7 +15,7 @@
  regencies.3.a: "我们必须马上结束这一切。"
  regencies.3.c: "也没有那么糟。"
  regencies.4.title: "像是在说梦话"
- regencies.4.desc: "在阻止[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName]继续搞乱国家的尝试失败后，[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetHerHim]的疑心无疑得到了证实，这进一步损害了[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetHerHis]的心智。即使是多番质问宫廷中的近臣还不够，[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName]还经常带着[ROOT.GetCountry.GetGovernment.GetAdjective]护卫不宣而至，闯入他们的房间肆意搜查。当他们的东西被搜查时，也只能得到[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetHerHim]冷冰冰的回复: “我必须这么做。”"
+ regencies.4.desc: "在阻止[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName]继续搞乱国家的尝试失败后，[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetHerHim]的疑心无疑得到了证实，这进一步损害了[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetHerHis]的心智。即使是多番质问宫廷中的近臣还不够，[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName]还经常带着[ROOT.GetCountry.GetGovernment.GetAdjective]护卫不宣而至，闯入他们的房间肆意搜查。当他们的东西被搜查时，也只能得到[ROOT.GetCountry.GetGovernment.GetActiveRegent.GetHerHim]冷冰冰的回复：“我必须这么做。”"
  regencies.4.a: "这是唯一的办法。"
  regencies.5.title: "歪风邪气"
  regencies.5.desc: "金子是危险的东西，那诱人的光亮没人能够抵抗。它潜伏在阴影中，吸引着不知情的傻瓜看向它招致毁灭的光芒，它那金光闪闪的圆润如同恶魔的双眼。[target_character.GetName]对这种危险的感觉并不陌生，[target_character.GetHerHis]面露愠色，拼命找寻一切可供把玩的玩具，[target_character.GetHerHis]手指搜刮着每一个抽屉、每一个口袋，就像[target_character.GetHerHis]的手是弥达斯的点石成金之手一样。\n\n与此同时，我们的国家则在受苦，民众慢慢陷入绝望，却只能张开饥饿的嘴祈祷。"

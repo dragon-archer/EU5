@@ -5,7 +5,7 @@
  time_of_troubles.1.historical_info: "大动乱时代始于1598年，随着统治长达700年的留里克王朝末代沙皇费奥多尔·伊万诺维奇的逝世而开启，直至1613年罗曼诺夫王朝的米哈伊尔·费奥多罗维奇登基才告结束。在这一时期，国家经历了饥荒和瘟疫的肆虐，民众起义频发，以及僭主的频繁更迭，导致了长达十年的动荡不安。此外，瑞典、波兰等邻国也趁机介入了俄罗斯的内政事务。"
  time_of_troubles.1.a: "我们的坚韧将带领我们渡过难关。"
  time_of_troubles.2.title: "精神错乱"
- time_of_troubles.2.desc: "在过去的几个月里，[target_character.GetShortName]的异常行为逐渐引起了[ROOT.GetCountry.GetGovernment.GetCourtTitle]以及整个[ROOT.GetCountry.GetFlavorRank]的深切担忧。最初只是些微的古怪举止，现在已经演变成难以预料的破坏性行为，使得宫廷的廷臣和顾问们感到不安。\n\n在私下议论中，有人断言[target_character.GetSheHe]已经完全失去了理智: [target_character.GetHerHis]表现出异常的愤怒、荒谬的决策以及与现实严重脱节的行为。目前，整个国家都笼罩在沉重的疑问之下——这种混乱局面还能持续多久，才会彻底破坏统治的基础？"
+ time_of_troubles.2.desc: "在过去的几个月里，[target_character.GetShortName]的异常行为逐渐引起了[ROOT.GetCountry.GetGovernment.GetCourtTitle]以及整个[ROOT.GetCountry.GetFlavorRank]的深切担忧。最初只是些微的古怪举止，现在已经演变成难以预料的破坏性行为，使得宫廷的廷臣和顾问们感到不安。\n\n在私下议论中，有人断言[target_character.GetSheHe]已经完全失去了理智：[target_character.GetHerHis]表现出异常的愤怒、荒谬的决策以及与现实严重脱节的行为。目前，整个国家都笼罩在沉重的疑问之下——这种混乱局面还能持续多久，才会彻底破坏统治的基础？"
  time_of_troubles.2.a: "让[target_character.GetShortNameWithNoTooltip]继续掌权。"
  time_of_troubles.2.b: "我们信任由[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]所支持的[target_character_2.GetShortNameWithNoTooltip]！"
  time_of_troubles.3.title: "禁年法令"

@@ -11,7 +11,7 @@
  noble_marriage.3.desc: "$noble_marriage.1.desc$"
  noble_marriage.3.a: "¡No hay otra opción!"
  noble_marriage.3.b: "¡Solo servirá alguien de sangre real!"
- valid_female_of_ruler_dynasty: "Es un [character|e|l] femenino válido de su [dynasty|e|l]"
+ valid_female_of_ruler_dynasty: "Es un [character|el] femenino válido de su [dynasty|el]"
  noble_marriage.4.title: "Vínculos más estrechos con la casa de [male_target.GetDynasty.GetNameWithNoTooltip]"
  noble_marriage.4.desc: "En un esfuerzo por emparentar a su familia con los [ROOT.GetCountry.GetGovernment.GetRuler.GetDynasty.GetName], [male_target.GetDynasty.GetDynastyHead.GetName] se ha ofrecido a contraer matrimonio con [female_target.GetName]."
  noble_marriage.4.a: "Es ventajoso para [ROOT.GetCountry.GetLongNameWithNoTooltip|l]."

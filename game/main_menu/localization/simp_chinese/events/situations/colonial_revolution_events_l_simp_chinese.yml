@@ -34,7 +34,7 @@
  colonial_revolution.9.title: "对[target_character.GetLastNameWithNoTooltip]的未遂暗杀"
  colonial_revolution.9.desc: "有人企图暗杀[target_character.GetName]，但[target_character.GetSheHe]侥幸逃脱。行刺者被抓获后，在审讯中供认了其与我们的宗主[target_overlord.GetName]的密探有关！这场阴谋反而增强了[target_character.GetShortNameWithNoTooltip]的影响力，使[target_character.GetHerHim]成为活生生的传奇，同时让[target_overlord.GetNameWithNoTooltip]在[target_country.GetFlavorRank]许多人眼中沦为恶棍。"
  colonial_revolution.10.title: "要求罢免"
- colonial_revolution.10.desc: "[ROOT.GetCountry.GetFlavorRank]内部日益壮大的派系要求罢免[target_character.GetName]——这位[ROOT.GetCountry.GetGovernment.GetCabinetTitle]成员被认为过度效忠[target_overlord.GetName]且敌视地方自治。指控内容从贪污腐败到公然从事间谍活动不等。诉求很明确: 必须将[target_character.GetSheHe]免职并移交[target_overlord.GetName]。"
+ colonial_revolution.10.desc: "[ROOT.GetCountry.GetFlavorRank]内部日益壮大的派系要求罢免[target_character.GetName]——这位[ROOT.GetCountry.GetGovernment.GetCabinetTitle]成员被认为过度效忠[target_overlord.GetName]且敌视地方自治。指控内容从贪污腐败到公然从事间谍活动不等。诉求很明确：必须将[target_character.GetSheHe]免职并移交[target_overlord.GetName]。"
  colonial_revolution.10.a: "寄出一封包含我们请求的信件。"
  colonial_revolution.10.b: "这件事我们会内部处理。"
  colonial_revolution.11.title: "[target_country.GetNameWithNoTooltip]要求我们引渡[target_character.GetLastNameWithNoTooltip]回国"

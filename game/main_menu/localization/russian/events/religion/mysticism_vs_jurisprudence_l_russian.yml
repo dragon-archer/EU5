@@ -56,7 +56,7 @@
  mysticism_vs_jurisprudence.14.a: "Кофе и табак следует запретить."
  mysticism_vs_jurisprudence.14.b: "Пусть пьют свой кофе."
  mysticism_vs_jurisprudence.15.title: "Популярность суфиев в провинции [new_province.GetNameWithNoTooltip]"
- mysticism_vs_jurisprudence.15.desc: "Некоторые из крупных суфийских орденов #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_RP')|L]#!#! развернули бурную деятельность в недавно присоединённой провинции [new_province.GetName]. Местные жители пока сомневаются в [ROOT.GetCountry.GetAdjectiveWithNoTooltip|l]ой власти, но уже доверяют суфиям, что заметно облегчает интеграцию новых земель в наше государство."
+ mysticism_vs_jurisprudence.15.desc: "Некоторые из крупных суфийских орденов #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#! развернули бурную деятельность в недавно присоединённой провинции [new_province.GetName]. Местные жители пока сомневаются в [ROOT.GetCountry.GetAdjectiveWithNoTooltip|l]ой власти, но уже доверяют суфиям, что заметно облегчает интеграцию новых земель в наше государство."
  mysticism_vs_jurisprudence.15.a: "Вместо этого мы должны укреплять законную власть."
  mysticism_vs_jurisprudence.15.b: "Это замечательно."
  mysticism_vs_jurisprudence.16.title: "Пренебрежение шариатом?"

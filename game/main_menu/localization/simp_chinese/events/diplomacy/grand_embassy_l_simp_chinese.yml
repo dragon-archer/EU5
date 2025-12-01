@@ -37,6 +37,6 @@
  grand_embassy.6.b: "我们的陆军会从中受益！"
  grand_embassy.6.c: "我们的海军会从中受益！"
  grand_embassy.7.title: "特使团访问成果丰硕"
- grand_embassy.7.desc: "访问[embassy_country.GetCapital.GetCapitalName]使我国获益匪浅，不过是时候继续前行了。唯一的问题是: 去哪？"
+ grand_embassy.7.desc: "访问[embassy_country.GetCapital.GetCapitalName]使我国获益匪浅，不过是时候继续前行了。唯一的问题是：去哪？"
  grand_embassy.7.a: "我们应该继续访问其他国家。"
  grand_embassy.7.b: "是时候回国了。"

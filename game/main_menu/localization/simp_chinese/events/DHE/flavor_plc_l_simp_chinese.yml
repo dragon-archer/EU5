@@ -58,7 +58,7 @@
  flavor_plc.12.c: "改善贵族生活水平更为重要。"
  STATIC_MODIFIER_NAME_plc_zaluski_library_modifier: "扎武斯基图书馆"
  flavor_plc.13.title: "骑士学校"
- flavor_plc.13.desc: "[ROOT.GetCountry.GetGovernment.GetParliament.GetName]近期批准了在[target_location.GetName]建立新精英学校的计划。建设工作如期推进，但关于建筑用途方面出现了争议: 学校是按惯例专供精英阶层，还是采取更注重才能的录取方式。"
+ flavor_plc.13.desc: "[ROOT.GetCountry.GetGovernment.GetParliament.GetName]近期批准了在[target_location.GetName]建立新精英学校的计划。建设工作如期推进，但关于建筑用途方面出现了争议：学校是按惯例专供精英阶层，还是采取更注重才能的录取方式。"
  flavor_plc.13.a: "仅限[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]入学。"
  flavor_plc.13.b: "学校向所有人开放。"
  flavor_plc.13.c: "不必理会[ROOT.GetCountry.GetGovernment.GetParliament.GetName]。"

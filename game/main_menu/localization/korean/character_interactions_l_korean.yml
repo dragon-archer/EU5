@@ -106,7 +106,7 @@
  pap_reassign_cleric: "성직자 재배치"
  pap_reassign_cleric_concept: "[character|e]"
  pap_reassign_cleric_act: "$pap_reassign_cleric$"
- pap_reassign_cleric_desc_specific: "모든 [ShowReligionAdjective('catholic')] 성직자에 대한 수위권을 보유하고 있기 때문에, 우리는 [recipient.GetName](이)가 [recipient.GetCountry.GetName](을)를 떠나 다른 [country|e]로 향하도록 재배치할 수 있습니다. 이에 드는 비용은 해당 성직자의 [total_ability|e]에 비례합니다. 또한, 성직자가 재배치될 [country]에 해당 인물의 [mil|e]에 비례하는 [spy_network|e]을 구축합니다."
+ pap_reassign_cleric_desc_specific: "모든 [ShowReligionAdjective('catholic')] 성직자에 대한 수위권을 보유하고 있기 때문에, 우리는 [recipient.GetName](이)가 [recipient.GetCourtCountry.GetName](을)를 떠나 다른 [country|e]로 향하도록 재배치할 수 있습니다. 이에 드는 비용은 해당 성직자의 [total_ability|e]에 비례합니다. 또한, 성직자가 재배치될 [country]에 해당 인물의 [mil|e]에 비례하는 [spy_network|e]을 구축합니다."
  pap_reassign_cleric_desc: "해당 [character|e]이 우리 [country|e]를 떠나 다른 국가에 재배치됩니다. 이에 드는 비용은 인물의 [total_ability|e]에 따라 달라지며, 해당 인물의 [mil|e]은 재배치되는 국가에 구축될 [spy_network|e]의 수준을 결정합니다."
  pap_reassign_cleric_past: "[recipient.GetNameWithNoTooltip](이)가 재배치되었습니다."
  pap_reassign_cleric_act_past: "[recipient.GetName](은)는 [actor.GetLongName]에 의해 재배치되었습니다."

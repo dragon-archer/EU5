@@ -36,7 +36,7 @@
  conquest_mission_events.7.a: "Intensifions les efforts d'intégration."
  conquest_mission_events.7.b: "Tentons de respecter les habitants."
  locals_in_target_province_gain_mild_satisfaction_tt: "Nos [pops|e] de [target_province.GetName] gagneront [ShowNamedValue('pop_satisfaction_mild_bonus')|+=2%] de [pop_satisfaction|e]"
- locations_in_target_province_receive_very_weak_bonus_integration_tt: "L'[integration|e] des [locations|e] de la [province|e] que nous sommes en train d'[integrating|e|l] progressera de [ShowNamedValue('integration_progress_very_weak_bonus')|+=]."
+ locations_in_target_province_receive_very_weak_bonus_integration_tt: "L'[integration|e] des [locations|e] de la [province|e] que nous sommes en train d'[integrating|el] progressera de [ShowNamedValue('integration_progress_very_weak_bonus')|+=]."
  conquest_mission_events.8.title: "Résistance à l'intégration dans la province de [target_province.GetNameWithNoTooltip]"
  conquest_mission_events.8.desc: "La résistance dans la province de [target_province.GetName] reste forte. À [target_location.GetName], les autorités font état d'une défiance croissante à l'égard de notre autorité et de nos politiques.\n\nLes dirigeants locaux sapent nos réformes, et nos bannières sont traitées avec dédain. La population s'accroche aux anciennes coutumes, et nos efforts pour l'assimiler sont accueillis par le silence ou un mépris non dissimulé."
  conquest_mission_events.8.a: "Leurs efforts sont vains !"

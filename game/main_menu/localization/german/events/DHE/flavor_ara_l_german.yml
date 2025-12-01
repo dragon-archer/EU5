@@ -164,7 +164,7 @@
  flavor_ara.201.title: "[GetCountry('ARA').GetAdjectiveWithNoTooltip|U]e Tyrannei"
  flavor_ara.201.desc: "Unser grausamer Suzerän, [GetCountry('ARA').GetGovernment.GetRuler.GetName], hat [majorca_ruler.GetName] formell beschuldigt, durch das Prägen eigener Münzen gegen [GetCountry('ARA').GetAdjective|l]es Recht zu verstoßen, und ignoriert damit bewusst unsere uralte Tradition der Münzprägung aus unseren Besitztümern in Roussillon.\n\nSie fordern, dass [majorca_ruler.GetName] nach [target_location.GetName] kommt, um sich vor Gericht zu verantworten. Sollten wir ihren Anweisungen nicht Folge leisten, so drohen sie uns damit, uns zu einem rebellischen Vasallen zu erklären."
  flavor_ara.201.a: "Wir haben kein Gesetz gebrochen und nichts zu befürchten."
- flavor_ara.201.b: "[GetCountry('ARA').GetGovernment.GetRuler.GetShortName] ist gierig, aber schwach. [GetCountry('ARA').GetGovernment.GetRuler.Custom('DE_PRO_PER_S_3P_D')|U] etwas Land zu geben, wird [GetCountry('ARA').GetGovernment.GetRuler.Custom('DE_PRO_PER_S_3P_A')] besänftigen."
+ flavor_ara.201.b: "[GetCountry('ARA').GetGovernment.GetRuler.GetShortName] ist gierig, aber schwach. Etwas Land zu erhalten, wird [GetCountry('ARA').GetGovernment.GetRuler.GetHerHim] besänftigen."
  flavor_ara.201.c: "Das ist eine Falle! Wir müssen uns vorbereiten und uns von der Tyrannei befreien."
  flavor_ara.202.title: "In die Falle gegangen"
  flavor_ara.202.desc: "[majorca_ruler.GetName] ist nach [target_location.GetName] gekommen, um sich für [majorca_ruler.Custom('DE_PRO_POS_S_3P')]e Verbrechen zu verantworten. Unsere Wachen haben [majorca_ruler.Custom('DE_PRO_PER_S_3P_A')] bereits in Gewahrsam genommen. Wie sollen wir mit [majorca_ruler.Custom('DE_PRO_PER_S_3P_D')] weiter verfahren?"

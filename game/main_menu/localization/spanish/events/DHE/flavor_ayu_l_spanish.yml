@@ -16,7 +16,7 @@
  flavor_ayu.4.title: "Reformas económicas de [target_ruler.GetNameWithNoTooltip|l]"
  flavor_ayu.4.desc: "[target_ruler.GetName] ha propuesto diversas reformas para el comercio y el bienestar económico en [ROOT.GetCountry.GetFlavorRank|l]. Aunque el comercio a través de nuestro país ya es sustancial, la mejora de las rutas y de la economía general de nuestra tierra puede revertir en mayores beneficios a largo plazo para nuestro pueblo."
  flavor_ayu.4.a: "El comercio debe fluir."
- flavor_ayu.4.a.tt: "Muchas de nuestras [locations|e|l] ganarán [ShowNamedValue('development_weak_bonus')|+=] de [development|e|l]."
+ flavor_ayu.4.a.tt: "Muchas de nuestras [locations|el] ganarán [ShowNamedValue('development_weak_bonus')|+=] de [development|el]."
  flavor_ayu.4.b: "Demasiada intervención podría alterar el comercio."
  flavor_ayu.5.title: "La Fundación del moderno Estado de los [ROOT.GetCountry.GetCulture.GetNameWithNoTooltip|l]"
  flavor_ayu.5.desc: "[target_ruler.GetName] destaca como gobernante en la larga historia de nuestro país, ya que su liderazgo es verdaderamente ilustrado. Su objetivo es que [ROOT.GetCountry.GetName] esté a la altura de los imperios más grandes de la historia, y ha puesto sus ojos en colocar [ROOT.GetCountry.GetFlavorRank|l] en un nuevo rumbo. Desea refundar el Estado trasladando su capital un poco más al sur de [target_location.GetName] y emprendiendo una profunda reforma administrativa."

@@ -14,7 +14,7 @@
  flavor_swe_nov.3.b: "Burlémonos del teólogo."
  flavor_swe_nov.3.c: "¡Aceptamos el debate teológico!"
  flavor_swe_nov.3.c.tt: "Aceptaremos el #Y debate teológico#! contra [sweden_country.GetName]"
- can_choose_theologian_for_duel_tt: "El debate estará en el #Y primer año! y tenemos que elegir un [character|e|l] para que nos represente.\n#Y El [ruler|e|l] del bando perdedor tiene que convertirse a la [religion|e|l] del bando ganador.#!\nDesbloquea la interacción de personaje [ShowCharacterInteractionName('choose_theologian_duelist')]"
+ can_choose_theologian_for_duel_tt: "El debate estará en el #Y primer año! y tenemos que elegir un [character|el] para que nos represente.\n#Y El [ruler|el] del bando perdedor tiene que convertirse a la [religion|el] del bando ganador.#!\nDesbloquea la interacción de personaje [ShowCharacterInteractionName('choose_theologian_duelist')]"
  flavor_swe_nov.4.title: "¡[novgorod_country.GetNameWithNoTooltip] nos lleva a [GetCountry('BYZ').GetNameWithNoTooltip]!"
  flavor_swe_nov.4.desc: "[novgorod_country.GetNameWithNoTooltip] ha evitado el debate teológico propuesto, y nos insta a enviar a [swedish_theologian.GetName] a [target_location.GetName] para debatir con teólogos de fe [GetCountry('BYZ').GetAdjectiveWithNoTooltip|l], famosos por sus intrincados razonamientos religiosos, tras siglos de debates constantes sobre qué creencias pertenecen al [ShowReligionName('orthodox')|l] y cuáles son herejías."
  flavor_swe_nov.4.desc.no_byz: "¡[novgorod_country.GetNameWithNoTooltip] ha evitado el debate teológico propuesto y ha mancillado nuestro honor!"

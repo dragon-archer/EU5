@@ -78,3 +78,4 @@
  hre.801.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle] Öldü..."
  hre.801.desc: "[previous_emperor.GetName] yakın zamanda vefat etti. Şimdi [ShowSpecialStatusNamePlural('elector')] ve [ShowSpecialStatusNamePlural('archbishop_elector')], İmparatorluk Tahtı'na çıkacak olan Elektör Kurulu'nda bir araya geliyor."
  hre.801.a: "İmparatorluk için üzücü bir gün!"
+ hre_the_emperor_is_dead_tt: "The [GetInternationalOrganization('hre').GetName] will have to chose a new [GetUniqueInternationalOrganization('hre').GetLeaderTitle]!"

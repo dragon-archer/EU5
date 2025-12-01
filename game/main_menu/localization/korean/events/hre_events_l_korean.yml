@@ -78,3 +78,4 @@
  hre.801.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle]의 승하"
  hre.801.desc: "얼마 전 [previous_emperor.GetName]께서 승하하시고 말았습니다. 이제 [ShowSpecialStatusNamePlural('elector')]와 [ShowSpecialStatusNamePlural('archbishop_elector')]가 선제후 회의에 소집되어 과연 누가 다음 황위에 오를 것인지를 논의할 것입니다."
  hre.801.a: "제국에 있어 슬픈 날이로다!"
+ hre_the_emperor_is_dead_tt: "The [GetInternationalOrganization('hre').GetName] will have to chose a new [GetUniqueInternationalOrganization('hre').GetLeaderTitle]!"

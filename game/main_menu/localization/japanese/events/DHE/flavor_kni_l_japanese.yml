@@ -125,7 +125,7 @@
  flavor_kni.1000.title: "[ShowRegionNameWithNoTooltip('caribbean_region')]の財産の拡大"
  flavor_kni.1000.desc: "わが[ROOT.GetCountry.GetFlavorRank]は長きにわたり、地中海の異教徒に対する防波堤として立ちはだかってきたが、我々の野望をこの地域に限定する必要はない。すでに我々は[ShowRegionName('caribbean_region')]に拠点を確立し、その島々が資源に富み、主要な交易路に戦略的に配置されていることを知っている。[ROOT.GetCountry.GetFlavorRank]のなかには、[target_country.GetLongName]から島を購入することで我々の勢力を拡大すべきと提案する者もおり、[ROOT.GetCountry.GetGovernment.GetCabinetTitle]は[target_location.GetName]の購入に特に強い関心を示している。"
  flavor_kni.1000.a: "彼らに島を購入したいと提案せよ。"
- kni_if_target_agrees: "[target_country.GetName]が同意した場合: "
+ kni_if_target_agrees: "[target_country.GetName]が同意した場合："
  flavor_kni.1000.b: "その必要はない。"
  flavor_kni.1000.historical_info: "1651年、総長のジョヴァンニ・パオロ・ラスカリスの指揮のもと、ホスピタル騎士団はフランスの「#italic アメリカ諸島会社#!」からカリブ海の島をいくつか購入し、地中海を越えて勢力を拡大した。これにはセントクリストファー島、セント・マーチン島、サン・バルテルミー島、セント・クロイ島が含まれた。しかし、騎士団は兵站の困難、財政的負担、そしてヨーロッパの競争国からの脅威のため、その足場を維持するのに苦心した。騎士団は最終的に、1665年にカリブ海の島々をフランスに売却した。"
  #An Offer from the Knights
@@ -147,7 +147,7 @@
  flavor_kni.2000.title: "植民地の売却"
  flavor_kni.2000.desc: "[ShowRegionName('caribbean_region')]における我々の植民地支配に疑問が呈されている。ヨーロッパ諸国の競争激化、列強からの圧力、そして島々の領有を維持するための兵站および経済的な課題がその理由である。[ROOT.GetCountry.GetFlavorRank]のなかには、ヨーロッパの拠点の防衛に集中し、[ShowRegionNameWithNoTooltip('caribbean_region')]の領土を売却すべきだと考える者もいる。売却先として、すでにこの地域に拠点を構え、[ROOT.GetCountry.GetFlavorRank]と友好的な関係にある[target_country.GetName]を提案する者が多い。しかし、新大陸における我々の使命はまだ終わっておらず、植民地を放棄することは重大な誤りであると主張する者もいる。"
  flavor_kni.2000.a: "島々は大きな負担になっている。"
- flavor_kni.2000.a.t: "[target_country.GetName]が同意した場合: "
+ flavor_kni.2000.a.t: "[target_country.GetName]が同意した場合："
  flavor_kni.2000.b: "我々は植民地を堅持する！"
  flavor_kni.2000.historical_info: "1665年、ホスピタル騎士団はカリブ海のセントクリストファー島、セント・マーチン島、サン・バルテルミー島、セント・クロイ島をフランスに売却したが、これは植民地の維持の圧倒的な困難さが理由だった。これらの島々では、先住民、イングランド、オランダからの攻撃に対する防衛が難しいことが判明し、騎士団は島を維持するための財政的・軍事的資源を欠いていた。"
  #The Sale of the Colonies - Target Country

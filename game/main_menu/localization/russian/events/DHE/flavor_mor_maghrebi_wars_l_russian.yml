@@ -16,7 +16,7 @@
  flavor_mor_maghrebi_wars.1003.title: "$flavor_mor_maghrebi_wars.1001.title$"
  flavor_mor_maghrebi_wars.1003.desc: "Планам тех, для кого [dead_ruler_scope.GetName] оставался законным правителем, не суждено сбыться: наш мудрый союзник [ally_scope.GetName] отклоняет их предложение о присоединении."
  flavor_mor_maghrebi_wars.1003.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- flavor_mor_maghrebi_wars.1004.title: "Судьба [ROOT.GetCountry.Custom('CL_RP')]"
+ flavor_mor_maghrebi_wars.1004.title: "Судьба [ROOT.GetCountry.Custom('CL_GEN')]"
  flavor_mor_maghrebi_wars.1004.desc: "$flavor_mor_maghrebi_wars.1001.p1$\n\nСтремясь выжить, сторонники прежнего порядка попросили нас вторгнуться в их державу и помочь избавиться от узурпатора. Поразмыслив над этим предложением, [Select_CString(ruler_scope.IsFemale,'наша мудрая правительница','наш мудрый правитель')] [ruler_scope.GetName] [Select_CString(ruler_scope.IsFemale,'поняла','понял')], что нам суждено объединить все земли #TOOLTIP:REGION,maghreb_region,X #L Магриба#!#! и контролировать торговлю в Сахаре, как во времена Альмохадов."
  flavor_mor_maghrebi_wars.1004.a: "Нас ждёт славное будущее."
  flavor_mor_maghrebi_wars.1004.b: "Нет, мы останемся при своём."

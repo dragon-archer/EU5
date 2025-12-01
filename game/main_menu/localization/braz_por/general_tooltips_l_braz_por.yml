@@ -481,7 +481,7 @@
  UNIT_HIDDEN_TT_FROM_LAND: "[hidden|e] de [locations|e] de terras adjacentes."
  UNIT_HIDDEN_TT_FROM_LAND_AND_SEA: "[hidden|e] de [locations|e] e [seazones|e] de terras adjacentes."
  UNIT_HIDDEN_TT_FROM_SEA: "[hidden|e] de [seazones|e] de terras adjacentes."
- SIMPLE_PROVINCE_ICON_STATE_CAPITAL_TOOLTIP: "[Location.GetName] é a capital de [Location.GetProvince.GetName|Y] [Location.GetOwner.GetAdjective]."
+ SIMPLE_PROVINCE_ICON_STATE_CAPITAL_TOOLTIP: "[Location.GetName|Y] é a capital de [Location.GetProvince.GetName|Y] [Location.GetOwner.GetAdjective]."
  SIMPLE_PROVINCE_ICON_COUNTRY_CAPITAL_TOOLTIP: "[Location.GetName|Y] é a capital de @[Location.GetOwner.GetFlag]! [Location.GetOwner.GetName]."
  CHAR_INTERACTION_NOT_ADVANCE: "@trigger_no! Precisamos pesquisar $ADVANCE_LIST$ para [CHARACTER_INTERACTION.GetName]"
  UNIT_ABILITY_NOT_ADVANCE: "@trigger_no! Precisamos pesquisar $ADVANCE_LIST$ para [UNIT_ABILITY.GetName]"

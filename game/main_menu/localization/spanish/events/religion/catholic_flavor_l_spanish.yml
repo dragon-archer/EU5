@@ -79,7 +79,7 @@
  catholic_flavor.101.title: "Un cardenal nepote del [GetCountry('PAP').GetGovernment.GetRulerTitle|l]"
  catholic_flavor.101.desc: "[target_character.GetName] nos pide que nombremos a su familiar como cardenal de [cardinal_nephew_province.GetName]. Aunque es una práctica común, muchos lo ven como un nepotismo flagrante."
  catholic_flavor.101.a: "Aceptemos al cardenal nepote del [GetCountry('PAP').GetGovernment.GetRulerTitle|l]."
- catholic_flavor.101.a.tt: "Todo país con un [cardinal|e|l] obtiene [ShowBiasValue('opinion_popes_pet')|+=0] de [opinion|e|l] sobre [cardinal_nephew_country.GetName]"
+ catholic_flavor.101.a.tt: "Todo país con un [cardinal|el] obtiene [ShowBiasValue('opinion_popes_pet')|+=0] de [opinion|el] sobre [cardinal_nephew_country.GetName]"
  opinion_popes_pet: "Mascota del papa"
  catholic_flavor.101.b: "No facilitaremos el nepotismo en la Iglesia."
  catholic_flavor.102.title: "Cardenal nepote aceptado"

@@ -212,7 +212,7 @@
  GLD_f: "$GLD$"
  GLD_f_desc: "폴란드의 방대한 영토를 점유하는 데 성공했습니다. 이 지역을 직접 통치하는 대신, 우리를 대신할 구성국을 세우도록 합시다."
  DAH_f: "$DAH$"
- DAH_desc: "우리는 우리의 영토를 통합했으며, 이제 새로운 나라를 세워 외국의 영향에 저항할 수 있을 것입니다."
+ DAH_f_desc: "We have consolidated our territories and will now be able to establish a new country to resist foreign influences."
  IRO_f: "$IRO$"
  IRO_f_desc: "[ShowCultureGroupName('haudenosaunee_group')] 부족들은 오랫동안 하나의 연맹을 이루어 공존해 왔으나, 그 안의 각 부족은 자치권을 유지했습니다. 이제 다섯 부족이 하나의 부족을 중심으로 통솔되는 만큼, 새롭게 강화된 연맹의 시대가 열릴 것입니다."
  PUE_f: "$PUE$"

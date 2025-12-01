@@ -314,7 +314,7 @@
  flavor_sco.210.a: "拒绝[GetCountry('ENG').GetAdjectiveWithNoTooltip]的要求！"
  flavor_sco.210.b: "安抚[GetCountry('ENG').GetAdjectiveWithNoTooltip][GetCountry('ENG').GetGovernment.GetRulerTitle]，与[GetCountry('FRA').GetNameWithNoTooltip]断绝同盟关系。"
  flavor_sco.301.title: "内部分裂，旧敌未除"
- flavor_sco.301.desc: "自继位以来，[sco_ruler.GetName]始终面临一项艰难抉择: 既要平衡与[GetCountry('ENG').GetNameWithNoTooltip]的关系，又需应对自[target_character.GetName]带来宗教改革后[ROOT.GetCountry.GetName]的内部动荡。\n\n尽管[sco_ruler.GetShortNameWithNoTooltip]已竭力处理[ROOT.GetCountry.GetNameWithNoTooltip]的宗教冲突，但议会中的许多人仍批评[ROOT.GetCountry.GetGovernment.GetRulerTitle]过度关注[GetCountry('ENG').GetNameWithNoTooltip]的局势，有时甚至损害了国内的稳定。"
+ flavor_sco.301.desc: "自继位以来，[sco_ruler.GetName]始终面临一项艰难抉择：既要平衡与[GetCountry('ENG').GetNameWithNoTooltip]的关系，又需应对自[target_character.GetName]带来宗教改革后[ROOT.GetCountry.GetName]的内部动荡。\n\n尽管[sco_ruler.GetShortNameWithNoTooltip]已竭力处理[ROOT.GetCountry.GetNameWithNoTooltip]的宗教冲突，但议会中的许多人仍批评[ROOT.GetCountry.GetGovernment.GetRulerTitle]过度关注[GetCountry('ENG').GetNameWithNoTooltip]的局势，有时甚至损害了国内的稳定。"
  flavor_sco.301.a: "[GetCountry('ENG').GetNameWithNoTooltip]仍是我们最大的威胁，必须优先处理。"
  flavor_sco.301.b: "[ROOT.GetCountry.GetNameWithNoTooltip]的内政必须成为[sco_ruler.GetNameWithNoTooltip]的首要任务！"
  flavor_sco.302.title: "[ShowWorkOfArtNameWithNoTooltip('sco_true_law')]和[ShowWorkOfArtNameWithNoTooltip('sco_basilikon')]"

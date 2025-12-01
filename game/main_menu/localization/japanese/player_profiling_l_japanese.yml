@@ -48,7 +48,7 @@
  PLAYER_RUN_PLAYTHROUGHT_DESC: "これは#italic Europa Universalis V#!の基本的なメカニクスを紹介する数分のチュートリアルです。\n\nチュートリアルはいつでもスキップ可能で、いつでもここから開始できます。"
  PLAYER_STOP_PLAYTHROUGHT: "終了"
  PLAYER_STOP_PLAYTHROUGHT_TITLE: "チュートリアルを終了"
- PLAYER_STOP_PLAYTHROUGHT_DESC: "チュートリアルを終了すると現在の進捗は失われます。\n\n注: このチュートリアルはいつでも@agenda!#high アジェンダ#!から再開できます。"
+ PLAYER_STOP_PLAYTHROUGHT_DESC: "チュートリアルを終了すると現在の進捗は失われます。\n\n注：このチュートリアルはいつでも@agenda!#high アジェンダ#!から再開できます。"
  PLAYER_STOP_PLAYTHROUGHT_TT: "#T $PLAYER_STOP_PLAYTHROUGHT_TITLE$#!\n$PLAYER_STOP_PLAYTHROUGHT_DESC$"
  #FLAVOUR TEXTS
  #Scenario Descriptions

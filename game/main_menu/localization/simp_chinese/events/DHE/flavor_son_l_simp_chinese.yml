@@ -88,6 +88,6 @@
  flavor_son.1006.title: "朝觐结束"
  flavor_son.1006.desc: "经过前往[ShowLocationName('mecca')]履行[ShowReligionGroupAdjective('muslim')]信徒义务的数月行程后，我们终于回到了家，准备再次管理[ROOT.GetCountry.GetName]。"
  flavor_son.1006.a: "看看车队还有什么剩余……"
- son_show_hajj_money_tt: "#Y 车队#!的当前[gold|e]: @gold!#G [THIS.GetVariable('hajj_money').GetValue]#!"
+ son_show_hajj_money_tt: "#Y 车队#!的当前[gold|e]：@gold!#G [THIS.GetVariable('hajj_money').GetValue]#!"
  son_continue_hajj_tt: "我们会继续#Y 朝觐#!"
  son_all_remaining_gold_will_return_to_treasury_tt: "#Y 朝觐#!的所有剩余[gold|e]会返还[treasury|e]"

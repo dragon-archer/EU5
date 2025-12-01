@@ -1,5 +1,6 @@
 ﻿l_french:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "Aucun [event|e] n'a lieu"
  an_event_occurs_tt: "Un [event|e] lié à cette [disaster|e] pourrait survenir"
  #Succession Crisis
@@ -115,9 +116,9 @@
  revolution_disaster: "Révolution"
  revolution_disaster_desc: "Des décennies d'oppression féodale, de difficultés économiques et d'intolérance religieuse ont lourdement pesé sur le Pays ; désormais, l'aspiration populaire à la liberté présente une menace sérieuse contre notre règne."
  revolution_disaster_end_trigger_tt: "Les #Y Révolutionnaires#! ne prévoient aucune [civil_war|e]"
- MONARCHIST_STR_DESC: "Taille de l'[army|e] #L [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]e#! : [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "Taille de l'[army|e] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]e : [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[military_strength|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]"
- REVOLUTIONARIES_STR_DESC: "Taille de l'[army|e] #L [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]e#! : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "Taille de l'[army|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]e : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[military_strength|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetName]"
  #Revolutionary Chaos
  #Disaster
@@ -165,7 +166,7 @@
  court_and_country_tips_header: "Conseil pour la Cour et le Pays"
  court_and_country_tips_tt: "Nous pouvons accroître la [crown_power|e] par le biais des mesures suivantes :\n$BULLET_WITH_TAB$La révocation de [privileges|e]\n$BULLET_WITH_TAB$Le renforcement du [control|e] au sein de nos [locations|e]\n$BULLET_WITH_TAB$La construction d'une [ShowBuildingTypeName('counting_house')]\n$BULLET_WITH_TAB$Le renforcement de notre [legitimacy|e]\n$BULLET_WITH_TAB$La promulgation de certaines [policies|e]"
  french_wars_of_religion_breakdown_tt: "Pourcentage de [religions|e] #L [ShowReligionGroupAdjective('christian')|l]nes#! pertinentes dans notre [country|e]\n[ShowReligionName('catholic')] :"
- x_catholic: "[pops|e] #L [catholic|e|l]s#! [GetCountry('FRA').GetReligionPercentage(GetReligionByKey('catholic'))|%2]"
+ x_catholic: "[pops|e] #L [catholic|el]s#! [GetCountry('FRA').GetReligionPercentage(GetReligionByKey('catholic'))|%2]"
  court_and_country_7_tt: "La [ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')] pourrait refuser de payer l'impôt en raison d'un [event|e]"
  court_and_country_8_tt: "Des révoltes locales pourraient éclater en réponse à l'instabilité du pays en raison d'un [event|e]"
  court_and_country_9_tt: "La [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')] pourrait s'insurger pour exiger le retour de ses anciens privilèges en raison d'un [event|e]"
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "La [ShowDisasterName('english_civil_war')] prendra fin"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "Guerres de religion en France"
- french_wars_of_religion_desc: "Alors que de nouvelles branches de la foi #L [ShowReligionGroupAdjective('christian')|l]ne#! voient le jour en [ShowContinentName('europe')], les frictions générées par ce phénomène ont atteint leur paroxysme. Fanatiques armés, hérétiques et défenseurs de la seule vraie foi menacent aujourd'hui de plonger la nation tout entière dans une série de conflits."
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "N'a jamais mis fin à cette catastrophe en atteignant l'[religious_unity|e] ou en signant la [policy|e] [ShowPolicyName('edict_of_nantes')]"
  lutheran_huguenots: "Huguenots $lutheran_ADJ$s"
  calvinist_huguenots: "Huguenots $calvinist_ADJ$s"

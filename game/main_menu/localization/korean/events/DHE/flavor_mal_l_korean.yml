@@ -76,7 +76,7 @@
  flavor_mal.18.title: "국가 분열"
  flavor_mal.18.desc: "우리 궁정 사람 중 상당수가 위대한 우리나라가 무너지고 있다고 생각하는 것으로 보입니다. 지방의 반란, 찬탈 기회를 노리는 참칭자들, 이상 기후 등으로 인해 많은 사람이 우리의 멸망이 가까웠음을 점치고 있는 것입니다. 그 상처에 소금을 바르듯, 동쪽의 많은 종속국 또한 우리가 파견한 지방 관리를 쫓아내고 왕실 사절을 살해하면서 우리의 지배로부터 완전히 벗어나기를 요구하고 있습니다!"
  flavor_mal.18.a: "조건이 무엇이든 받아들일 수밖에..."
- flavor_mal.18.b: "피는 피로 갚아 주리라."
+ flavor_mal.18.b: "피는 피로 갚아 주리라..."
  flavor_mal.18.c: "이제 [GetCountry('SON').GetNameWithNoTooltip](이)가 일어설 때가 왔는지도 모르겠군."
  flavor_mal.19.title: "[target_location2.GetNameWithNoTooltip]의 광산"
  flavor_mal.19.desc: "[target_location2.GetName]의 광산들은 예전부터 지금까지 우리에게 많은 도움을 주었습니다. 그런데 최근에는 [target_location.GetName]에 투자가 몰리고 있으며, [target_character.GetName]에게 [ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')]들이 찾아와 우리나라도 그곳에 투자할 것을 종용한 바 있습니다."

@@ -197,7 +197,7 @@
  artist_events.46.b: "这种事不能再发生，撤下[target_artist.GetHerHim]周围的所有[ShowGoodsNameWithNoTooltip('pepper')]。"
  artist_events.46.c: "事实上，[target_artist.GetNameWithNoTooltip]完全能化腐朽为神奇。"
  artist_events.47.title: "淘气的猫"
- artist_events.47.desc: "[target_artist.GetName]作为备受推崇的[target_artist.GetArtistType.GetName]，[target_artist.GetHerHis]的作品在民众中广受赞誉。然而，[target_artist.GetHerHis]的其中一幅作品[target_art.GetName]却在[ROOT.GetCountry.GetGovernment.GetCourtTitle]引发了热议——有细心的研习者在作品上发现了异常的墨渍。原来是一只猫踩过墨水后，又在画作上留下了爪印。\n\n此事在[ROOT.GetCountry.GetGovernment.GetCourtTitle]引发激烈争论: [cat_lovers.GetName]赞赏这只猫的大胆行为，而[cat_haters.GetName]则哀叹这幅作品已被彻底毁坏。"
+ artist_events.47.desc: "[target_artist.GetName]作为备受推崇的[target_artist.GetArtistType.GetName]，[target_artist.GetHerHis]的作品在民众中广受赞誉。然而，[target_artist.GetHerHis]的其中一幅作品[target_art.GetName]却在[ROOT.GetCountry.GetGovernment.GetCourtTitle]引发了热议——有细心的研习者在作品上发现了异常的墨渍。原来是一只猫踩过墨水后，又在画作上留下了爪印。\n\n此事在[ROOT.GetCountry.GetGovernment.GetCourtTitle]引发激烈争论：[cat_lovers.GetName]赞赏这只猫的大胆行为，而[cat_haters.GetName]则哀叹这幅作品已被彻底毁坏。"
  artist_events.47.a: "正如[cat_haters.GetNameWithNoTooltip]所言，贱猫毁佳作。"
  artist_events.47.b: "这并未减损作品价值，反而增添了历史趣味。"
  artist_events.47.c: "显而易见的是，[target_art.GetNameWithNoTooltip]只能重新创作一幅了。"

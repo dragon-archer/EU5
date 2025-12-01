@@ -6,7 +6,7 @@
  IO_PARLIAMENT_DURATION_TXT: "#T [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] w trakcie sesji#!\nDebata: [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetCurrentDebate.GetName] jeszcze przez [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetRemainingParliamentDuration|W] dni w: @location![InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetParliamentLocation.GetName]."
  PARLIAMENT_ISSUE_WILL_FAIL: "#T Kwestia zostanie odrzucona#!\n@trigger_no! [Player.GetGovernment.GetParliament.GetName] #R NIE#! przyjmie kwestii „[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]”."
  PARLIAMENT_ISSUE_WILL_NOT_FAIL: "#T Kwestia zostanie przyjęta#!\n [Player.GetGovernment.GetParliament.GetName] przyjmie kwestię „[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]”."
- HOSTILE_PARLIAMENT_MARKER: "#T Wrogi [ParliamentMarker.GetGovernment.GetParliament.GetName] w trakcie sesji#!\nMożna przerwać debatę, [Concept('occupying','okupując')|e] [Concept('location','lokację')|e]."
+ HOSTILE_PARLIAMENT_MARKER: "#T Wrogi [ParliamentMarker.GetCountry.GetGovernment.GetParliament.GetName] w trakcie sesji#!\nMożna przerwać debatę, [Concept('occupying','okupując')|e] [Concept('location','lokację')|e]."
  PARLIAMENT_NEVER_CALLED: "$NAME$ nie został zwołany."
  PARLIAMENT_CALLED_DATE: "$NAME$ zebrał się $WHEN|Y$ temu"
  PARLIAMENT_MODIFIER_WHEN_DEBATED_TT: "Podczas gdy trwa debata nad kwestią"

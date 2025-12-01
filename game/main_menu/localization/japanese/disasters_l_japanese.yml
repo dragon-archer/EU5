@@ -1,5 +1,6 @@
 ﻿l_japanese:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "[event|e]は発生しない"
  an_event_occurs_tt: "この[disaster|e]に関連する[event|e]が発生する可能性がある"
  #Succession Crisis
@@ -97,8 +98,8 @@
  #Disaster
  hook_and_cod_wars: "フック・アンド・コッド戦争"
  hook_and_cod_wars_desc: "我々の後継者が定まらないため、死亡した前統治者の血縁者が王位を主張している。この動きを後押ししているのは、[ShowEstateTypeName('nobles_estate')]に反抗し都市部の権利を拡大しようとする[ShowEstateTypeName('burghers_estate')]である……"
- hook_and_cod_wars_hooks_have_won_tt: "#Y フック派#!が影響力スコアを#Y 20#!獲得する（現在値: #Y [THIS.GetVariable('hacw_hook_faction_power').GetValue]#!）"
- hook_and_cod_wars_cods_have_won_tt: "#Y コッド派#!が影響力スコアを#Y 20#!獲得する（現在値: #Y [THIS.GetVariable('hacw_cod_faction_power').GetValue]#!）"
+ hook_and_cod_wars_hooks_have_won_tt: "#Y フック派#!が影響力スコアを#Y 20#!獲得する（現在値：#Y [THIS.GetVariable('hacw_hook_faction_power').GetValue]#!）"
+ hook_and_cod_wars_cods_have_won_tt: "#Y コッド派#!が影響力スコアを#Y 20#!獲得する（現在値：#Y [THIS.GetVariable('hacw_cod_faction_power').GetValue]#!）"
  HACW_HOOK_TOOLTIP: "#Y フック派#!は[DisasterView.GetDisaster.GetOwner.GetName]の[DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('nobles_estate')]の代表であり、[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.GetName]とその王位継承の野望を支持している。"
  HACW_COD_TOOLTIP: "#Y コッド派#!は[DisasterView.GetDisaster.GetOwner.GetName]の[DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('burghers_estate')]の代表であり、[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.GetName]とその王位継承の野望を支持している。"
  #Horde Civil War
@@ -108,16 +109,16 @@
  horde_civil_war_end_trigger_no_rebels: "[rebel|e]はすべて#Y 僭称#!反乱軍ではない"
  horde_civil_war_crown_supporters: "遊牧民の王党派"
  horde_civil_war_pretender_supporters: "遊牧民の反逆者"
- GUI_REBEL_OWNED_LOCATIONS: "[rebels|e]が所有する[locations|e]: [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('GUI_pretender_rebel_character').GetCharacter.GetCourtCountry.GetOwnedLocationCount]"
+ GUI_REBEL_OWNED_LOCATIONS: "[rebels|e]が所有する[locations|e]：[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('GUI_pretender_rebel_character').GetCharacter.GetCourtCountry.GetOwnedLocationCount]"
  GUI_REBEL_MILITARY_STRENGTH_COMPARED_TO_US: "我々と比較した[rebels|e]の[military_strength|e]。"
  #Revolution
  #Disaster
  revolution_disaster: "革命"
  revolution_disaster_desc: "長年にわたる封建的な抑圧、経済的困難、宗教的不寛容がわが国に打撃を与えてきた。国民の自由への欲求は、我々の統治にとって深刻な脅威となっている。"
  revolution_disaster_end_trigger_tt: "#Y 革命反乱者#!は[civil_war|e]を計画していない"
- MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip][army|e]規模: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]の動員可能な[levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip][manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip][army|e]規模：[DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]の動員可能な[levy|e]：[DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip][manpower|e]：[DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]の見込み[military_strength|e]"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip][army|e]規模: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]の動員可能な[levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip][army|e]規模：[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]の動員可能な[levy|e]：[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]：[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName]の見込み[military_strength|e]"
  #Revolutionary Chaos
  #Disaster
@@ -133,7 +134,7 @@
  #Disaster
  crisis_of_the_chinese_dynasty: "[GetCountry('CHI').GetLongNameWithNoTooltip]の危機"
  crisis_of_the_chinese_dynasty_desc: "天命に暗雲が立ち込め、我々に与えられた恩寵が尽きようとしている！ 内外からの圧力は高まり、官僚制度の崩壊と大凶作が我々を追い詰める。民はもはや、我々を[GetCountry('CHI').GetFlavorRank]の正統な統治者として認めていない。"
- ccd_celestial_authority_trigger: "わが国の[celestial_authority_gc|e]は#Y 90#!以上である（現在: #Y [GetUniqueInternationalOrganization('middle_kingdom').MakeScope.GetVariable('celestial_authority').GetValue|V1]#!）。"
+ ccd_celestial_authority_trigger: "わが国の[celestial_authority_gc|e]は#Y 90#!以上である（現在：#Y [GetUniqueInternationalOrganization('middle_kingdom').MakeScope.GetVariable('celestial_authority').GetValue|V1]#!）。"
  #Triggers
  cmd_has_reformed_cabinet_tt: "[action|e]「[ShowGenericActionName('cmd_reform_the_cabinet')]」を実施した"
  cmd_has_restored_stability_tt: "[action|e]「[ShowGenericActionName('cmd_restore_stability')]」を実施した"
@@ -152,9 +153,9 @@
  DEMAK_PROGRESS_GROWTH_TOOLTIP_TITLE: "$demak_progress$の上昇"
  DEMAK_PROGRESS_GROWTH_TITLE: "$demak_progress$"
  DEMAK_MONTHLY_CHANGE_HEADER: "$demak_progress$は毎月[Country.MakeScope.GetVariable('demak_progress_growth').GetValue|-=2%]変化する。"
- DEMAK_MONTHLY_CHANGE_POP_SHARE: "[ShowReligionAdjective('hindu')]に対する[ShowReligionAdjective('sunni')]の割合: [Country.MakeScope.GetVariable('maj_sunni_percentage').GetValue|-=2%]"
- DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT: "[stability]: [Country.MakeScope.GetVariable('maj_stability_impact').GetValue|-=2%]"
- DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT: "[legitimacy]: [Country.MakeScope.GetVariable('maj_legitimacy_impact').GetValue|-=2%]"
+ DEMAK_MONTHLY_CHANGE_POP_SHARE: "[ShowReligionAdjective('hindu')]に対する[ShowReligionAdjective('sunni')]の割合：[Country.MakeScope.GetVariable('maj_sunni_percentage').GetValue|-=2%]"
+ DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT: "[stability]：[Country.MakeScope.GetVariable('maj_stability_impact').GetValue|-=2%]"
+ DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT: "[legitimacy]：[Country.MakeScope.GetVariable('maj_legitimacy_impact').GetValue|-=2%]"
  DEMAK_MONTHLY_CHANGE_BREAKDOWN: "$DEMAK_MONTHLY_CHANGE_POP_SHARE$\n$DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT$\n$DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT$"
  DEMAK_PROGRESS_GROWTH_HEADER: "$demak_progress$"
  DEMAK_PROGRESS_GROWTH_TOOLTIP: "$demak_progress$は、[Country.GetFlavorRank]における[ShowReligionAdjective('sunni')]の広がりを示す指標である。$demak_progress$の上昇は[ShowReligionAdjective('sunni')][pops|e]の割合が多いほど大きく、#y 100.0%#!に達すると[ShowReligionAdjective('sunni')]が[dominant_religion|e]であるすべての[locations|e]が独立して$DEM$を形成する。"
@@ -163,7 +164,7 @@
  court_and_country: "宮廷と国家"
  court_and_country_desc: "中央集権化への反発が高まり、宮廷と国家の対立が深刻化している。この危機をどう乗り越えるかが、わが国の未来を左右する。適切に対処できれば、以前よりも力強い国家へと成長できるだろう。"
  court_and_country_tips_header: "宮廷と国家への助言"
- court_and_country_tips_tt: "以下の方法で[crown_power|e]を強化できる: \n$BULLET_WITH_TAB$[privileges|e]の剥奪\n$BULLET_WITH_TAB$[locations|e]での[control|e]の強化\n$BULLET_WITH_TAB$[ShowBuildingTypeName('counting_house')]の建設\n$BULLET_WITH_TAB$[legitimacy|e]の強化\n$BULLET_WITH_TAB$特定の[policies|e]の施行"
+ court_and_country_tips_tt: "以下の方法で[crown_power|e]を強化できる：\n$BULLET_WITH_TAB$[privileges|e]の剥奪\n$BULLET_WITH_TAB$[locations|e]での[control|e]の強化\n$BULLET_WITH_TAB$[ShowBuildingTypeName('counting_house')]の建設\n$BULLET_WITH_TAB$[legitimacy|e]の強化\n$BULLET_WITH_TAB$特定の[policies|e]の施行"
  french_wars_of_religion_breakdown_tt: "わが国における関連する[ShowReligionGroupAdjective('christian')]系[religions|e]の割合\n[ShowReligionName('catholic')]"
  x_catholic: "[GetCountry('FRA').GetReligionPercentage(GetReligionByKey('catholic'))|%2]の[catholic|e][pops|e]"
  court_and_country_7_tt: "[event|e]を通じて、[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')]が納税を拒否する可能性がある"
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "[ShowDisasterName('english_civil_war')]が終結する"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "フランス宗教戦争"
- french_wars_of_religion_desc: "[ShowContinentName('europe')]各地で[ShowReligionGroupAdjective('christian')]の新たな宗派が台頭するなか、国内の摩擦は限界に達した。武装した狂信者や異端者、真の信仰を守る者たちの衝突により、国全体で火の手が上がろうとしている。"
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "この国難は[religious_unity|e]の達成、または[policy|e]「[ShowPolicyName('edict_of_nantes')]」の発布によって完了されていない"
  lutheran_huguenots: "$lutheran_ADJ$のユグノー"
  calvinist_huguenots: "$calvinist_ADJ$のユグノー"

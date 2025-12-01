@@ -67,7 +67,7 @@
  catholic_flavor.15.c: "开玩笑地任命一匹马为教皇。"
  catholic_flavor.15.d: "任命一位[ShowLocationNameWithNoTooltip('paris')]圣母院的敲钟人。"
  catholic_flavor.16.title: "受赞扬的书吏"
- catholic_flavor.16.desc: "抄写经文是一项艰难且常常吃力不讨好的工作。然而，[target_location.GetName]中的[ShowBuildingTypeNameWithNoTooltip('scriptorium')]书吏得到了一位修道院院长的赞扬，赞曰: #italic “敬业的文士，躬身于经者，将永远赞美上帝并予天使以欢愉。扶正义以坚其志，化罪人以归其道，褒谦卑以扬其德，定善者以固其行，挫骄傲以折其气，责顽梗以肃其心。”#!"
+ catholic_flavor.16.desc: "抄写经文是一项艰难且常常吃力不讨好的工作。然而，[target_location.GetName]中的[ShowBuildingTypeNameWithNoTooltip('scriptorium')]书吏得到了一位修道院院长的赞扬，赞曰：#italic “敬业的文士，躬身于经者，将永远赞美上帝并予天使以欢愉。扶正义以坚其志，化罪人以归其道，褒谦卑以扬其德，定善者以固其行，挫骄傲以折其气，责顽梗以肃其心。”#!"
  catholic_flavor.16.a: "这是一个我们奉献精神的绝佳例证。"
  catholic_flavor.16.b: "抄写员做得不错，值得这样的赞扬。"
  catholic_flavor.100.title: "侄子枢机"

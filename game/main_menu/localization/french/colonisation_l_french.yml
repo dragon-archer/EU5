@@ -23,5 +23,5 @@
  COLONIAL_CHARTER_RELIGION_POPS: "$NUM|Y$ [pops|e] ($PERC|2%$) suivent le culte [RELIGION.GetAdjective] en [PROVINCE_DEFINITION.GetName]"
  COLONIAL_CHARTER_CULTURE_POPS: "$NUM|Y$ [pops|e] ($PERC|2%$) sont de [primary_or_accepted_culture|e] en [PROVINCE_DEFINITION.GetName]"
  COLONIAL_MARITIME_IN: "La [maritime_presence|E] en [REGION.GetName] : x$VAL|Y2$"
- COLONIAL_MARITIME_NOT_IN: "[REGION.GetName] n'est pas une [Concept('coastal', 'région côtière')|e|l] : x$VAL|Y2$"
+ COLONIAL_MARITIME_NOT_IN: "[REGION.GetName] n'est pas une [Concept('coastal', 'région côtière')|el] : x$VAL|Y2$"
  COLONIAL_DISTANCE: "Distance de [COUNTRY.GetCapital.GetName] : x$VAL|Y2$"

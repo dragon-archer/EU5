@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  culture_japan.1.title: "御家骚动"
- culture_japan.1.desc: "近来，[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]家族们的争端已经逐渐上升为流血死亡的事件。如果任由形势继续发展，政治体制的稳定性将会遭受严重的威胁。因此，这种形势应当得到严肃的对待。\n\n这种纷争在我们的文化中已经变得根深蒂固，以至于人们已经开始用专属的名称来称呼它: #italic 御家骚动#!。只要不直接参与其中，人们就会把这些冲突看作是一种日常，甚至当做一种娱乐形式。\n\n现在，[target_character.GetName]自己就卷入了其中的一场纠纷，而人们都希望看到[target_character.GetHerselfHimself]本人的头颅被置于盘中。"
+ culture_japan.1.desc: "近来，[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]家族们的争端已经逐渐上升为流血死亡的事件。如果任由形势继续发展，政治体制的稳定性将会遭受严重的威胁。因此，这种形势应当得到严肃的对待。\n\n这种纷争在我们的文化中已经变得根深蒂固，以至于人们已经开始用专属的名称来称呼它：#italic 御家骚动#!。只要不直接参与其中，人们就会把这些冲突看作是一种日常，甚至当做一种娱乐形式。\n\n现在，[target_character.GetName]自己就卷入了其中的一场纠纷，而人们都希望看到[target_character.GetHerselfHimself]本人的头颅被置于盘中。"
  culture_japan.1.a: "[target_character.GetSheHe|U]本应清楚这一点！"
  culture_japan.1.b: "拒绝接受他们的要求。"
  culture_japan.2.title: "桀骜的[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]"

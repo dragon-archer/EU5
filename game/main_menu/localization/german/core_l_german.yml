@@ -380,7 +380,7 @@
  MULTIPLAYER_DATE_NOCOUNTRY_TOOLTIP: "$PLAYER$ – $DATE$"
  MULTIPLAYER_LAGGING_BEHIND: "Einige Spieler laggen. Das Spiel wartet darauf, dass sie aufholen."
  GAME_DLC_TOOLTIP_OWNED: "Im Besitz: [Select_CString(GameDLC.IsOwned,'Ja','Nein')]"
- GAME_DLC_TOOLTIP_INSTALLED: "Installiert: [Select_CString(GameDLC.IsOwned,'Ja','Nein')]"
+ GAME_DLC_TOOLTIP_INSTALLED: "Installiert: [Select_CString(GameDLC.IsInstalled,'Ja','Nein')]"
  GAME_DLC_TOOLTIP_ACTIVATED: "Aktiviert: [Select_CString(GameDLC.IsActivated,'Ja','Nein')]"
  GAME_DLC_TOOLTIP: "[GameDLC.GetName]\n[GameDLC.GetDesc]\n$GAME_DLC_TOOLTIP_OWNED$\n$GAME_DLC_TOOLTIP_INSTALLED$\n$GAME_DLC_TOOLTIP_ACTIVATED$"
  GAME_DLC_KEY_VALUE: "$KEY$: $VALUE$"

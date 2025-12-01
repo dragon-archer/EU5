@@ -87,7 +87,7 @@
  consort_events.309.b: "大逆不道！我们不能再有这种想法了。"
  consort_events.309.b.tt: "不鼓励这些煽动者。"
  consort_events.310.title: "权力转移"
- consort_events.310.desc: "通过听从[target_char.GetHerHis]最亲近的顾问的建议，而不是冒险使用[target_char.GetHerHis]的个人魅力，[target_char.GetName]巧妙地操纵大量宫廷成员达成共识: [target_heir.GetName]，[ROOT.GetCountry.GetGovernment.GetAdjective][ROOT.GetCountry.GetGovernment.GetHeirTitle]和权位的第一顺位继承人，是一个愚钝的傻瓜，配不上[target_heir.GetHerHis]应享有的遗产。然而，这个问题有一个简单的解决方案……\n\n在另一场为了吸引当权[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]而召开的盛大宴会中，[target_char.GetShortNameWithNoTooltip]和[target_char.GetHerHis]的走狗成功传达了将年轻的[target_heir.GetShortNameWithNoTooltip]囚禁于[target_heir.GetHerHis]房间中的想法——据其所称，一些隔离措施将使这孩子专注于[target_heir.GetHerHis]的教育。对于年轻的[ROOT.GetCountry.GetGovernment.GetHeirTitle]而言，[target_heir.GetHerHim]在公众眼中淡去也许是不幸的，但最终将是有利于[ROOT.GetCountry.GetName]的……"
+ consort_events.310.desc: "通过听从[target_char.GetHerHis]最亲近的顾问的建议，而不是冒险使用[target_char.GetHerHis]的个人魅力，[target_char.GetName]巧妙地操纵大量宫廷成员达成共识：[target_heir.GetName]，[ROOT.GetCountry.GetGovernment.GetAdjective][ROOT.GetCountry.GetGovernment.GetHeirTitle]和权位的第一顺位继承人，是一个愚钝的傻瓜，配不上[target_heir.GetHerHis]应享有的遗产。然而，这个问题有一个简单的解决方案……\n\n在另一场为了吸引当权[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]而召开的盛大宴会中，[target_char.GetShortNameWithNoTooltip]和[target_char.GetHerHis]的走狗成功传达了将年轻的[target_heir.GetShortNameWithNoTooltip]囚禁于[target_heir.GetHerHis]房间中的想法——据其所称，一些隔离措施将使这孩子专注于[target_heir.GetHerHis]的教育。对于年轻的[ROOT.GetCountry.GetGovernment.GetHeirTitle]而言，[target_heir.GetHerHim]在公众眼中淡去也许是不幸的，但最终将是有利于[ROOT.GetCountry.GetName]的……"
  consort_events.310.a: "就这样做。"
  consort_events.310.b: "事实上，也许应该给[target_heir.GetSheHe]一个机会。"
  consort_events.311.title: "亲民的[ROOT.GetCountry.GetGovernment.GetConsortTitle|U]"

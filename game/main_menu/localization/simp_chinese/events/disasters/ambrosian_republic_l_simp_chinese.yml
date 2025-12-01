@@ -20,7 +20,7 @@
  ambrosian_republic.5.a: "我们应当任命[target_character.GetHerHim]为我们军队的指挥官。"
  ambrosian_republic.5.b: "我们不能冒迎上一位暴君的风险！"
  ambrosian_republic.6.title: "[target_character.GetLastNameWithNoTooltip]与[ROOT.GetCountry.GetFlavorRank]起了冲突"
- ambrosian_republic.6.desc: "[target_character.GetName]在[ROOT.GetCountry.GetLongName]有许多敌人。建立了[ROOT.GetCountry.GetFlavorRank]的理想主义政治家们怀疑[target_character.GetHerHim]觊觎权位，一些更实用主义的人们则嫉妒[target_character.GetHerHis]的人望。\n\n[target_character.GetLastNameWithNoTooltip]近期得知了一场企图削弱[target_character.GetHerHis]的指挥权并将[target_character.GetHerHim]排挤出政府的阴谋。愤怒的[target_character.GetLastNameWithNoTooltip]提出了一份最后通牒: 要么接受[target_character.GetHerHis]的军事专制统治，要么准备再一次在战场上面对[target_character.GetHerHim]。"
+ ambrosian_republic.6.desc: "[target_character.GetName]在[ROOT.GetCountry.GetLongName]有许多敌人。建立了[ROOT.GetCountry.GetFlavorRank]的理想主义政治家们怀疑[target_character.GetHerHim]觊觎权位，一些更实用主义的人们则嫉妒[target_character.GetHerHis]的人望。\n\n[target_character.GetLastNameWithNoTooltip]近期得知了一场企图削弱[target_character.GetHerHis]的指挥权并将[target_character.GetHerHim]排挤出政府的阴谋。愤怒的[target_character.GetLastNameWithNoTooltip]提出了一份最后通牒：要么接受[target_character.GetHerHis]的军事专制统治，要么准备再一次在战场上面对[target_character.GetHerHim]。"
  ambrosian_republic.6.a: "实行[target_character.GetLastNameWithNoTooltip]的军事统治。"
  ambrosian_republic.6.b: "反抗[target_character.GetLastNameWithNoTooltip]暴政！我们为自由而战！"
  sforza_rebellion: "斯福尔扎叛乱"

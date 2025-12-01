@@ -33,7 +33,7 @@
  flavor_tim.8.title: "Ascenso de [target_character.GetShortNameWithNoTooltip]"
  flavor_tim.8.desc: "[target_character.GetName] es un genio militar que ansía que [GetCountry('MGE').GetLongName] recupere su gloria de antaño. Con sus leales soldados, ha tomado [target_location.GetName] y las tierras circundantes para fundar [target_country.GetLongName|l]."
  flavor_tim.8.a: "¡Es un ultraje! ¡Una injusticia!"
- flavor_tim.8.a.at: "Toda [location|e|l] de las inmediaciones de [target_location.GetName] es liberada y pasa a formar parte de [target_country.GetName]."
+ flavor_tim.8.a.at: "Toda [location|el] de las inmediaciones de [target_location.GetName] es liberada y pasa a formar parte de [target_country.GetName]."
  flavor_tim.8.a.bt: "[target_country.GetName] será libre."
  flavor_tim.8.b: "Seguiremos su carrera con sumo interés."
  flavor_tim.81.title: "$flavor_tim.8.title$"

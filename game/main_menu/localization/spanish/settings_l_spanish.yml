@@ -98,7 +98,7 @@
  AGENDA_SKIP_AGENDA_SETTING: "No mostrar la agenda al comienzo del juego."
  AGENDA_HISTORICAL_CONTEXT: "Contexto histórico"
  AGENDA_WALKTHROUGH_DISABLED_MISSIONS: "@trigger_no! No puedes ejecutar la guía básica con las misiones desactivadas. Actívalas en las reglas del juego del menú principal."
- AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! Sal primero de la partida para volver a ejecutarla."
+ AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! La guía está activa."
  # Map
  SETTING_DRAW_TERRAIN: "Dibujar terreno"
  SETTING_DRAW_WATER: "Dibujar agua"

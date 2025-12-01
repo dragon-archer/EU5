@@ -17,7 +17,7 @@
  societal_values.104.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  societal_values.105.title: "Révolte importante"
  societal_values.105.desc: "Les membres de la [ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')] sont extrêmement fâchés de voir leur liberté de mouvement une nouvelle fois restreinte. Cela suscite même des révoltes d'importance, un peu partout dans le pays... Peut-être que s'ils passaient un peu plus de temps à se laver, ils auraient moins le temps de se révolter ?"
- societal_values.105.a.tt: "Les [pops|e] de la [ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')] de plusieurs localités #L [rural|e|l]es#! telles que [target_location.GetName] perdront [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] de [pop_satisfaction|e]"
+ societal_values.105.a.tt: "Les [pops|e] de la [ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')] de plusieurs localités #L [rural|el]es#! telles que [target_location.GetName] perdront [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] de [pop_satisfaction|e]"
  societal_values.105.a: "Révolte paysanne !"
  societal_values.106.title: "Exploitation efficace des serfs"
  societal_values.106.desc: "Notre politique de servage a porté ses fruits : les propriétaires fonciers ont redoublé d'efforts pour tirer tout le possible de leurs serfs."

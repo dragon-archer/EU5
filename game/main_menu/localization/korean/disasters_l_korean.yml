@@ -1,5 +1,6 @@
 ﻿l_korean:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "[event|e]가 발생하지 않습니다"
  an_event_occurs_tt: "이 [disaster|e]과 관련된 [event|e]가 발생할 수 있습니다"
  #Succession Crisis
@@ -115,9 +116,9 @@
  revolution_disaster: "혁명"
  revolution_disaster_desc: "수십 년에 걸친 봉건적 억압, 경제난, 종교적 불관용 등이 쌓이고 쌓여, 우리나라에 큰 타격을 입혔습니다. 그 부담을 견디다 못해 일어난 백성들의 자유를 향한 외침이 우리의 통치에 심각한 위협이 되고 있습니다."
  revolution_disaster_end_trigger_tt: "이 #Y 혁명 반란군#!은 현재 [civil_war|e]을 계획하고 있지 않습니다"
- MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]의 잠재 [military_strength|e]"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName]의 잠재 [military_strength|e]"
  #Revolutionary Chaos
  #Disaster
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "[ShowDisasterName('english_civil_war')]이 종결됩니다"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "프랑스 종교 전쟁"
- french_wars_of_religion_desc: "새로운 [ShowReligionGroupAdjective('christian')] 종파가 [ShowContinentName('europe')] 전체에 걸쳐 발흥하면서, 사회 내부의 갈등이 극한까지 달하고 있습니다. 이제 무장한 광신도와 이단, 그리고 참된 믿음의 수호자들까지 모두가 들고 일어나, 나라 전체가 연이은 갈등으로 곤두박질칠 위기에 놓였습니다."
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "과거에 이 재난을 [religious_unity|e] 조건을 달성하거나 [ShowPolicyName('edict_of_nantes')] [policy|e]에 서명함으로써 종결한 적이 없음"
  lutheran_huguenots: "$lutheran_ADJ$ 위그노"
  calvinist_huguenots: "$calvinist_ADJ$ 위그노"

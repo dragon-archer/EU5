@@ -165,7 +165,7 @@
  cb_union_war_for_seniority: "Conflit d'ancienneté"
  cb_union_war_for_seniority_desc: "Ils sont indignes de représenter la Grande Union ! Il est l'heure d'imposer notre supériorité et d'en prendre le contrôle !"
  cb_religious_superiority: "Supériorité religieuse"
- cb_religious_superiority_desc: "Les conflits religieux entre les factions [Concept('protestant', 'protestante')|e|l] et [ShowReligionAdjective('catholic')|l] du [GetUniqueInternationalOrganization('hre').GetName] doivent cesser, même si cela doit se régler sur le champ de bataille !\n\n#Y Active le [peace_treaty|e] [ShowPeaceTreatyTypeName('religious_supremacy')]#!"
+ cb_religious_superiority_desc: "Les conflits religieux entre les factions [Concept('protestant', 'protestante')|el] et [ShowReligionAdjective('catholic')|l] du [GetUniqueInternationalOrganization('hre').GetName] doivent cesser, même si cela doit se régler sur le champ de bataille !\n\n#Y Active le [peace_treaty|e] [ShowPeaceTreatyTypeName('religious_supremacy')]#!"
  cb_livonian_wars: "Guerre de Livonie"
  cb_livonian_wars_desc: "La guerre de Livonie est un conflit opposant deux grandes puissances quant à l'avenir de la [ShowAreaName('baltic_area')]. Son issue décidera de la faction qui contrôlera les ports florissants de l'ancienne #italic Terra Mariana#!."
  cb_claim_timurids: "Revendication du royaume $TIM_ADJ$"

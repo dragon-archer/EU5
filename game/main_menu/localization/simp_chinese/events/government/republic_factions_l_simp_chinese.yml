@@ -61,7 +61,7 @@
  republic_factions.14.a: "从长远来看，公信力更有价值。"
  republic_factions.14.b: "我们不能牺牲个人利益。"
  republic_factions.15.title: "血浓于水"
- republic_factions.15.desc: "对[ROOT.GetCountry.GetName]许多权贵而言，人脉与财富决定地位，但[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]仍高度重视血缘纽带。尽管他们当前并非共和国内最强势力，仍沿用传统方式确保忠诚。\n\n最新事态表明，[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]成员正试图通过在[ROOT.GetCountry.GetGovernment.GetCourtTitle]谋求特权来强化其地位。这一诉求将迫使我们面临两难抉择: 若妥协则意味着政策倾斜会削弱[ROOT.GetCountry.GetFlavorRank]的治理效能；但若拒绝，又可能失去这个关键群体对现行政策的重要支持。"
+ republic_factions.15.desc: "对[ROOT.GetCountry.GetName]许多权贵而言，人脉与财富决定地位，但[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]仍高度重视血缘纽带。尽管他们当前并非共和国内最强势力，仍沿用传统方式确保忠诚。\n\n最新事态表明，[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]成员正试图通过在[ROOT.GetCountry.GetGovernment.GetCourtTitle]谋求特权来强化其地位。这一诉求将迫使我们面临两难抉择：若妥协则意味着政策倾斜会削弱[ROOT.GetCountry.GetFlavorRank]的治理效能；但若拒绝，又可能失去这个关键群体对现行政策的重要支持。"
  republic_factions.15.a: "尽可能礼貌地拒绝。"
  republic_factions.15.b: "我们需要和他们保持联系。"
  republic_factions.16.title: "行会联合"

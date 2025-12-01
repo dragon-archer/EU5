@@ -968,7 +968,7 @@
  great_pestilence_blame_the_minorities: "$blame_the_minorities$"
  great_pestilence_blame_the_minorities_desc: "Nicht jeder leidet gleichermaßen unter der Seuche. Nur jene, die in den neuen Landen einheimisch sind, und somit jene, die ihr Leben weit vom Licht Gottes führten, erkranken an ihr. Es ist eindeutig Gottes Wille, dass sie für ihre Missetaten leiden."
  great_pestilence_stop_blame_the_minorities: "$stop_blame_the_minorities$"
- great_pestilence_stop_blame_the_minorities_desc: "Die Ureinwohner unserer Kolonien sind unschuldig und frei von Sünde, wie Kinder, die allein in der Wildnis aufwuchsen. Ihre Taten können nicht verantwortlich sein für diese göttliche Seuche, und sicherlich verdienen sie nicht, dass wir sie fortwährend verfolgen."
+ great_pestilence_stop_blame_the_minorities_desc: "Die Ureinwohner unserer Kolonien sind unschuldig und frei von Sünde, wie Kinder, die allein in der Wildnis aufwuchsen. Ihre Taten können nicht der Auslöser für diese göttliche Seuche sein, und sie verdienen es wahrlich nicht, dass wir sie fortwährend verfolgen."
  #Court and Country
  legitimize_parliament_abolition: "Abschaffung der Volksvertretung legitimieren"
  legitimize_parliament_abolition_desc: "Unser jüngster Versuch, die Kontrolle über unsere Volksvertretung ([SCOPE.sCountry('actor').GetGovernment.GetParliament.GetName]) zu übernehmen, ist durch die Hallen der Macht in unserem ganzen [SCOPE.sCountry('actor').GetFlavorRank] widergehallt. Doch in diesen turbulenten Zeiten eröffnen sich auch neue Gelegenheiten! Wir müssen schnellstens die Abschaffung der Volksversammlung legitimieren.\n"

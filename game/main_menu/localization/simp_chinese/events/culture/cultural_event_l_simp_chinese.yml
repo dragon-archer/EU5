@@ -47,7 +47,7 @@
  cultural_event.12.a: "当然。他们会得到我们的支持。"
  cultural_event.12.b: "不，我们已经有够多的问题了。"
  cultural_event.13.title: "国家史诗"
- cultural_event.13.desc: "据悉，我国民间流传着关于[SCOPE.sCharacter('target_character').GetName]的传说: 当[ROOT.GetCountry.GetName]到了最危险的时候，[SCOPE.sCharacter('target_character').GetSheHe]将重返故土祛除邪魔。传说里有几分真相搁在一边，我们正式采纳这一神话，以此激发民众的希望，并为我们的统治增添合法性。"
+ cultural_event.13.desc: "据悉，我国民间流传着关于[SCOPE.sCharacter('target_character').GetName]的传说：当[ROOT.GetCountry.GetName]到了最危险的时候，[SCOPE.sCharacter('target_character').GetSheHe]将重返故土祛除邪魔。传说里有几分真相搁在一边，我们正式采纳这一神话，以此激发民众的希望，并为我们的统治增添合法性。"
  cultural_event.13.a: "好，人民需要这样的佳话。"
  cultural_event.13.b: "不，我们的人民应当着眼身边、关注当下。"
  cultural_event.14.t: "资助[target_location.GetNameWithNoTooltip]的[ShowBuildingTypeNameWithNoTooltip('university')]"

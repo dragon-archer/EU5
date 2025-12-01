@@ -6,7 +6,7 @@
  flavor_azt.70.b: "让我们的附属国做出应有的贡献。"
  flavor_azt.70.c: "也许下次吧。"
  we_will_be_able_to_construct_the_building_later_tt: "我们之后可以建造该[building|e]"
- flavor_azt.70.historical_info: "大神庙，维伊·特奥卡利​，作为墨西卡供奉与权力的象征屹立于特诺奇蒂特兰中央。它从14世纪开始分阶段建造，两条楼梯通往两座神庙: 一座供奉战神维齐洛波奇特利，另一座供奉雨水与丰饶之神特拉洛克。附近还有一座风神埃埃卡特尔的神龛。这座寺庙一直是这座城市神圣心脏的醒目特色，祭司们在这里进行祭祀和仪式，以维持宇宙秩序。"
+ flavor_azt.70.historical_info: "大神庙，维伊·特奥卡利​，作为墨西卡供奉与权力的象征屹立于特诺奇蒂特兰中央。它从14世纪开始分阶段建造，两条楼梯通往两座神庙：一座供奉战神维齐洛波奇特利，另一座供奉雨水与丰饶之神特拉洛克。附近还有一座风神埃埃卡特尔的神龛。这座寺庙一直是这座城市神圣心脏的醒目特色，祭司们在这里进行祭祀和仪式，以维持宇宙秩序。"
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"
  flavor_azt.80.desc: "[target_character.GetName]，[ROOT.GetCountry.GetAdjective]三城同盟的构建者，第一位获封“西瓦科亚特尔”，即首相的人，国内无可替代的人物。历任数朝后，[target_character.GetNameWithNoTooltip]的权柄涉及国家的每个角落。他组织了军事行动，整顿了经济，甚至在特拉托阿尼不在时拥有摄政之权。\n\n而最重要的是，[target_character.GetNameWithNoTooltip]是[ShowGodNameWithNoTooltip('huitzilopochtli_god')]崇拜的坚定捍卫者，他采取了各种手段保证我们的神和围绕祂的军事传统得到应有的尊重。"
  flavor_azt.80.a: "将[ShowGodNameWithNoTooltip('huitzilopochtli_god')]升格为我们的守护神。"

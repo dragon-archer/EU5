@@ -14,7 +14,7 @@
  flavor_mor.3.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  flavor_mor.3.b: "이런 곳에 돈 쓸 여유는 없다."
  flavor_mor.4.title: "[target_location.GetNameWithNoTooltip]의 이드리스 지지 세력"
- flavor_mor.4.desc: "오랜 전설이 현실이 된 듯, 몇 년 전 [target_location.GetName]의 한 모스크에서 이드리스 2세의 보존된 시신이 발견되었습니다. 이 사건 이후로 이드리스 샤리파의 일원들은 [target_location.GetNameWithNoTooltip](과)와 우리 [ROOT.GetCountry.GetFlavorRank] 전역에서 성장하는 운동의 구심점이 되었습니다.\n\n이 독실한 집단은 경건한 행동과 설교를 통해 우리 국민의 마음을 위로하는 운명을 타고난 것처럼 보입니다. 하지만 이와 같은 열정적인 민중 운동에는 항상 위험이 따르기 마련이니, 이들이 현세의 권력을 누가 쥐고 있는지 잊지 않도록 해야 합니다."
+ flavor_mor.4.desc: "오랜 전설이 현실이 된 듯, 몇 년 전 [target_location.GetName]의 한 모스크에서 이드리스 2세의 보존된 시신이 발견되었습니다. 이 사건 이후로 이드리스 샤리프의 일원들은 [target_location.GetNameWithNoTooltip](과)와 우리 [ROOT.GetCountry.GetFlavorRank] 전역에서 성장하는 운동의 구심점이 되었습니다.\n\n이 독실한 집단은 경건한 행동과 설교를 통해 우리 국민의 마음을 위로하는 운명을 타고난 것처럼 보입니다. 하지만 이와 같은 열정적인 민중 운동에는 항상 위험이 따르기 마련이니, 이들이 현세의 권력을 누가 쥐고 있는지 잊지 않도록 해야 합니다."
  flavor_mor.4.a: "이드리스 일파를 지원하겠다."
  flavor_mor.4.b: "대표권은 허용하지만 실제 공식 지원은 하지 않겠다."
  flavor_mor.5.title: "[target_character.GetNameWithNoTooltip]"

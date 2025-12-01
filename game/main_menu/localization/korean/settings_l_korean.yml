@@ -98,7 +98,7 @@
  AGENDA_SKIP_AGENDA_SETTING: "게임 시작 시 안건을 표시하지 않습니다."
  AGENDA_HISTORICAL_CONTEXT: "역사적 배경"
  AGENDA_WALKTHROUGH_DISABLED_MISSIONS: "@trigger_no! 임무가 비활성화된 상태에서는 학습 튜토리얼을 실행할 수 없습니다. 메인 메뉴의 게임 규칙에서 활성화하십시오."
- AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! 다시 실행하려면 먼저 플레이 회차를 종료해야 합니다."
+ AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! 튜토리얼이 진행 중입니다."
  # Map
  SETTING_DRAW_TERRAIN: "지형 그리기"
  SETTING_DRAW_WATER: "물 그리기"

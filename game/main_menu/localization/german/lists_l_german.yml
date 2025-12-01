@@ -126,7 +126,7 @@
  MARKET_SORT_BY_FOOD: "Klicken, um nach der derzeitigen Menge an [food|e] auf dem [market|e] zu sortieren"
  MARKET_SORT_BY_FOOD_PERCENTAGE: "Klicken, um nach dem derzeitigen Prozentsatz an [food|e] auf dem [market|e] zu sortieren"
  MERCENARY_SORT_BY_NAME: "Nach Namen der [mercenary|e] sortieren"
- MERCENARY_SORT_BY_COUNTRY_OWNER: "Nach [country|e] des [Concept('owner', 'Besitzers')] sortieren"
+ MERCENARY_SORT_BY_COUNTRY_OWNER: "Nach [country|e] des [Concept('owner', 'Besitzers')|e] sortieren"
  MERCENARY_SORT_BY_COUNTRY_CUSTOMER: "Nach [country|e] des Auftraggebers sortieren"
  MERCENARY_SORT_BY_COST: "Nach [mercenary|e]-Kosten sortieren"
  MERCENARY_SORT_BY_LENGTH: "Nach [mercenary|e]-Vertragslänge sortieren"

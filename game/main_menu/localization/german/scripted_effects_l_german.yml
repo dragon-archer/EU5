@@ -122,7 +122,7 @@
  decree_monthly_celestial_authority_loss_tt: "Dieses #Y Dekret#! zu erlassen, verringert unsere monatliche $celestial_authority$ um #R -0,1#!, bis es durch die [action|e] „[ShowGenericActionName('reshape_bureaucracy')]“ widerrufen wird"
  end_decree_monthly_celestial_authority_loss_tt: "Die bislang verabschiedeten #Y Dekrete#! wirken sich nicht länger abträglich auf unsere monatliche $celestial_authority$ aus"
  #Heir Succession Triggers
- HEIR_SUCCESSION_CANNOT_BE_RULER_ALREADY: "Eine [ShowGovernmentTypeName('theocracy')] kann keinen [Concept('heir', 'Erben')|e] haben, der bereits der [ruler|e] eines anderen [Concept('country', 'Lands')] ist."
+ HEIR_SUCCESSION_CANNOT_BE_RULER_ALREADY: "Eine [ShowGovernmentTypeName('theocracy')] kann keinen [Concept('heir', 'Erben')|e] haben, der bereits der [ruler|e] eines anderen [Concept('country', 'Lands')|e] ist."
  HEIR_SUCCESSION_ALL_RELIGION_ELIGIBLE: "Der [heir|e] kann jeder [religion|e] folgen."
  HEIR_SUCCESSION_SAME_RELIGION_GROUP_ELIGIBLE: "Der [heir|e] muss einer [religion|e] aus der [target_country.GetReligion.GetGroup.GetAdjective|l]en Religionsgruppe folgen."
  HEIR_SUCCESSION_SAME_RELIGION_ELIGIBLE: "Der [heir|e] muss der [target_country.GetReligion.GetAdjective|l]en [religion|e] folgen."

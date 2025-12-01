@@ -735,6 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Bons Presságios"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Um período de renovação, além de um clima ameno e fartura de alimentos, são bons sinais. O Deuses estão felizes."
  #Ottomans
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Sonho de Osmã"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "É nosso destino governar um império que durará até o Fim dos Dias."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Burocratas de Ahi"
@@ -1724,6 +1726,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Poder dos Camponeses Limitado"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Autoridade Local Imposta"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Isenção de Impostos"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "Restituiu às Assembleias Legislativas"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Moral Reduzido"
@@ -1852,6 +1856,7 @@
  #Nahua Reform
  STATIC_MODIFIER_NAME_major_push_for_reform: "Grande Pressão por Reforma"
  STATIC_MODIFIER_NAME_nahuatl_temple_expansion_modifier: "Expansão de Templo"
+ nahuatl_temple_expansion_modifier: "[ShowModifier('nahuatl_temple_expansion_modifier')]"
  #Muscovy
  STATIC_MODIFIER_NAME_siege_artillery_engineer: "Empregando Comandante de Artilharia"
  #Hussite Wars
@@ -1985,6 +1990,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Comandante Mameluco"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Integrando a Escânia"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Administração da Pensilvânia"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Colheita das Três Irmãs"

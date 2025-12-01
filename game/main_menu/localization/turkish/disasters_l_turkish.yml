@@ -1,5 +1,6 @@
 ﻿l_turkish:
  #Common Loc
+ DISASTER_BREAKDOWN: "Disaster Breakdown"
  no_event_occurs_tt: "Hiçbir [event|e] yaşanmaz."
  an_event_occurs_tt: "Bu [disaster|e] ile alakalı bir [event|e] yaşanabilir."
  #Succession Crisis
@@ -115,9 +116,9 @@
  revolution_disaster: "Devrim"
  revolution_disaster_desc: "On yıllarca süren feodal baskı, ekonomik zorluklar ve dinî hoşgörüsüzlük, ülkemiz üzerinde ağır bir etki bıraktı. Halkın özgürlük arzusu, hükümranlığımız için ciddi bir tehdit oluşturuyor."
  revolution_disaster_end_trigger_tt: "#Y Devrimci Asiler#! [civil_war|e] planlamıyor"
- MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName] potansiyel [Concept('military_strength', 'Askerî Gücü')|e]"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPower]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName] potansiyel [Concept('military_strength', 'Askerî Gücü')|e]"
  #Revolutionary Chaos
  #Disaster
@@ -213,8 +214,8 @@
  complete_the_ecw_and_lose_tt: "[ShowDisasterName('english_civil_war')] sonlanır"
  #French Wars of Religion Disaster
  #Disaster
- french_wars_of_religion: "Fransız Din Savaşları"
- french_wars_of_religion_desc: "[ShowContinentName('europe')] kıtasında [ShowReligionGroupAdjective('christian')] inancının yeni kolları ortaya çıkarken, toplumumuzda oluşan sürtüşme tek bir kıvılcımla patlama noktasına ulaştı. Silahlanan bağnazlar, zındıklar ve gerçek inancın savunucuları, tüm ülkeyi sonu gelmez çatışmalara sürükleyecek gibi görünüyor."
+ french_wars_religion: "French Wars of Religion"
+ french_wars_religion_desc: "As new branches of the [ShowReligionGroupAdjective('christian')] faith appear across [ShowContinentName('europe')], the subsequent religious friction created within our society has reached a boiling point. Now we are beset by armed zealots — heretics and defenders of the true faith alike — threatening to drag our entire realm into vicious civil conflict."
  had_fwr_before_definitive_ending_tt: "[Concept('religious_unity', 'Dinî Birliği')|e] sağlayarak veya [ShowPolicyName('edict_of_nantes')] [Concept('policy', 'Politikasını')|e] imzalayarak daha önce bu felaketi sonlandırmadı"
  lutheran_huguenots: "$lutheran_ADJ$ Huguenotlar"
  calvinist_huguenots: "$calvinist_ADJ$ Huguenotlar"

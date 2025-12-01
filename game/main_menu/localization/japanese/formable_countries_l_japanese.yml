@@ -212,7 +212,7 @@
  GLD_f: "$GLD$"
  GLD_f_desc: "我々はポーランドの広大な領土を手に入れた。これらを直接統治する代わりに、わが国に代わって統治する代理国家を創設しよう。"
  DAH_f: "$DAH$"
- DAH_desc: "我々は自らの領土を統合し、諸外国に対抗しうる新たな国家を樹立できるようになった。"
+ DAH_f_desc: "We have consolidated our territories and will now be able to establish a new country to resist foreign influences."
  IRO_f: "$IRO$"
  IRO_f_desc: "[ShowCultureGroupName('haudenosaunee_group')]の諸部族は長いあいだ連合体として共存してきたが、各国は独自の自治を保っていた。そしていま、5つの国が中央部族のもとで統率されることで、我らは力強い新たな連邦を築くことができる。"
  PUE_f: "$PUE$"

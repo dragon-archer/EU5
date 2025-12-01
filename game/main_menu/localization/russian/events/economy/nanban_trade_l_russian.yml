@@ -1,11 +1,11 @@
 ﻿l_russian:
  nanban_trade.1.title: "Торговля с южными варварами"
- nanban_trade.1.desc: "На берегах #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_RP')|L]#!#! высадились дурно воспитанные, плохо пахнущие и не владеющие #L [ROOT.GetCountry.GetCulture.GetLanguage.GetName|l]ой#! письменностью чужаки. Названия краёв, из которых они прибыли, — например, [target_nanban.GetName], — кажутся нам крайне нелепыми. С собой эти чужеземцы привезли исследователей, миссионеров и купцов, и влияние их на наш народ уже становится ощутимым."
+ nanban_trade.1.desc: "На берегах #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#! высадились дурно воспитанные, плохо пахнущие и не владеющие #L [ROOT.GetCountry.GetCulture.GetLanguage.GetName|l]ой#! письменностью чужаки. Названия краёв, из которых они прибыли, — например, [target_nanban.GetName], — кажутся нам крайне нелепыми. С собой эти чужеземцы привезли исследователей, миссионеров и купцов, и влияние их на наш народ уже становится ощутимым."
  nanban_trade.1.a: "Поприветствовать купцов."
  nanban_trade.1.b: "Неизвестно, чем обернётся их присутствие."
  enable_kirishitan_monks.tt: "Теперь у нас есть доступ к [Concept('religious_faction','религиозному течению')|e] «Монахи-кириситан»"
  nanban_trade.2.title: "$nanban_trade.1.title$"
- nanban_trade.2.desc: "Нам сообщили, что на берегах #ONCLICK:COUNTRY,[target_country.Custom('CL_tt')] #TOOLTIP:COUNTRY,[target_country.Custom('CL_tt')],X [target_country.Custom('CL_RP')|L]#!#! высадились загадочные чужеземцы. Они утверждают, что прибыли из страны под названием [target_nanban.GetName], и обещают вести со всеми выгодную торговлю. При этом они дурно воспитаны и бескультурны, а потому вполне могут оказать на #TOOLTIP:INTERNATIONAL_ORGANIZATION,$japanese_shogunate_tt$,X #L Японский сёгунат#!#! дурное влияние."
+ nanban_trade.2.desc: "Нам сообщили, что на берегах #ONCLICK:COUNTRY,[target_country.Custom('CL_tt')] #TOOLTIP:COUNTRY,[target_country.Custom('CL_tt')],X [target_country.Custom('CL_GEN')|L]#!#! высадились загадочные чужеземцы. Они утверждают, что прибыли из страны под названием [target_nanban.GetName], и обещают вести со всеми выгодную торговлю. При этом они дурно воспитаны и бескультурны, а потому вполне могут оказать на #TOOLTIP:INTERNATIONAL_ORGANIZATION,$japanese_shogunate_tt$,X #L Японский сёгунат#!#! дурное влияние."
  nanban_trade.2.a: "$nanban_trade.1.a$"
  nanban_trade.2.b: "$nanban_trade.1.b$"
  nanban_trade.3.title: "Прибытие европейских торговцев"

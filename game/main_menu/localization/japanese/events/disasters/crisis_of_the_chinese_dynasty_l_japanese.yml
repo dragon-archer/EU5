@@ -10,7 +10,7 @@
  crisis_of_the_chinese_dynasty.3.title: "天の恩寵"
  crisis_of_the_chinese_dynasty.3.desc: "不安定な時代は終わりを告げた！ かつて我々の滅亡を企み、その没落のさまに歓喜した者たちは、いまや影のなかへと逃げ去ったのだ！ 苦難の時代はわが国民を鍛え上げ、神の試練さえも生き延びられるほどの強さを与えた。\n\n我々は夕陽を眺めながらほほえみ、かつて我々を偉大なる[ROOT.GetCountry.GetFlavorRank]の頂点に導いたのと同じ飢えを抱いて、明くる日を迎えようではないか。"
  crisis_of_the_chinese_dynasty.3.a: "我々は乗り越えた！"
- based_on_current_celestial_authority_tt: "自国の[celestial_authority_gc|e]の現在の値に応じて: "
+ based_on_current_celestial_authority_tt: "自国の[celestial_authority_gc|e]の現在の値に応じて："
  crisis_of_the_chinese_dynasty.4.title: "農民による納税拒否"
  crisis_of_the_chinese_dynasty.4.desc: "恵まれた時代においてさえ、[target_province.GetName]の民は苦難にあえいできた。[ROOT.GetCountry.GetGovernment.GetCourtTitle]を襲った近年の騒乱は、[ROOT.GetCountry.GetFlavorRank]のほぼ全地域へと広がっている。その結果、かつては[target_character.GetName]に膝を屈していた者たちも、いまでは最も穏当な徴税や貢納すらも拒むようになった。"
  crisis_of_the_chinese_dynasty.4.a: "力ずくで食糧を取り上げろ。"

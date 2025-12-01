@@ -1,9 +1,9 @@
 ﻿l_japanese:
  #Scripted Effects
- GetHookFactionInfluence: "（現在: #Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_hook_faction_power').GetValue]#!）"
- GetCodFactionInfluence: "（現在: #Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_cod_faction_power').GetValue]#!）"
- GetHookFactionInfluenceHolland: "（現在: #Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_hook_faction_power').GetValue]#!）"
- GetCodFactionInfluenceHolland: "（現在: #Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_cod_faction_power').GetValue]#!）"
+ GetHookFactionInfluence: "（現在：#Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_hook_faction_power').GetValue]#!）"
+ GetCodFactionInfluence: "（現在：#Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_cod_faction_power').GetValue]#!）"
+ GetHookFactionInfluenceHolland: "（現在：#Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_hook_faction_power').GetValue]#!）"
+ GetCodFactionInfluenceHolland: "（現在：#Y [ROOT.GetCountry.MakeScope.GetVariable('hacw_cod_faction_power').GetValue]#!）"
  good_add_1_points_to_hook_tt: "#Y フック派#!の影響力スコアが#G +1#!増加する$GetHookFactionInfluence$"
  good_add_2_points_to_hook_tt: "#Y フック派#!の影響力スコアが#G +2#!増加する$GetHookFactionInfluence$"
  good_add_1_points_to_cod_tt: "#Y コッド派#!の影響力スコアが#G +1#!増加する$GetCodFactionInfluence$"
@@ -22,8 +22,8 @@
  hacw_cod_faction_short: "コッド派"
  hacw_hook_faction_disaster: "#t フック派#!"
  hacw_cod_faction_disaster: "#t コッド派#!"
- hacw_current_score_hook: "現在のスコア: [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_faction_power').GetValue]/20"
- hacw_current_score_cod: "現在のスコア: [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_faction_power').GetValue]/20"
+ hacw_current_score_hook: "現在のスコア：[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_faction_power').GetValue]/20"
+ hacw_current_score_cod: "現在のスコア：[DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_faction_power').GetValue]/20"
  hacw_remove_country_from_hook_faction_tt: "[THIS.GetCountry.GetName]が#Y $hacw_hook_faction$#!から除外される"
  hacw_remove_country_from_cod_faction_tt: "[THIS.GetCountry.GetName]が#Y $hacw_cod_faction$#!から除外される"
  #Spamming Events

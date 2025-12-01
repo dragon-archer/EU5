@@ -18,7 +18,7 @@
  decline_of_majapahit.5.title: "僭王の挑戦"
  decline_of_majapahit.5.desc: "[ROOT.GetCountry.GetName]では継承をめぐる争いが常態化している。今回は[target_character.GetName]という名の王子が軍隊を召集し、[ROOT.GetCountry.GetGovernment.GetRulerTitle]を打倒すべく、首都へと進軍を開始した。"
  decline_of_majapahit.5.a: "身の程知らずは叩き潰してやる。"
- maj_every_pop_in_capital_province: "[capital|e][province|e]、[ROOT.GetCountry.GetCapital.GetProvince.GetName]にいるすべての[pop|e]: "
+ maj_every_pop_in_capital_province: "[capital|e][province|e]、[ROOT.GetCountry.GetCapital.GetProvince.GetName]にいるすべての[pop|e]："
  decline_of_majapahit.6.title: "[target_province.GetNameWithNoTooltip]へと逃避する[target_religion.GetAdjectiveWithNoTooltip]信者"
  decline_of_majapahit.6.desc: "[target_religion.GetAdjective]の体制は、[target_religion2.GetAdjective]系商人の進出によって徐々に根絶されつつある。民衆の多くが日々[target_religion2.GetGroup.GetName]に改宗し、もはや[target_religion.GetNameWithNoTooltip]は[ROOT.GetCountry.GetName]において多数派ではなくなった。この変化は[ROOT.GetCountry.GetFlavorRank]とその社会に前例のない衝撃を与え、[target_religion.GetAdjectiveWithNoTooltip][ROOT.GetCountry.GetGovernment.GetCourtTitle]に不安が広がっている。[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]や[ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]の多くは、これを[ROOT.GetCountry.GetAdjectiveWithNoTooltip]の統治の終焉とみなし、[target_province.GetName]への逃避も始まっている。"
  decline_of_majapahit.6.a: "これは帝国の没落なのか？"

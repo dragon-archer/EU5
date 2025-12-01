@@ -6,7 +6,7 @@
  flavor_dai.1.b: "Ya se derramó demasiada sangre en el pasado. Terminemos con las hostilidades."
  flavor_dai.2.title: "Consolidación de [target_area.GetNameWithNoTooltip]"
  flavor_dai.2.desc: "Tras muchos años de conflictos con [target_country.GetLongName|l], por fin su destino está sellado. Los territorios de [target_area.GetName] están bajo el poder [ROOT.GetCountry.GetLongName|l], y [target_location.GetRank.GetName|l] de [target_location.GetName] ha de inclinarse ante [root_location.GetName]. Aun así, con la conquista surge la cuestión de cómo administrar las nuevas tierras y tratar con los [target_culture.GetName|l] en una sociedad de principios [root_culture.GetName|l]."
- flavor_dai.2.tt: "La [integration|e|l] de todas las [location|e|l] en [target_area.GetName] aumentado en #G + 10#!."
+ flavor_dai.2.tt: "La [integration|el] de todas las [location|el] en [target_area.GetName] aumentado en #G + 10#!."
  flavor_dai.2.a: "Integremos a los [target_culture.GetNameWithNoTooltip|l] en nuestra sociedad."
  flavor_dai.2.b: "Dejémoslos en paz."
  flavor_dai.2.c: "Asentemos a la los [root_culture.GetNameWithNoTooltip|l] en [target_area.GetNameWithNoTooltip]."

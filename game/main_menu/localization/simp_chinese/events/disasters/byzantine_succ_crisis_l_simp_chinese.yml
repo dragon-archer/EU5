@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  byzantine_succ_crisis.1.title: "[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]索要翼赞金"
- byzantine_succ_crisis.1.desc: "在这艰难的时期，自诩为[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]的秃鹫们警告我们，作为他们中的一员，[target_character2.GetName]理应代表他们的利益。他们含糊其辞地威胁我们并许下空洞的承诺: 我们只需要付出一笔金钱就能换取他们可怜而日益衰弱的力量的支持。"
+ byzantine_succ_crisis.1.desc: "在这艰难的时期，自诩为[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]的秃鹫们警告我们，作为他们中的一员，[target_character2.GetName]理应代表他们的利益。他们含糊其辞地威胁我们并许下空洞的承诺：我们只需要付出一笔金钱就能换取他们可怜而日益衰弱的力量的支持。"
  byzantine_succ_crisis.1.a: "行吧。"
  byzantine_succ_crisis.1.b: "他们越界了！"
  peasants_unhappy_tt: "我们治下所有[location|e]的[ShowPopTypeName('peasants')]会失去[ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%][pop_satisfaction|e]"

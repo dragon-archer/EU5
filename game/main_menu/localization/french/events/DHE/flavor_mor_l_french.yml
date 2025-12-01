@@ -1,6 +1,6 @@
 ﻿l_french:
  flavor_mor.1.title: "[target_character.GetNameWithNoTooltip]"
- flavor_mor.1.desc: "Connu sous de nombreux noms tels qu'imam [target_character.GetLastName] ou Shaykh [target_character.GetLastNameWithNoTooltip], [target_character.GetShortNameWithNoTooltip] a récemment acquis une grande notoriété grâce à sa grande piété, sa dévotion et sa connaissance des textes sacrés. Revendiquant le statut de chorfa en tant que descendant direct du Prophète, [target_character.GetSheHe] nous a récemment offert ses services."
+ flavor_mor.1.desc: "Connu sous de nombreux noms tels qu'imam [target_character.GetLastName] ou Shaykh [target_character.GetLastNameWithNoTooltip], [target_character.GetShortNameWithNoTooltip] a récemment acquis une grande notoriété grâce à sa grande piété, sa dévotion et sa connaissance des textes sacrés. Revendiquant le statut de Shurfā' en tant que descendant direct du Prophète, [target_character.GetSheHe] nous a récemment offert ses services."
  flavor_mor.1.a: "Accordons-lui notre mécénat."
  flavor_mor.1.b: "Nous n'avons nul besoin de va-nu-pieds au palais."
  flavor_mor.1.historical_info: "Al-Jazuli, soufi marocain du XVe siècle, est une figure clé de l'ordre Shadhiliya. Né dans la région du Souss, il a étudié à Fès et s'est rendu célèbre avec le Dala'il al-Khayrat, un recueil de prières largement employé invoquant les bénédictions sur le prophète Mahomet (que la paix soit sur lui). Son œuvre a eu une influence durable sur le soufisme marocain."

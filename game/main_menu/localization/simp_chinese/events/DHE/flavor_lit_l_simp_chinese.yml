@@ -236,6 +236,6 @@
  flavor_lit.1000.b: "我们不需要[target_country2.GetCulture.GetNameWithNoTooltip]的援助。"
  lit_no_offer_on_hansa_tt: "不会向[target_country2.GetName]发出邀请。"
  flavor_lit.1001.title: "$flavor_lit.1000.title$"
- flavor_lit.1001.desc: "[target_location.GetName]的总督与[target_character.GetName]共同向我们提出了一项提议: 允许我们的商人定居在[target_location.GetRank.GetName]。他们希望借助我们的参与，将该地打造为[target_country.GetName]境内繁荣的贸易中心。这是一个诱人的提议，但我们也必须考虑风险——若他们后来扣押我们的资产，我们的投资将付诸东流。"
+ flavor_lit.1001.desc: "[target_location.GetName]的总督与[target_character.GetName]共同向我们提出了一项提议：允许我们的商人定居在[target_location.GetRank.GetName]。他们希望借助我们的参与，将该地打造为[target_country.GetName]境内繁荣的贸易中心。这是一个诱人的提议，但我们也必须考虑风险——若他们后来扣押我们的资产，我们的投资将付诸东流。"
  flavor_lit.1001.a: "我们接受这个提议。"
  flavor_lit.1001.b: "为何要投资在如此不可靠之地？"

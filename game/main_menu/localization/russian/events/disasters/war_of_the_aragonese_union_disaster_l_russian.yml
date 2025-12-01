@@ -15,7 +15,7 @@
  war_of_the_aragonese_union_disaster.3.desc.b: "Попытка пойти на переговоры провалилась. Предатели из #italic Арагонской унии#! взялись за оружие и теперь захватывают город за городом и крепость за крепостью, отрекаясь от прежних клятв и убивая наших верных подданных. Всё, что нам остаётся, — это встретить их на поле боя и наказать за измену мечом."
  war_of_the_aragonese_union_disaster.3.title.c: "[GetCountry('ARA').GetGovernment.GetRulerTitle] проявляет мудрость"
  war_of_the_aragonese_union_disaster.3.desc.c: "Дипломатия восторжествовала. Вопреки всем ожиданиям нашему владыке удалось положить конец восстанию #italic Арагонской унии#!, не уступая мятежникам какие-либо права. Все взбунтовавшиеся группировки и претенденты остались довольны; гражданская война нам больше не грозит."
- war_of_the_aragonese_union_disaster.3.a: "Тяжёлые времена начинаются в [GetCountry('ARA').Custom('CF_PP')|l]."
+ war_of_the_aragonese_union_disaster.3.a: "Тяжёлые времена начинаются в [GetCountry('ARA').Custom('rank_ru_PREP')|l]."
  war_of_the_aragonese_union_disaster.3.b: "Да здравствует [GetCountry('ARA').GetGovernment.GetRulerTitle|l]!"
  war_of_the_aragonese_union_disaster.4.title: "Шанс заключить мир"
  war_of_the_aragonese_union_disaster.4.desc: "От имени #italic Арагонской унии#! к нашим воротам прибыл посол. Он сообщает, что, пока ещё не стало слишком поздно, мятежники готовы на переговоры и обсуждение всех обид и недовольств — при условии, что [GetCountry('ARA').GetGovernment.GetRulerTitle|l] пригласит их ко двору и обеспечит безопасность на время переговоров."

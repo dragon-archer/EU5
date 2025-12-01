@@ -28,7 +28,7 @@
  crisis_of_the_sayfawa_dynasty.6.a: "Мы победили!"
  crisis_of_the_sayfawa_dynasty.6.b: "Мы выстоим и восстановим силы, а потом…"
  crisis_of_the_sayfawa_dynasty.7.title: "Набег билала"
- crisis_of_the_sayfawa_dynasty.7.desc: "Наша страна уже давно страдает от бесчинствующих #TOOLTIP:CULTURE,$bilala_culture_tt$,X #L билальских#!#! разбойников. Они смелеют с каждым набегом, и их становится всё больше. Недавнее вторжение билала в [target_location.GetRank.Custom('LR_VP')|l] [target_location.GetName] подтолкнуло многих их сородичей переселиться вглубь нашей территории. Если так пойдёт и дальше, мы будем не в силах их остановить."
+ crisis_of_the_sayfawa_dynasty.7.desc: "Наша страна уже давно страдает от бесчинствующих #TOOLTIP:CULTURE,$bilala_culture_tt$,X #L билальских#!#! разбойников. Они смелеют с каждым набегом, и их становится всё больше. Недавнее вторжение билала в [target_location.Custom('LR_ACC')|l] [target_location.GetName] подтолкнуло многих их сородичей переселиться вглубь нашей территории. Если так пойдёт и дальше, мы будем не в силах их остановить."
  crisis_of_the_sayfawa_dynasty.7.a: "[ROOT.GetCountry.Custom('common_string_negative')]"
  crisis_of_the_sayfawa_dynasty.7.b: "Заплатим, чтобы они убрались восвояси."
  #Tooltips

@@ -19,10 +19,10 @@
  mission_colonial_ambitions: "植民地の野心"
  mission_colonial_ambitions_desc: "異国の地に入植し、その資源を活用することは、わが国の商業的影響力を拡大し、ひいては国力を高める素晴らしい方法だ。そのためには我々の利益に貢献し、それを推し進める植民地従属国を確立しなければならない。"
  #Tooltips
- land_explo_key: "#Y 1#!ヵ所以上の陸地[exploration|e]をおこなってミッションを完了した場合: "
+ land_explo_key: "#Y 1#!ヵ所以上の陸地[exploration|e]をおこなってミッションを完了した場合："
  yes_land_explo_bonus_tt: "@trigger_yes! $land_explo_key$"
  no_land_explo_bonus_tt: "@trigger_no! $land_explo_key$"
- sea_explo_key: "#Y 1#!ヵ所以上の海洋[exploration|e]をおこなってミッションを完了した場合: "
+ sea_explo_key: "#Y 1#!ヵ所以上の海洋[exploration|e]をおこなってミッションを完了した場合："
  yes_sea_explo_bonus_tt: "@trigger_yes! $sea_explo_key$"
  no_sea_explo_bonus_tt: "@trigger_yes! $sea_explo_key$"
  mission_colonial_ambitions_tt: "植民地[subjects|e]の1つの[liberty_desire|e]が#G 減少#!する"

@@ -1,7 +1,7 @@
 ﻿l_russian:
  STATIC_MODIFIER_NAME_volcanic_soil: "Вулканическая почва"
  volcano_events_weak.title: "Дым над горой"
- volcano_events_weak.desc: "Над высокой горой на окраине [ROOT.GetLocation.Custom('LR_RP')|l] [ROOT.GetLocation.GetName] несколько дней поднимался длинный столб дыма. Сегодня же гора начала извергать пепел и лаву, сжигая и разрушая всё вокруг. Жители [ROOT.GetLocation.Custom('LR_RP')|l] [ROOT.GetLocation.GetNameWithNoTooltip] стойко переносят невзгоды, но если не помочь, обрести былые силы им будет сложно."
+ volcano_events_weak.desc: "Над высокой горой на окраине [ROOT.GetLocation.Custom('LR_GEN')|l] [ROOT.GetLocation.GetName] несколько дней поднимался длинный столб дыма. Сегодня же гора начала извергать пепел и лаву, сжигая и разрушая всё вокруг. Жители [ROOT.GetLocation.Custom('LR_GEN')|l] [ROOT.GetLocation.GetNameWithNoTooltip] стойко переносят невзгоды, но если не помочь, обрести былые силы им будет сложно."
  volcano_events_weak.a: "Мы ничего не могли сделать."
  volcano_events_weak.b: "Мы тотчас придём им на помощь."
  volcano_events_minor.title: "Начало пожара"

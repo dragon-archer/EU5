@@ -20,4 +20,4 @@
  curse_of_stefan_uros_iii.6.desc: "Los humildes y taimados moradores de [target_location.GetName] han osado mostrar sus garras y alzarse contra nuestra autoridad. En una exhibición grotesca de falsa autoridad, han proclamado su escisión de la Corona, ¡e incluso quieren sentarse en nuestro trono!"
  curse_of_stefan_uros_iii.6.a: "¡Sus restos ayudarán a que nuestros campos sean prósperos!"
  curse_of_stefan_uros_iii.6.b: "Que hagan lo que quieran..."
- people_of_target_province_will_declare_war_on_us_tt: "¡El pueblo de [target_province.GetNameWithNoTooltip] nos declarará la [war|e|l]!"
+ people_of_target_province_will_declare_war_on_us_tt: "¡El pueblo de [target_province.GetNameWithNoTooltip] nos declarará la [war|el]!"

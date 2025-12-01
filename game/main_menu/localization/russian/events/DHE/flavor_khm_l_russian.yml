@@ -1,6 +1,6 @@
 ﻿l_russian:
  flavor_khm.1000.title: "[target_location.GetAdjectiveWithNoTooltip|U]ий [ShowBuildingTypeNameWithNoTooltip('khmer_baray')]"
- flavor_khm.1000.desc: "#L [target_location.GetAdjective|U]ий#! [ShowBuildingTypeName('khmer_baray')] — важнейший источник воды для [target_location.GetRank.Custom('LR_RP')]. В последние десятилетия мы пережили множество потрясений — в частности, нас [Select_CString(target_old_ruler.IsFemale, 'покинула', 'покинул')] [target_old_ruler.GetName], — так что этот барай оставался без должного внимания и постепенно ветшал. Если мы сейчас ничего не предпримем, этот крупный резервуар полностью придёт в негодность."
+ flavor_khm.1000.desc: "#L [target_location.GetAdjective|U]ий#! [ShowBuildingTypeName('khmer_baray')] — важнейший источник воды для [target_location.Custom('LR_GEN')]. В последние десятилетия мы пережили множество потрясений — в частности, нас [Select_CString(target_old_ruler.IsFemale, 'покинула', 'покинул')] [target_old_ruler.GetName], — так что этот барай оставался без должного внимания и постепенно ветшал. Если мы сейчас ничего не предпримем, этот крупный резервуар полностью придёт в негодность."
  flavor_khm.1000.a: "Это слишком дорого."
  flavor_khm.1000.b: "Мы займёмся ремонтом."
  flavor_khm.1001.title: "Беда в Ангкоре"

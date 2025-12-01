@@ -98,7 +98,7 @@
  AGENDA_SKIP_AGENDA_SETTING: "Die Agenda bei Spielstart nicht anzeigen."
  AGENDA_HISTORICAL_CONTEXT: "Historischer Kontext"
  AGENDA_WALKTHROUGH_DISABLED_MISSIONS: "@trigger_no! Das Grundlagentutorial kann mit deaktivierten Missionen nicht gespielt werden. Aktiviert diese zuerst in den Spielregeln im Hauptmenü."
- AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! Beendet den Spieldurchgang zuerst, um ihn neu zu starten."
+ AGENDA_WALKTHROUGH_IS_RUNNING: "@trigger_no! Das Tutorial ist aktiv."
  # Map
  SETTING_DRAW_TERRAIN: "Terrain zeichnen"
  SETTING_DRAW_WATER: "Wasser zeichnen"

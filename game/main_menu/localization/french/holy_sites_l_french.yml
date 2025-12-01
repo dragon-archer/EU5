@@ -79,7 +79,7 @@
  ich_kaan_ti_ho: "Ich Kaan Ti'Ho"
  mayapan_holy_site: "$mayapan$"
  kaaba: "Mosquée al-Ḥarām"
- kaaba_desc: "Située à [ShowLocationName('mecca')] et plus communément appelée al-Kaʿba, la $kaaba$ est le sanctuaire le plus sacré de l'[ShowReligionGroupName('muslim')]. Recouvert d'un tissu noir appelé Kiswah, il définit la direction vers laquelle pratiquer la prière (qibla) pour toutes les prières $muslim_ADJ$es."
+ kaaba_desc: "Située à [ShowLocationName('mecca')] et plus communément appelée al-Ka'ba, la $kaaba$ est le sanctuaire le plus sacré de l'[ShowReligionGroupName('muslim')]. Recouvert d'un tissu noir appelé Kiswah, il définit la direction vers laquelle pratiquer la prière (qibla) pour toutes les prières #L $muslim_ADJ$es#!."
  prophets_mosque: "Mosquée du Prophète"
  umayyad_mosque: "Grande mosquée des Omeyyades"
  cave_patriarchs: "Tombeau des patriarches"

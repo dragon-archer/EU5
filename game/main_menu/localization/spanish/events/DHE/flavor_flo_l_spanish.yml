@@ -215,8 +215,8 @@
  flavor_vlt.3.a: "Entremos."
  #Custom Tooltips
  FLO_this_will_cease_existing: "[THIS.GetCountry.GetName] dejará de existir."
- FLO_medici_will_be_stronger: "Cuando la Banca [GetDynasty('medici_dynasty').GetName] empiece a funcionar, recibirá hasta #g 1000#! de [gold|e|l] en fondos adicionales."
- FLO_every_borrower_from_the_banks: "Cada [nation|e|l] que haya pedido un préstamo a uno de los bancos en quiebra recibirá el siguiente [event|e|l]:"
- FLO_events_will_fire_to_give_more_banks: "Cada 2-4 años, recibiremos un [event|e|l] para establecer una nueva [ShowBuildingTypeName('banking_office')|l] en una [location|e|l]."
- FLO_end_of_events: "No se activará ningún otro [event|e|l] que añada una [ShowBuildingTypeName('banking_office')|l] en una [location|e|l]."
+ FLO_medici_will_be_stronger: "Cuando la Banca [GetDynasty('medici_dynasty').GetName] empiece a funcionar, recibirá hasta #g 1000#! de [gold|el] en fondos adicionales."
+ FLO_every_borrower_from_the_banks: "Cada [nation|el] que haya pedido un préstamo a uno de los bancos en quiebra recibirá el siguiente [event|el]:"
+ FLO_events_will_fire_to_give_more_banks: "Cada 2-4 años, recibiremos un [event|el] para establecer una nueva [ShowBuildingTypeName('banking_office')|l] en una [location|el]."
+ FLO_end_of_events: "No se activará ningún otro [event|el] que añada una [ShowBuildingTypeName('banking_office')|l] en una [location|el]."
  FLO_giraffe_death_information: "La jirafa no vivirá eternamente. Calculamos que podría hacerlo entre 90 y 180 días."

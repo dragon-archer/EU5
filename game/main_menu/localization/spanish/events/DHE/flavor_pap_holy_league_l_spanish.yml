@@ -2,7 +2,7 @@
  flavor_pap_holy_league.1.title: "La Liga Santa"
  flavor_pap_holy_league.1.desc: "La caída de [ShowLocationName('constantinople')] y la posterior expansión [GetCountry('TUR').GetAdjective|l] hacia los [ShowRegionName('balkan_region')] ha sido un golpe devastador para la cristiandad. Como resultado, muchos nos han pedido que actuemos en represalia. Como líderes de la [GetUniqueInternationalOrganization('catholic_church').GetName], es nuestro sagrado deber congregar a las potencias marítimas de [ShowRegionName('italy_region')] y el Mediterráneo y convocar una cruzada para expulsar al infiel de [ShowContinentName('europe')] para siempre."
  flavor_pap_holy_league.1.a: "¡Convoquemos la cruzada!"
- flavor_pap_holy_league.1.a.tt: "[THIS.GetCountry.GetName] recibirá una invitación a la [crusade|e|l]."
+ flavor_pap_holy_league.1.a.tt: "[THIS.GetCountry.GetName] recibirá una invitación a la [crusade|el]."
  flavor_pap_holy_league.1.b: "No podemos enfrentarnos a ellos..."
  flavor_pap_holy_league.1.historical_info: "Las ligas santas eran alianzas de Estados cristianos, organizadas principalmente por el papa, con el fin de contrarrestar la expansión del Imperio otomano, que suponía una amenaza significativa tanto para los reinos cristianos como para la Iglesia católica. Estas ligas eran cruciales para ralentizar el avance turco y proteger Europa de nuevas incursiones."
  flavor_pap_holy_league.2.title: "La llamada de la cruzada"

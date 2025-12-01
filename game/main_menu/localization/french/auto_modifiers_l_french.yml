@@ -87,7 +87,7 @@
  AUTO_MODIFIER_DESC_in_regency: "Notre [country|e] est actuellement en [regency|e], ce qui réduit la confiance que nous porte le peuple."
  AUTO_MODIFIER_NAME_ruler_has_no_ruler_traits: "Nouveau [ruler|e]"
  AUTO_MODIFIER_DESC_ruler_has_no_ruler_traits: "Notre [ruler|e] est nouveau et n'a pas encore de [ruler_traits|e]."
- AUTO_MODIFIER_NAME_ruler_has_all_traits: "[ruler|e|U] expérimenté"
+ AUTO_MODIFIER_NAME_ruler_has_all_traits: "[ruler|eU] expérimenté"
  AUTO_MODIFIER_DESC_ruler_has_all_traits: "Notre [ruler|e] est un ancien dirigeant qui a tous ses [ruler_traits|e]."
  AUTO_MODIFIER_NAME_at_war_without_overlord: "En [war|e] sans [overlord|e]"
  AUTO_MODIFIER_DESC_at_war_without_overlord: "Notre [overlord|e] n'a pas rejoint une [war|e] dans laquelle nous sommes actuellement engagés."

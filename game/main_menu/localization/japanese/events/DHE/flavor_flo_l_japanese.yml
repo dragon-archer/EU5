@@ -216,7 +216,7 @@
  #Custom Tooltips
  FLO_this_will_cease_existing: "[THIS.GetCountry.GetName]は消え去るだろう。"
  FLO_medici_will_be_stronger: "[GetDynasty('medici_dynasty').GetName]銀行の出現が始まると、最大#g 1000#![gold|e]の追加資金を獲得する。"
- FLO_every_borrower_from_the_banks: "破綻した銀行のひとつから借り入れをしたすべての[nation|e]で、以下の[event|e]が発生する: "
+ FLO_every_borrower_from_the_banks: "破綻した銀行のひとつから借り入れをしたすべての[nation|e]で、以下の[event|e]が発生する："
  FLO_events_will_fire_to_give_more_banks: "2～4年ごとに、[location|e]に新たな[ShowBuildingTypeName('banking_office')]を設置する[event|e]が発生する。"
  FLO_end_of_events: "[location|e]に[ShowBuildingTypeName('banking_office')]を設置する[event|e]はこれ以上発生しない。"
  FLO_giraffe_death_information: "キリンは永遠には生きられない。推定寿命は90日から180日となる。"

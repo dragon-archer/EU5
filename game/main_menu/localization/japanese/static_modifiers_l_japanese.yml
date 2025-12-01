@@ -347,7 +347,7 @@
  STATIC_MODIFIER_NAME_surplus_jobs: "業務過多"
  STATIC_MODIFIER_NAME_refugees_welcome: "難民を歓迎"
  STATIC_MODIFIER_NAME_adjacent_colonization_target: "植民地化の対象"
- STATIC_MODIFIER_NAME_river_flowing_through: "[river|e]が縦断"
+ STATIC_MODIFIER_NAME_river_flowing_through: "[river|e]が通過"
  STATIC_MODIFIER_NAME_river_flowing_through_coast: "[river|e]が[coast|e]を通過"
  STATIC_MODIFIER_NAME_coastal: "[coastal|e]"
  STATIC_MODIFIER_NAME_total_population: "[location|e]の[population|e]"
@@ -735,6 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "吉兆"
  STATIC_MODIFIER_DESC_good_omen_modifier: "穏やかな天候に豊富な食糧。再生の時期が到来し、神々の喜びを示す吉兆が現れている。"
  #Ottomans
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "オスマンの悲願"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "終末の日まで繁栄する帝国を築くことこそ、我々の運命である。"
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "アヒの官僚"
@@ -1219,8 +1221,8 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "火器の交易"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "母系制農業"
  #Scotland
- STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "ベリオールの領土への積極的な侵略"
- STATIC_MODIFIER_NAME_sco_civil_war_defensive: "ベリオールの決断を強いる"
+ STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "ベイリャルの領土への積極的な侵略"
+ STATIC_MODIFIER_NAME_sco_civil_war_defensive: "ベイリャルの決断を強いる"
  STATIC_MODIFIER_NAME_sbl_english_backing: "イングランド王室の後押し"
  STATIC_MODIFIER_NAME_sco_desertion_among_balliol: "陸軍の脱走"
  STATIC_MODIFIER_NAME_sco_advance_into_england: "イングランドへの侵略"
@@ -1724,6 +1726,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "農民の権力を制限"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "地方権限を主張"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "免税"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "立法機関の復活"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "士気低下"
@@ -1748,7 +1752,7 @@
  STATIC_MODIFIER_NAME_islamic_missionaries: "イスラムの宣教師"
  STATIC_MODIFIER_NAME_muslim_sailor_community: "船乗りのコミュニティ"
  STATIC_MODIFIER_NAME_religious_community_isolated: "孤立した宗教コミュニティ"
- STATIC_MODIFIER_NAME_mosque_of_x: "宗教的影響力の拡大"
+ STATIC_MODIFIER_NAME_mosque_of_x: "宗教影響力の拡大"
  STATIC_MODIFIER_NAME_islamic_titles: "イスラム的混合信仰"
  STATIC_MODIFIER_NAME_defended_traditional_kingship: "伝統的な王権制度"
  STATIC_MODIFIER_NAME_chiefs_with_pretensions: "地方指導者の主張"
@@ -1852,6 +1856,7 @@
  #Nahua Reform
  STATIC_MODIFIER_NAME_major_push_for_reform: "改革への強い圧力"
  STATIC_MODIFIER_NAME_nahuatl_temple_expansion_modifier: "寺院の拡張"
+ nahuatl_temple_expansion_modifier: "[ShowModifier('nahuatl_temple_expansion_modifier')]"
  #Muscovy
  STATIC_MODIFIER_NAME_siege_artillery_engineer: "砲兵指揮官を雇用"
  #Hussite Wars
@@ -1985,6 +1990,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "マムルーク司令官"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "スコーネ統合"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "聖職者の土地の管理"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "スリーシスターズ農法"

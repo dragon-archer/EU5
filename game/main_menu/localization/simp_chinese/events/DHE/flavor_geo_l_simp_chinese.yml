@@ -110,7 +110,7 @@
  flavor_geo.24.desc: "[target_character2.GetName]，这位伟大的征服者，辽阔领土的领主，通过[target_character2.GetHerHis]的使节向我们提出了一个令人难以置信的要求！[target_character2.GetHerHis]信中的字里行间仿佛伴随着疯狂的笑声和勒索，[target_character2.GetSheHe]要求[target_character1.GetName]以及整个[ROOT.GetCountry.GetGovernment.GetAdjective]统治家族皈依[target_religion.GetName]，否则我们将面临一个最强大的[target_country2.GetFlavorRank]的怒火……"
  flavor_geo.24.a: "唉，为了我们的人民，我们不得不接受……"
  flavor_geo.24.b: "我们不会背叛我们的信仰！"
- flavor_geo.24.historical_info: "在14世纪末，格鲁吉亚王国遭遇了征服者帖木儿所带来的巨大威胁，其侵略行为导致了该地区的动荡不安。面对帖木儿军队在格鲁吉亚境内横行霸道，当地统治者不得不做出一个艰难的抉择: 要么改信伊斯兰教以阻止进一步的破坏，要么继续忍受毁灭性的打击。经过数周的深思熟虑、艰难谈判以及不断加剧的压力，格鲁吉亚的领导层最终决定接受表面上的改宗，他们打算一旦察觉到帖木儿势力的衰退，便立即放弃这种权宜之计。"
+ flavor_geo.24.historical_info: "在14世纪末，格鲁吉亚王国遭遇了征服者帖木儿所带来的巨大威胁，其侵略行为导致了该地区的动荡不安。面对帖木儿军队在格鲁吉亚境内横行霸道，当地统治者不得不做出一个艰难的抉择：要么改信伊斯兰教以阻止进一步的破坏，要么继续忍受毁灭性的打击。经过数周的深思熟虑、艰难谈判以及不断加剧的压力，格鲁吉亚的领导层最终决定接受表面上的改宗，他们打算一旦察觉到帖木儿势力的衰退，便立即放弃这种权宜之计。"
  flavor_geo.25.title: "[target_country1.GetLongNameWithNoTooltip]的改宗决定"
  flavor_geo.25.desc: "在我们征服世界的马鞭轻轻扫过的异国，带来了来自[target_country1.GetLongName]的回应。负责该区域战事的首领似乎要求[target_character1.GetName]皈依[target_religion.GetName]的正信，而在该国寄来的回信中……"
  flavor_geo.25.a: "……他们傲慢地拒绝！我们要把他们烧成灰烬！"

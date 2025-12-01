@@ -8,7 +8,7 @@
  decline_of_empire.2.a: "最困难的时期已经过去了！"
  pops_accepted_or_primary_culture_gain_10_satisfaction_home_region_tt: "[target_region.GetName][region|e]所有[primary_culture|e]或[accepted_culture|e]的[pop|e]会获得[ShowNamedValue('pop_satisfaction_mild_bonus')|+=2%][pop_satisfaction|e]"
  decline_of_empire.3.title: "独立之火"
- decline_of_empire.3.desc: "[ROOT.GetCountry.GetLongName]的动荡局势已导致严重后果——[target_country.GetName]正式宣布独立。持续的内部冲突严重削弱了中央权威，地方统治者借机摆脱了我们的控制。独立旗帜已在各地升起，他们的领导人公开宣称拥有完全主权，而他们的军队已准备好捍卫这份来之不易的自由。\n\n如今我们面临抉择: 是立即动员现有军事力量武力镇压叛乱并收复失地，还是承认现实，集中力量巩固[ROOT.GetCountry.GetFlavorRank]剩余领土，以防止其他地区效仿分离？"
+ decline_of_empire.3.desc: "[ROOT.GetCountry.GetLongName]的动荡局势已导致严重后果——[target_country.GetName]正式宣布独立。持续的内部冲突严重削弱了中央权威，地方统治者借机摆脱了我们的控制。独立旗帜已在各地升起，他们的领导人公开宣称拥有完全主权，而他们的军队已准备好捍卫这份来之不易的自由。\n\n如今我们面临抉择：是立即动员现有军事力量武力镇压叛乱并收复失地，还是承认现实，集中力量巩固[ROOT.GetCountry.GetFlavorRank]剩余领土，以防止其他地区效仿分离？"
  decline_of_empire.3.a: "碾碎他们！"
  decline_of_empire.3.b: "暂时给予他们自由。"
  target_country_allowed_to_slip_from_grasp_tt: "[target_country.GetNameWithNoTooltip]会不流血地独立。\n我们会#R 失去#!他们[locations|e]的[cores|e]"

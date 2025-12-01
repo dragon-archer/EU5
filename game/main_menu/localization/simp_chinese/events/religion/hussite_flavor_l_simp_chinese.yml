@@ -19,7 +19,7 @@
  target_character_dies_very_violently_tt: "[target_character.GetName]将会被暴民所暴力处决"
  #New Events
  hussite_flavor.5.title: "[target_location.GetNameWithNoTooltip]迷失礼仪"
- hussite_flavor.5.desc: "对外国异宗进行汲取和吸收已经成为我国人民的一项长处。考虑到同教各宗在许多方面都有共通之处，这种做法并不需要矫枉。然而[target_location.GetName]出现的事态变化却让这件微不足道的事情演变为热点: 我们的许多农民对异宗的礼仪产生了兴趣，甚至直接照念他们的某些经书原文！"
+ hussite_flavor.5.desc: "对外国异宗进行汲取和吸收已经成为我国人民的一项长处。考虑到同教各宗在许多方面都有共通之处，这种做法并不需要矫枉。然而[target_location.GetName]出现的事态变化却让这件微不足道的事情演变为热点：我们的许多农民对异宗的礼仪产生了兴趣，甚至直接照念他们的某些经书原文！"
  hussite_flavor.5.a: "他们可以自由地表达自己的虔诚！"
  hussite_flavor.5.b: "我们必须温和地矫正。"
  hussite_flavor.5.c: "给他们一鞭子会不会好些？"

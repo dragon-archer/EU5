@@ -212,7 +212,7 @@
  GLD_f: "$GLD$"
  GLD_f_desc: "Nous avons pris possession de vastes territoires en Pologne. Au lieu de les gouverner directement, nous allons créer une possession constituante qui gouvernera à notre place."
  DAH_f: "$DAH$"
- DAH_desc: "Nous avons consolidé nos territoires et pourrons désormais établir un nouveau pays pour résister aux influences étrangères."
+ DAH_f_desc: "We have consolidated our territories and will now be able to establish a new country to resist foreign influences."
  IRO_f: "$IRO$"
  IRO_f_desc: "Les tribus [ShowCultureGroupName('haudenosaunee_group')] coexistent depuis longtemps dans une confédération unie, chacune conservant toutefois son autonomie. Désormais dirigées par une tribu centrale, les cinq nations peuvent entrer dans une nouvelle ère de force et d'unité."
  PUE_f: "$PUE$"

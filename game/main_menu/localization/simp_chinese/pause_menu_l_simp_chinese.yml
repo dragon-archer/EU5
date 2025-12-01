@@ -18,6 +18,6 @@
  LOBBY_UNAVAILABLE_IRONMAN: "#X 铁人模式下国家选择不可用#!"
  LOBBY_UNAVAILABLE_LOGIN: "#X 登录你的Paradox账户以游玩多人模式#!"
  LOBBY_UNAVAILABLE_USERNAME: "#X 你需要设置一个用户名以进行多人游戏。你可以在账户窗口操作。#!"
- PAUSE_MENU_INVITE: "发送服务器ID邀请更多玩家: \n[GetServerInfo.GetServerID]"
+ PAUSE_MENU_INVITE: "发送服务器ID邀请更多玩家：\n[GetServerInfo.GetServerID]"
  COPY_CLIPBUFFER_TT: "#T 复制服务器ID到剪贴板#!\n此ID可用于让其他玩家直连这场多人游戏"
  COPY_CLIPBUFFER_TT_TILTE: "复制服务器ID到剪贴板"

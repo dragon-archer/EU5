@@ -48,7 +48,7 @@
  PLAYER_RUN_PLAYTHROUGHT_DESC: "本教程耗时约数分钟，将向你展示#italic 《Europa Universalis V》#!的基础游戏机制。\n\n你可随时跳过教程，亦可在此处随时重新启动教程。"
  PLAYER_STOP_PLAYTHROUGHT: "退出"
  PLAYER_STOP_PLAYTHROUGHT_TITLE: "退出教程"
- PLAYER_STOP_PLAYTHROUGHT_DESC: "退出教程将丢失当前进度。\n\n注意: 你随时可以从@agenda!#high 议程#!重新启动此教程。"
+ PLAYER_STOP_PLAYTHROUGHT_DESC: "退出教程将丢失当前进度。\n\n注意：你随时可以从@agenda!#high 议程#!重新启动此教程。"
  PLAYER_STOP_PLAYTHROUGHT_TT: "#T $PLAYER_STOP_PLAYTHROUGHT_TITLE$#!\n$PLAYER_STOP_PLAYTHROUGHT_DESC$"
  #FLAVOUR TEXTS
  #Scenario Descriptions

@@ -24,4 +24,4 @@
  flavor_mor_maghrebi_wars.1100.title: "El nuevo gobernante del [ShowRegionNameWithNoTooltip('maghreb_region')]"
  flavor_mor_maghrebi_wars.1100.desc: "Por fin hemos unificado las tierras del [ShowRegionName('maghreb_region')], como en tiempos de la dinastía almohade. El comercio sahariano está ahora bajo nuestro control, y da comienzo un nuevo periodo de prosperidad para nosotros y para el mundo de fe [religion_scope.GetAdjective|l]."
  flavor_mor_maghrebi_wars.1100.a: "Nuestros homólogos nos envían sus felicitaciones."
- flavor_mor_maghrebi_wars.1100.tt: "Todos los países de religión [religion_scope.GetAdjectiveWithNoTooltip|l] en nuestro [diplomatic_range|e|l] mejorarán su opinión de nosotros."
+ flavor_mor_maghrebi_wars.1100.tt: "Todos los países de religión [religion_scope.GetAdjectiveWithNoTooltip|l] en nuestro [diplomatic_range|el] mejorarán su opinión de nosotros."
