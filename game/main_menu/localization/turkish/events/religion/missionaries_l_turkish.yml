@@ -1,6 +1,6 @@
 ﻿l_turkish:
  missionaries.1.title: "Misyoner Hastalandı"
- missionaries.1.desc: "[target_location.GetName] tarafına gönderdiğimiz misyonerin şansı şu ana dek pek yaver gitmedi. Misyonerin hastalandığı haberi yeni geldi. Yeni bir kilise için çalışmalar yerinde sayıyor ve misyonerimizin rehberliği olmadan yerel halkı Hristiyanlığa çekmek pek mümkün görünmüyor."
+ missionaries.1.desc: "[target_location.GetName] tarafına gönderdiğimiz misyonerin şansı şu ana dek pek yaver gitmedi. Misyonerin hastalandığı haberi yeni geldi. Yeni bir kilise için yapılan çalışmalar yerinde sayıyor ve misyonerimizin rehberliği olmadan yerel halkı Hristiyanlığa çekmek pek mümkün görünmüyor."
  missionaries.1.a: "Ona yardım edecek birini yollayalım."
  missionaries.1.b: "Çabalarımızı başka yere yöneltelim."
  STATIC_MODIFIER_NAME_missionary_falls_ill: "Misyoner Hastalandı"

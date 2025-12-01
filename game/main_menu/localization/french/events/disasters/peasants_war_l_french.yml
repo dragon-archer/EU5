@@ -2,7 +2,7 @@
  peasants_war.1.title: "La guerre des Paysans"
  peasants_war.1.desc: "La paysannerie exige depuis longtemps des réformes, qu'elles soient économiques, religieuses ou politiques. Aujourd'hui, le mécontentement est devenu tel que les révoltes violentes sont devenues courantes. Même s'ils manquent d'un vrai chef et sont mal armés, ces paysans constituent un défi à l'autorité. Plusieurs bâtiments importants, religieux ou non, ont déjà été incendiés au cours des révoltes."
  peasants_war.1.a: "Des temps difficiles nous attendent."
- peasants_war.1.a.tt: "Nos [ShowPopTypeName('peasants')], [ShowPopTypeName('laborers')] et [ShowPopTypeName('soldiers')] de [ROOT.GetCountry.GetCapital.GetRegion.GetName] rejoindront le [target_rebel.GetName]"
+ peasants_war.1.a.tt: "Nos [ShowPopTypeName('peasants')], [ShowPopTypeName('laborers')] et [ShowPopTypeName('soldiers')] en [ROOT.GetCountry.GetCapital.GetRegion.GetName] rejoindront [target_rebel.GetName]"
  peasants_war.2.title: "Agitations paysannes"
  peasants_war.2.desc: "Dans chaque région du pays, des tumultes et des agitations éclatent. Le poids des impôts trop lourds et la cruauté des propriétaires ont fini par pousser à bout les paysans, qui demandent des réformes immédiates, d'ordre social et politique."
  peasants_war.2.a: "Renforçons le servage."

@@ -181,7 +181,7 @@
  flavor_mos.26.desc_treaty_of_ugra_declined: "[sender.GetGovernment.GetRulerTitle] z państwa [sender.GetName] odrzuca korzystny traktat. Najwyraźniej nie widzi błędu w swoim postępowaniu i musi nadal stawiać czoła zagrożeniom z każdej strony.\n\nNasze wysiłki dyplomatyczne wydają się być daremne."
  flavor_mos.26.desc_generic_treaty: "Nasze próby zawarcia korzystnego traktatu zakończyły się porażką, ponieważ [sender.GetGovernment.GetRulerTitle|l] z państwa [sender.GetName] nie zgadza się na jego podpisanie.\n\nNasze wysiłki dyplomatyczne wydają się być daremne."
  flavor_mos.26.a: "To doprowadzi do ich upadku."
- flavor_mos.26.b: "Być może źle ich oceniliśmy."
+ flavor_mos.26.b: "Być może pomyliliśmy się w ocenie."
  flavor_mos.26.tt: "[sender.GetName] traci pokładane weń zaufanie"
  flavor_mos.27.title: "[maria_borovsk.GetNameWithNoTooltip]"
  flavor_mos.27.desc: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName] znalazł odpowiednią kandydatkę na żonę, którą przedstawili wspólnie [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l] i [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')|l]. [maria_borovsk.GetName], pochodząca z szanowanego rodu szlacheckiego, słynąca z pobożności i działań charytatywnych, byłaby doskonałą partnerką zarówno w sprawach państwowych, jak i sercowych."

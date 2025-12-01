@@ -42,7 +42,7 @@
  MIL_SCORE_ARMY: "[army|e]: $VAL|+=2$"
  MIL_SCORE_DISCIPLINE: "[discipline|e]: $VAL|+=2$"
  MIL_SCORE_EXHAUSTION: "[war_exhaustion|e]: $VAL|+=2$"
- ENDGAME_SCORE: "Nasza ostateczna [score|el] wyniosła [Player.GetScore.GetScore|2]"
+ ENDGAME_SCORE: "Nasza ostateczna [score|el] to: [Player.GetScore.GetScore|0]"
  SORT_BY_RANK_TT: "Sortuj wg rangi [Concept('score','oceny')|e]"
  SORT_SCORE_RANK: "Ranga"
  SORT_SCORE_NAME: "Kraj"

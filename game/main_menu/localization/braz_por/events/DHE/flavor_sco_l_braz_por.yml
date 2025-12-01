@@ -275,6 +275,7 @@
  flavor_sco.200.a: "A jurisdição da [ROOT.GetCountry.GetNameWithNoTooltip] pertence apenas a [sco_ruler.GetNameWithNoTooltip]"
  flavor_sco.200.b: "Limitar a supervisão [GetCountry('PAP').GetAdjectiveWithNoTooltip], mas permitir que os prelados acessem a [ShowSpecialStatusNameWithNoTooltip('curia')]."
  flavor_sco.200.c: "Rejeitar totalmente a proposta."
+ sco_retain_clergy_jurisdiction_requirements: "Contanto que [ROOT.GetCountry.GetName] continue [ShowReligionAdjective('catholic')], teremos acesso a [ShowLawName('sco_authority_over_the_clergy')]."
  flavor_sco.201.title: "O [GetCountry('PAP').GetGovernment.GetRulerTitle] Solicita uma Reconciliação com [sco_ruler.GetShortNameWithNoTooltip]"
  flavor_sco.201.desc: "Após o decreto da política [ShowPolicyName('crown_religious_jurisdiction')], as relações entre [sco_ruler.GetName] e o [GetCountry('PAP').GetName] se deterioraram. Apesar disso, muitos prelados do alto escalão da [ROOT.GetCountry.GetName] ainda receberam convites do [GetCountry('PAP').GetNameWithNoTooltip] para participar nas questões da [ShowSpecialStatusNameWithNoTooltip('curia')].\n\nPara tentar reconciliar com [sco_ruler.GetNameWithNoTooltip], [pap_ruler.GetName] ofereceu uma influência considerável na [ShowSpecialStatusNameWithNoTooltip('curia')] e um novo gesto de paz em troca da abolição da política [ShowPolicyNameWithNoTooltip('crown_religious_jurisdiction')]."
  flavor_sco.201.a: "Concordar com a reconciliação com o [pap_ruler.GetNameWithNoTooltip]."

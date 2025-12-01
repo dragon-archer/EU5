@@ -78,4 +78,4 @@
  hre.801.title: "El imperio llora la muerte de su [GetUniqueInternationalOrganization('hre').GetLeaderTitle|l]..."
  hre.801.desc: "[previous_emperor.GetName] ha fallecido recientemente. Ahora, los [ShowSpecialStatusNamePlural('elector')] y los [ShowSpecialStatusNamePlural('archbishop_elector')] se reúnen en el Colegio Electoral para decidir quién ascenderá al trono imperial."
  hre.801.a: "¡Un día triste para el Imperio!"
- hre_the_emperor_is_dead_tt: "The [GetInternationalOrganization('hre').GetName] will have to chose a new [GetUniqueInternationalOrganization('hre').GetLeaderTitle]!"
+ hre_the_emperor_is_dead_tt: "¡El [GetInternationalOrganization('hre').GetName] tendrá que elegir un nuevo [GetUniqueInternationalOrganization('hre').GetLeaderTitle|l]!"

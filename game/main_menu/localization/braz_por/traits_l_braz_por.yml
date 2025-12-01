@@ -110,7 +110,7 @@
  desc_craven: "Esse governante é um covarde. Dotado de um imenso medo de combate físico, ele fica o mais longe possível do campo de batalha. Nossas tropas acabam percebendo que estão por conta própria."
  desc_loose_lips: "Frequentemente responsável por falhas e vazamentos de informações, esse governante costuma confiar demais e é enganado com facilidade. Infelizmente, a consequência das ações dele traz mais prejuízos do que benefícios para nossos esforços de contraespionagem."
  desc_obsessive_perfectionist: "Esse governante é um perfeccionista obsessivo. Um interesse ávido por detalhes e minúcias nem sempre acompanha um talento equivalente para tais questões. Causando interrupções e atrasos com frequência, nosso governante prejudica mais do que ajuda quando o assunto é desenvolver nossa infraestrutura interna."
- desc_malevolent: "Esse governante é considerado maléfico. As ações dele parecem ser motivadas por malícia ou intenções hostis. Como consequência, os países súditos sob nosso controle se enfurecem rapidamente e temem nossas ações."
+ desc_malevolent: "Esse governante é considerado maléfico. Suas ações parecem ser motivadas por malícia ou intenções hostis. Como consequência, os países súditos sob nosso controle se enfurecem rapidamente e temem nossas ações."
  #Leaders (Generals and Admirals)
  glory_seeker: "Buscador de Glória"
  desc_glory_seeker: "Esse General é um buscador de glória. As tropas lideradas por ele conseguem mais Prestígio e Tradição do Exército do que seria possível de outra forma, uma vez que são mobilizadas onde causarão o maior impacto visível."

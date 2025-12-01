@@ -178,7 +178,7 @@
  tamil_uprising: "Soulèvement tamoul"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "Tous les [pops|e] #L [ShowCultureName('tamil')|l]s#! vont perdre [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] de [pop_satisfaction|e]."
  flavor_vij.1102.title: "$flavor_vij.1100.title$"
- flavor_vij.1102.desc: "Avec le soutien de la [ROOT.GetCountry.GetGovernment.GetCourtTitle], nous avons réussi à capturer le chef de la rébellion des #L [ShowCultureName('tamil')]s#!. Les ambitions de [target_character.GetName] de se tailler un royaume indépendant ont été écrasées, et [target_character.GetSheHe] est désormais en exil hors du [ROOT.GetCountry.GetName]. Toutefois, le peuple [ShowCultureNameWithNoTooltip('tamil')|l] n'oubliera pas l'exil de son dirigeant..."
+ flavor_vij.1102.desc: "Avec le soutien de la [ROOT.GetCountry.GetGovernment.GetCourtTitle], nous avons réussi à capturer le chef de la rébellion des #L [ShowCultureName('tamil')]s#!. Les ambitions de [target_character.GetName] de se tailler un royaume indépendant ont été écrasées, et [Select_CString(target_character.IsFemale,'elle', 'il')] est désormais en exil hors du [ROOT.GetCountry.GetName]. Toutefois, le peuple [ShowCultureNameWithNoTooltip('tamil')|l] n'oubliera pas l'exil de son dirigeant..."
  flavor_vij.1102.a: "C'était nécessaire pour la protection du [ROOT.GetCountry.GetNameWithNoTooltip]."
  VIJ_EVERY_TAMIL_POP_LOSES_10_SATISFACTION: "Tous les [pops|e] #L [ShowCultureName('tamil')|l]s#! vont perdre [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] de [pop_satisfaction|e]."
  flavor_vij.1103.title: "$flavor_vij.1100.title$"

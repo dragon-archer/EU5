@@ -39,4 +39,4 @@
  MULTIPLAYER_CHAT_DICE_MESSAGE: "#E $SENDER$ hat einen d$SIDES$-Würfel gerollt und eine $ROLL$ gewürfelt#!"
  MULTIPLAYER_CHAT_HELP_MESSAGE: "#G Verfügbare Nachrichten:#!"
  #Insults
- MULTIPLAYER_CHAT_INSULT_0: "$SENDER$ ist der Meinung, dass das Gesicht von $RECEIVER$ dumm aussieht"
+ MULTIPLAYER_CHAT_INSULT_0: "#R $SENDER$ ist der Meinung, dass das Gesicht von $RECEIVER$ dumm aussieht#!"

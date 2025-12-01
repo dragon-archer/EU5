@@ -521,7 +521,7 @@
  flavor_chi.117.desc: "최근 [target_area.GetName]에서 발생한 몇몇 사건으로 [ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')]들 사이에 반역 행위가 증가하고 있습니다. 도적 떼, 폭력을 수반한 분쟁, 무장 세력의 형성 등은 이 지역에 난세가 다가오고 있음을 알리는 명확한 징후 중 일부에 불과합니다. 반란의 수괴는 [target_character.GetName](이)라는 자로, 부자로부터 재산을 빼앗아 가난한 자에게 나누어 주는 것으로 명성을 얻은 인물입니다. 현재 [target_character.GetNameWithNoTooltip](은)는 무장 [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('peasants_estate')] 세력을 이끌면서 점차 [target_area.GetRegion.GetName] 지역을 장악하고 있습니다."
  flavor_chi.117.a: "저 미천한 자들을 분쇄할 것이다!"
  flavor_chi.117.b: "상당한 대중 장악력을 지닌 듯하군."
- chi_we_will_continue_playing_as_target_country: "우리나라가 계속 [target_rebels.GetName](으)로 플레이합니다."
+ chi_we_will_continue_playing_as_target_country: "우리나라가 [target_rebels.GetName](으)로 계속 플레이합니다."
  flavor_chi.118.title: "$CSH_ADJ$ 반란군"
  flavor_chi.118.desc: "[target_character.GetName](이)가 이끄는 농민 무리가 기폭제가 되어, 우리 예상을 뛰어넘는 규모의 반란이 일어나고 말았습니다. [target_character.GetNameWithNoTooltip](은)는 민초의 영웅이 되어 농민들 사이에서 큰 지지를 얻었으며, 농민들은 앞다투어 반란군에 대거 가담하고 있습니다. 빈곤에 시달리던 수많은 촌락도 반란군에 합류했으며, 이제 $china$의 여러 대도시조차도 위협받기에 이르렀습니다."
  flavor_chi.118.a: "[ROOT.GetCountry.Custom('common_string_nothing_we_can_do')]"

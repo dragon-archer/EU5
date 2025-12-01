@@ -410,7 +410,7 @@
  STATIC_MODIFIER_NAME_monumental_architecture: "Arquitetura Monumental"
  STATIC_MODIFIER_NAME_industrious_boost: "Desenvolvimento em Fabricação"
  STATIC_MODIFIER_NAME_cruel_overlord: "Suserano Cruel"
- STATIC_MODIFIER_NAME_positive_province_food_growth: "Grande Armazenamento de [Concept('food', 'alimentos')|e] na [province|e]"
+ STATIC_MODIFIER_NAME_positive_province_food_growth: "Grande Armazenamento de [Concept('food', 'Alimentos')|e] na [province|e]"
  STATIC_MODIFIER_NAME_province_starving: "[province|e] [Concept('starving', 'faminta')|e]"
  STATIC_MODIFIER_NAME_raised_offensive_levies_repeatedly: "Convocou conscritos ofensivos repetidamente"
  STATIC_MODIFIER_NAME_raised_defensive_levies_repeatedly: "Convocou conscritos defensivos repetidamente"
@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Bons Presságios"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Um período de renovação, além de um clima ameno e fartura de alimentos, são bons sinais. O Deuses estão felizes."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Moedas em Nosso Nome"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influência da nossa Antiga Capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Sonho de Osmã"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "É nosso destino governar um império que durará até o Fim dos Dias."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Burocratas de Ahi"
@@ -823,7 +823,7 @@
  #Hungary
  STATIC_MODIFIER_NAME_hun_absolute_rule: "Governo Absoluto de $Karoly$"
  STATIC_MODIFIER_NAME_prefection_modifier: "Condição de Praefecta"
- STATIC_MODIFIER_DESC_prefection_modifier: "Pelo direito e autoridade de um soberano, este personagem tem a condição de #italic praefecta#!. Dessa forma, ele foi provido à condição de filho de um nobre e é considerado [legally_male|e]."
+ STATIC_MODIFIER_DESC_prefection_modifier: "Pelo direito e autoridade de um soberano, este personagem tem a condição de #italic praefecta#!. Dessa forma, ele foi promovido à condição de filho de um nobre e é considerado um [legally_male|e]."
  STATIC_MODIFIER_NAME_appoint_as_heir_modifier: "Herdeiro(a) Nomeado(a)"
  STATIC_MODIFIER_DESC_appoint_as_heir_modifier: "Pelo direito e autoridade de um soberano, este personagem foi escolhido como herdeiro da nação."
  #Chivalry Orders
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Comércio de Armas de Fogo"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Agricultura Matriarcal"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Herdeiro de Figura Vazia"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Avanço Agressivo para Terras de Balliol"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Forçando Balliol a Agir"
  STATIC_MODIFIER_NAME_sbl_english_backing: "Apoio da Coroa Inglesa"
@@ -1376,7 +1377,7 @@
  STATIC_MODIFIER_NAME_chi_red_turban_propaganda: "Propaganda dos Turbantes Vermelhos"
  STATIC_MODIFIER_NAME_chi_li_zicheng_rebellion: "Rebelião de $name_li31$ $name_zi4$ $name_cheng$"
  STATIC_MODIFIER_NAME_chi_death_of_emperor_without_capture: "Morte do Imperador Refém"
- STATIC_MODIFIER_NAME_chi_capture_of_beijing: "Captura de Grande Cidade do Povo $chinese_group$"
+ STATIC_MODIFIER_NAME_chi_capture_of_beijing: "Captura de Grande Cidade do Povo Chinês"
  STATIC_MODIFIER_NAME_chi_loss_of_confidence_in_army: "Perda de Confiança no Exército"
  STATIC_MODIFIER_NAME_chi_offended_cabinet_member: "Membro do Conselho de Ministros Ofendido"
  STATIC_MODIFIER_NAME_chi_vietnamese_assimilation: "Assimilação Forçada"
@@ -1401,11 +1402,11 @@
  STATIC_MODIFIER_NAME_chi_on_board_of_expedition: "Embarcou na Viagem do Tesouro"
  STATIC_MODIFIER_NAME_chi_cruel_punishment: "Punições Cruéis"
  STATIC_MODIFIER_NAME_chi_maganimous_permission: "Magnanimidade Divina"
- STATIC_MODIFIER_NAME_chi_chinese_rule: "Governo $chinese_group$"
+ STATIC_MODIFIER_NAME_chi_chinese_rule: "Governo Chinês"
  STATIC_MODIFIER_NAME_chi_beloved_by_expedition: "Amado(a) por Viagem do Tesouro"
  STATIC_MODIFIER_NAME_chi_favored_by_expedition: "Favorecido(a) por Viagem do Tesouro"
  STATIC_MODIFIER_NAME_chi_resisting_subjugation: "Resistindo aos Avanços da Viagem do Tesouro"
- STATIC_MODIFIER_NAME_chi_arrogant_attitude_towards_expedition: "Postura Arrogante em relação à Viagem do Tesouro do Povo $chinese_group$"
+ STATIC_MODIFIER_NAME_chi_arrogant_attitude_towards_expedition: "Postura Arrogante em relação à Viagem do Tesouro do Povo Chinês"
  STATIC_MODIFIER_NAME_chi_grateful_for_not_being_extradited: "Gratidão por Ser Salvo(a) da Extradição"
  STATIC_MODIFIER_NAME_distanced_from_china_modifier: "Distância da China"
  STATIC_MODIFIER_NAME_stronger_relations_with_china_modifier: "Relações Mais Fortes com a China"
@@ -1503,7 +1504,7 @@
  STATIC_MODIFIER_DESC_timmy_wants_to_play: "Este governante é abençoado com uma mente refinada e instruída que se provou capaz no campo de batalha diversas vezes. Suas ações deixarão o solo de seus inimigos vermelho, enquanto seu império cresce e se torna uma das maiores ameaças na [ShowSubContinentName('central_asia')], no [ShowSubContinentName('middle_east')] e na $india$.\n\n#Y Enquanto este [modifier|e] estiver ativo, os [locations|e] em uma Região Núcleo designada ganham o bônus [ShowModifier('rot_timurs_core_region')].#!"
  STATIC_MODIFIER_NAME_rot_timurs_core_region: "Região Núcleo"
  STATIC_MODIFIER_NAME_rot_legacy_islam: "Espada do Islã"
- STATIC_MODIFIER_NAME_rot_legacy_borjigin: "Legado de $genghis_khan_name_no_tooltip$"
+ STATIC_MODIFIER_NAME_rot_legacy_borjigin: "Legado de Gengis Khan"
  STATIC_MODIFIER_NAME_rot_legacy_fallback: "O Destino de Emir"
  #Ottoman Situation
  STATIC_MODIFIER_NAME_sovereign_of_anatolia: "Soberania da Anatólia"
@@ -1867,7 +1868,7 @@
  STATIC_MODIFIER_NAME_in_defense_of_hussitism_modifier: "Em Defesa da Fé $hussite$"
  #Union-Republic
  STATIC_MODIFIER_NAME_forbidden_from_joining_unions: "Proibido(a) de Eleger Líderes da União"
- STATIC_MODIFIER_DESC_forbidden_from_joining_unions: "Devido a interferências em questões de uniões no passado e às preocupações do povo relacionadas à [ShowGovernmentTypeName('republic')], o Estado não pode mais eleger qualquer monarca que governe uma [GetInternationalOrganizationType('union').GetName].\n\n#Y Enquanto esse [modifier] estiver ativo, ações como [ShowCountryInteractionName('invite_prince')] não podem mais ter líderes de uma [union|e] como alvo.#!"
+ STATIC_MODIFIER_DESC_forbidden_from_joining_unions: "Devido a interferências em questões de uniões no passado e às preocupações do povo relacionadas à [ShowGovernmentTypeName('republic')], o Estado não pode mais eleger qualquer monarca que governe um(a) [GetInternationalOrganizationType('union').GetName].\n\n#Y Enquanto esse [modifier] estiver ativo, ações como [ShowCountryInteractionName('invite_prince')] não podem mais ter líderes de uma [union|e] como alvo.#!"
  #Industrialization Events
  STATIC_MODIFIER_NAME_introduction_of_newcommen_engine: "Introdução do Motor Atmosférico"
  STATIC_MODIFIER_NAME_introduction_of_steam_power_blast: "Introdução do Alto-Forno a Vapor"
@@ -1950,7 +1951,7 @@
  STATIC_MODIFIER_NAME_mexica_period_of_passive_growth_modifier: "Período de Crescimento Passivo"
  STATIC_MODIFIER_NAME_lessors_from_the_port_of_martaban_modifier: "Lições do Porto de $martaban$"
  STATIC_MODIFIER_NAME_angkor_architecture_modifier: "Arquitetura de $angkor$"
- STATIC_MODIFIER_NAME_application_of_chinese_legal_practices_modifier: "Aplicação das Práticas Legais do $chinese_group$"
+ STATIC_MODIFIER_NAME_application_of_chinese_legal_practices_modifier: "Aplicação das Práticas Legais Chinesas"
  #BYZ & TUR
  STATIC_MODIFIER_NAME_repopulation_of_anatolia_modifier: "Repopulação da $anatolia_region$"
  STATIC_MODIFIER_NAME_cultural_intermixing_modifier: "Mistura Cultural"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Comandante Mameluco"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Integrando a Escânia"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Dote Real"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Administração da Pensilvânia"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Colheita das Três Irmãs"

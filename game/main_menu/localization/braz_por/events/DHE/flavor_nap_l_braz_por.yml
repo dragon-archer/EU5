@@ -120,7 +120,7 @@
  flavor_nap.270.a: "Vamos propô-lo à Cúria como um novo santo [GetCountry('NAP').GetAdjectiveWithNoTooltip]."
  flavor_nap.270.b: "Não vamos perder nosso tempo com esses contos."
  flavor_nap.280.title: "As Duas Sicílias Reunidas!"
- flavor_nap.280.desc: "O povo se regozija! As Duas Sicílias estão novamente unidas sob o governo do(a) grande [GetCountry('TWS').GetGovernment.GetRuler.GetName].\n\nDesde a Guerra das Vésperas Sicilianas, o reino criado por Rogério II esteve dividido, e aqueles que antes eram irmãos o tempo transformou em estranhos, rivais e inimigos. Graças ao(à) nosso(a) [GetCountry('TWS').GetGovernment.GetRulerTitle], esse período sombrio chegou ao fim, e podemos, mais uma vez, nos unir aos nossos parentes há muito perdidos como um único povo unido."
+ flavor_nap.280.desc: "O povo se regozija! As Duas Sicílias estão novamente unidas sob o governo do(a) grande [GetCountry('TWS').GetGovernment.GetRulerOrRegent.GetName].\n\nDesde a Guerra das Vésperas Sicilianas, o reino criado por Rogério II esteve dividido, e aqueles que antes eram irmãos o tempo transformou em estranhos, rivais e inimigos. Graças ao(à) nosso(a) [GetCountry('TWS').GetGovernment.GetRulerOrRegentTitle], esse período sombrio chegou ao fim, e podemos, mais uma vez, nos unir aos nossos parentes há muito perdidos como um único povo unido."
  flavor_nap.280.a: "Vamos restaurar a antiga capital do reino!"
  flavor_nap.280.b: "Uma nova era pede uma nova capital!"
  flavor_nap.280.c: "A união de nosso povo ecoará através da história."

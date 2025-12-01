@@ -5,6 +5,7 @@
  has_not_had_this_situation_before_tt: "Bu [situation|e] daha önce yaşanmadı"
  DEFENDERS_CATHOLICISM: "$BOH$ karşısında savunma [Concept('alliance', 'İttifakı')|e]"
  DEFENDERS_HUSSITISM: "$PAP$ karşısında savunma [Concept('alliance', 'İttifakı')|e]"
+ bohemia_and_pope_at_war_with_both_being_leaders_tt: "[GetCountry('BOH').GetName] and [GetCountry('PAP').GetName] are at war with each other and each [country|e] is the [war_leader|e] of their respective side"
  hussite_wars.1.title: "[jan_zelivsky_scope.GetNameWithNoTooltip] Müritleri"
  HUSSITE_WARS_SIDE_BOHEMIA: "[THIS.GetLocation.GetOwner.GetLongName|Y], [ShowSituationName('hussite_wars')] durumunda [GetCountry('BOH').GetLongName] tarafına destek veriyor!"
  HUSSITE_WARS_SIDE_POPE: "[THIS.GetLocation.GetOwner.GetLongName|Y], [ShowSituationName('hussite_wars')] durumunda [GetCountry('BOH').GetLongName] karşısında!"
@@ -37,6 +38,8 @@
  hussite_victory_tt: "[ShowReligionAdjectiveWithNoTooltip('hussite')] Zaferi"
  reignite_the_fires_of_crusade_tt: "[GetCountry('BOH').GetLongNameWithNoTooltip] ile [ShowReligionAdjectiveWithNoTooltip('catholic')] [countries|e] arasındaki ilişkiler kötüleşecek ve bu [countries|e] zamanla davamıza katılabilir"
  income_depends_on_estate_power_tt: "Kazanılan [gold|e] çoğunlukla bu [Concept('estate', 'Zümrenin')|e] [Concept('estate_power', 'Zümre Gücüne')|e] bağlı olur."
+ join_current_war_against_papal_states_tt: "We will join the ongoing [war|e] of the [GetCountry('BOH').GetLongName] against the [GetCountry('PAP').GetLongName]"
+ join_current_war_against_bohemia_tt: "We will join the ongoing [war|e] of the [GetCountry('PAP').GetLongName] against the [GetCountry('BOH').GetLongName]"
  #########
  hussite_wars.1.desc: "[jan_zelivsky_scope.GetName] önderliğindeki öfkeli kalabalık [target_boh_capital_scope.GetName] sokaklarına çıktı. Artırılmış haklar ve bazı [ShowReligionAdjective('hussite')] esirin şehir konseyi tarafından affedilmesini istediler. Ne yazık ki yargıç ve maiyeti, protestocuların taleplerini reddetti. Bu da ülkemizi reformların engellendiği ve kitlesel ayaklanmaların çıktığı bir döngüye soktu. Belki de bu döngüyü kırmanın zamanı gelmiştir."
  hussite_wars.1.a: "[GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle] için ölüm!"

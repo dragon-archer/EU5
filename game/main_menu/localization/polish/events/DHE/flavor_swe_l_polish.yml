@@ -293,7 +293,7 @@
  flavor_swe.58.a: "Przyznajmy mu list kaperski."
  flavor_swe.58.b: "To niegodne nas!"
  flavor_swe.59.title: "#italic Then Swänska Argus#!"
- flavor_swe.59.desc: "W sercu miasta [ShowLocationName('stockholm')] zyskuje na popularności nowy tygodnik zatytułowany #italicThen Swänska Argus#! Publikacja ta w dowcipny i klarowny sposób krytykuje przestarzałe tradycje, promuje racjonalizm, umiar oraz język [ROOT.GetCountry.GetCulture.GetDialect.GetName]. Jego wpływ jest ogromny. Inspiruje reformatorów i językoznawców, a także subtelnie kształtuje przyszłość królestwa. Czy mamy wspierać ten śmiały głos postępu?"
+ flavor_swe.59.desc: "W sercu #L [ShowLocationName('stockholm')]u#! zyskuje na popularności nowy tygodnik zatytułowany #italicThen Swänska Argus#! Publikacja ta w dowcipny i klarowny sposób krytykuje przestarzałe tradycje, promuje racjonalizm, umiar oraz język #L [ROOT.GetCountry.GetCulture.GetDialect.GetName|l]ki#!. Jego wpływ jest ogromny. Inspiruje reformatorów i językoznawców, a także subtelnie kształtuje przyszłość królestwa. Czy mamy wspierać ten śmiały głos postępu?"
  flavor_swe.59.historical_info: "Czasopismo „Then Swänska Argus”, wydawane od 1732 roku przez Olofa von Dalina, stanowiło cezurę w historii piśmiennictwa szwedzkiego. Pisane w żywym i przystępnym stylu, głosiło pochwałę ideałów oświecenia i pomogło zmodernizować język szwedzki. Szybko stało się latarnią kulturową, która kształtowała opinię publiczną i wpływała na pokolenia szwedzkich myślicieli."
  flavor_swe.59.a: "Nowoczesna [ROOT.GetCountry.GetNameWithNoTooltip] wspiera tę wizję!"
  flavor_swe.59.b: "Musimy cenzurować prasę!"

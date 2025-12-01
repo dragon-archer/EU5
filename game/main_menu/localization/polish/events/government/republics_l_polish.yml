@@ -114,7 +114,7 @@
  republics.29.a: "Wielka flota to jedyny możliwy wybór."
  republics.29.b: "Wielkie wojska lądowe byłyby korzystniejsze."
  republics.30.title: "Militarna łagodność"
- republics.30.desc: "W trakcie posiedzeń, które organizuje [ROOT.GetCountry.GetGovernment.GetParliament.GetName|l], niektórzy reprezentanci podnieśli kwestię, że jesteśmy zbyt łagodni, jeśli chodzi o zamanifestowanie kontroli nad miejscami, których jesteśmy prawowitymi właścicielami. Nie mogą zrozumieć, jak możemy patrzeć z boku na fakt, że inny kraj kontroluje tak kluczowe dla nas miejsce jak [SCOPE.sLocation('target').GetName]."
+ republics.30.desc: "W trakcie posiedzeń, które organizuje [ROOT.GetCountry.GetGovernment.GetParliament.GetName|l], niektórzy reprezentanci zauważyli, że jesteśmy zbyt łagodni, jeśli chodzi o zamanifestowanie kontroli nad miejscami, których jesteśmy prawowitymi właścicielami. Nie mogą zrozumieć, jak możemy patrzeć z boku na fakt, że inny kraj kontroluje tak kluczowe dla nas miejsce jak [SCOPE.sLocation('target').GetName]."
  republics.30.a: "Nie widzą szerszego kontekstu."
  republics.30.b: "Już nas to nie interesuje."
  republics.31.title: "Zbyt duża swoboda"

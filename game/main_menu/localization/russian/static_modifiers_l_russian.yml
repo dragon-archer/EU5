@@ -730,13 +730,13 @@
  STATIC_MODIFIER_NAME_golden_age_florence_balanced_modifier: "Разностороннее внимание"
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "Гуситская ересь"
- STATIC_MODIFIER_DESC_hussite_heresy_modifier: "#TOOLTIP:RELIGION,hussite_tt,X #L Гуситство#!#! распространяется всё шире. Последователи этого движения призывают к реформе #TOOLTIP:RELIGION,catholic_tt,X #L католической#!#! церкви."
+ STATIC_MODIFIER_DESC_hussite_heresy_modifier: "#TOOLTIP:RELIGION,$hussite_tt$,X #L Гуситство#!#! распространяется всё шире. Последователи этого движения призывают к реформе #TOOLTIP:RELIGION,$catholic_tt$,X #L католической#!#! церкви."
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "Добрые знамения"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Время обновления, благоприятная погода и обилие пищи — всё это добрые знаки, ниспосланные богами."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Наши монеты"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Влияние старой столицы"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Мечта Османа"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Нам суждено править империей, которая простоит до конца мира."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Бюрократы Ахи"
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Торговля огнестрельным оружием"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Матриархальное сельское хозяйство"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Наследник «Пустого камзола»"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Агрессивное наступление на земли Баллиола"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Баллиол вынужден действовать"
  STATIC_MODIFIER_NAME_sbl_english_backing: "Поддержка английской короны"
@@ -1273,7 +1274,7 @@
  STATIC_MODIFIER_NAME_delhi_appeased_the_nobles_modifier: "Благосклонность знати"
  #Brandenburg
  STATIC_MODIFIER_NAME_bra_wittelsbacher_neglect: "Пренебрежение Виттельсбахов"
- STATIC_MODIFIER_DESC_bra_wittelsbacher_neglect: "[GetCountry('BRA').GetName] — забытая и заброшенная земля, совершенно не нужная далёкой правящей династии. Бароны-грабители, а также осмелевшие от свободы горожане и священники пользуются отсутствием сильной власти. Настоящее и будущее этого края под вопросом.\n\nЭтот модификатор исчезнет, как только державой перестанет править династия #TOOLTIP:DYNASTY,wittelsbach_dynasty_tt,X #L Виттельсбахов#!#!."
+ STATIC_MODIFIER_DESC_bra_wittelsbacher_neglect: "[GetCountry('BRA').GetName] — забытая и заброшенная земля, совершенно не нужная далёкой правящей династии. Бароны-грабители, а также осмелевшие от свободы горожане и священники пользуются отсутствием сильной власти. Настоящее и будущее этого края под вопросом.\n\nЭтот модификатор исчезнет, как только державой перестанет править династия #TOOLTIP:DYNASTY,$wittelsbach_dynasty_tt$,X #L Виттельсбахов#!#!."
  STATIC_MODIFIER_NAME_bra_false_waldemar: "Претендент на престол"
  STATIC_MODIFIER_DESC_bra_false_waldemar: "Этот персонаж не будет никаким образом служить государству, пока не сядет на престол #ONCLICK:COUNTRY,[GetCountry('BRA').Custom('CL_tt')] #TOOLTIP:COUNTRY,[GetCountry('BRA').Custom('CL_tt')],X [GetCountry('BRA').Custom('CL_GEN')|L]#!#!."
  STATIC_MODIFIER_NAME_bra_waldemar_rallies_nobility: "Возвращение Вальдемара"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Командир мамлюков"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Интеграция Скании"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Королевское приданое"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Правительство Пенсильвании"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Урожай «трёх сестёр»"

@@ -5,6 +5,7 @@
  has_not_had_this_situation_before_tt: "Esta [situation|el] no ha ocurrido antes."
  DEFENDERS_CATHOLICISM: "[alliance|e] defensiva contra $BOH$"
  DEFENDERS_HUSSITISM: "[alliance|e] defensiva contra $PAP$"
+ bohemia_and_pope_at_war_with_both_being_leaders_tt: "[GetCountry('BOH').GetName] and [GetCountry('PAP').GetName] are at war with each other and each [country|e] is the [war_leader|e] of their respective side"
  hussite_wars.1.title: "Congregación de [jan_zelivsky_scope.GetNameWithNoTooltip]"
  HUSSITE_WARS_SIDE_BOHEMIA: "¡[THIS.GetLocation.GetOwner.GetLongName|Y] y [GetCountry('BOH').GetLongName|l] son aliados en las [ShowSituationName('hussite_wars')]!"
  HUSSITE_WARS_SIDE_POPE: "¡[THIS.GetLocation.GetOwner.GetLongName|Y] y [GetCountry('BOH').GetLongName|l] son rivales en las [ShowSituationName('hussite_wars')]!"
@@ -37,6 +38,8 @@
  hussite_victory_tt: "Victoria [ShowReligionAdjectiveWithNoTooltip('hussite')|l]"
  reignite_the_fires_of_crusade_tt: "Las relaciones entre [GetCountry('BOH').GetLongNameWithNoTooltip|l] y los [countries|el] de fe [ShowReligionAdjectiveWithNoTooltip('catholic')|l] empeorarán y muchos pueden unirse a nuestra causa a su debido tiempo."
  income_depends_on_estate_power_tt: "El [gold|el] obtenido dependerá en gran medida del [estate_power|el] de este [estate|el]."
+ join_current_war_against_papal_states_tt: "We will join the ongoing [war|e] of the [GetCountry('BOH').GetLongName] against the [GetCountry('PAP').GetLongName]"
+ join_current_war_against_bohemia_tt: "We will join the ongoing [war|e] of the [GetCountry('PAP').GetLongName] against the [GetCountry('BOH').GetLongName]"
  #########
  hussite_wars.1.desc: "Hordas de gente furiosa lideradas por [jan_zelivsky_scope.GetName] han inundado las calles de [target_boh_capital_scope.GetName] para pedir más derechos y exigir la absolución de varios prisioneros de fe [ShowReligionAdjective('hussite')|l] por parte del consejo de la ciudad. Por desgracia, el juez y su séquito han rechazado las demandas de los protestantes, lo que ha provocado un estallido de violencia en un feroz ciclo de reformas paralizadas y revueltas de las masas. Tal vez haya llegado la hora de romper el ciclo..."
  hussite_wars.1.a: "¡Muerte al [GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle|l]!"

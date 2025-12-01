@@ -79,7 +79,7 @@
  dynastic.19.title: "[ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]: strach i obrzydzenie"
  dynastic.19.desc: "Zmierzch jest zawsze straszliwy. Chmury zataczające koła po nieruchomym niebie, okrutne gwiazdy zawieszone niczym kawałki potłuczonego szkła i żyrandole rzucające dziwne cienie na #L [ROOT.GetCountry.GetGovernment.GetAdjective|l]kie#! komnaty. Ostatnimi czasy [ROOT.GetCountry.GetGovernment.GetRulerTitle|l] ma dziwne przeczucie, że coś jest nie tak z tym miejscem. Jego geometria jest... niewłaściwa. Gdy się zastanowić... to wszystko tak wygląda, od kiedy na świecie jest [heir_char.GetName]."
  dynastic.19.a: "Ojcze nasz, który jesteś w niebie!"
- dynastic.19.b: "Sama praca i zero zabawy – nic dziwnego"
+ dynastic.19.b: "Nie samą pracą żyje [ruler_char.GetShortNameWithNoTooltip]."
  dynastic.20.title: "Odkrycie"
  dynastic.20.desc: "[ROOT.GetCountry.GetGovernment.GetRulerTitle] wyczuwa natychmiast, że coś jest nie tak, słysząc głos służącej pytającej o dziwną ścianę w #L [ROOT.GetCountry.GetGovernment.GetAdjective|l]kim#! zamku. W jej tonie coś się kryje. Zamaskowana pogarda i strach.\n\nPamięta już jasno. Bliskość tego małego ciała. Znoszenie go do wilgotnej piwnicy, kładzenie cegieł. Czuje nadchodzącą falę mdłości. Olbrzymią odrazę. Zabicie własnego dziecka nie było żadnym katharsis. Przez moment czuje przemykającą przez umysł iskrę zrozumienia..."
  dynastic.20.a: "Oooto i [ruler_char.GetShortNameWithNoTooltip]!"

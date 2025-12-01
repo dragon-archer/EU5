@@ -1,6 +1,6 @@
 ﻿l_braz_por:
  flavor_mor.1.title: "[target_character.GetNameWithNoTooltip]"
- flavor_mor.1.desc: "Conhecido por muitos nomes, como Imame [target_character.GetLastName] ou Xeque [target_character.GetLastNameWithNoTooltip], [target_character.GetShortNameWithNoTooltip] ganhou grande proeminência recentemente devido à sua grande demonstração de religiosidade, devoção e conhecimento de textos sagrados. Reivindicando a condição de Xarife como descendente direto do Profeta, [target_character.GetSheHe] recentemente ofereceu seus habilidades e serviços a nós."
+ flavor_mor.1.desc: "Conhecido por muitos nomes, como Imame [target_character.GetLastName] ou Xeque [target_character.GetLastNameWithNoTooltip], [target_character.GetShortNameWithNoTooltip] ganhou grande proeminência recentemente devido à sua grande demonstração de religiosidade, devoção e conhecimento de textos sagrados. Reivindicando a condição de Shurfā' como descendente direto do Profeta, [target_character.GetSheHe] recentemente ofereceu seus habilidades e serviços a nós."
  flavor_mor.1.a: "Conceda-lhe patronagem."
  flavor_mor.1.b: "Não precisamos de mais vagabundos ociosos pelos nossos salões."
  flavor_mor.1.historical_info: "Al-Jazuli, um Sufi marroquino do século XV, foi uma figura chave na ordem Shadhiliya. Nascido na região de Sous, ele estudou em Fez e tornou-se famoso pelo Dala'il al-Khayrat, uma coleção amplamente recitada de orações que invocam bênçãos sobre o Profeta Maomé (que esteja em paz). Seu trabalho deixou um impacto duradouro nas práticas Sufi marroquinas."
@@ -117,7 +117,7 @@
  flavor_mor.30.a: "[ROOT.GetCountry.Custom('common_string_negative')]"
  flavor_mor.30.b: "Toda a nação irá lamentar a sua morte."
  flavor_mor.31.title: "Criando a [ShowBuildingTypeNameWithNoTooltip('guich_garrison')]"
- flavor_mor.31.desc: "As numerosas tribos do povo [ShowCultureGroupName('amazigh_group')] têm se mostrado grandes aliadas para o país [ROOT.GetCountry.GetName]. Hospedadas em vários de nossos assentamentos, elas ajudaram a defendê-los contra qualquer ameaça interna e externa. Talvez possamos estabelecer guarnições dedicadas para as tribos Jayš a fim de fortalecer ainda mais essas fortificações."
+ flavor_mor.31.desc: "As numerosas tribos dos [ShowCultureGroupName('amazigh_group')] têm se mostrado grandes aliadas para o país [ROOT.GetCountry.GetName]. Hospedadas em vários de nossos assentamentos, elas ajudaram a defendê-los contra qualquer ameaça interna e externa. Talvez possamos estabelecer guarnições dedicadas para as tribos Jayš a fim de fortalecer ainda mais essas fortificações."
  flavor_mor.31.a: "Vamos estabelecê-los."
  flavor_mor.31.b: "Não confiamos neles para uma função tão vital."
  flavor_mor.32.title: "Melhorando a $ben_youssef_mosque$"

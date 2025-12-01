@@ -35,7 +35,7 @@
  MULTIPLAYER_CHAT_WHISPER_SHOW_TOOLTIP: "Oyuncu Listesini Göster"
  MULTIPLAYER_CHAT_WHISPER_HIDE_TOOLTIP: "Oyuncu Listesini Gizle"
  MULTIPLAYER_CHAT_WHISPER_TOOLTIP: "Bu Oyuncuya mesaj gönder"
- MULTIPLAYER_CHAT_SLAP_MESSAGE: "#R $SENDER$ kocaman teberiyle $MESSAGE$ isimli oyuncuya bir şamar patlattı!#!"
+ MULTIPLAYER_CHAT_SLAP_MESSAGE: "#R $SENDER$ koca teberiyle $MESSAGE$ isimli oyuncuya bir tane patlattı!#!"
  MULTIPLAYER_CHAT_DICE_MESSAGE: "#E $SENDER$  d$SIDES$ attı ve $ROLL$ geldi#!"
  MULTIPLAYER_CHAT_HELP_MESSAGE: "#G Mevcut Mesajlar: #!"
  #Insults

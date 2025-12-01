@@ -16,7 +16,7 @@
  flavor_nov.3.a: "Nuestro futuro está ligado al de [overlord_country.GetNameWithNoTooltip]."
  nov_acknowledged_our_authority: "Reconocimiento de nuestra autoridad"
  flavor_nov.3.b: "¡Jamás nos someteremos a un soberano!"
- flavor_nov.3.b.tt: "#italic La guerra empezará dentro de #R 30#! días, a menos que [overlord_country.GetName] nos conceda la independencia.#!"
+ flavor_nov.3.b.tt: "#italic La guerra empezará dentro de #R 30#! días, a menos que [overlord_country.GetName] nos conceda la independencia.#!"
  flavor_nov.4.title: "[pskov_country.GetNameWithNoTooltip] reconoce nuestra autoridad"
  flavor_nov.4.desc: "¡Han llegado a la corte buenas noticias de [pskov_country.GetName]! Su [pskov_country.GetGovernment.GetRulerTitle|l] reconoce nuestro dominio sobre [pskov_country.GetNameWithNoTooltip] y promete mantener su lealtad hacia [ROOT.GetCountry.GetFlavorRank|l] [ROOT.GetCountry.GetAdjective|l]. No tendremos que preocuparnos por nuevos intentos de [pskov_country.GetNameWithNoTooltip] de independizarse."
  flavor_nov.4.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

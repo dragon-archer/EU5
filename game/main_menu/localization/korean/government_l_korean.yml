@@ -1,6 +1,7 @@
 ﻿l_korean:
  #Custom Tags
  cannot_be_transferred: "이관할 수 없음"
+ UNSTABLE_UNION_WARNING: "#Y 이 $game_concept_succession_law$은 현재 또는 미래의 동군연합에 뜻밖의 영향을 줄 수 있습니다.#!"
  empty_heir_religion_law: "[ShowLawName('heir_religion_law')]에 구애받지 않음"
  FULL_RULER_NAME: "$TITLE$ $NAME$"
  GOV_USES_POWER: "[government_power|e]: $POWER$"
@@ -368,6 +369,8 @@
  TIME_TO_LAW_TITLE: "[Policy.GetNameWithNoTooltip] 시행 소요 시간"
  TIME_TO_LAW: "[Policy.GetImplementableTooltip]"
  CHANGE_POLICY_TOOLTIP: "#TOOLTIP:$BREAKDOWN_TAG$ $VAL|2+=$#!"
+ UNIQUE_POLICY_TITLE: "고유 정책"
+ UNIQUE_POLICY_DESC: "이 정책은 [Country.GetNameWithNoTooltip]의 고유 정책입니다."
  #Integration
  NO_INTEGRATION_PROGRESS: "현재 병합이 진전되고 있지 않습니다"
  INTEGRATION_STALLED_DUE_TO: "다음과 같은 사유로 병합이 지연되고 있습니다:\n$WHY$"
@@ -811,6 +814,7 @@
  mlo_restore_kingdom_lombardy_action_progress_wordier: "$mlo_restore_kingdom_lombardy_active$"
  mlo_restore_kingdom_lombardy_action_progress_long_wordier: "@restore_lombardy! [SCOPE.sProvince('target').GetIntegrationETA] \n\n@province_integration_speed! #W [Cabinet.GetActionNumProgress|%]#!"
  mlo_restore_kingdom_lombardy_action_progress_tooltip: "$mlo_restore_kingdom_lombardy_active$"
+ #Swedish/Finnish colonization
  swe_slash_and_burn_new_farms: "북부 또는 동부의 신규 농가 지원"
  swe_slash_and_burn_new_farms_desc: "북부의 [ShowCultureName('finnish')] 및 [ShowCultureName('swedish')] 이주민을 지원해 새로운 땅을 개척하고 정착할 수 있도록 합니다."
  swe_slash_and_burn_new_farms_action: "[SCOPE.sProvince('target').GetNameWithNoTooltip]의 신규 농가 지원"

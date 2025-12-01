@@ -568,6 +568,7 @@
  yakata_desc: "源自公家贵族宅邸的“馆”，也是武家权力汇聚之地。它不仅可召集家臣议政，还设有防御工事，实为各族精锐兵卒的集结之所。"
  shoen: "荘园"
  shoen_desc: "由特定家族或寺院私有的领地，运作近乎独立庄园领地，成为所有者权势与财富的重要源泉。"
+ we_are_shugo_tt: "需要被授予本令制国的[ShowSpecialStatusName('shugo_daimyo')]头衔"
  tatara: "吹踏炉"
  tatara_desc: "传统钢铁冶炼之法，能为优质工具与兵器铸造提供金属原料。"
  clan_shipyards: "水军砦"

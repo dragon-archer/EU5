@@ -312,7 +312,7 @@
  AI_DESIRE_SCRIPT_REASONS: "Dodatkowe powody"
  AI_DESIRE_DOES_NOT_WANT: "Nie chce przyjąć tego typu traktatu"
  AI_DESIRE_TAKER_WAR_LEADER: "Przejmujący nie jest przywódcą wojennym"
- AI_DESIRE_SUBJECT_TYPE: "Podwładny nie może zostać zaanektowany"
+ AI_DESIRE_SUBJECT_TYPE: "Poddany nie może zostać zaanektowany"
  AI_DESIRE_ALLY_IN_WAR: "Przejmujący nie jest odbiorcą"
  AI_DESIRE_DIFFERENT_CULTURE: "Inna kultura"
  AI_DESIRE_DIFFERENT_RELIGION: "Inna religia"

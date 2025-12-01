@@ -55,7 +55,7 @@
  flavor_boh.15.title: "[target_character.GetNameWithNoTooltip] spłonął na stosie"
  flavor_boh.15.desc: "W annałach religijnych niepokojów zapisano mroczny rozdział, gdy [target_character.GetName], #L [ROOT.GetCountry.GetAdjective|l]ki#! reformator, tragicznie stracił życie. Płomienie niezgody ogarnęły wiernych, a #L [ShowReligionAdjective('catholic')|l]ki#! kościół gromadzi siły, by zgasić migoczące światło nauk, które głosił [target_character.GetLastNameWithNoTooltip]."
  flavor_boh.15.a: "Czy był jednym z nas?"
- flavor_boh.16.title: "[target_character.GetNameWithNoTooltip] został wypuszczony..."
+ flavor_boh.16.title: "[target_character.GetNameWithNoTooltip] odzyska wolność..."
  flavor_boh.16.desc: "Doszło do zaskakującego zwrotu wydarzeń – sale sprawiedliwości rozbrzmiewają proklamacją, która odbije się echem na wieki. [target_character.GetName], reformator #L [ROOT.GetCountry.GetAdjective|l]ki#!, niegdyś potępiony jako heretyk, otrzymuje łaskę zbawienia. Wiara #L [ShowReligionAdjective('catholic')|l]ka#! nie uważa go już za wroga, dzięki czemu może kontynuować swoje nauki."
  flavor_boh.16.a: "Te nauki z pewnością się rozprzestrzenią..."
  flavor_boh.17.title: "Pierwszy kongres w mieście [ShowLocationNameWithNoTooltip('visegrad')]"

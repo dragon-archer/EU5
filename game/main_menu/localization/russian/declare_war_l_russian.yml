@@ -23,5 +23,5 @@
  CANNOT_DECLARE_WAR_NO_WAR_GOAL: "@trigger_no! Надо выбрать цель войны."
  CANNOT_DECLARE_WAR_NO_CASSUS_BELLI: "@trigger_no! У нас нет [Concept('casus_belli','повода для войны')|e]."
  BREAKING_COBELLIGERENT_TRUCE: "Если мы призовём эту [Concept('country','державу')|e] [Concept('cobelligerent', 'воевать вместе с нами')|e] во время [Concept('truce','перемирия')|e], мы потеряем [Concept('stability','стабильность')|e]!"
- CANT_BREAK_COBELLIGERENT_TRUCE: "This [country|e] cannot be called while having a [truce|e] with the enemy"
+ CANT_BREAK_COBELLIGERENT_TRUCE: "Эту [Concept('country', 'державу')|e] нельзя призвать, так как она заключила [Concept('truce', 'перемирие')|e] с врагом"
  WILL_ACCEPT_PROMISE_LAND: "Держава [Country.GetName] откликнется на [Concept('call_to_arms', 'призыв к оружию')], если вы пообещаете ей земли по [Concept('peace_treaty', 'мирному договору')|e]."

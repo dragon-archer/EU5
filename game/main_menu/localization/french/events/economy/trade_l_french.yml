@@ -53,7 +53,7 @@
  trade.15.title: "Les avantages du libre-échange"
  trade.15.desc: "Notre politique de libre-échange permet à nos marchands de réaliser d'importants profits. En particulier, [target_trade.GetName] s'avère très propice à notre pays."
  trade.15.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- trade.16.title: "Les marchands s'inquiètent du manque de protectionnisme"
+ trade.16.title: "Les marchands s'inquiètent du manque de protection"
  trade.16.desc: "Les marchands s'inquiètent de notre choix de privilégier le libre-échange, qui les prive du soutien qu'ils recevraient dans le cadre d'une politique mercantiliste."
  trade.16.a: "Oui, cela s'appelle le libre-échange."
  trade.16.b: "Sans doute pouvons-nous faire quelque chose."

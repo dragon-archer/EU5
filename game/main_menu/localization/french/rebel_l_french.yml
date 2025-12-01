@@ -57,7 +57,7 @@
  rebellious_masses_name: "Masses rebelles de [COUNTRY.GetNameWithNoTooltip]"
  rebellious_masses_name_country: "Mouvements rebelles $ADJ$"
  rebellious_masses_name_country_adjective: "Mouvements rebelles $ADJ$s"
- revolutionary_rebel: "Révolutionnaires #L [COUNTRY.GetAdjectiveWithNoTooltip]s#!"
+ revolutionary_rebel: "Révolutionnaires"
  revolutionary_rebel_country: "Révolutionnaires $ADJ$"
  revolutionary_rebel_country_adjective: "Révolutionnaires $ADJ$s"
  majapahit_pretender_rebels: "Rébellion du prétendant"

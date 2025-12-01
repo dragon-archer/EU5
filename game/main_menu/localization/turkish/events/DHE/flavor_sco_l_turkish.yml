@@ -275,6 +275,7 @@
  flavor_sco.200.a: "[ROOT.GetCountry.GetNameWithNoTooltip] topraklarında [sco_ruler.GetNameWithNoTooltip] Hazretleri münhasır yetki sahibidir."
  flavor_sco.200.b: "[GetCountry('PAP').GetAdjectiveWithNoTooltip] nezaretini sınırlandıralım ama piskoposlara [ShowSpecialStatusNameWithNoTooltip('curia')] erişimi sağlayalım."
  flavor_sco.200.c: "Öneriyi hepten reddedelim."
+ sco_retain_clergy_jurisdiction_requirements: "[ROOT.GetCountry.GetName] ülkesi [ShowReligionAdjective('catholic')] dinine mensup olduğu sürece [ShowLawName('sco_authority_over_the_clergy')] kanununa erişebileceğiz."
  flavor_sco.201.title: "[GetCountry('PAP').GetGovernment.GetRulerTitle] Makamının [sco_ruler.GetShortNameWithNoTooltip] ile Uzlaşma Talebi"
  flavor_sco.201.desc: "[ShowPolicyName('crown_religious_jurisdiction')] politikasının yürürlüğe konulmasının ardından [sco_ruler.GetName] ve [GetCountry('PAP').GetName] arasındaki ilişkiler giderek daha da kötüleşti. Buna rağmen üst düzey [ROOT.GetCountry.GetAdjective] piskoposların birçoğu hâlâ [ShowSpecialStatusNameWithNoTooltip('curia')] ile ilgili meselelere iştirak etmek üzere [GetCountry('PAP').GetNameWithNoTooltip] ülkesinden davet alıyor.\n\n[sco_ruler.GetNameWithNoTooltip] ile uzlaşmayı amaçlayan [pap_ruler.GetName], [ShowPolicyNameWithNoTooltip('crown_religious_jurisdiction')] politikasının kaldırılması karşılığında [ShowSpecialStatusNameWithNoTooltip('curia')] içinde hatırı sayılır bir nüfuz teklif ederek zeytin dalı uzattı."
  flavor_sco.201.a: "[pap_ruler.GetNameWithNoTooltip] ile uzlaşma talebi kabul edilsin."

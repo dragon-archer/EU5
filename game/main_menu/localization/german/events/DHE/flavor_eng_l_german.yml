@@ -518,7 +518,7 @@
  flavor_eng.95.a: "Eine unheilige Allianz, die keine Gnade verdient."
  flavor_eng.95.b: "Appelliert an die Familie [percy_dynasty.GetNameWithNoTooltip]."
  percy_uprising: "Percy-Rebellen"
- flavor_eng.95.tt2: "Gegen eine große Summe Gold könnte die Familie [percy_dynasty.GetNameWithNoTooltip] ihre Waffen niederlegen"
+ flavor_eng.95.tt2: "Gegen eine große Summe Gold könnte die Familie [percy_dynasty.GetName] ihre Waffen niederlegen"
  flavor_eng.95.c: "Appelliert an die Familie [mortimer_dynasty.GetNameWithNoTooltip]."
  mortimer_uprising: "Mortimer-Rebellen"
  flavor_eng.95.tt3: "Gegen eine große Summe Gold könnte die Familie [mortimer_dynasty.GetNameWithNoTooltip] die Waffen niederlegen"

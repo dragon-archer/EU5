@@ -121,7 +121,7 @@
  flavor_tim.1004.a: "W końcu mamy spokój."
  flavor_tim_1100_shared: "[target_character.GetNameWithNoTooltip] rośnie w siłę"
  flavor_tim.1100.title: "$flavor_tim_1100_shared$"
- flavor_tim.1100.desc: "Ruch Ḥurūfī bardzo urósł w siłę, jest teraz nową #L [ROOT.GetAdjective.GetName]ką#! siłą religijną. Na jego czele stoi [target_character.GetName] – twierdzi [target_character.GetSheHe], że jest wcieleniem boga [target_character.GetReligion.GetGodName] i w dniu sądu powróci jako Mahdī. To wariacki bełkot, ale jeśli skażemy [Select_CString(target_character.IsFemale,'ją','go')] na śmierć, może wybuchnąć bunt."
+ flavor_tim.1100.desc: "Ruch Ḥurūfī bardzo urósł w siłę, jest teraz nową #L [ROOT.GetCountry.GetAdjective]ką#! siłą religijną. Na jego czele stoi [target_character.GetName] – twierdzi [target_character.GetSheHe], że jest wcieleniem boga [target_character.GetReligion.GetGodName] i w dniu sądu powróci jako Mahdī. To wariacki bełkot, ale jeśli skażemy [Select_CString(target_character.IsFemale,'ją','go')] na śmierć, może wybuchnąć bunt."
  flavor_tim.1100.a: "[target_character.GetSheHe|U] może zostać."
  flavor_tim.1100.b: "Ma być natychmiast [Select_CString(target_character.IsFemale,'wypędzona','wypędzony')]!"
  flavor_tim.1100.c: "Nie możemy ryzykować, nawet jeśli miałby wybuchnąć bunt."

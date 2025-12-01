@@ -41,7 +41,7 @@
  conspirators_will_stick_around_absolved_2_tt: "[target_character_2.GetNameWithNoTooltip] recevra l'absolution de ses crimes et gardera la tête sur les épaules, pour l'instant..."
  coup_attempt.8.title: "Tentative d'assassinat"
  coup_attempt.8.desc: "Une bande d'assassins, sans doute financée par les conspirateurs de l'ombre, a osé attenter à la vie de [target_character_1.GetName] ! Ces voyous, dont l'agissement est l'aboutissement de mois d'efforts, visent à déstabiliser notre autorité et à mettre fin au règne de [target_character_1.GetShortNameWithNoTooltip] !"
- coup_attempt.8.a: "Bande de crapules !"
+ coup_attempt.8.a: "Bande de vauriens !"
  this_will_end_the_coup_disaster_tt: "Cela mettra fin à la [disaster|e] [ShowDisasterName('coup_attempt')] #R défavorablement#!"
  coup_attempt.9.title: "Exécution d'un conspirateur ?"
  coup_attempt.9.desc.conspirator: "L'exécution de [target_character_2.GetName] est désormais effective. Le peuple se réjouit qu'un traître notoire soit puni, et notre [ROOT.GetCountry.GetGovernment.GetCourtTitle] se porte bien mieux maintenant que justice a été faite. Ce n'est probablement pas la dernière tête qui doit tomber pour que le trône soit en sécurité sous le règne de [target_character.GetName], mais il s'agit néanmoins d'un pas dans la bonne direction."

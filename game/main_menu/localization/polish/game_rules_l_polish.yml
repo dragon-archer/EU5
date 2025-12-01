@@ -35,7 +35,7 @@
  setting_weighted_ai_choices_desc: "SI będzie wybierać podczas wydarzeń opcje zależne od sytuacji."
  setting_random_ai_choices: "Losowa"
  setting_random_ai_choices_desc: "SI będzie wybierać podczas wydarzeń opcje zupełnie losowo."
- rule_mission_packs_enabled_rule: "Pakiety misji"
+ rule_mission_packs_enabled_rule: "Misje"
  setting_mission_packs_enabled: "Misje włączone"
  setting_mission_packs_enabled_desc: "Ta opcja zapewnia pełny dostęp do [Concept('missions','misji')|e]."
  setting_mission_packs_disabled: "Misje wyłączone"

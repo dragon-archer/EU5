@@ -2108,6 +2108,7 @@
  FKN_ADJ: "프랑켄"
  PRU: "프로이센"
  PRU_ADJ: "프로이센"
+ LVA_THE: "$common_string_prefix_article$"
  LVA: "리보니아"
  LVA_ADJ: "리보니아"
  GER: "독일"
@@ -2419,6 +2420,8 @@
  TAR: "푸레페차"
  TAR_ADJ: "푸레페차"
  TNC: "테노치티틀란"
+ AZT_THE: "$common_string_prefix_article$"
+ AZT: "아즈텍"
  AZT_ADJ: "아즈텍"
  TNC_ADJ: "테노치티틀란"
  TTZ: "아콜루아칸"
@@ -3184,6 +3187,8 @@
  HZH_ADJ: "훙저우"
  XSY: "시산양" #西山阳
  XSY_ADJ: "시산양"
+ LNG: "Liáng" #梁
+ LNG_ADJ: "Liáng"
  CDL: "다리"
  CDL_ADJ: "다리"
  CHH: "치앙 훙"

@@ -36,7 +36,7 @@
  insult_against_denmark: "Danimarka devletinden çürük kokuları yükseliyor."
  insult_against_england: "Eğer [TARGET_COUNTRY.GetGovernment.GetRuler.GetName] bir gün Thames Nehri'ne düşerse bu, büyük bir talihsizlik olurdu. Tabii onu nehirden çıkaran biri olursa bu, büyük bir felaket olurdu."
  insult_marprelate: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName] oldukça kibirli, papa sevici, küstah, küfre düşmüş, zararlı, habis bir din adamı ve gaspçıdır."
- insult_marprelate2: "Sizin [TARGET_COUNTRY.GetGovernment.GetRuler.GetTitle] dediğiniz kişi; kanun tanımaz, gayritabii, zahirî, Kilisenin gayrimeşru yöneticisi, şeytanın kölesi, kendini Papa zanneden, Deccal, kötülüğün vücut bulmuş hâli, düzenbaz ve bir ayak üstünde bin yalan söyleyen bir kimsedir."
+ insult_marprelate2: "Sizin [TARGET_COUNTRY.GetGovernment.GetRulerTitle] dediğiniz kişi; kanun tanımaz, gayritabii, zahirî, Kilisenin gayrimeşru yöneticisi, şeytanın kölesi, kendini Papa zanneden, Deccal, kötülüğün vücut bulmuş hâli, düzenbaz ve bir ayak üstünde bin yalan söyleyen bir kimsedir."
  insult_against_saxony: "Meissner porseleninin başına bir iş gelse çok yazık olurdu..."
  insult_fort: "Surların toplarımın karşısında denizdeki kum misali un ufak olacak."
  insult_revolutionary: "Ey [TARGET_COUNTRY.GetGovernment.GetRuler.GetName], senin cesedinle terakki yolunu döşeyeceğim!"

@@ -32,7 +32,7 @@
  flavor_kie.5.a: "Nós contribuiremos com a construção da nova igreja."
  flavor_kie.5.b: "Um projeto desse seria caro demais."
  flavor_kie.6.title: "Metrópole de Todos os Rus"
- flavor_kie.6.desc: "O crescimento de [target_location.GetName] atraiu muitas pessoas das fés [ShowReligionAdjective('orthodox')] e [ShowReligionAdjective('catholic')]. Apesar de as duas acreditarem em [ROOT.GetCountry.GetReligion.GetGodName], suas diferentes doutrinas religiosas sempre dificultaram a coexistência delas, normalmente em conflito por suas crenças na Santíssima Trindade. [target_character.GetName] deseja reparar isso, fortalecendo a Igreja [ShowReligionAdjectiveWithNoTooltip('orthodox')] do povo [ShowCultureName('ruthenian')] e afastando-a da tradição do povo [ShowCultureGroupName('russian_group')]."
+ flavor_kie.6.desc: "O crescimento de [target_location.GetName] atraiu muitas pessoas das fés [ShowReligionAdjective('orthodox')] e [ShowReligionAdjective('catholic')]. Apesar de as duas acreditarem em [ROOT.GetCountry.GetReligion.GetGodName], suas diferentes doutrinas religiosas sempre dificultaram a coexistência delas, normalmente em conflito por suas crenças na Santíssima Trindade. [target_character.GetName] deseja reparar isso, fortalecendo a Igreja [ShowReligionAdjectiveWithNoTooltip('orthodox')] dos [ShowCultureName('ruthenian')] e afastando-a da tradição dos [ShowCultureGroupName('russian_group')]."
  flavor_kie.6.a: "Vamos fortalecer o(a) [target_location.GetRank.GetNameWithNoTooltip]."
  flavor_kie.6.b: "É melhor mantermos essa questão estritamente religiosa."
  flavor_kie.7.title: "Complicação em [ShowLocationNameWithNoTooltip('kyiv')]"

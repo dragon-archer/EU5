@@ -96,7 +96,7 @@
  CANNOT_INTERVENE_WAR_ENEMY_IN_OTHER_WAR: "[COUNTRY.GetName], bu savaşa müdahale edemez çünkü [TARGET_COUNTRY.GetName] ile başka bir savaşta düşmanlar."
  CANNOT_INTERVENE_WAR_ENEMY: "$COUNTRY|Y$ bu savaşa müdahale edemez çünkü $SUBJECT|Y$, bu savaşta $DEFENDER|Y$ tarafında yer alıyor ve $COUNTRY|Y$, $SUBJECT|Y$ ile başka bir savaşta düşman."
  ALLIED_TO_ENEMY: "Düşmanla müttefikler."
- DIPLOMACY_JOIN_WAR: "Savaşa katılabilir"
+ DIPLOMACY_JOIN_WAR: "Savaşa katılabilir.\n"
  DIPLOMACY_CHANCE_JOIN_WAR: "Savaşa katılma ihtimali: $VAL$.\n"
  JOIN_WAR_REASON_Instigator: "Saldırgan"
  JOIN_WAR_REASON_DESC_Instigator: "[Concept('war', 'Savaşı')|e] [COUNTRY.GetName] başlattı."

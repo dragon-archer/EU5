@@ -35,7 +35,7 @@
  setting_weighted_ai_choices_desc: "A IA escolherá opções de evento dependendo de sua situação."
  setting_random_ai_choices: "Aleatória"
  setting_random_ai_choices_desc: "A IA escolherá opções de evento aleatoriamente."
- rule_mission_packs_enabled_rule: "Pacotes de Missão"
+ rule_mission_packs_enabled_rule: "Missões"
  setting_mission_packs_enabled: "Missões Habilitadas"
  setting_mission_packs_enabled_desc: "Esta configuração nos dará acesso completo às [missions|e]."
  setting_mission_packs_disabled: "Missões Desabilitadas"

@@ -35,7 +35,7 @@
  setting_weighted_ai_choices_desc: "Yapay zekâ, olay seçenekleri arasında kendi durumuna göre seçim yapar."
  setting_random_ai_choices: "Rastgele"
  setting_random_ai_choices_desc: "Yapay zekâ, olay seçenekleri arasında rastgele seçim yapar."
- rule_mission_packs_enabled_rule: "Görev Paketleri"
+ rule_mission_packs_enabled_rule: "Görevler"
  setting_mission_packs_enabled: "Görevler Etkin"
  setting_mission_packs_enabled_desc: "Bu seçenek sayesinde [Concept('mission', 'Görevlere')|e] tam erişimimiz olur."
  setting_mission_packs_disabled: "Görevler Devre Dışı"

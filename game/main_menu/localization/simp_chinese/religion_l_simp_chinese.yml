@@ -784,7 +784,6 @@
  demand_church_tax_price: "开征使徒税花费"
  request_aid: "请求教廷援助"
  request_aid_desc: "我们的修会是信仰的坚固堡垒，是真信者的捍卫者，也是抵御一切企图伤害我们人民之人的坚实盾牌。为我们的事业提供援助，是[GetCountry('PAP').GetGovernment.GetRulerTitle]首先应该考量的职责。"
- 10_years_cd: "该互动冷却时间为#Y 10#!年"
  request_aid_price: "请求教廷援助花费"
  placitum_regium: "王之敕令"
  placitum_regium_desc: "[GetCountry('PAP').GetGovernment.GetRulerTitle]对我国事务的干涉已经持续太久，君主的权威绝不应向[GetCountry('PAP').GetAdjective]的宝座低头！我们明确规定，[papal_bull|e]只有在经过我国政府批准后才能生效。"
@@ -793,6 +792,9 @@
  request_cardinal_seat_desc: "当前的枢机团中显然缺乏能代表我国远见的人士。我们应请求将国内一座[ShowBuildingTypeName('cathedral')]擢升为[ShowBuildingTypeName('seat_of_cardinal')]，以此确保我们的影响力不致衰减。"
  request_cardinal_tt: "如果得到[GetCountry('PAP').GetAdjective]批准，所选择[location|e]将获得一座[ShowBuildingTypeName('seat_of_cardinal')]。"
  recently_requested_cardinal: "已经有国家最近请求任命了一位枢机"
+ invite_foreign_cleric: "邀请外国神职人员"
+ invite_foreign_cleric_desc: "我们将从另一个国家请来一位经验丰富的神职人员。此举会惹恼我们的本地[actor.GetGovernment.GetEstateName('clergy_estate')]，但这位外国神职人员的专业知识或许极为宝贵。"
+ invite_foreign_cleric_tt: "一位属于[ShowEstateTypeName('clergy_estate')]，拥有高[adm|e]、中[dip|e]和低[mil|e]的外国[actor.GetReligion.GetAdjective][character|e]将抵达我国。"
  #Catholic Church Laws and Policies
  cc_indulgences: "大赦售购"
  cc_indulgences_desc: "[GetInternationalOrganization('catholic_church').GetName]对大赦问题的官方立场。"

@@ -784,7 +784,6 @@
  demand_church_tax_price: "Kosten (Kirchensteuer verlangen)"
  request_aid: "Hilfe anfordern"
  request_aid_desc: "Unser Orden ist die Bastion unseres Glaubens, der Verteidiger der wahren Gläubigen und ein Schild gegen jene, die unserem Volk schaden wollen. Unserer Sache Hilfe zu leisten, sollte die oberste Direktive des Kirchenoberhaupts ([GetCountry('PAP').GetGovernment.GetRulerTitle]) sein."
- 10_years_cd: "Diese Interaktion ist alle #Y 10#! Jahre verfügbar"
  request_aid_price: "Kosten (Katholische Hilfe verlangen)"
  placitum_regium: "Placitum Regium"
  placitum_regium_desc: "Das Kirchenoberhaupt ([GetCountry('PAP').GetGovernment.GetRulerTitle]) mischt sich schon viel zu lange in die Angelegenheiten unseres Landes ein. Die Autorität der Krone sollte sich nicht vor dem Heiligen Stuhl verneigen müssen! Die [papal_bull|e] wird nur in Kraft treten, wenn unsere Regierung ihr zustimmt."
@@ -793,6 +792,9 @@
  request_cardinal_seat_desc: "Dem Kardinalskollegium mangelt es eindeutig an einer Vertretung unserer Weisheit. Wir sollten erbitten, dass einer [ShowBuildingTypeName('cathedral')] in unserem Territorium ein neuer [ShowBuildingTypeName('seat_of_cardinal')] gewährt wird, um sicherzustellen, dass unser Einfluss nicht schwindet."
  request_cardinal_tt: "Der designierte [location|e] erhält einen [ShowBuildingTypeName('seat_of_cardinal')], sofern dies von der #L [GetCountry('PAP').GetAdjective|l]en#! Autorität sanktioniert wird"
  recently_requested_cardinal: "Ein Land erbat vor Kurzem einen Kardinal"
+ invite_foreign_cleric: "Fremdländischen Kleriker einladen"
+ invite_foreign_cleric_desc: "Uns wird ein erfahrener Kleriker aus einem anderen Land geschickt. Dies wird unseren örtlichen [actor.GetGovernment.GetEstateName('clergy_estate')] verärgern, doch die Kenntnisse des fremdländischen Klerikers könnten wertvoll sein."
+ invite_foreign_cleric_tt: "Ein fremdländischer #L [actor.GetReligion.GetAdjective|l]er#! [character|e] des #L [ShowEstateTypeName('clergy_estate')]s#! mit hoher [adm|e], mittlerer [dip|e] und niedrigem [mil|e] wird in unserem [country|e] eintreffen."
  #Catholic Church Laws and Policies
  cc_indulgences: "Ablasshandel"
  cc_indulgences_desc: "Die offizielle Haltung für die [GetInternationalOrganization('catholic_church').GetName] in Sachen Ablässe."

@@ -5,6 +5,8 @@
  flavor_chk.1.b: "우리의 황금기는 아직 끝나지 않았다. [ShowLocationNameWithNoTooltip('cahokia')]는 반드시 다시 날아오를 것이다!"
  events_to_weaken_cahokia_downfall: "[ShowLocationName('cahokia')]의 쇠락을 완화하는 추가 [events|e]가 활성화됩니다."
  events_to_strengthen_cahokia: "[ShowLocationName('cahokia')]의 안정을 되찾고 다시 한번 번영하는 [ShowLocationRankName('city')]로 만드는 추가 [events|e]가 활성화됩니다!"
+ cahokia_conditions_to_gain_golden_age: "[stability|e]와 [prestige|e]을 #G +50.00#!보다 높게 유지하고, [ShowLocationName('cahokia')]의 [pops|e]을 35,000, [development|e]을 15.00 이상으로 복원하면 새로운 황금기를 열 수 있습니다."
+ cahokia_conditions_to_avoid_migrations: "[ROOT.GetCountry.GetName]의 [stability|e]가 #R -15.00#!, [tribal_cohesion|e]이 #R 60.00#! 미만으로 떨어지거나 $flavor_chk.35.title$ [dynamic_historical_event|e]를 통해 추가적인 불안정을 겪게 될 경우, 대규모 [pops|e]이 우리 [locations|e]으로부터 [migrate|e]할 수 있습니다."
  flavor_chk.2.title: "우드헨지의 부분적 재건"
  flavor_chk.2.desc: "비록 최근 수십 년 동안에는 거의 버려진 상태로 방치되었지만, 여전히 [ShowLocationName('cahokia')] 안에는 과거 위대한 현인들이 즐겨 찾았던 우드헨지가 여럿 남아 있습니다. 과거 선조들은 둥글게 늘어선 우드헨지를 통해 태양이 뜨고 지는 방향을 파악하고는 했는데, 이러한 관습은 시간이 흐르며 최근에는 단절되고 말았습니다.\n\n수고스럽더라도 우드헨지를 재건하는 데 힘을 쏟는다면, 뛰어난 지성을 지닌 자들이 그 관습을 되살려, 다시금 이어갈 수 있을 것입니다."
  flavor_chk.2.a: "필요한 물자를 공급해 우드헨지를 복원하라."

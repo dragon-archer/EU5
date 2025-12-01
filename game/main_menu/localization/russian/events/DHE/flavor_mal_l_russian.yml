@@ -53,7 +53,7 @@
  flavor_mal.12.c: "Дадим им значительные привилегии."
  flavor_mal.12.d: "Дворяне не должны обладать такой властью!"
  flavor_mal.13.title: "Медресе Санкоре"
- flavor_mal.13.desc: "Немногие учебные центры и заведения обрели такую славу, как [ShowBuildingTypeName('madrasa')] в [target_location.GetRank.GetNameAltWithNoTooltip('LR_PP')|l] [target_location.GetName]. Говорят, что [ShowBuildingTypeName('temple')] Санкоре был построен на деньги неизвестной богачки из народа [ShowCultureName('mandinka')]. Позже храм превратился в [ShowBuildingTypeName('madrasa')].\n\nИнститут до сих пор принимает студентов со всего континента, которые приезжают туда за знаниями, а его покровителями были такие великие люди, как [GetCharacter('mal_musa_keita').GetName]."
+ flavor_mal.13.desc: "Немногие учебные центры и заведения обрели такую славу, как [ShowBuildingTypeName('madrasa')] в [target_location.GetRank.Custom('LR_PP')|l] [target_location.GetName]. Говорят, что [ShowBuildingTypeName('temple')] Санкоре был построен на деньги неизвестной богачки из народа [ShowCultureName('mandinka')]. Позже храм превратился в [ShowBuildingTypeName('madrasa')].\n\nИнститут до сих пор принимает студентов со всего континента, которые приезжают туда за знаниями, а его покровителями были такие великие люди, как [GetCharacter('mal_musa_keita').GetName]."
  flavor_mal.13.a: "Это великое достояние нашего народа!"
  flavor_mal.13.b: "Мы восхищаемся медресе, но больше не можем его финансировать…"
  flavor_mal.14.title: "[target_subject_country.GetNameWithNoTooltip] и борьба за независимость"

@@ -1,6 +1,6 @@
 ﻿l_german:
  missionaries.1.title: "Missionar wird krank"
- missionaries.1.desc: "Der Missionar, den wir nach [target_location.GetName] schickten, hatte bislang kein Glück. Gerade hat uns die Nachricht erreicht, dass er erkrankt ist. Die Arbeit an der neuen Kirche wurde unterbrochen, und ohne seine Leitung ist die Wahrscheinlichkeit, dass die Bevölkerung konvertiert, sehr gering."
+ missionaries.1.desc: "Der Missionar, den wir nach [target_location.GetName] schickten, hatte bislang kein Glück. Gerade hat uns die Nachricht erreicht, dass er erkrankt ist. Die Arbeit an der neuen Kirche wurde unterbrochen, und ohne seine Leitung ist die Wahrscheinlichkeit, dass die Bevölkerung bekehrt wird, sehr gering."
  missionaries.1.a: "Schickt jemanden, der ihm hilft."
  missionaries.1.b: "Richten wir unsere Anstrengungen auf einen anderen Ort."
  STATIC_MODIFIER_NAME_missionary_falls_ill: "Missionar wird krank"

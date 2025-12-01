@@ -91,7 +91,7 @@
  rise_of_timur.1002.desc: "Notre [ROOT.GetCountry.GetGovernment.GetCourtTitle] a reçu des nouvelles de [target_country.GetName]. [target_character.GetName] semble suffisamment perspicace pour reconnaître les prouesses militaires de [from_character.GetName] et a donc accepté notre offre d'alliance."
  rise_of_timur.1002.a: "Sage décision."
  rise_of_timur.1003.title: "Alliance rejetée"
- rise_of_timur.1003.desc: "Notre [ROOT.GetCountry.GetGovernment.GetCourtTitle] a reçu des nouvelles de [target_country.GetName], mais [target_character.GetName] semble incapable de discerner notre gloire manifeste. Affirmant que [from_character.GetName] n'est pas un héritier légitime de $genghis_khan_name$, [target_character.GetSheHe] a rejeté notre offre d'alliance."
+ rise_of_timur.1003.desc: "Notre [ROOT.GetCountry.GetGovernment.GetCourtTitle] a reçu des nouvelles de [target_country.GetName], mais [target_character.GetName] semble incapable de discerner notre gloire manifeste. Affirmant que [from_character.GetName] n'est pas un héritier légitime de $genghis_khan_name$, [Select_CString(target_character.IsFemale,'elle', 'il')] a rejeté notre offre d'alliance."
  rise_of_timur.1003.a: "Qu'il en soit ainsi, ces chacals mourront sur le champ de bataille."
  rise_of_timur.1010.title: "Conflits [from_country.GetNameWithNoTooltip]-[target_country.GetNameWithNoTooltip]"
  rise_of_timur.1010.title.generic: "Une alliance fragile"

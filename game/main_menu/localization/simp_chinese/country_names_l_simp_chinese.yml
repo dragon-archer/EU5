@@ -2108,6 +2108,7 @@
  FKN_ADJ: "法兰克尼亚"
  PRU: "普鲁士"
  PRU_ADJ: "普鲁士"
+ LVA_THE: "$common_string_prefix_article$"
  LVA: "利沃尼亚"
  LVA_ADJ: "利沃尼亚"
  GER: "德意志"
@@ -2419,6 +2420,8 @@
  TAR: "普雷佩查"
  TAR_ADJ: "普雷佩查"
  TNC: "特诺奇蒂特兰"
+ AZT_THE: "$common_string_prefix_article$"
+ AZT: "阿兹特克"
  AZT_ADJ: "阿兹特克"
  TNC_ADJ: "特诺奇蒂特兰"
  TTZ: "阿科尔瓦坎"
@@ -3184,6 +3187,8 @@
  HZH_ADJ: "洪州"
  XSY: "西山阳" #西山阳
  XSY_ADJ: "西山阳"
+ LNG: "Liáng" #梁
+ LNG_ADJ: "Liáng"
  CDL: "大理"
  CDL_ADJ: "大理"
  CHH: "景洪"

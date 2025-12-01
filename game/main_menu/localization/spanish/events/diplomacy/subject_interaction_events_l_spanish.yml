@@ -51,7 +51,7 @@
  subject_interaction_events.15.b: "Pueden seguir con ello."
  opinion_small_smuggling_ok: "Contrabando a pequeña escala permitido"
  subject_interaction_events.16.title: "¡Pillados!"
- subject_interaction_events.16.desc: "[From.Country.GetName] ha descubierto nuestra operación de contrabando. Pillaron a la banda de contrabandistas con las manos en la masa mientras descargaba bienes que iban a transportarse a uno de los rivales de [From.Country.GetName]. Lo admitieron todo, incluso cuándo había empezado aquella operación."
+ subject_interaction_events.16.desc: "[ROOT.GetCountry.GetDiplomacy.GetOverlord.GetName] ha descubierto nuestra operación de contrabando. Pillaron a la banda de contrabandistas con las manos en la masa mientras descargaba bienes que iban a transportarse a uno de los rivales de [ROOT.GetCountry.GetDiplomacy.GetOverlord.GetName]. Lo admitieron todo, incluso cuándo había empezado aquella operación."
  subject_interaction_events.16.a: "¡Nos obligan a interrumpir el contrabando!"
  subject_interaction_events.16.b: "Mientras lo hagamos a pequeña escala, podremos continuar."
  subject_interaction_events.17.title: "La guerra nunca cambia"

@@ -5,6 +5,7 @@
  has_not_had_this_situation_before_tt: "Diese [situation|e] ist bisher noch nicht eingetreten"
  DEFENDERS_CATHOLICISM: "Defensives [alliance|e] gegen $BOH$"
  DEFENDERS_HUSSITISM: "Defensives [alliance|e] gegen $PAP$"
+ bohemia_and_pope_at_war_with_both_being_leaders_tt: "[GetCountry('BOH').GetName] and [GetCountry('PAP').GetName] are at war with each other and each [country|e] is the [war_leader|e] of their respective side"
  hussite_wars.1.title: "Die Gemeinde von [jan_zelivsky_scope.GetNameWithNoTooltip]"
  HUSSITE_WARS_SIDE_BOHEMIA: "[THIS.GetLocation.GetOwner.GetLongName|YU] unterstützt „[GetCountry('BOH').GetLongName|U]“ in den [ShowSituationName('hussite_wars')]!"
  HUSSITE_WARS_SIDE_POPE: "[THIS.GetLocation.GetOwner.GetLongName|YU] stellt sich „[GetCountry('BOH').GetLongName|U]“ in den [ShowSituationName('hussite_wars')] entgegen!"
@@ -37,6 +38,8 @@
  hussite_victory_tt: "[ShowReligionAdjectiveWithNoTooltip('hussite')|U]er Sieg"
  reignite_the_fires_of_crusade_tt: "Die Beziehungen zwischen „[GetCountry('BOH').GetLongNameWithNoTooltip]“ und [ShowReligionAdjectiveWithNoTooltip('catholic')|l]en [Concept('countries', 'Ländern')|e] werden sich verschlechtern und viele dieser Länder könnten sich unserer Sache anschließen"
  income_depends_on_estate_power_tt: "Die erhaltene Menge [gold|e] hängt überwiegend von der [estate_power|e] dieses [Concept('estate', 'Stands')|e] ab"
+ join_current_war_against_papal_states_tt: "We will join the ongoing [war|e] of the [GetCountry('BOH').GetLongName] against the [GetCountry('PAP').GetLongName]"
+ join_current_war_against_bohemia_tt: "We will join the ongoing [war|e] of the [GetCountry('PAP').GetLongName] against the [GetCountry('BOH').GetLongName]"
  #########
  hussite_wars.1.desc: "Eine wütende Menge, angeführt von [jan_zelivsky_scope.GetName], zieht durch die Straßen von [target_boh_capital_scope.GetName] und demonstriert für mehr Rechte sowie die Freilassung verschiedener #L [ShowReligionAdjective('hussite')|l]er#! Gefangener durch den Stadtrat. Leider lehnen der Richter und seine Gefolgsleute die Forderungen der Demonstranten ab, wodurch es in der Stadt zu Ausschreitungen kommt. Wir scheinen in einem Teufelskreis aus stockenden Reformen und Volksaufständen gefangen zu sein. Vielleicht ist es an der Zeit, dass wir diesen endlich durchbrechen …"
  hussite_wars.1.a: "Nieder mit dem Kirchenoberhaupt ([GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle])!"

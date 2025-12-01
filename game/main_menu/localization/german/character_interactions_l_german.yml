@@ -106,7 +106,7 @@
  pap_reassign_cleric: "Kleriker neu zuweisen"
  pap_reassign_cleric_concept: "[character|e]"
  pap_reassign_cleric_act: "$pap_reassign_cleric$"
- pap_reassign_cleric_desc_specific: "Aufgrund unseres Primats über alle #L [ShowReligionAdjective('catholic')|l]en#! Geistlichen können wir [recipient.GetName] zwingen, „[recipient.GetCountry.GetName|U]“ zu verlassen und einen Auftrag in einem anderen [country|e] anzunehmen. Die Kosten sind proportional zu [Select_CString(recipient.IsFemale, 'ihrer', 'seiner')] [total_ability|e]. Zudem gewinnen wir ein [spy_network|e] im neuen [country] proportional zu [Select_CString(recipient.IsFemale, 'ihrem', 'seinem')] [mil|e]-Wert."
+ pap_reassign_cleric_desc_specific: "Aufgrund unseres Primats über alle #L [ShowReligionAdjective('catholic')|l]en#! Geistlichen können wir [recipient.GetName] zwingen, [recipient.GetCourtCountry.GetName] zu verlassen und einen Auftrag in einem anderen [country|e] anzunehmen. Die Kosten sind proportional zu [Select_CString(recipient.IsFemale, 'ihrer', 'seiner')] [total_ability|e]. Zudem gewinnen wir ein [spy_network|e] im neuen [country] proportional zu [Select_CString(recipient.IsFemale, 'ihrem', 'seinem')] [mil|e]-Wert."
  pap_reassign_cleric_desc: "Der [character|e] wird unser [country|e] verlassen und eine Mission in einem anderen Land annehmen. Die [total_ability|e] des Charakters wirkt sich auf die Kosten aus und der [mil|e]-Wert auf das [Concept('spy_network', 'Spionagenetz')|e], das wir in dem neuen Land gewinnen."
  pap_reassign_cleric_past: "[recipient.GetNameWithNoTooltip|U] neu zugewiesen"
  pap_reassign_cleric_act_past: "[recipient.GetName|U] wurde von „[actor.GetLongName|U]“ neu zugewiesen."

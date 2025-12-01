@@ -367,7 +367,7 @@
  STATIC_MODIFIER_NAME_winter_severe: "Hiver rigoureux"
  STATIC_MODIFIER_DESC_winter_severe: "La période hivernale aura de grands effets négatifs"
  STATIC_MODIFIER_NAME_present_troops: "[armies|e] #L [friendly|el]es#!"
- STATIC_MODIFIER_NAME_hostile_troops: "[armies|e] [Concept('enemy', 'ennemies')|el]"
+ STATIC_MODIFIER_NAME_hostile_troops: "[armies|e] [Concept('enemy', 'ennemies')|e|l]"
  STATIC_MODIFIER_NAME_provincial_troops: "[armies|e] #L [friendly|el]es#! dans la [province|e]"
  STATIC_MODIFIER_NAME_raised_levies: "Levées déployées"
  STATIC_MODIFIER_NAME_isolating_cities: "Confinement des cités"
@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Signes favorables"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Une période de renouveau, accompagnée d'un temps clément et d'une abondance de nourriture, sont autant de signes favorables : les dieux sont satisfaits."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Des pièces à notre nom"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence de l'ancienne capitale"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Le rêve d'Osman"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Notre destinée est de régner sur un empire qui durera jusqu'à la fin des temps."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Bureaucrates ahis"
@@ -823,7 +823,7 @@
  #Hungary
  STATIC_MODIFIER_NAME_hun_absolute_rule: "Règne absolutiste de $Karoly$"
  STATIC_MODIFIER_NAME_prefection_modifier: "Statut de praefecta"
- STATIC_MODIFIER_DESC_prefection_modifier: "Par le droit et l'autorité d'un souverain, ce personnage détient le statut de #italic praefecta#!. Il est donc promu au rang de fils de noble et considéré comme [legally_male|el]."
+ STATIC_MODIFIER_DESC_prefection_modifier: "Par le droit et l'autorité d'un souverain, ce personnage détient le statut de #italic praefecta#!. Il est donc promu au rang de fils de noble et considéré comme [legally_male|e|l]."
  STATIC_MODIFIER_NAME_appoint_as_heir_modifier: "Héritier désigné"
  STATIC_MODIFIER_DESC_appoint_as_heir_modifier: "Grâce au droit et à l'autorité d'un souverain, ce personnage a été choisi comme héritier du Pays."
  #Chivalry Orders
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Commerce des armes à feu"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Agriculture matriarcale"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Héritier au tabard vide"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Poussée agressive dans les territoires des Balliol"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Force la main de Balliol"
  STATIC_MODIFIER_NAME_sbl_english_backing: "Rétractation de la Couronne anglaise"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Commandant mamelouk"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Intégration de la Scanie"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Dot royale"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Administration de la Pennsylvanie"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Récoltes des trois sœurs"

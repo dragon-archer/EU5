@@ -208,7 +208,7 @@
  MOVING_CAPITAL: "Başkent, [LOCATION.GetNameWithNoTooltip] iline taşınıyor"
  MARKET_CREATING: "[LOCATION.GetNameWithNoTooltip] ilinde Pazar kuruluyor"
  EXPLORATION_CREATING: "[LOCATION.GetNameWithNoTooltip] ilinde [AREA.GetNameWithNoTooltip] alanına bir [exploration|e] için hazırlık yapılıyor"
- CONQUISTADOR_CREATING: "[LOCATION.GetNameWithNoTooltip] ilinde [AREA.GetNameWithNoTooltip] alanında bir [ShowSubjectTypeName('conquistador')] oluşturulması için hazırlık yapılıyor"
+ CONQUISTADOR_CREATING: "[LOCATION.GetNameWithNoTooltip] ilinde @area![AREA.GetNameWithNoTooltip] alanında bir @location![ShowSubjectTypeName('conquistador')] oluşturulması için hazırlık yapılıyor"
  ROAD_TO: "$TO$ iline giden [ROAD_TYPE.GetName]"
  ARMY_NAVY_LEVY_IN_SHORT: "Topla"
  ARMY_LEVY_IN: "$PROV$ vilayetinde [army_levy|e] topla"

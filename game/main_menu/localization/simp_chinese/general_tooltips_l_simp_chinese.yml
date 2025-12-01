@@ -429,6 +429,7 @@
  LOCATION_CLICK_FOREIGN_LOCATION_LATERALVIEW: "[LOCATION.GetName]不属于[COUNTRY.GetName]。"
  OPEN_WORKS_OF_ART_TAB: "显示艺术品"
  OPEN_ADVANCES_AGES_TAB: "显示时代"
+ OPEN_KNOWN_COUNTRIES_TAB: "打开已知国家子标签页"
  LOCATION_CLICK_IMPORT_EXPORT_LATERALVIEW: "左键点击选择该[market|e]开始$IMPORT$"
  LOCATION_CLICK_RECRUIT_LATERALVIEW: "左键点击选择该[location|e]开始招募\n右键点击选择该[location|e]取消正在进行的招募"
  LOCATION_CLICK_RISE_LATERALVIEW: "左键点击选择该[location|e]开始提升此处的[levies|e]\n右键点击该[location|e]取消正在进行的提升"

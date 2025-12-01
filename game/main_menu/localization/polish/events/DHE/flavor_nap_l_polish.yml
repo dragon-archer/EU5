@@ -120,7 +120,7 @@
  flavor_nap.270.a: "Zaproponujmy kurii, by został nowym #L [GetCountry('NAP').GetAdjectiveWithNoTooltip]kim#! świętym."
  flavor_nap.270.b: "Nie będziemy marnować czasu na takie opowiastki."
  flavor_nap.280.title: "Unifikacja Sycylii!"
- flavor_nap.280.desc: "Radujmy się! [GetCountry('TWS').GetGovernment.GetRuler.GetName] nareszcie jednoczy pod swymi rządami obie Sycylie.\n\nOd czasu nieszporów sycylijskich utworzone przez Rogera II królestwo było podzielone, a niegdysiejsi bracia stali się nieznajomymi, rywalami, a czasem wrogami. [Select_CString(tws_ruler.IsFemale,'Nasza','Nasz')] [GetCountry('TWS').GetGovernment.GetRulerTitle] kładzie kres tym ponurym czasom – wreszcie my i nasi pobratymcy znów się zjednoczymy."
+ flavor_nap.280.desc: "Radujmy się! [GetCountry('TWS').GetGovernment.GetRulerOrRegent.GetName] nareszcie jednoczy pod swymi rządami obie Sycylie.\n\nOd czasu nieszporów sycylijskich utworzone przez Rogera II królestwo było podzielone, a niegdysiejsi bracia stali się nieznajomymi, rywalami, a czasem wrogami. [GetCountry('TWS').GetGovernment.GetRulerOrRegentTitle] kładzie kres tym ponurym czasom – wreszcie my i nasi pobratymcy znów się zjednoczymy."
  flavor_nap.280.a: "Odtwórzmy starożytną stolicę królestwa!"
  flavor_nap.280.b: "Nowa epoka wymaga nowej stolicy!"
  flavor_nap.280.c: "Zjednoczenie naszych ludów zapisze się na kartach historii."

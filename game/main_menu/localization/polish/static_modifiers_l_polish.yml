@@ -589,7 +589,7 @@
  STATIC_MODIFIER_NAME_unsupported_diplomatic_capacity: "Nieobsługiwane [Concept('diplomatic_capacity_used','możliwości dyplomatyczne')|e]"
  STATIC_MODIFIER_DESC_unsupported_diplomatic_capacity: "Liczba relacji dyplomatycznych jest obecnie powyżej możliwego limitu."
  STATIC_MODIFIER_NAME_has_road: "Ma drogę"
- STATIC_MODIFIER_DESC_has_road: "[Concept('location','Lokacja')|e] ta ma przynajmniej jedną [Concept('road','drogę')|e] prowadzącą do sąsiedniej [Concept('location', 'lokacji')|e]."
+ STATIC_MODIFIER_DESC_has_road: "[Concept('location','Lokacja')|e] ta ma przynajmniej jedną [Concept('road','drogę')|e] prowadzącą do sąsiedniej [Concept('location','lokacji')|e]."
  STATIC_MODIFIER_NAME_sickly_character: "Chorowita postać"
  STATIC_MODIFIER_NAME_healthy_character: "Zdrowa postać"
  STATIC_MODIFIER_NAME_harbor: "[harbor_capacity|e]"
@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Dobre znaki"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Okres odnowy w połączeniu ze spokojną pogodą i mnóstwem pożywienia to znak, że bogowie są zadowoleni."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Nasze własne monety"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Wpływ dawnej stolicy"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Osmańskie marzenie"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Naszym przeznaczeniem jest rządzić imperium, które będzie trwać aż do dni ostatnich."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Biurokraci Ahi"
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Handel bronią palną"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Rolnictwo matriarchalne"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Dziedzic Jana Balliola"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Agresywny atak na ziemie Balliola"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Zmuszenie Balliola do działania"
  STATIC_MODIFIER_NAME_sbl_english_backing: "Wsparcie angielskiej korony"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Dowódca mameluków"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Integracja Skanii"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Królewski posag"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Administracja Pensylwanii"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Plony trzech sióstr"

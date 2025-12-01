@@ -59,7 +59,7 @@
  byzantine_succ_crisis.11.b: "Pediremos a ajuda do país [GetCountry('GEN').GetNameWithNoTooltip]."
  byzantine_succ_crisis.11.c: "Podemos assinar com ambos."
  byzantine_succ_crisis.11.d: "Esses aproveitadores estão armando algo!"
- italian_merchants_favored_key: "Comerciantes do Povo [ShowCultureGroupName('italian_group')] Favorecidos"
+ italian_merchants_favored_key: "Comerciantes Favorecidos dos [ShowCultureGroupName('italian_group')]"
  byzantine_succ_crisis.11.historical_info: "Durante a guerra civil bizantina de 1341, o império se dividiu entre a regência do jovem João V Paleólogo e o pretendente João VI Cantacuzeno. O conflito envolveu Veneza e Gênova, que aproveitaram a guerra para avançar seus interesses comerciais rivais. Gênova apoiou o pretendente na esperança de garantir a supremacia no comércio do Mar Negro, sendo recompensada com privilégios e influência naval, especialmente em Gálata. Veneza, determinada a conter a expansão genovesa, apoiou a regência. Isso transformou a guerra civil em uma luta por procuração entre as duas repúblicas marítimas, enfraquecendo ainda mais o Império Bizantino e aprofundando sua dependência de potências estrangeiras para assuntos navais e comerciais."
  byzantine_succ_crisis.12.title: "O País [target_country.GetNameWithNoTooltip] Oferece Privilégios Comerciais"
  byzantine_succ_crisis.12.desc: "Em uma tentativa desesperada de cobrir sua escassez naval e marítima, os mestres de [target_location.GetName] ofereceram ao nosso estamento [ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')] privilégios especiais e acesso ao seu lucrativo mercado em troca do apoio naval em sua contínua luta."

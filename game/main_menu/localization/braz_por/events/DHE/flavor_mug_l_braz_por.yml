@@ -29,7 +29,7 @@
  flavor_mug.6.a: "Uma homenagem para [target_character.GetNameWithNoTooltip]!"
  flavor_mug.6.b: "[target_character.GetNameWithNoTooltip] já está na memória de todos."
  flavor_mug.7.title: "Implementação do [ShowPolicyNameWithNoTooltip('mansabdar_system')]."
- flavor_mug.7.desc: "A organização militar dentro do país [ROOT.GetCountry.GetName], por muito tempo, não se baseou no mérito, mas sim na quantidade de terras que possuem. Em vez disso, deveria haver um sistema mais justo, no qual os méritos e as posições determinassem a quantidade de terra e riqueza que cada pessoa recebe. Isso certamente abalaria o equilíbrio de poder dentro do(a) [ROOT.GetCountry.GetFlavorRank], mas é algo que, sem dúvida, melhoraria significativamente nossas forças terrestres."
+ flavor_mug.7.desc: "A organização militar dentro da entidade política [ROOT.GetCountry.GetName], por muito tempo, não se baseou no mérito, mas sim na quantidade de terras que possuem. Em vez disso, deveria haver um sistema mais justo, no qual os méritos e as posições determinassem a quantidade de terra e riqueza que cada pessoa recebe. Isso certamente abalaria o equilíbrio de poder dentro do(a) [ROOT.GetCountry.GetFlavorRank], mas é algo que, sem dúvida, melhoraria significativamente nossas forças terrestres."
  flavor_mug.7.a: "Vamos implementar esse sistema."
  flavor_mug.7.b: "As pessoas atuais encarregadas do exército não serão substituídas."
  flavor_mug.8.title: "O $peacock_throne$"

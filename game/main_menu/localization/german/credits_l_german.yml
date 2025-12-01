@@ -132,7 +132,7 @@
  ROLE_HEAD_OF_DATA_ANALYTICS: "#credits_role Leitung Daten & Analyse#!"
  ROLE_BI_SPECIALIST: "#credits_role BI-Spezialist#!"
  ROLE_DATA_ENGINEER: "#credits_role Data-Engineering#!"
- ROLE_DATA_SCIENTIST: "#credits_role Date Science#!"
+ ROLE_DATA_SCIENTIST: "#credits_role Data Science#!"
  ROLE_RESEARCH_MANAGER: "#credits_role Forschungsmanagement#!"
  ROLE_USER_RESEARCHER: "#credits_role Nutzerforschung#!"
  ROLE_USER_RESEARCH_COORDINATOR: "#credits_role Koordination Nutzerforschung#!"

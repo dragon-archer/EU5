@@ -5,6 +5,7 @@
  has_not_had_this_situation_before_tt: "기존에 발생한 적 없는 [situation|e]입니다"
  DEFENDERS_CATHOLICISM: "$BOH$에 대항하는 방어 [alliance|e]"
  DEFENDERS_HUSSITISM: "$PAP$에 대항하는 방어 [alliance|e]"
+ bohemia_and_pope_at_war_with_both_being_leaders_tt: "[GetCountry('BOH').GetName] and [GetCountry('PAP').GetName] are at war with each other and each [country|e] is the [war_leader|e] of their respective side"
  hussite_wars.1.title: "[jan_zelivsky_scope.GetNameWithNoTooltip]의 신도들"
  HUSSITE_WARS_SIDE_BOHEMIA: "[THIS.GetLocation.GetOwner.GetLongName|Y](이)가 [ShowSituationName('hussite_wars')]에서 [GetCountry('BOH').GetLongName](을)를 지원합니다!"
  HUSSITE_WARS_SIDE_POPE: "[THIS.GetLocation.GetOwner.GetLongName|Y](이)가 [ShowSituationName('hussite_wars')]에서 [GetCountry('BOH').GetLongName](과)와 대립합니다!"
@@ -37,6 +38,8 @@
  hussite_victory_tt: "[ShowReligionAdjectiveWithNoTooltip('hussite')] 승리"
  reignite_the_fires_of_crusade_tt: "[GetCountry('BOH').GetLongNameWithNoTooltip] 및 [ShowReligionAdjectiveWithNoTooltip('catholic')] [countries|e] 사이의 관계가 악화되며, 많은 나라가 때가 되면 우리 대의에 동참할 수도 있습니다"
  income_depends_on_estate_power_tt: "[gold|e] 획득량은 해당 [estate|e]의 [Concept('estate_power', '행사력')|e]에 크게 좌우됩니다"
+ join_current_war_against_papal_states_tt: "We will join the ongoing [war|e] of the [GetCountry('BOH').GetLongName] against the [GetCountry('PAP').GetLongName]"
+ join_current_war_against_bohemia_tt: "We will join the ongoing [war|e] of the [GetCountry('PAP').GetLongName] against the [GetCountry('BOH').GetLongName]"
  #########
  hussite_wars.1.desc: "[jan_zelivsky_scope.GetName](이)가 이끄는 분노한 군중이 [target_boh_capital_scope.GetName] 거리로 몰려나와, 권리 신장과 함께 여러 [ShowReligionAdjective('hussite')] 죄수들의 사면을 청원했습니다. 안타깝게도 판사와 그 주변 인물들은 시위대의 요구를 거절했고, 그 결과 개혁이 지체되고 집단 폭동이 연이어 일어나는 악순환이 벌어지고 말았습니다. 이제 이 악순환을 깰 때입니다..."
  hussite_wars.1.a: "[GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle]에 죽음을!"

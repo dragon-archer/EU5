@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Buenos presagios"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Un período de renovación, un clima suave y comida en abundancia son buenas señales que indican que los dioses están complacidos."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Monedas en nuestro nombre"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influencia de la antigua capital"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "El sueño de Osmán"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Nuestro destino es gobernar un imperio que dure hasta el fin de los tiempos."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Burócratas de Ahi"
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Comercio con armas de fuego"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Agricultura matriarcal"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Heredero de la Casaca Vacía"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Impulso agresivo hacia las tierras de Balliol"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Balliol obligado a actuar"
  STATIC_MODIFIER_NAME_sbl_english_backing: "Apoyo de la Corona inglesa"
@@ -1421,7 +1422,7 @@
  STATIC_MODIFIER_NAME_chinese_architectural_influences_modifier: "Influencias arquitectónicas chinas"
  STATIC_MODIFIER_NAME_extensive_turorship_modifier: "Reclutamiento extensivo"
  #Korea
- STATIC_MODIFIER_NAME_kor_cotton_seed: "Nueva variedad de [ShowGoodsNameWithNoTooltip('cotton')|ul]"
+ STATIC_MODIFIER_NAME_kor_cotton_seed: "Nueva variedad de [ShowGoodsNameWithNoTooltip('cotton')|l]"
  STATIC_MODIFIER_NAME_kor_hall_of_worthies_modifier: "El Salón de los Honorables"
  STATIC_MODIFIER_NAME_kor_sayeogwon: "Sayeogwon"
  STATIC_MODIFIER_NAME_kor_diplomatic_issues: "Ineficiencia diplomática"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Comandante mameluco"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Integración de Escania"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Dote real"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Administración de Pensilvania"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Cosecha de las tres hermanas"

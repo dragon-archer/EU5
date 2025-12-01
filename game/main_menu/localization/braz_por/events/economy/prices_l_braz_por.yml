@@ -52,7 +52,7 @@
  prices.16.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  calicoes: "Calicôs"
  prices.18.title: "Chapéus de Feltro"
- prices.18.desc: "O pelo de castor é um excelente material para a fabricação de chapéus. Ele aquece e consegue manter a forma até em climas rigorosos e por bastante tempo. O aumento da demanda por chapéus de feltro, somado ao processo complexo de fabricação, provocou o crescimento de uma saudável indústria de fabricação de chapéus em nossa economia."
+ prices.18.desc: "A pele de castor é um excelente material para a fabricação de chapéus. Ele aquece e consegue manter a forma até em climas rigorosos e por bastante tempo. O aumento da demanda por chapéus de feltro, somado ao processo complexo de fabricação, provocou o crescimento de uma saudável indústria de fabricação de chapéus em nossa economia."
  prices.18.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  felt_hats: "Chapéus de Feltro"
  prices.19.title: "Marinhas Permanentes"

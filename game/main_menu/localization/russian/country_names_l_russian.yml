@@ -2108,6 +2108,7 @@
  FKN_ADJ: "Франконск"
  PRU: "Пруссия"
  PRU_ADJ: "Прусск"
+ LVA_THE: "$common_string_prefix_article$"
  LVA: "Ливония"
  LVA_ADJ: "Ливонск"
  GER: "Германия"
@@ -2419,6 +2420,8 @@
  TAR: "Пурепеча"
  TAR_ADJ: "Пурепечск"
  TNC: "Теночтитлан"
+ AZT_THE: "$common_string_prefix_article$"
+ AZT: "Ацтеки"
  AZT_ADJ: "Ацтекск"
  TNC_ADJ: "Теночтитланск"
  TTZ: "Аколуакан"
@@ -3184,6 +3187,8 @@
  HZH_ADJ: "Хунчжоуск"
  XSY: "Сишаньян" #西山阳
  XSY_ADJ: "Сишаньянск"
+ LNG: "Liáng" #梁
+ LNG_ADJ: "Liáng"
  CDL: "Дали"
  CDL_ADJ: "Далийск"
  CHH: "Кенхунг"

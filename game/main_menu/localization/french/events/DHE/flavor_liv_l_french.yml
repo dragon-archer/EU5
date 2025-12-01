@@ -5,7 +5,7 @@
  flavor_liv.1.a: "Cédons à la pression."
  flavor_liv.1.b: "Pourquoi ne vont-ils pas chercher un autre [ROOT.GetCountry.GetFlavorRank] à gouverner ?"
  flavor_liv.2.title: "[target_character.GetNameWithNoTooltip]"
- flavor_liv.2.desc: "Nous avons reçu des nouvelles au sujet d'un certain clerc nommé [target_character.GetName], une personnalité illustre aux multiples qualités. Originaire de [target_character.GetBirthLocation.GetName], [target_character.GetSheHe] est un [target_character.GetArtistType.GetName] d'origine [target_character.GetCulture.GetName] qui, en plus de ses prêches quotidiens, serait tout à fait capable de rédiger une [ShowWorkOfArtTypeName('chronicle')] retraçant l'histoire de la [ShowAreaName('baltic_area')]."
+ flavor_liv.2.desc: "Nous avons reçu des nouvelles au sujet d'un certain clerc nommé [target_character.GetName], une personnalité illustre aux multiples qualités. Originaire de [target_character.GetBirthLocation.GetName], [Select_CString(target_character.IsFemale,'elle', 'il')] est un [target_character.GetArtistType.GetName] d'origine [target_character.GetCulture.GetName] qui, en plus de ses prêches quotidiens, serait tout à fait capable de rédiger une [ShowWorkOfArtTypeName('chronicle')] retraçant l'histoire de la [ShowAreaName('baltic_area')]."
  flavor_liv.2.a: "Commanditons une [ShowWorkOfArtTypeNameWithNoTooltip('chronicle')]."
  flavor_liv.2.b: "Nous n'avons pas besoin de ses services."
  flavor_liv.3.title: "Achèvement de la $chronica_provinz_lyfflandt$"

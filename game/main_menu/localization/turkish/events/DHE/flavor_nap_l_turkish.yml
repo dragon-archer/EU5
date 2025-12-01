@@ -120,7 +120,7 @@
  flavor_nap.270.a: "Onu Kilise Meclisi'ne yeni [GetCountry('NAP').GetAdjectiveWithNoTooltip] Azizi olarak önerelim."
  flavor_nap.270.b: "Zamanımızı böyle hikâyelerle boşa harcamayacağız."
  flavor_nap.280.title: "Sicilyateyn Birleşti!"
- flavor_nap.280.desc: "Halkımıza ne mutlu! İki Sicilya Kraliyeti yüce [GetCountry('TWS').GetGovernment.GetRuler.GetName] yönetimi altında yeniden bir araya geldi.\n\nII. Rugerro'nun kurduğu krallık, Sicilya Vesperleri Savaşı'ndan beri bölünmüş durumdaydı. İki kardeş de zaman içinde birbirlerine yabancı bir rakip ve düşmana dönüşmüştü. [GetCountry('TWS').GetGovernment.GetRulerTitle] sayesinde karanlık çağ sona eriyor. Soydaşlarımızla yeniden tek bir halk olacağız."
+ flavor_nap.280.desc: "Halkımıza ne mutlu! İki Sicilya Kraliyeti yüce [GetCountry('TWS').GetGovernment.GetRulerOrRegent.GetName] yönetimi altında yeniden bir araya geldi.\n\nII. Rugerro'nun kurduğu krallık, Sicilya Vesperleri Savaşı'ndan beri bölünmüş durumdaydı. İki kardeş de zaman içinde birbirlerine yabancı bir rakip ve düşmana dönüşmüştü. [GetCountry('TWS').GetGovernment.GetRulerOrRegentTitle] sayesinde karanlık çağ sona eriyor. Soydaşlarımızla yeniden tek bir halk olacağız."
  flavor_nap.280.a: "Krallığın eski başkentini yeniden kuralım."
  flavor_nap.280.b: "Yeni bir çağa yeni bir başkent yakışır!"
  flavor_nap.280.c: "Halklarımızın birliği tarihte iz bırakacak."

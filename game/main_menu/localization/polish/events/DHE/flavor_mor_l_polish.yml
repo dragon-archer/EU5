@@ -1,6 +1,6 @@
 ﻿l_polish:
  flavor_mor.1.title: "[target_character.GetNameWithNoTooltip]"
- flavor_mor.1.desc: "[Select_CString(CHARACTER.IsFemale, 'Znana', 'Znany')] pod wieloma imionami – jak choćby imam [target_character.GetLastName] – [Select_CString(CHARACTER.IsFemale, 'legitymująca się', 'legitymujący się')] statusem szarifa, czyli następcy Proroka, [target_character.GetShortNameWithNoTooltip], gromadzi niemałe uznanie z związku ze swą pobożnością i znajomością świętych pism. Teraz proponuje nam swe usługi."
+ flavor_mor.1.desc: "[Select_CString(CHARACTER.IsFemale, 'Znana','Znany')] pod wieloma imionami – jak choćby imam [target_character.GetLastName] lub szejk [target_character.GetLastNameWithNoTooltip] – dysponujący obecnie statusem szarifa, czyli następcy Proroka, gromadzi niemałe uznanie z związku ze swą pobożnością i znajomością świętych pism. Teraz [target_character.GetShortNameWithNoTooltip] proponuje nam swe usługi."
  flavor_mor.1.a: "Zaproponujmy [Select_CString(target_character.IsFemale, 'jej', 'mu')] nasz patronat."
  flavor_mor.1.b: "Nie potrzebujemy w naszych murach kolejnych włóczykijów."
  flavor_mor.1.historical_info: "Al-Jazuli, XV-wieczny marokański sufita, był znaczącą postacią zakonu Szadhili. Przyszedł na świat w regionie Sous, zaś studiował w Fezie. Zasłynął za sprawą Dala'il al-Khayrat – zbioru powszechnie odmawianych modlitw o błogosławieństwo Proroka Mahometa, pokój z nim. Prace Al-Jazulego miały niebagatelny wpływ na praktyki marokańskich sufitów."

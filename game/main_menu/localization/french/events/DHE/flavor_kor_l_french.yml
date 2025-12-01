@@ -123,7 +123,7 @@
  flavor_kor.24.a: "Dans ce cas, nous les expulserons !"
  flavor_kor.24.b: "Une telle guère ne mènera qu'à la misère des [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('peasants_estate')]."
  flavor_kor.25.title: "[target_character.GetNameWithNoTooltip]"
- flavor_kor.25.desc: "L'un des artistes renommés de notre [ROOT.GetCountry.GetGovernment.GetCourtTitle], [target_character.GetName], vient de composer un nouveau poème. [target_character.GetSheHe] a déjà signé de nombreuses œuvres marquantes au cours de son passage à la [ROOT.GetCountry.GetGovernment.GetCourtTitle]. Considéré dès l'enfance comme un prodige, [target_character.GetSheHe] a toutefois vu son statut de [target_character.GetWomanMan] freiner son ascension dans notre société. Nous ne saurions laisser un tel talent se perdre."
+ flavor_kor.25.desc: "L'un des artistes renommés de notre [ROOT.GetCountry.GetGovernment.GetCourtTitle], [target_character.GetName], vient de composer un nouveau poème. [Select_CString(target_character.IsFemale,'elle', 'il')] a déjà signé de nombreuses œuvres marquantes au cours de son passage à la [ROOT.GetCountry.GetGovernment.GetCourtTitle]. Considéré dès l'enfance comme un prodige, [Select_CString(target_character.IsFemale,'elle', 'il')] a toutefois vu son statut de [target_character.GetWomanMan] freiner son ascension dans notre société. Nous ne saurions laisser un tel talent se perdre."
  flavor_kor.25.a: "Proposons-lui notre mécénat."
  flavor_kor.25.b: "C'est intéressant, mais ça ne vaut pas un investissement."
  flavor_kor.26.title: "Impôts fonciers unifiés"

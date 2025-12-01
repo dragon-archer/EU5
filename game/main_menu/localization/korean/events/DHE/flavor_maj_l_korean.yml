@@ -131,5 +131,5 @@
  flavor_maj.29.desc: "우리 [ROOT.GetCountry.GetFlavorRank]의 위상이 날로 높아지면서, [ROOT.GetCountry.GetCulture.GetName] 문화 또한 황금기를 맞이해 우리의 문화유산이 모든 면에서 거듭 태어나고 있습니다. 다양한 #italic 카카윈#! 시가 새로 발표되고, 백성들은 전통 인형극을 즐기며, [ROOT.GetCountry.GetGovernment.GetRulerTitle]께서는 온 나라를 정기적으로 순시하며 우리 예술가가 빚어낸 웅장하고 새로운 작품을 감상 및 후원합니다. 이 번영의 시기가 오래 지속되기를 바랄 뿐입니다."
  flavor_maj.29.a: "[ROOT.GetCountry.GetNameWithNoTooltip](은)는 진정 세상의 중심이로다."
  flavor_maj.29.b: "우리 종속국에도 이 문화를 전파하려 애써야 한다!"
- MAJ_we_will_play_as_malacca: "우리나라가 계속 [ShowFormableCountryName('MLC_f')](으)로 플레이합니다."
+ MAJ_we_will_play_as_malacca: "우리나라가 [ShowFormableCountryName('MLC_f')]로 계속 플레이합니다."
  demak_progress_at_least_20: "수니파의 지배율이 #r 20.0%#! 이상임"

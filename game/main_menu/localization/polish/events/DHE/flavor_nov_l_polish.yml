@@ -18,7 +18,7 @@
  flavor_nov.3.b: "Nigdy nie ugniemy się przed żadnym suwerenem!"
  flavor_nov.3.b.tt: "#italic Wojna rozpocznie się za #R 30#! dni, chyba że kraj [overlord_country.GetName] zagwarantuje naszą niepodległość.#!"
  flavor_nov.4.title: "[pskov_country.GetNameWithNoTooltip] uznaje nasze zwierzchnictwo"
- flavor_nov.4.desc: "[pskov_country.GetName] śle dobre wieści! Ich [pskov_country.GetGovernment.GetRuler.GetTitle|l] uznaje naszą władzę nad krajem [pskov_country.GetNameWithNoTooltip] i przysięga wierność #L [ROOT.GetCountry.GetAdjective]kiemu#! państwu – [ROOT.GetCountry.GetFlavorRank] będzie mieć w nim poddanego. Nie musimy się już zamartwiać, że [pskov_country.GetNameWithNoTooltip] znów spróbuje się od nas uniezależnić."
+ flavor_nov.4.desc: "[pskov_country.GetName] śle dobre wieści! [pskov_country.GetGovernment.GetRulerTitle] uznaje naszą władzę nad krajem [pskov_country.GetNameWithNoTooltip] i przysięga wierność #L [ROOT.GetCountry.GetAdjective]kiemu#! państwu – [ROOT.GetCountry.GetFlavorRank] będzie mieć w nim poddanego. Nie musimy się już zamartwiać, że [pskov_country.GetNameWithNoTooltip] znów spróbuje się od nas uniezależnić."
  flavor_nov.4.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  flavor_nov.5.title: "[pskov_country.GetNameWithNoTooltip] wypowiada wojnę o niepodległość!"
  flavor_nov.5.desc: "[pskov_country.GetName] przesyła na nasz dwór doprawdy godne ubolewania wieści! Nikczemnicy ośmielili się zakwestionować prawowite i sprawiedliwe #L [ROOT.GetCountry.GetAdjective]kie#! rządy – [pskov_country.GetFlavorRank] wypowiada nam wojnę o niepodległość! Musimy przygotować się do walki. W przeciwnym wypadku [pskov_country.GetNameWithNoTooltip] stanie się od nas niezależny!"

@@ -18,7 +18,7 @@
  flavor_nov.3.b: "Asla bir metbu devlete boyun eğmeyeceğiz!"
  flavor_nov.3.b.tt: "#italic [target_overlord_country.GetName] bağımsızlık vermezse #R 30#! gün içinde savaş başlar.#!"
  flavor_nov.4.title: "[pskov_country.GetNameWithNoTooltip] Otoritemizi Kabul Ediyor"
- flavor_nov.4.desc: "[pskov_country.GetName] ülkesinden güzel haberler sarayımıza ulaştı! [pskov_country.GetGovernment.GetRuler.GetTitle], [pskov_country.GetNameWithNoTooltip] üzerindeki hâkimiyetimizi tanıdı ve [ROOT.GetCountry.GetAdjective] [ROOT.GetCountry.GetFlavorRank] Hazretleri'ne bağlılık yemini etti. [pskov_country.GetNameWithNoTooltip] ülkesinin ileride yönetimimizden ayrılıp bağımsızlığını ilan edeceği yönünde kaygılanmamıza gerek kalmadı."
+ flavor_nov.4.desc: "[pskov_country.GetName] ülkesinden güzel haberler sarayımıza ulaştı! [pskov_country.GetGovernment.GetRulerTitle], [pskov_country.GetNameWithNoTooltip] üzerindeki hâkimiyetimizi tanıdı ve [ROOT.GetCountry.GetAdjective] [ROOT.GetCountry.GetFlavorRank] Hazretleri'ne bağlılık yemini etti. [pskov_country.GetNameWithNoTooltip] ülkesinin ileride yönetimimizden ayrılıp bağımsızlığını ilan edeceği yönünde kaygılanmamıza gerek kalmadı."
  flavor_nov.4.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  flavor_nov.5.title: "[pskov_country.GetNameWithNoTooltip], Bağımsızlık Savaşı İlan Etti!"
  flavor_nov.5.desc: "Sarayımıza [pskov_country.GetName] ülkesinden gelen vahim haberler ulaştı! Aşağılık köpekler [ROOT.GetCountry.GetName] ülkesinin küçük [pskov_country.GetFlavorRank] üzerindeki meşru ve haklı hâkimiyetini tanımayı reddedip bize karşı bağımsızlık savaşı ilan etti! [pskov_country.GetNameWithNoTooltip] ülkesinin bağımsızlığını kazanmasını izlemek istemiyorsak devletimizi savaşa hazırlamalıyız!"

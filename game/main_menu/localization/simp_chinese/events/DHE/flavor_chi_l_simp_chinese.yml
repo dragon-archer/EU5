@@ -490,7 +490,7 @@
  flavor_chi.109.b: "寻求更具外交手腕的解决办法。"
  flavor_chi.109.c: "解除他们的[ShowSubjectTypeNameWithNoTooltip('tributary')]地位。"
  flavor_chi.110.title: "判例"
- flavor_chi.110.desc: "我们的法官兼法学家[target_character.GetName]最近在一次重要审判中作出了颇具争议的判决。按照[ROOT.GetCountry.GetAdjective]法律，这一先例必然会被其他法官重复适用，最终自成法律。然而，这一做法却触及[target_estate.GetName]的利益。若试图削弱该判决，将会动摇人们对[ROOT.GetCountry.GetFlavorRank]的信心。"
+ flavor_chi.110.desc: "我们的法官兼法学家[target_character.GetName]最近在一次重要审判中作出了颇具争议的判决。按照[ROOT.GetCountry.GetAdjective]法律，这一先例必然会被其他法官重复适用，最终自成法律。然而，这一做法却触及[target_estate.GetName]的利益。若试图推翻该判决，将会动摇人们对[ROOT.GetCountry.GetFlavorRank]的信心。"
  flavor_chi.110.a: "尊重这一判例。"
  flavor_chi.110.b: "质疑该判决！"
  flavor_chi.111.title: "对司法体系的批评"

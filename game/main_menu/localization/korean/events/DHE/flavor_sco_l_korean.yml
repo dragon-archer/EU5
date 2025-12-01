@@ -275,6 +275,7 @@
  flavor_sco.200.a: "[ROOT.GetCountry.GetNameWithNoTooltip]에 대한 관할권은 오직 [sco_ruler.GetNameWithNoTooltip]의 몫이다."
  flavor_sco.200.b: "[GetCountry('PAP').GetAdjectiveWithNoTooltip]의 권한을 제한하되, 주교들이 [ShowSpecialStatusNameWithNoTooltip('curia')]에 접근하는 것을 허하라."
  flavor_sco.200.c: "정책안을 전부 철회하라."
+ sco_retain_clergy_jurisdiction_requirements: "[ROOT.GetCountry.GetName](이)가 [ShowReligionAdjective('catholic')]을 유지하는 동안, [ShowLawName('sco_authority_over_the_clergy')]를 이용할 수 있습니다."
  flavor_sco.201.title: "[sco_ruler.GetShortNameWithNoTooltip](과)와 화해를 원하는 [GetCountry('PAP').GetGovernment.GetRulerTitle]"
  flavor_sco.201.desc: "[ShowPolicyName('crown_religious_jurisdiction')] 시행 이후, [sco_ruler.GetName](과)와 [GetCountry('PAP').GetName] 사이의 관계가 악화되었습니다. 그럼에도 불구하고 우리 [ROOT.GetCountry.GetAdjective]의 고위 주교 중 많은 수가 [GetCountry('PAP').GetNameWithNoTooltip](으)로부터 [ShowSpecialStatusNameWithNoTooltip('curia')] 관련 사안에 참여하라는 초청을 받고 있습니다.\n\n이러한 상황에서 [sco_ruler.GetNameWithNoTooltip](과)와의 화해를 원하는 [pap_ruler.GetName](이)가 [ShowPolicyNameWithNoTooltip('crown_religious_jurisdiction')]을 폐지한다면 [ShowSpecialStatusNameWithNoTooltip('curia')]에서 상당한 영향력을 행사할 수 있도록 해 주겠다며 화해의 올리브 나뭇가지를 내밀었습니다."
  flavor_sco.201.a: "[pap_ruler.GetNameWithNoTooltip](과)와의 화해에 동의한다."

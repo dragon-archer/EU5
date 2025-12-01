@@ -410,7 +410,7 @@
  STATIC_MODIFIER_NAME_monumental_architecture: "Monumentalarchitektur"
  STATIC_MODIFIER_NAME_industrious_boost: "Herstellungsentwicklung"
  STATIC_MODIFIER_NAME_cruel_overlord: "Grausamer Suzerän"
- STATIC_MODIFIER_NAME_positive_province_food_growth: "Großes [Concept('food', 'Nahrungs')|e]-Lager in [province|e]"
+ STATIC_MODIFIER_NAME_positive_province_food_growth: "Großes [Concept('food', 'Nahrungs')]-Lager in [province|e]"
  STATIC_MODIFIER_NAME_province_starving: "[province|e] [Concept('starving', 'hungert')|e]"
  STATIC_MODIFIER_NAME_raised_offensive_levies_repeatedly: "Wiederholt ausgehobene Offensivaufgebote"
  STATIC_MODIFIER_NAME_raised_defensive_levies_repeatedly: "Wiederholt ausgehobene Defensivaufgebote"
@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "Gute Omen"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Eine Zeit der Erneuerung in Verbindung mit mildem Wetter und reichlich Nahrung sind gute Zeichen: Die Götter sind erfreut."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Münzen in unserem Namen"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Einfluss des alten Hauptsitzes"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Osmans Traum"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Es ist unser Schicksal, ein Großreich zu beherrschen, das bis zum Ende aller Tage Bestand haben wird."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Ahi-Bürokraten"
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Handel mit Feuerwaffen"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Matriarchale Landwirtschaft"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Erbe des leeren Wappenrocks"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Aggressives Vordringen in Balliol-Land"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Balliol zum Handeln zwingen"
  STATIC_MODIFIER_NAME_sbl_english_backing: "Unterstützung durch englische Krone"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Mamālīk-Befehlshaber"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Eingliederung von Schonen"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Königliche Mitgift"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Verwaltung von Pennsylvania"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Drei-Schwestern-Ernte"

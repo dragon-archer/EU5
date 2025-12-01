@@ -35,7 +35,7 @@
  trade.8.desc: "Com as generosas liberdades que concedemos aos nossos comerciantes, acabamos em uma situação em que as pessoas simplesmente não querem mais trabalhar de forma honesta."
  trade.8.a: "O plano não era nada disso."
  trade.10.title: "Falta de Proteção"
- trade.10.desc: "Nossa determinação para aceitar o livre comércio fez com que comerciantes locais perdessem espaço para os [rivals|e] de outros países. O domínio da entidade política [rival_country.GetName] sobre o [market|e] de [ROOT.GetCountry.GetCapital.GetMarket.GetName] é vergonhoso para nós."
+ trade.10.desc: "Nossa determinação em aceitar o livre comércio fez com que comerciantes locais perdessem espaço para os [rivals|e] de outros países. O domínio da entidade política [rival_country.GetName] sobre o [market|e] de [ROOT.GetCountry.GetCapital.GetMarket.GetName] é vergonhoso para nós."
  trade.10.a: "É muito mais que vergonha."
  trade.11.title: "Comerciantes Partindo"
  trade.11.desc: "Com o afrouxamento das restrições sobre comerciantes estrangeiros, alguns dos nossos próprios investidores sentem que não estão recebendo apoio suficiente do Estado e, por isso, decidiram mudar de carreira."

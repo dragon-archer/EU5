@@ -3,7 +3,7 @@
  black_death.1.desc: "[GetDisease('bubonic_plague').GetOrigin.GetName] ilinden tüyler ürpertici haberler geldi. Gelen mektup şöyleydi:\n\n\"Eyvah! Gemilerimiz limana yanaşıyor ama bin denizciden ancak onu hayatta. Evlerimize varıyoruz, akrabalarımız ve komşularımız dört bir yandan bizi görmeye geliyor. Vah bize ki onlara ölüm tohumları saçıyoruz! Onlarla konuşurken ve kucaklaşıp öpüşürken dudaklarımızdan zehir akıtıyoruz. Evlerine döndüklerinde kısa sürede tüm ailelerini hasta ediyorlar, onlar da üç gün içinde can verip toplu bir mezara gömülüyorlar. Hastaları ziyaret eden papazlar ve hekimler görevlerinden bitkin dönüyor ve çok geçmeden ölüler kervanına katılıyorlar. Ah ölüm! Acımasız, zalim ve gaddar ölüm! Sevgi bağlarını koparıyor, ana babayı, kardeşi bacıyı, karı kocayı ayırıyorsun. Çaresizliğimize ağıt yakarken kaçmaya korktuk ama kalmaya da gönlümüz el vermedi.\""
  black_death.1.a: "Fareler!"
  black_death.1.a.tt: "[ShowSituationName('black_death')], [GetDisease('bubonic_plague').GetOrigin.GetName] ilinden yayılmaya başladı"
- black_death.1026.title: "Yürüyoruz Mezara Doğru"
+ black_death.1026.title: "Yürüyoruz Mezara Doğru..."
  black_death.1026.desc: "Zenginler, servetlerine itimat etmiyor,\nAltın sıhhat getirmiyor,\nHekim de yenik düşüyor.\nHer şey sona ermek için var,\nSalgın dört yanımdan geçiyor,\nÖlüme yürüyor, bitkin vücudum."
  black_death.1026.a: "Tanrım, sen bize merhamet et!"
  black_death.2.title: "Kara Veba Yayılıyor!"

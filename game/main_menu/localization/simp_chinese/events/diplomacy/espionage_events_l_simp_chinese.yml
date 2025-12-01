@@ -4,7 +4,7 @@
  espionage_events.1.a: "接受条件但降低价格并宽恕他的性命。"
  espionage_events.1.b: "让他在出“事故”之前隐蔽几天。"
  espionage_events.2.title: "叛徒的第二次机会"
- espionage_events.2.desc: "我们已然注意到[ROOT.GetCountry.GetAdjective]社会中的腐败问题，但是至少，我们希望它只停留在我们自己人之间的利益交换中。我们错了。某个维持着在[origin_country.GetName]的间谍网的间谍被其同事证实近期他接受了一份只可能是来自[origin_country.GetAdjective]政府的大额贿赂金。我们必须接受一位优秀间谍并不如我们所想得那般忠诚的事实。\n\n有人指出此事尚有挽回余地。向他出示他叛国的证据，这位密探也许会重归旧主——且额外获得了[origin_country.GetAdjectiveWithNoTooltip]信任。值得冒这个险吗？"
+ espionage_events.2.desc: "我们已然注意到[ROOT.GetCountry.GetAdjective]社会中的腐败问题，但是至少，我们希望它只停留在我们自己人之间的利益交换中。我们错了。某个维持着在[origin_country.GetName]的间谍网的间谍被其同事证实近期接受了一份只可能是来自[origin_country.GetAdjective]政府的大额贿赂金。我们必须接受一位优秀间谍并不如我们所想得那般忠诚的事实。\n\n有人指出此事尚有挽回余地。向他出示他叛国的证据，这位密探也许会重归旧主——且额外获得了[origin_country.GetAdjectiveWithNoTooltip]信任。值得冒这个险吗？"
  espionage_events.2.a: "他现在对我们来说更有价值了。"
  espionage_events.2.b: "他已经造成了足够的破坏。最后一次邀请他回家吧。"
  espionage_events.3.title: "二次叛变？"

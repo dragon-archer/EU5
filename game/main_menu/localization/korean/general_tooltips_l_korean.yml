@@ -429,6 +429,7 @@
  LOCATION_CLICK_FOREIGN_LOCATION_LATERALVIEW: "[LOCATION.GetName](은)는 [COUNTRY.GetName]의 일부가 아닙니다."
  OPEN_WORKS_OF_ART_TAB: "예술품 표시"
  OPEN_ADVANCES_AGES_TAB: "시대 표시"
+ OPEN_KNOWN_COUNTRIES_TAB: "알려진 국가 열기"
  LOCATION_CLICK_IMPORT_EXPORT_LATERALVIEW: "좌클릭으로 이 [market|e]을 선택해서 $IMPORT$ 개시"
  LOCATION_CLICK_RECRUIT_LATERALVIEW: "좌클릭으로 이 [location|e]을 선택해서 모집 개시\n우클릭으로 이 [location|e]을 선택해서 진행 중인 모집 해제"
  LOCATION_CLICK_RISE_LATERALVIEW: "좌클릭으로 이 [location|e]을 선택해서 [levies|e] 징집 개시\n우클릭으로 이 [location|e]을 선택해서 진행 중인 징집 해제"

@@ -784,7 +784,6 @@
  demand_church_tax_price: "교회세 요구 비용"
  request_aid: "원조 요청"
  request_aid_desc: "우리 국경은 믿음의 보루이자 참된 신도를 지키는 방벽이며, 우리 백성을 해하고자 하는 이들을 막는 방패입니다. 우리의 대의를 지원하는 것이 [GetCountry('PAP').GetGovernment.GetRulerTitle]의 최우선 과제가 되어야 합니다."
- 10_years_cd: "이 상호 작용은 #Y 10#!년마다 사용할 수 있습니다"
  request_aid_price: "가톨릭 원조 요청 비용"
  placitum_regium: "국왕 재가권"
  placitum_regium_desc: "[GetCountry('PAP').GetGovernment.GetRulerTitle](이)가 우리나라의 내정에 간섭한 지도 너무나 오랜 세월이 흘렀습니다. 이대로 왕실의 권위가 [GetCountry('PAP').GetAdjective]의 권좌 앞에 무릎 꿇고 있어서는 안 됩니다! [papal_bull|e]는 우리 정부의 승인이 있을 때만 효력을 발휘할 것입니다."
@@ -793,6 +792,9 @@
  request_cardinal_seat_desc: "추기경단은 우리 의견을 제대로 반영하지 못하고 있습니다. 우리 영토 내에 있는 [ShowBuildingTypeName('cathedral')]에 [ShowBuildingTypeName('seat_of_cardinal')]를 부여할 것을 요청하여 우리 영향력이 줄어들지 않게 해야 합니다."
  request_cardinal_tt: "[GetCountry('PAP').GetAdjective] 당국의 승인을 받으면 지정된 [location|e]에 [ShowBuildingTypeName('seat_of_cardinal')]가 부여됩니다."
  recently_requested_cardinal: "최근에 추기경좌를 요청한 국가가 있음"
+ invite_foreign_cleric: "외국 성직자 초빙"
+ invite_foreign_cleric_desc: "타국에서 경험 많은 성직자 한 명이 파견됩니다. 비록 우리나라 내 현지 [actor.GetGovernment.GetEstateName('clergy_estate')]의 반감을 사겠지만, 이 외국 성직자의 전문성은 큰 도움이 될 수 있습니다."
+ invite_foreign_cleric_tt: "[adm|e]이 높고 [dip|e]은 보통이며 [mil|e]은 낮은 [actor.GetReligion.GetAdjective] [ShowEstateTypeName('clergy_estate')] 계층의 외국 [character|e]이 우리 [country|e]에 도착합니다."
  #Catholic Church Laws and Policies
  cc_indulgences: "면죄부 판매"
  cc_indulgences_desc: "면죄부 문제에 대한 [GetInternationalOrganization('catholic_church').GetName]의 공식 입장입니다."

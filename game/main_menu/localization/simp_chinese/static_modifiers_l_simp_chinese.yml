@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "吉兆"
  STATIC_MODIFIER_DESC_good_omen_modifier: "适逢更新之时，气候温和、粮食充足，一切征兆皆表明众神心满意足。"
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "用我们的名义铸币"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "旧都的影响"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "奥斯曼之梦"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "我们的命运是统治一个延续至世界尽头的帝国。"
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "艾赫兄弟会官僚"
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "进行火器贸易"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "母系农业社会"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "空外套的继承人"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "强势推进至巴里奥领地"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "逼迫巴里奥表态"
  STATIC_MODIFIER_NAME_sbl_english_backing: "获得英格兰王权的支持"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "马穆鲁克指挥官"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "整合斯科讷"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "王室嫁妆"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "宾夕法尼亚的行政管理"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "“三姐妹”丰收"

@@ -17,7 +17,7 @@
  ireland.30.a: "Wierzymy, że [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l] unowocześnią kraj [ROOT.GetCountry.GetNameWithNoTooltip]."
  ireland.30.b: "[ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|U] niech się lepiej skupią na modlitwie."
  ireland.40.title: "Społeczność bardziej [native_culture.GetNameWithNoTooltip|l]ka niż sama [native_culture.GetNameWithNoTooltip|l]ka społeczność"
- ireland.40.desc: "Przez całe pokolenia wspólnego życia #L [native_culture.GetName|l]ka#! społeczność wywierała na nas taki wpływ, że stopniowo, acz stanowczo, zmieniło to nasze obyczaje. #L [judgmental_culture.GetName]ka#! społeczność już nie myśli o nas jak o pobratymcach, a społeczność [native_culture.GetNameWithNoTooltip|l]ka nie uważa już nas za nowo przybyłych..."
+ ireland.40.desc: "Przez całe pokolenia wspólnego życia #L [native_culture.GetName|l]ka#! społeczność wywierała na nas taki wpływ, że stopniowo, acz stanowczo, zmieniło to nasze obyczaje. #L [judgmental_culture.GetName]ka#! ludność już nie myśli o nas jak o pobratymcach, a społeczność #L [native_culture.GetNameWithNoTooltip|l]ka#! nie uważa już nas za nowo przybyłych..."
  ireland.40.a: "Nasza społeczność jest bardziej [native_culture.GetNameWithNoTooltip|l]ka niż sama [native_culture.GetNameWithNoTooltip|l]ka społeczność!"
  ireland.40.b: "Musimy podtrzymywać nasze dziedzictwo w tej dzikiej krainie!"
  opinion_gone_native: "Zostanie tubylcem"

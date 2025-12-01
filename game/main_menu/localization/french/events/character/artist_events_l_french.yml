@@ -101,7 +101,7 @@
  artist_events.24.a: "[ROOT.GetCountry.Custom('common_string_negative')]"
  artist_events.24.b: "Ce n'est pas à nous de corriger cela."
  artist_events.25.title: "La mère de l'excellence"
- artist_events.25.desc: "Les lumières de l'atelier de [target_character.GetName] restent allumées en permanence. Inlassablement, [target_character.GetSheHe] cherche à améliorer sa technique et recommence sans fin à perfectionner ses modèles. Bien qu'[target_character.GetSheHe] ne soit peut-être pas l'architecte le plus compétent, [target_character.GetSheHe] se donne beaucoup de mal et ne fera que s'améliorer au fil du temps."
+ artist_events.25.desc: "Les lumières de l'atelier de [target_character.GetName] restent allumées en permanence. Inlassablement, [Select_CString(target_character.IsFemale,'elle', 'il')] cherche à améliorer sa technique et recommence sans fin à perfectionner ses modèles. Bien qu'[Select_CString(target_character.IsFemale,'elle', 'il')] ne soit peut-être pas l'architecte le plus compétent, [Select_CString(target_character.IsFemale,'elle', 'il')] se donne beaucoup de mal et ne fera que s'améliorer au fil du temps."
  artist_events.25.a: "Sa soif de progrès devrait être une source d'inspiration pour tous !"
  country_events.25.tt: "[target_character.GetName] peut gagner un nouveau [trait|e] #G positif#!"
  artist_events.26.title: "Des débats animés"

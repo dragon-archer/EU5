@@ -327,7 +327,7 @@
  flavor_byz.1302.desc: "[target_country2.GetLongName]答复了我们的要求。他们允许来自[target_location2.GetName]的[ShowPopTypeName('burghers')]在[target_location.GetName]定居。"
  flavor_byz.1302.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  flavor_byz.1303.title: "$flavor_byz.1300_title_key$"
- flavor_byz.1303.desc: "[target_country2.GetName]拒绝了我们的要求。他们认为向外派出[ShowPopTypeName('burghers')]对他们没好处……"
+ flavor_byz.1303.desc: "[target_country2.GetName]拒绝了我们的要求。他们认为向外派出[ShowPopTypeName('burghers')]对他们没好处。"
  flavor_byz.1303.a: "[ROOT.GetCountry.Custom('common_string_negative')]"
  flavor_byz.1400_title_key: "重建瓦兰吉卫队"
  flavor_byz.1400.title: "$flavor_byz.1400_title_key$"

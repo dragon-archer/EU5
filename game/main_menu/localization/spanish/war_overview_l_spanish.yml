@@ -1,8 +1,8 @@
 ﻿l_spanish:
  WAR_LATERALVIEW_SUE_FOR_PEACE: "Pedir la paz"
  WAR_LATERALVIEW_SUE_FOR_PEACE_TOOLTIP: "Pedir la paz"
- WAR_LATERALVIEW_CIVIL_WAR: "@trigger_no!No podemos pedir la [peace|el] en una [civil_war|el]"
- WAR_LATERALVIEW_SUBJECT: "@trigger_no!No podemos pedir la [peace|el] si somos [subject|el] de nuestro líder de guerra"
+ WAR_LATERALVIEW_CIVIL_WAR: "@trigger_no! No podemos pedir la [peace|el] en una [civil_war|el]"
+ WAR_LATERALVIEW_SUBJECT: "@trigger_no! No podemos pedir la [peace|el] si somo [subjects|el] de nuestro líder de guerra"
  WARGOAL_IS_CONQUEST: "#T Objetivo bélico impuesto#!\n"
  WARGOAL_IS_SAFE: "#T Objetivo bélico protegido#!\n"
  WAR_LATERALVIEW_ANNEX_REVOLTER: "Anexionar sublevado"

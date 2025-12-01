@@ -38,7 +38,7 @@
  flavor_por.8.b: "Não precisamos disso!"
  flavor_por.8.historical_info: "A Governadoria Geral do Brasil foi estabelecida em 1549 pelo Rei João III de Portugal. Esse órgão governamental pretendia agir como uma instituição unificada para as Capitanias que organizava as colônias portuguesas no Brasil."
  flavor_por.9.title: "Conflito Comercial no Oceano Índico"
- flavor_por.9.desc: "Com a chegada de navios portugueses no Oceano Índico e no Mar Arábico, nós finalmente temos a oportunidade de tentar desestabilizar o transporte do povo [ShowCultureGroupName('arabian_group')] na região. Estamos em uma posição em que podemos cortar significativamente o suprimento de especiarias e seda para [ShowLocationName('alexandria')], prejudicando a concorrência comercial no Oriente Próximo e na [ShowRegionName('italy_region')]."
+ flavor_por.9.desc: "Com a chegada de navios portugueses no Oceano Índico e no Mar Arábico, nós finalmente temos a oportunidade de tentar desestabilizar o transporte dos [ShowCultureGroupName('arabian_group')] na região. Estamos em uma posição em que podemos cortar significativamente o suprimento de especiarias e seda para [ShowLocationName('alexandria')], prejudicando a concorrência comercial no Oriente Próximo e na [ShowRegionName('italy_region')]."
  flavor_por.9.a: "Controlar o comércio de especiarias à força."
  portuguese_privateers: "Corsários Portugueses"
  flavor_por.9.b: "Buscar relações melhores na região."

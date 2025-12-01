@@ -250,11 +250,11 @@
  break_from_union: "Separar da União"
  break_from_union_entry: "Separar da união [TARGET_COUNTRY.GetDiplomacy.GetUnion.GetName]"
  break_from_union_entry_short: "$break_from_union$"
- break_from_union_desc: "A entidade política [TARGET_COUNTRY.GetName] ganhou influência demais em nossa corte. Eles serão excluídos do governo, e a [GetInternationalOrganizationType('union').GetName] não ditará mais nosso destino."
+ break_from_union_desc: "A entidade política [TARGET_COUNTRY.GetName] ganhou influência demais em nossa corte. Eles serão excluídos do governo, e o(a) [GetInternationalOrganizationType('union').GetName] não ditará mais nosso destino."
  assume_union_senority: "Assumir Senioridade da União"
  assume_union_senority_entry: "Assumir Senioridade da união [TARGET_COUNTRY.GetDiplomacy.GetUnion.GetName]"
  assume_union_senority_entry_short: "$assume_union_senority$"
- assume_union_senority_desc: "A entidade política [TARGET_COUNTRY.GetName] não serve para governar a união [TARGET_COUNTRY.GetDiplomacy.GetUnion.GetName]! Assumiremos o fardo da liderança e a senioridade da [GetInternationalOrganizationType('union').GetName]."
+ assume_union_senority_desc: "A entidade política [TARGET_COUNTRY.GetName] não serve para governar o(a) [TARGET_COUNTRY.GetDiplomacy.GetUnion.GetName]! Assumiremos o fardo da liderança e a senioridade do(a) [GetInternationalOrganizationType('union').GetName]."
  #The Revolution
  reinstate_the_monarchy: "Reinstaurar a Monarquia"
  reinstate_the_monarchy_entry: "Reinstaurar a Monarquia no país [TARGET_COUNTRY.GetNameWithFlag]"

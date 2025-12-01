@@ -1,6 +1,6 @@
 ﻿l_braz_por:
  flavor_vol.1.title: "Governando um País Estrangeiro"
- flavor_vol.1.desc: "[target_ruler.GetName] tem a tarefa difícil de governar um país onde poucas pessoas seguem sua fé. Para aliviar as questões geradas por essa situação, podemos convidar alguns assessores da fé [ShowReligionAdjective('catholic')] presentes no território [ShowCultureGroupName('slavic_group')] da [ShowContinentName('europe')] que já seguem a fé [ShowReligionAdjectiveWithNoTooltip('catholic')]."
+ flavor_vol.1.desc: "[target_ruler.GetName] tem a tarefa difícil de governar um país onde poucas pessoas seguem sua fé. Para aliviar as questões geradas por essa situação, podemos convidar alguns assessores da fé [ShowReligionAdjective('catholic')] presentes no território dos [ShowCultureGroupName('slavic_group')] da [ShowContinentName('europe')] que já seguem a fé [ShowReligionAdjectiveWithNoTooltip('catholic')]."
  flavor_vol.1.historical_info: "O Rei Jorge II da Rutênia foi um membro da dinastia Piast, descendente da dinastia Rurique por parte de sua mãe, que era irmã de Leão II da Galícia. Após a morte de Leão II, o trono da Rutênia passou para Iuri II, que era, contudo, estrangeiro e católico. Isso o tornou amplamente impopular entre o povo ortodoxo da Rutênia e acabaria resultando em seu assassinado em 1340."
  flavor_vol.1.a: "Precisamos de sua ajuda para ajudar a reformular o(a) [ROOT.GetCountry.GetFlavorRank]."
  flavor_vol.1.b: "Não podemos arriscar despertar a ira do estamento [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')]."

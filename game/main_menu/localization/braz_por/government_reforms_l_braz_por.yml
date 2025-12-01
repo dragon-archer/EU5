@@ -67,7 +67,7 @@
  colonial_subject: "Súdito Colonial"
  colonial_subject_desc: "A nossa situação como vanguarda da civilização nos transformou em uma terra de oportunidades para indivíduos destemidos o bastante virem aqui e construírem uma vida próspera com as próprias mãos."
  #Steppe Horde
- legacy_of_genghis: "Legado de $genghis_khan_name_no_tooltip$"
+ legacy_of_genghis: "Legado de Gengis Khan"
  legacy_of_genghis_desc: "Somos os descendentes do grande conquistador do mundo, $genghis_khan_name_no_tooltip$. Seu sangue corre em nossas veias, dando orgulho e poder ao nosso povo, e esse sangue promete que conquistaremos qualquer terra em que nossos cavalos pisarem!"
  #Theocracies
  military_order_reform: "Ordem Militar"
@@ -332,6 +332,7 @@
  dutch_republic_reform_desc: "Este é um tipo de república na qual o líder, chamado de #Estatuder#!, governa de forma vitalícia. Tradicionalmente, as facções que apoiam esse governo se desentenderam em relação a como o poder do Estatuder deve ser estruturado. Aqueles chamados de Estatistas querem tornar o Estatuder mais como um #italic Primus inter Pares#! e os Orangistas querem tratar o líder eleito como um rei."
  ancient_french_taxation: "Antiga Tributação da [GetCountry('FRA').GetName]"
  ancient_french_taxation_desc: "Historicamente, os impostos são aplicados e coletados apenas em tempos difíceis, não por um sistema recorrente."
+ fra_ancient_french_taxation_removal_conditions: "Pode ser manualmente removido ao alcançar [ShowSocietyDirectionName('centralization')] #G +50,00#! ou através de $flavor_fra.1.title$ [dynamic_historical_event|e]."
  basic_timariot_system: "Sistema Timar"
  basic_timariot_system_desc: "Um sistema de terras feudais concentrado em construir uma força de cavalaria poderosa. A nossa cavalaria Sipahi ganhará concessão de terras e deverá nos fornecer uma quantidade de cavalaria baseada no tamanho da concessão."
  expanded_timariot_system: "Sistema Timar Expandido"

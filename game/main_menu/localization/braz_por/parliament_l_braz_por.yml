@@ -645,7 +645,7 @@
  pa_construct_monastery_desc: "Clérigos proeminentes estão solicitando a construção de um refúgio monástico remoto para praticarem sua fé em paz."
  pa_construct_market_village: "Demanda por um Novo Mercado"
  pa_construct_market_village_simple: "Demanda por Novos Mercados"
- pa_construct_market_village_desc: "O [estate|e] está demandando a construção de uma nova $market_village$ para suas atividades mercantis."
+ pa_construct_market_village_desc: "O [estate|e] está demandando a construção de um novo $market_village$ para suas atividades mercantis."
  #Diplomatic Agendas
  pa_break_alliance: "Romper Aliança"
  pa_break_alliance_simple: "$pa_break_alliance$"

@@ -62,7 +62,7 @@
  personality_events.15.a: "¿El mundo como un queso con gusanos? ¡Una perspectiva fascinante!"
  personality_events.15.b: "¡No podemos permitir que [heresiarch.GetNameWithNoTooltip] ponga en ridículo nuestra fe!"
  personality_events.15.c: "Vamos a darle a [heresiarch.GetNameWithNoTooltip] con la puerta en las narices."
- personality_events.16.title: "Dinamismo de [ROOT.GetCountry.GetGovernment.GetCabinetTitle|Ul] de [target_ruler.GetNameWithNoTooltip]"
+ personality_events.16.title: "Dinamismo del [ROOT.GetCountry.GetGovernment.GetCabinetTitle|l] de [target_ruler.GetNameWithNoTooltip]"
  personality_events.16.desc: "[target_ruler.GetName|l] se ha puesto como labor conocer a todos los hombres y mujeres de valía de nuestra era, cosa que le ha permitido reunir un [ROOT.GetCountry.GetGovernment.GetCabinetTitle|l] impresionante formado por las mentes más brillantes de [ROOT.GetCountry.GetName]. Tras comprender que lo anterior puede resultar idóneo para hacer carrera, son muchos los que se han acercado al [ROOT.GetCountry.GetGovernment.GetCabinetTitle|l] pidiendo que les busquemos hueco a uno de sus protegidos. No nos interesa casa nadie, salvo un candidato especialmente ingenioso e inteligente, [protege.GetName], que merecería tener un lugar en nuestro círculo."
  personality_events.16.a: "Tiene un cerebro extraordinario y me gustaría que lo exprimiéramos al máximo."
  personality_events.16.b: "¿Seguro que podemos hacerle hueco en nuestra administración a [protege.GetNameWithNoTooltip]?"

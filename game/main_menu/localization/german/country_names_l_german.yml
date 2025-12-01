@@ -2108,6 +2108,7 @@
  FKN_ADJ: "Fränkisch"
  PRU: "Preußen"
  PRU_ADJ: "Preußisch"
+ LVA_THE: "$common_string_prefix_article$"
  LVA: "Livland"
  LVA_ADJ: "Livländisch"
  GER: "Deutschland"
@@ -2419,6 +2420,8 @@
  TAR: "Purépecha"
  TAR_ADJ: "Purépechanisch"
  TNC: "Tenōchtitlan"
+ AZT_THE: "$common_string_prefix_article$"
+ AZT: "Azteken"
  AZT_ADJ: "Aztekisch"
  TNC_ADJ: "Tenōchtitlanisch"
  TTZ: "Acolhuacan"
@@ -3184,6 +3187,8 @@
  HZH_ADJ: "Hóngzhōuisch"
  XSY: "Xīshānyáng" #西山阳
  XSY_ADJ: "Xīshānyángisch"
+ LNG: "Liáng" #梁
+ LNG_ADJ: "Liáng"
  CDL: "Dali"
  CDL_ADJ: "Dalisch"
  CHH: "Chiang Hung"

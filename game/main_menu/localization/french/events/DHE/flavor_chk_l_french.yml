@@ -5,6 +5,8 @@
  flavor_chk.1.b: "Notre âge d'or n'est pas encore terminé, notre [ShowLocationNameWithNoTooltip('cahokia')] peut renaître !"
  events_to_weaken_cahokia_downfall: "Permet des [events|e] supplémentaires pour atténuer la chute de [ShowLocationName('cahokia')]."
  events_to_strengthen_cahokia: "Permet des [events|e] supplémentaires pour stabiliser [ShowLocationName('cahokia')] et en refaire une [ShowLocationRankName('city')] rayonnante !"
+ cahokia_conditions_to_gain_golden_age: "Maintenir la [stability|e] et [prestige|e] au-dessus de #G +50#! tout en restaurant la [ShowLocationName('cahokia')] à un niveau de 35 000 [pops|e] et 15 de [development|e] nous mènera à un nouvel Âge d'or."
+ cahokia_conditions_to_avoid_migrations: "Si [ROOT.GetCountry.GetName] subit davantage d'instabilité en descendant en dessous de #R -15#! de [stability|e], #R 60#! de [tribal_cohesion|e] ou l'[dynamic_historical_event|e] $flavor_chk.35.title$, de vastes portions de [pops|e] pourraient [migrate|e] depuis nos [locations|e]."
  flavor_chk.2.title: "Reconstruction partielle des monolithes de bois"
  flavor_chk.2.desc: "Bien qu'essentiellement abandonné ces dernières décennies, [ShowLocationName('cahokia')] abrite encore l'un des plus grands centres d'érudition du passé, un cercle de monolithes de bois. Si cette pratique a disparu, nos ancêtres ont utilisé un cercle complet pour cartographier la direction où le soleil se lève et se couche.\n\nSi nous prenions la peine de reconstruire ces monolithes, des érudits pourraient à nouveau pratiquer cette discipline."
  flavor_chk.2.a: "Fournissons le nécessaire à la restauration des monolithes de bois."

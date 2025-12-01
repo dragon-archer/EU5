@@ -38,7 +38,7 @@
  overextension.12.a: "[ROOT.GetCountry.GetReligion.GetGodName] iradesi bu yönde."
  overextension.13.title: "Kötü şöhretin bedelleri var!"
  overextension.13.desc: "[ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')], [antagonism|e] yönündeki hareketlerimizin ticaret imkânlarını azaltarak ülkemizin mali istikrarını bozduğunu söylüyor!"
- overextension.13.a: "Bununla yaşayabiliriz."
+ overextension.13.a: "Bu katlanabileceğimiz bir fedakârlık."
  overextension.14.title: "Kötü Şöhret [ROOT.GetCountry.GetAdjectiveWithNoTooltip] Geleneklerine Aykırıdır"
  overextension.14.desc: "[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')], [antagonism|e] yönündeki hareketlerimizin ülkemizin geleneklerine karşı olduğunu ve iyi zamanlarımızdayken böyle olmadığımızı söylüyor."
  overextension.14.a: "Devir değişti."

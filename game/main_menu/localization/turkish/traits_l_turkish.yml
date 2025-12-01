@@ -300,7 +300,7 @@
  scientist_on_sea_die_desc: "İsmini verdiği birçok bitki ve hayvan, onun adını yaşatacak."
  #Children
  child_prodigy: "Deha"
- child_prodigy_die_desc: "Vefatı derin bir acı yaratan [CHARACTER.GetName], yaşayamadığıparlak bir kaderi varmış gibi hissettiriyor."
+ child_prodigy_die_desc: "Vefatı derin bir acı yaratan [CHARACTER.GetName], yaşayamadığı parlak bir kaderi varmış gibi hissettiriyor."
  desc_child_prodigy: "Bu çocuğun geleceği parlak. İsmini tarih kitaplarına yazdırmak onun kaderi."
  child_gifted: "Yetenekli"
  child_gifted_die_desc: "Vefatı acı veren [CHARACTER.GetName], umut veren bir geleceği yarım kalmış gibi hissettiriyor."

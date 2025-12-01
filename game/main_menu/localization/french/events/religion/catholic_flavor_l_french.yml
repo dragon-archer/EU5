@@ -26,7 +26,7 @@
  catholic_flavor.6.b: "Le pardon ne peut venir que de [ROOT.GetCountry.GetReligion.GetGodName]."
  catholic_flavor.6.b.tt: "Voilà qui va mécontenter la population de [unrest_province.GetName] fidèle au [ShowReligionName('catholic')]."
  catholic_flavor.7.title: "Le culte de la Sainte Vierge"
- catholic_flavor.7.desc: "Marie, mère de Notre Seigneur Jésus-Christ, est la reine des Cieux et intercède pour nous auprès de Lui. Il n'existe pas femme plus parfaite, et la sainte maternité lui confère sa place à la droite de [ROOT.GetCountry.GetReligion.GetGodName]. Faut-il continuer à croire tout ceci ? Récemment, des théologiens radicaux ont déclaré que ces intercessions n'étaient nullement nécessaires. Pourraient-ils avoir raison ? À moins que de tels propos, à la limite de l'hérésie, ne représentent au contraire une menace pour notre sainte mère l'Église ?"
+ catholic_flavor.7.desc: "Marie, mère de notre Seigneur Jésus-Christ, est la reine des Cieux et intercède pour nous auprès de Lui. Il n'existe pas femme plus parfaite, et la sainte maternité lui confère sa place à la droite de Dieu. Faut-il continuer à croire tout ceci ? Récemment, des théologiens radicaux ont déclaré que ces intercessions n'étaient nullement nécessaires. Pourraient-ils avoir raison ? À moins que de tels propos, à la limite de l'hérésie, ne représentent au contraire une menace pour notre sainte mère l'Église ?"
  catholic_flavor.7.a: "Puisse Notre Dame leur pardonner."
  catholic_flavor.7.b: "Elle est spéciale, mais n'est qu'une femme."
  opinion_denying_the_holy_mother: "Ne reconnaît pas la Sainte Vierge"

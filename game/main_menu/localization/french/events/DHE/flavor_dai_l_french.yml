@@ -31,5 +31,5 @@
  flavor_dai.5.historical_info: "Francisco de Pina, jésuite portugais, interprète et missionnaire influent, a été actif dans l'actuel Viêt Nam de 1617 à sa mort en 1625. Il a latinisé l'écriture de la langue vietnamienne, ce qui a permis de jeter les bases de l'alphabet vietnamien moderne."
  flavor_dai.5.a: "Adoptons ce nouvel alphabet."
  portuguese_missionary: "Missionnaire [target_culture.GetAdjective]"
- flavor_dai.5.b: "Qu'[target_character.GetSheHe] demeure, mais son travail ne doit pas influencer notre langue."
+ flavor_dai.5.b: "Qu'[Select_CString(target_character.IsFemale,'elle', 'il')] demeure, mais son travail ne doit pas influencer notre langue."
  flavor_dai.5.c: "Bannissons ce missionnaire [target_culture.GetAdjective], ainsi que tous les autres, pour son insolence."

@@ -23,5 +23,5 @@
  CANNOT_DECLARE_WAR_NO_WAR_GOAL: "@trigger_no!我们必须选择一个战争目标。"
  CANNOT_DECLARE_WAR_NO_CASSUS_BELLI: "@trigger_no!我们没有[casus_belli|e]"
  BREAKING_COBELLIGERENT_TRUCE: "令与我们处于[truce|e]的[country|e]作为[cobelligerent|e]参战会使我们损失[stability|e]！"
- CANT_BREAK_COBELLIGERENT_TRUCE: "This [country|e] cannot be called while having a [truce|e] with the enemy"
+ CANT_BREAK_COBELLIGERENT_TRUCE: "该[country|e]与敌人处于[truce|e]，无法召唤参战"
  WILL_ACCEPT_PROMISE_LAND: "如果你向[Country.GetName]许诺在[peace_treaty|e]中给他们割让一些领土，那么他们就愿意接受[call_to_arms]"

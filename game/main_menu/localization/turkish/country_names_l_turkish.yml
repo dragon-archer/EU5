@@ -2108,6 +2108,7 @@
  FKN_ADJ: "Frankonya"
  PRU: "Prusya"
  PRU_ADJ: "Prusya"
+ LVA_THE: "$common_string_prefix_article$"
  LVA: "Livonya"
  LVA_ADJ: "Livonya"
  GER: "Almanya"
@@ -2419,6 +2420,8 @@
  TAR: "Purépecha"
  TAR_ADJ: "Purépecha"
  TNC: "Tenōchtitlan"
+ AZT_THE: "$common_string_prefix_article$"
+ AZT: "Aztek"
  AZT_ADJ: "Aztek"
  TNC_ADJ: "Tenōchtitlan"
  TTZ: "Acolhuacan"
@@ -3184,6 +3187,8 @@
  HZH_ADJ: "Hóngzhōu"
  XSY: "Xīshānyáng" #西山阳
  XSY_ADJ: "Xīshānyáng"
+ LNG: "Liáng" #梁
+ LNG_ADJ: "Liáng"
  CDL: "Dali"
  CDL_ADJ: "Dali"
  CHH: "Çiang Hung"

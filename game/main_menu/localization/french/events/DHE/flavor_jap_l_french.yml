@@ -20,7 +20,7 @@
  flavor_jap.4.a: "Voilà un individu des plus remarquables."
  flavor_jap.4.b: "Envoyons-le à la [GetCountry('JAP').GetGovernment.GetCourtTitle] #L [GetCountry('JAP').GetGovernment.GetAdjective|l]e#!."
  flavor_jap.5.title: "[target_character.GetNameWithNoTooltip]"
- flavor_jap.5.desc: "Les autorités de [target_country.GetLongName] ont rempli leur devoir et nous ont envoyé [target_character.GetName] comme [target_character.GetSheHe] l'avait demandé. Nous savons maintenant qu'il s'agit d'un individu remarquable, qui possède de vastes connaissances sur le monde et la mer. [target_character.GetSheHe|U] nous rendra sans aucun doute de grands services si nous lui offrons notre protection."
+ flavor_jap.5.desc: "Les autorités de [target_country.GetLongName] ont rempli leur devoir et nous ont envoyé [target_character.GetName] comme [Select_CString(target_character.IsFemale,'elle', 'il')] l'avait demandé. Nous savons maintenant qu'il s'agit d'un individu remarquable, qui possède de vastes connaissances sur le monde et la mer. [Select_CString(target_character.IsFemale,'Elle', 'Il')] nous rendra sans aucun doute de grands services si nous lui offrons notre protection."
  flavor_jap.5.a: "[target_character.GetSheHe|U] sera un atout de choix pour notre [ROOT.GetCountry.GetGovernment.GetCourtTitle]."
  flavor_jap.5.b: "C'est une curiosité, mais nous n'avons pas besoin de ses services."
  flavor_jap.6.title: "Kirishitan : les chrétiens"

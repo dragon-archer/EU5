@@ -95,7 +95,7 @@
  church_aspects.24.a: "Необходимо продолжать эту работу."
  church_aspects.24.b: "[ROOT.GetCountry.Custom('common_string_positive')]"
  church_aspects.25.title: "Изгои [ROOT.GetCountry.GetReligion.GetAdjectiveWithNoTooltip|l]ой реформации"
- church_aspects.25.desc: "Похоже, наша позиция по крещению крайне непопулярна среди других сторонников #L [ROOT.GetCountry.GetReligion.GetAdjective|l]ой#! реформации. Другие державы тут же отворачиваются от нас, когда узнают о нашем отказе от крещения младенцев, а некоторые стали относиться к нам даже хуже, чем к самим #TOOLTIP:RELIGION,catholic_tt,X #L католикам#!#!!"
+ church_aspects.25.desc: "Похоже, наша позиция по крещению крайне непопулярна среди других сторонников #L [ROOT.GetCountry.GetReligion.GetAdjective|l]ой#! реформации. Другие державы тут же отворачиваются от нас, когда узнают о нашем отказе от крещения младенцев, а некоторые стали относиться к нам даже хуже, чем к самим #TOOLTIP:RELIGION,$catholic_tt$,X #L католикам#!#!!"
  church_aspects.25.a: "Мы не предадим наши убеждения из-за чужого давления!"
  church_aspects.25.b: "Нам придётся изменить наши правила."
  too_radical_reformation: "Радикальные реформаторы"

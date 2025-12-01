@@ -51,7 +51,7 @@
  hacw_nobility_rebellion: "Rebelión nobiliaria"
  hook_and_cod_wars.4.title: "$hacw_burghers_rebellion$"
  hook_and_cod_wars.4.desc: "El bando del #Y anzuelo#! ha organizado una rebelión para combatir contra el bando del #Y bacalao#!. Muchos miembros [ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')|l] ven esta situación como una oportunidad para forzar a la facción del bacalao a otorgarles más privilegios, si no quieren que se enfrenten a ellos en el campo de batalla."
- hook_and_cod_wars.4.a: "Concededles algunos privilegios."
+ hook_and_cod_wars.4.a: "Concedámosles algunos privilegios."
  hook_and_cod_wars.4.b: "¡No les deis cuartel!"
  hook_and_cod_wars.4.c: "Demos la bienvenida a estos refuerzos a nuestra causa."
  hacw_burghers_rebellion: "Rebelión burguesa"

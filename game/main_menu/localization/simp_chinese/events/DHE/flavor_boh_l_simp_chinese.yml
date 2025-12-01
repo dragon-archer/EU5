@@ -191,7 +191,7 @@
  flavor_boh.42.a: "斯拉夫的荣耀！"
  flavor_boh.42.historical_info: "第一次泛斯拉夫大会在布拉格召开，是促进斯拉夫民族团结的重要一步；大会促成了蓝白红泛斯拉夫旗帜的采用，并将《嘿，斯拉夫人》作为泛斯拉夫的国歌。"
  flavor_boh.43.title: "[target_character.GetNameWithNoTooltip]"
- flavor_boh.43.desc: "[target_character.GetName]，一位圣杯派主教和普及教育的倡导者，被誉为“民族教师”。[target_character.GetHisHer|U]创新的教育方法和改革教育的努力对我们的社会产生了深远的影响。随着[target_character.GetHisHer]教育理论的日益认可，我们有机会利用[target_character.GetHisHer]的专业知识来促进[ROOT.GetCountry.GetName]的发展。"
+ flavor_boh.43.desc: "[target_character.GetName]，一位圣杯派主教和普及教育的倡导者，被誉为“民族教师”。[target_character.GetHisHer|U]创新的教育方法和改革教育的努力对我们的社会产生了深远的影响。随着[target_character.GetHisHer]的教育理论日益受到认可，我们有机会利用[target_character.GetHisHer]的专业知识来促进[ROOT.GetCountry.GetName]的发展。"
  flavor_boh.43.a: "[ROOT.GetCountry.GetGovernment.GetCourtTitle]用得上[target_character.GetHimHer]。"
  flavor_boh.43.historical_info: "扬·阿莫斯·考门斯基，也被称为夸美纽斯，以其在现代教育中的开创性工作而著称，倡导普及教育，强调理解与批判性思维的渐进教学方法，而不是死记硬背。"
  flavor_boh.44.title: "[ShowLocationNameWithNoTooltip('prague')]——黄金之城"

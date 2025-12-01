@@ -13,4 +13,4 @@
  golden_age_of_piracy.110.desc: "[actor.GetName](이)가 새로이 사략 면장을 발부하자, 수많은 도둑과 극악한 범죄자가 [target_location.GetName]에서 [pirate_ruler_scope.GetName](이)라는 비열한 인물을 중심으로 뭉쳤습니다.\n\n이들 일당은 바다를 공포에 몰아넣는 것과 동시에, 그 무엇보다 무지막지한 부를 손에 넣는 것을 가장 중요한 목표로 삼고 있습니다."
  golden_age_of_piracy.110.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  golden_age_of_piracy.110.b: "해적으로 살아가리라!"
- golden_age_of_piracy.110.tt: "계속 [ROOT.GetCountry.GetNameWithNoTooltip](으)로 플레이합니다"
+ golden_age_of_piracy.110.tt: "[ROOT.GetCountry.GetNameWithNoTooltip](으)로 계속 플레이합니다"

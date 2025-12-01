@@ -62,7 +62,7 @@
  culture_japan.15.b: "Monopólios funcionam bem, mas não devemos concedê-los por tradição."
  culture_japan.15.c: "Devemos proteger as organizações dos nossos ancestrais."
  culture_japan.16.title: "Wakou"
- culture_japan.16.desc: "Os Wakou, piratas que vêm de diversas ilhas do litoral do [ShowRegionName('japan_region')], agem livremente na região, saqueando as margens da [ShowSubContinentName('east_asia')] e da [ShowRegionName('korea_region')], além do nosso próprio território. Apesar disso, as dificuldades de comércio com a $china$ significam que esses piratas são nossa única fonte de mercadoria do povo [ShowCultureGroupName('chinese_group')] e do povo [ShowCultureName('korean_culture')]. A ocorrência crescente de ataques piratas mostra que não podemos ser passivos. Temos que tomar uma decisão para lidar com eles."
+ culture_japan.16.desc: "Os Wakou, piratas que vêm de diversas ilhas do litoral do [ShowRegionName('japan_region')], agem livremente na região, saqueando as margens da [ShowSubContinentName('east_asia')] e da [ShowRegionName('korea_region')], além do nosso próprio território. Apesar disso, as dificuldades de comércio com a $china$ significam que esses piratas são nossa única fonte de mercadoria dos [ShowCultureGroupName('chinese_group')] e dos [ShowCultureName('korean_culture')]. A ocorrência crescente de ataques piratas mostra que não podemos ser passivos. Temos que tomar uma decisão para lidar com eles."
  culture_japan.16.a: "Financiar os piratas."
  culture_japan.16.b: "Reprimir a pirataria."
  culture_japan.17.title: "Os Piratas Wakou e o Comércio Bahan"

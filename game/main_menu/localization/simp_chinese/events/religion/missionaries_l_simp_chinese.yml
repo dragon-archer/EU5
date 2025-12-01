@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  missionaries.1.title: "传教士生病了"
- missionaries.1.desc: "我们派到[target_location.GetName]的传教士不太走运，我们刚刚得知他生病了。新的教堂的建造工作陷入了停滞状态，没有他的引导，想要转化当地人的信仰几乎是不可能的。"
+ missionaries.1.desc: "我们派到[target_location.GetName]的传教士不太走运，我们刚刚得知他生病了。新教堂的建造工作陷入了停滞，没有他的引导，想要转化当地人的信仰几乎是不可能的。"
  missionaries.1.a: "派人去帮助他"
  missionaries.1.b: "我们正忙着其他事"
  STATIC_MODIFIER_NAME_missionary_falls_ill: "传教士生病了"

@@ -518,7 +518,7 @@
  flavor_eng.95.a: "Bu şeytani ittifak merhameti hak etmiyor."
  flavor_eng.95.b: "[percy_dynasty.GetNameWithNoTooltip] ailesiyle anlaşılsın."
  percy_uprising: "Percy Asileri"
- flavor_eng.95.tt2: "[percy_dynasty.GetNameWithNoTooltip] ailesi, büyük miktarda bir altın karşılığında silahlarını bırakabilir."
+ flavor_eng.95.tt2: "[percy_dynasty.GetName] ailesi, büyük miktarda bir altın karşılığında silahlarını bırakabilir."
  flavor_eng.95.c: "[mortimer_dynasty.GetNameWithNoTooltip] ailesiyle anlaşılsın."
  mortimer_uprising: "Mortimer Asileri"
  flavor_eng.95.tt3: "[mortimer_dynasty.GetNameWithNoTooltip] ailesi, kasalarına yapılacak cömert bir bağış karşılığında silahlarını bırakabilir."

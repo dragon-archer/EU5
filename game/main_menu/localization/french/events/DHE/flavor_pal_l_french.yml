@@ -4,7 +4,7 @@
  flavor_pal.1.a: "Démarrons la construction."
  flavor_pal.1.b: "Nous ne pouvons pas nous permettre ces dépenses."
  flavor_pal.2.title: "La persécution de [target_character.GetNameWithNoTooltip]"
- flavor_pal.2.desc: "[target_character.GetName], dont l'érudition et la respectabilité sont indiscutables, a aussi le don de s'opposer à d'autres théologiens #L [ShowReligionAdjective('catholic')]s#!. [target_character.GetSheHe|U] a récemment dû quitter son ancien emploi en raison d'un conflit personnel avec d'autres conseillers.\n\nHeureusement pour nous, [target_character.GetSheHe] aimerait nous servir et est déjà en route vers [ROOT.GetCountry.GetCapital.GetName]. En raison de sa nature humaniste, [target_character.GetSheHe] pourrait grandement accroître la réputation de notre [ROOT.GetCountry.GetGovernment.GetCourtTitle]."
+ flavor_pal.2.desc: "[target_character.GetName], dont l'érudition et la respectabilité sont indiscutables, a aussi le don de s'opposer à d'autres théologiens #L [ShowReligionAdjective('catholic')]s#!. [Select_CString(target_character.IsFemale,'Elle', 'Il')] a récemment dû quitter son ancien emploi en raison d'un conflit personnel avec d'autres conseillers.\n\nHeureusement pour nous, [Select_CString(target_character.IsFemale,'elle', 'il')] aimerait nous servir et est déjà en route vers [ROOT.GetCountry.GetCapital.GetName]. En raison de sa nature humaniste, [Select_CString(target_character.IsFemale,'elle', 'il')] pourrait grandement accroître la réputation de notre [ROOT.GetCountry.GetGovernment.GetCourtTitle]."
  flavor_pal.2.a: "Accueillons-[target_character.GetHerHim] à bras ouverts."
  flavor_pal.2.b: "[target_character.GetSheHe|U] devrait aller voir ailleurs."
  flavor_pal.3.title: "Relocalisation de la $game_concept_capital$"

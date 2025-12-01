@@ -974,7 +974,7 @@
  flavor_eng.152.a: "Chcemy mieć w tym swój udział."
  flavor_eng.152.tt1: "Zostaje dodany nowy [explorer|el]: [john_hawkins.GetNameWithNoTooltip]."
  flavor_eng.152.tt2: "[target_root_country.GetGovernment.GetRuler.GetName] czarteruje mu statek za znaczną sumę."
- flavor_eng.152.tt3: "[slave_selling_location.GetOwner.GetName] wpada we wściekłość, kiedy obszar [slave_selling_location.GetName] staje się miejscem sprzedaży bezprawnie przemyconych niewolników."
+ flavor_eng.152.tt3: "Bezprawnie przemyca niewolników do [slave_selling_location.GetName], rozwścieczając [slave_selling_location.GetOwner.GetName]."
  flavor_eng.152.b: "Nie chcemy mieć w tym udziału."
  flavor_eng.152.historical_info: "John Hawkins uważany jest za pierwszego angielskiego kupca, który zarabiał na handlu trójkątnym. W latach 60. XVI wieku skutecznie ominął wymierzone w Anglię embargo handlowe Hiszpanii i sprzedał niewolników karaibskim koloniom, co uczyniło go bogatym człowiekiem. Wziął też udział w szeregu kluczowych bitew morskich, w tym w zwycięstwie nad hiszpańską armadą – służył wówczas w angielskiej flocie jako wiceadmirał."
  flavor_eng.153.title: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip] i jego ludzie"

@@ -36,7 +36,7 @@
  insult_against_denmark: "Há algo podre no reino da Dinamarca."
  insult_against_england: "Seria um infortúnio se [TARGET_COUNTRY.GetGovernment.GetRuler.GetName] caísse no Tâmisa. Mas se alguém puxasse [TARGET_COUNTRY.GetGovernment.GetRuler.GetHerHim] de volta, seria uma calamidade."
  insult_marprelate: "[TARGET_COUNTRY.GetGovernment.GetRuler.GetName] é um prelado pomposo, papista, presunçoso, profano, pestilento e usurpador."
- insult_marprelate2: "Seu [TARGET_COUNTRY.GetGovernment.GetRuler.GetTitle] é um governador da Igreja ilícito, abominável, falso e bastardo, a Ordenança do Demônio, Papa insignificante, anticristo, diabo encarnado, patife trapaceiro e grande mentiroso."
+ insult_marprelate2: "Seu [TARGET_COUNTRY.GetGovernment.GetRulerTitle] é um governador da Igreja ilícito, abominável, falso e bastardo, a Ordenança do Demônio, Papa insignificante, anticristo, diabo encarnado, patife trapaceiro e grande mentiroso."
  insult_against_saxony: "Seria uma pena se algo acontecesse com sua porcelana de Meissner..."
  insult_fort: "Suas muralhas vão ruir diante dos nossos canhões como a areia sucumbe ao mar."
  insult_revolutionary: "Seu cadáver pavimentará o caminho do progresso, [TARGET_COUNTRY.GetGovernment.GetRuler.GetName]!"

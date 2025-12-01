@@ -245,7 +245,7 @@
  flavor_fra.1130.a: "他只是另一名[ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('burghers_estate')]代表。"
  flavor_fra.1130.b: "欢迎他进入三级议会。"
  flavor_fra.1131.title: "大法令"
- flavor_fra.1131.desc: "近日与[GetCountry('ENG').GetName]的冲突使王国的财政承受巨大压力，为了筹集资金和兵力，[ROOT.GetCountry.GetGovernment.GetRuler.GetName]不得不再次请求三级会议的支持。然而，近几十年来，三级会议内部的情绪愈加不满，特别是第三等级愈发怀疑对于战争的支持，他们认为尤其是在与[GetCountry('ENG').GetNameWithNoTooltip]冲突爆发以来，财政政策的变化让人困惑。在这些反对声音中，影响力日渐壮大的领袖[SCOPE.sCharacter('etienne_marcel').GetName]提出了一项提案，反对政府在从三级会议中筹集新的资金。在他的《大法令》中，[SCOPE.sCharacter('etienne_marcel').GetNameWithNoTooltip]要求王权同意限制自身权力，为[ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')]主导的改革铺平道路。"
+ flavor_fra.1131.desc: "近日与[GetCountry('ENG').GetName]的冲突使王国的财政承受巨大压力，为了筹集资金和兵力，[ROOT.GetCountry.GetGovernment.GetRuler.GetName]不得不再次请求三级会议的支持。然而，近几十年来，三级会议内部的情绪愈加不满，尤其是第三等级，自与[GetCountry('ENG').GetNameWithNoTooltip]的冲突爆发以来，令人困惑的财政政策变化让他们开始怀疑对战争的支持。在这些反对声音中，影响力日渐壮大的领袖[SCOPE.sCharacter('etienne_marcel').GetName]提出了一项提案，反对政府从三级会议中筹集新的资金。在他的《大法令》中，[SCOPE.sCharacter('etienne_marcel').GetNameWithNoTooltip]要求王权同意限制自身权力，为[ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')]主导的改革铺平道路。"
  flavor_fra.1131.a: "这种提案简直荒谬！"
  flavor_fra.1131.b: "试图与马尔塞尔协商妥协。"
  flavor_fra.1131.c: "危急时刻需要非常措施。"

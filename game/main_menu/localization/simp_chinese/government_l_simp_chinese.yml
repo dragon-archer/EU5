@@ -1,6 +1,7 @@
 ﻿l_simp_chinese:
  #Custom Tags
  cannot_be_transferred: "无法转换"
+ UNSTABLE_UNION_WARNING: "#Y 该$game_concept_succession_law$可能会对我们所处共主邦联的现状或未来产生无法预料的影响。#!"
  empty_heir_religion_law: "独立于[ShowLawName('heir_religion_law')]"
  FULL_RULER_NAME: "$TITLE$$NAME$"
  GOV_USES_POWER: "[government_power|e]为$POWER$"
@@ -110,7 +111,7 @@
  judicial_election: "仲裁庭选举制"
  judicial_election_desc: "这是源自于[ShowGovernmentTypeName('monarchy')]的一种[heir_selection|e]，新统治者由最高裁判庭选举产生。选举过程通常产生官僚主义的混乱，这些混乱可能需要几个月甚至几年时间来消解。"
  admiralty_regime_heir_selection: "海军将领选举制"
- admiralty_regime_heir_selection_desc: "这是[ShowGovernmentReformName('admiralty_regime_reform')]的一种[heir_selection|e]，新统治者从最重要的海军将领中选举产生。如果没有可用海军将领，临时议会会领导国家，直到出现合适的候选人。"
+ admiralty_regime_heir_selection_desc: "这是[ShowGovernmentReformName('admiralty_regime_reform')]的一种[heir_selection|e]，新统治者从最重要的海军将领中选举产生。如果没有可用海军将领，临时议会将领导国家，直到出现合适的候选人。"
  admiralty_regime_heir_selection_best_candidate_desc: "由担任海军将领的能力决定"
  general_heir_selection: "军政选举制"
  general_heir_selection_desc: "这是[ShowGovernmentReformName('military_regime_reform')]的一种[heir_selection|e]。新统治者从最重要的陆军将领中选出，如果没有可用陆军将领，临时议会会领导国家，直到出现合适的候选人。"
@@ -368,6 +369,8 @@
  TIME_TO_LAW_TITLE: "实施[Policy.GetNameWithNoTooltip]所需的时间"
  TIME_TO_LAW: "[Policy.GetImplementableTooltip]"
  CHANGE_POLICY_TOOLTIP: "#TOOLTIP:$BREAKDOWN_TAG$ $VAL|2+=$#!"
+ UNIQUE_POLICY_TITLE: "独特政策"
+ UNIQUE_POLICY_DESC: "该政策为[Country.GetNameWithNoTooltip]所独有"
  #Integration
  NO_INTEGRATION_PROGRESS: "目前没有整合进度"
  INTEGRATION_STALLED_DUE_TO: "整合已停滞，原因是：\n$WHY$"
@@ -809,9 +812,10 @@
  mlo_restore_kingdom_lombardy_active: "整合伦巴第宣称"
  mlo_restore_kingdom_lombardy_action_progress: "$mlo_restore_kingdom_lombardy_active$"
  mlo_restore_kingdom_lombardy_action_progress_wordier: "$mlo_restore_kingdom_lombardy_active$"
- mlo_restore_kingdom_lombardy_action_progress_long_wordier: "@restore_lombardy! [SCOPE.sProvince('target').GetIntegrationETA] \n\n@province_integration_speed! #W [Cabinet.GetActionNumProgress|%]#!"
+ mlo_restore_kingdom_lombardy_action_progress_long_wordier: "@restore_lombardy![SCOPE.sProvince('target').GetIntegrationETA]\n\n@province_integration_speed!#W [Cabinet.GetActionNumProgress|%]#!"
  mlo_restore_kingdom_lombardy_action_progress_tooltip: "$mlo_restore_kingdom_lombardy_active$"
- swe_slash_and_burn_new_farms: "在北部或东部支持新农场"
+ #Swedish/Finnish colonization
+ swe_slash_and_burn_new_farms: "在北部或东部垦荒"
  swe_slash_and_burn_new_farms_desc: "我们将支持[ShowCultureName('finnish')]和[ShowCultureName('swedish')]定居者前往北方去新土地上殖民定居。"
  swe_slash_and_burn_new_farms_action: "在[SCOPE.sProvince('target').GetNameWithNoTooltip]支持新农场"
  swe_slash_and_burn_new_farms_active: "在[SCOPE.sProvince('target').GetNameWithHighlightOnly]垦荒"

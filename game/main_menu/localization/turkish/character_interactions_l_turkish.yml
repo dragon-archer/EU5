@@ -106,7 +106,7 @@
  pap_reassign_cleric: "Rahibi Başka Bir Yere Ata"
  pap_reassign_cleric_concept: "[character|e]"
  pap_reassign_cleric_act: "$pap_reassign_cleric$"
- pap_reassign_cleric_desc_specific: "[ShowReligionAdjective('catholic')] rahipleri üzerindeki yetkimiz sayesinde [recipient.GetName] isimli rahibi, [recipient.GetCountry.GetName] ülkesini terk edip başka bir [Concept('country', 'Ülkede')|e] görev yapması için zorlayabiliriz. Bunun bedeli, rahibin [Concept('total_ability', 'Toplam Becerisine')|e] bağlıdır. Ayrıca rahibin [mil|e] becerisine bağlı olarak yeni [Concept('country', 'Ülkede')] [spy_network|e] kazanırız."
+ pap_reassign_cleric_desc_specific: "[ShowReligionAdjective('catholic')] rahipleri üzerindeki yetkimiz sayesinde [recipient.GetName] isimli rahibi, [recipient.GetCourtCountry.GetName] ülkesini terk edip başka bir [Concept('country', 'Ülkede')|e] görev yapması için zorlayabiliriz. Bunun bedeli, rahibin [Concept('total_ability', 'Toplam Becerisine')|e] bağlıdır. Ayrıca rahibin [mil|e] becerisine bağlı olarak yeni [Concept('country', 'Ülkede')] [spy_network|e] kazanırız."
  pap_reassign_cleric_desc: "[character|e], [Concept('country', 'Ülkemizi')|e] terk edecek ve başka bir ülkede göreve başlayacak. Bedeli, karakterin [Concept('total_ability', 'Toplam Becerisine')|e] bağlı olacak ve [mil|e] becerisi, yeni ülkede ne kadar [spy_network|e] kazanacağımızı etkileyecek."
  pap_reassign_cleric_past: "[recipient.GetNameWithNoTooltip] Başka Bir Yere Atandı"
  pap_reassign_cleric_act_past: "[recipient.GetName], [actor.GetLongName] tarafından başka bir yere atandı."

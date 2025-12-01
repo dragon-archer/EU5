@@ -568,6 +568,7 @@
  yakata_desc: "Wywodząca się z rezydencji szlachty dworskiej yakata jest miejscem, w którym skupia się potęga rodzin wojowników. W siedzibach tych, wyposażonych w pomieszczenia dla sług i fortyfikacje, gromadzą się najlepsi członkowie każdego klanu."
  shoen: "Shōen"
  shoen_desc: "Ziemia przydzielona na własność konkretnej rodzinie lub świątyni funkcjonuje niemal jak niezależne majątki ziemskie lub posiadłości, stając się dla swoich właścicieli źródłem ogromnego wpływu i bogactwa."
+ we_are_shugo_tt: "Musi być [ShowSpecialStatusName('shugo_daimyo')|l] tej prowincji"
  tatara: "Tatara"
  tatara_desc: "Tradycyjna metoda wytapiania żelaza i stali w produkcji metalu wykorzystywanego do wytwarzania wysokiej jakości narzędzi i broni."
  clan_shipyards: "Stocznie klanowe"

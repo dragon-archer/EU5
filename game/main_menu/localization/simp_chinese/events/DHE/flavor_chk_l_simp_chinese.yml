@@ -5,6 +5,8 @@
  flavor_chk.1.b: "黄金时代并未结束，我们能让衰颓的[ShowLocationNameWithNoTooltip('cahokia')]重获新生！"
  events_to_weaken_cahokia_downfall: "将能够触发额外的[events|e]以延缓[ShowLocationName('cahokia')]的衰落"
  events_to_strengthen_cahokia: "将能够触发额外的[events|e]以稳定[ShowLocationName('cahokia')]，使其再度成为繁荣的[ShowLocationRankName('city')]！"
+ cahokia_conditions_to_gain_golden_age: "将[stability|e]和[prestige|e]维持在#G +50.00#!以上，同时将[ShowLocationName('cahokia')]的[pops|e]恢复至35,000、[development|e]达到15.00，便可开启新的黄金时代。"
+ cahokia_conditions_to_avoid_migrations: "若[ROOT.GetCountry.GetName]因[stability|e]降至#R ‑15.00#!以下、[tribal_cohesion|e]降至#R 60.00#!以下，或触发$flavor_chk.35.title$[dynamic_historical_event|e]而进一步陷入动荡，大量[pops|e]可能会从我们的[locations|e][migrate|e]。"
  flavor_chk.2.title: "木环阵遗址的部分重建"
  flavor_chk.2.desc: "尽管近几十年来[ShowLocationName('cahokia')]基本已被废弃，但这里仍留存着昔日伟大智者们使用过的一处核心——木环阵。我们的祖先曾用完整的圆环来标绘太阳升起和落下的方向，不过近年来这种活动已经停止。\n\n如果我们努力重建这些木环阵，或许伟大的智者们会重新开始这一实践。"
  flavor_chk.2.a: "提供必需物资修复木环阵。"

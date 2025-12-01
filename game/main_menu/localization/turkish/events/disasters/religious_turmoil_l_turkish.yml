@@ -12,7 +12,7 @@
  religious_turmoil.3.a.tt: "[ROOT.GetCountry.GetReligion.GetName] inancına mensup olmayan bazı [pops|e] [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] [pop_satisfaction|e] kaybeder."
  religious_turmoil.3.b: "Zındıkları gerçek inanca tabi kılmak için harcamalar artırılsın."
  religious_turmoil.4.title: "Zındık Boyunduruğu"
- religious_turmoil.4.desc: "Ülkemizin sapkınlara karşı uyguladığı sert baskı beklenen sonucu vermedi. Eylemlerimiz, düzeni yeniden tesis etmek ve ulusumuzu tek bir dinî inanç altında birleştirmek yerine halkı daha da kışkırttı, şiddeti ve acımasız eylemleri artırdı."
+ religious_turmoil.4.desc: "Ülkemizin sapkınlara karşı uyguladığı sert baskı beklenen sonucu vermedi. Eylemlerimiz, düzeni yeniden tesis etmek ve ulusumuzu tek bir dinî inanç altında birleştirmek yerine halkı daha da kışkırtarak şiddeti ve acımasız eylemleri artırdı."
  religious_turmoil.4.a: "Zındıkları bastırmak için harcamalar artırılsın."
  religious_turmoil.4.b: "Onları görmezden gelelim."
  religious_turmoil.5.title: "Dinî Hoşgörüsüzlüğün Artışı"

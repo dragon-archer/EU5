@@ -49,7 +49,7 @@
  winter_events.11.b: "Неужели холода лишили нас остатков здравого смысла?"
  based_on_traditionalist_vs_innovative_tt: "С учётом текущей направленности нашего общества между #TOOLTIP:SOCIETAL_VALUE,traditionalist,X #L традициями#!#! и #TOOLTIP:SOCIETAL_VALUE,innovative,X #L инновациями#!#!:"
  burn_witches_tt: "Сожжём несколько ведьм — допустим, #R [ROOT.GetVariable('display_burned_witches_variable').GetValue]#!!"
- cc_stance_on_witchcraft_tt: "Из-за взглядов #TOOLTIP:INTERNATIONAL_ORGANIZATION,catholic_church_tt,X #L католической церкви#!#! на колдовство:"
+ cc_stance_on_witchcraft_tt: "Из-за взглядов #TOOLTIP:INTERNATIONAL_ORGANIZATION,$catholic_church_tt$,X #L католической церкви#!#! на колдовство:"
  winter_events.12.title: "Опустевшие стаканы"
  winter_events.12.desc: "Наше #TOOLTIP:GOODS,wine,X #L вино#!#! лежит в основе общественной жизни. Это важный атрибут любых сборищ — от весёлых празднеств до скорбных поминок. Однако виноградники, некогда простиравшиеся до самого горизонта, теперь высохли и перестали плодоносить.\n\nПогода больше не позволяет нам выращивать культуры, которые когда-то приносили урожай нашим отцам. Спрос увеличивается, но [ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')|l] получают всё меньше винограда со своих угодий. Возмущение быстро нарастает, как и холод, нагрянувший в наш край."
  winter_events.12.a: "Жажда до вина — это происки дьявола!"

@@ -44,7 +44,7 @@
  flavor_kni.12.historical_info: "$flavor_kni.1000.historical_info$"
  #Philippe de Longvilliers de Poincy
  flavor_kni.13.title: "[target_character.GetNameWithNoTooltip]"
- flavor_kni.13.desc: "[target_character.GetName] a gravi les échelons de notre [ROOT.GetCountry.GetFlavorRank] et a attiré l'attention de nombreuses personnes qui envisagent de lui confier un poste plus important. [target_character.GetSheHe|U] mène sa barque avec fermeté. D'ailleurs, [target_character.GetSheHe] s'est déjà fixé pour objectif d'étendre notre contrôle sur les îles des [ShowRegionName('caribbean_region')], de renforcer nos défenses et d'assurer la prospérité de notre colonie."
+ flavor_kni.13.desc: "[target_character.GetName] a gravi les échelons de notre [ROOT.GetCountry.GetFlavorRank] et a attiré l'attention de nombreuses personnes qui envisagent de lui confier un poste plus important. [Select_CString(target_character.IsFemale,'Elle', 'Il')] mène sa barque avec fermeté. D'ailleurs, [Select_CString(target_character.IsFemale,'elle', 'il')] s'est déjà fixé pour objectif d'étendre notre contrôle sur les îles des [ShowRegionName('caribbean_region')], de renforcer nos défenses et d'assurer la prospérité de notre colonie."
  flavor_kni.13.a: "Offrons-lui le statut de gouverneur des îles."
  flavor_kni.13.b: "Nous n'avons nul besoin de ses services."
  flavor_kni.13.historical_info: "Philippe de Longvilliers de Poincy était un chevalier français de l'Ordre de Saint-Jean de Jérusalem, qui fut gouverneur de Saint-Christophe de 1639 à sa mort en 1660. Il gouverna l'île avec une quasi-autonomie, étendit ses fortifications et la défendit contre les puissances coloniales rivales."

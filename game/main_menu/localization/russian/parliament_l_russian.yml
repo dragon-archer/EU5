@@ -1,11 +1,11 @@
 ﻿l_russian:
  #Generic Code
  PARLIAMENT_MARKER_DURATION_TXT: "#T [Player.GetGovernment.GetParliament.GetName] на заседании#!\nВопрос «[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]» будет обсуждаться ещё [Player.GetGovernment.GetParliament.GetRemainingParliamentDuration|W] д. в @location![Player.GetGovernment.GetParliament.GetParliamentLocation.Custom('LR_PP')|l] [Player.GetGovernment.GetParliament.GetParliamentLocation.GetName]."
- PARLIAMENT_DURATION_TXT: "Осталось [Player.GetGovernment.GetParliament.GetRemainingParliamentDuration|W] д. в @location![Player.GetGovernment.GetParliament.GetParliamentLocation.Custom('LR_PREP')|l] [Player.GetGovernment.GetParliament.GetParliamentLocation.GetName]"
+ PARLIAMENT_DURATION_TXT: "Осталось [Player.GetGovernment.GetParliament.GetRemainingParliamentDuration|W] д. в @location![Player.GetGovernment.GetParliamentLocation.Custom('LR_PREP')|l] [Player.GetGovernment.GetParliamentLocation.GetName]"
  PARLIAMENT_DURATION_TXT_NO_LOCATION: "Осталось [Player.GetGovernment.GetParliament.GetRemainingParliamentDuration|W] дн."
  IO_PARLIAMENT_DURATION_TXT: "#T [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] на заседании#!\nВопрос «[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetCurrentDebate.GetName]» будет обсуждаться ещё [InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetRemainingParliamentDuration|W] д. Место проведения: @location![InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetParliamentLocation.GetName]."
- PARLIAMENT_ISSUE_WILL_FAIL: "#T Вопрос не пройдёт обсуждение#!\n@trigger_no! Вопрос «[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]» #R НЕ#! пройдёт обсуждение у представителей [Player.GetGovernment.GetParliament.GetNameAlt('CFP_RP')|l]."
- PARLIAMENT_ISSUE_WILL_NOT_FAIL: "#T Вопрос пройдёт обсуждение#!\nВопрос «[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]» пройдёт обсуждение у представителей [Player.GetGovernment.GetParliament.GetNameAlt('CFP_RP')|l]."
+ PARLIAMENT_ISSUE_WILL_FAIL: "#T Вопрос не пройдёт обсуждение#!\n@trigger_no! Вопрос «[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]» #R НЕ#! пройдёт обсуждение у представителей [Player.GetGovernment.GetParliament.Custom('CFP_RP')|l]."
+ PARLIAMENT_ISSUE_WILL_NOT_FAIL: "#T Вопрос пройдёт обсуждение#!\nВопрос «[Player.GetGovernment.GetParliament.GetCurrentDebate.GetName]» пройдёт обсуждение у представителей [Player.GetGovernment.GetParliament.Custom('CFP_RP')|l]."
  HOSTILE_PARLIAMENT_MARKER: "#T [ParliamentMarker.GetCountry.GetGovernment.GetParliament.GetName] на заседании и в оппозиции к законной власти#!\nПрервать заседание можно, [Concept('occupying', 'оккупировав')|e] [Concept('location', 'место')|e] его проведения."
  PARLIAMENT_NEVER_CALLED: "$NAME$ не на заседании."
  PARLIAMENT_CALLED_DATE: "$NAME$ на заседании уже $WHEN|Y$."
@@ -46,13 +46,13 @@
  ask_for_larger_levies_desc: "В случае успеха представители [Player.Custom('parliament_ru_GEN')|l] обяжут одно из [Concept('estates', 'сословий')|e] во время призыва предоставить более крупные [Concept('army_levies', 'армейское')|e] и [Concept('navy_levies', 'флотское ополчение')|e]."
  ask_for_law_changes: "Запрос изменения правил"
  ask_for_law_changes_desc: "В случае успеха [Concept('estates','сословие')|e] одобрит изменение конкретной [Concept('policy','политики')|e] в нашем [Concept('laws','своде правил')|e]."
- ask_for_law_changes_select_law_title: "Выберите [Concept('law', 'правило')|e], изменение которого будет одобрено [Player.GetGovernment.GetParliament.GetParliament.GetNameAlt('parliament_ru_INST')|l]."
- ask_for_law_changes_select_policies_title: "Выберите [Concept('policy', 'политику')|e], изменение которой будет одобрено [Player.GetGovernment.GetParliament.GetParliament.GetNameAlt('parliament_ru_INST')|l]."
+ ask_for_law_changes_select_law_title: "Выберите [Concept('law', 'правило')|e], изменение которого будет одобрено [Player.GetParliament.GetParliament.Custom('parliament_ru_INST')|l]."
+ ask_for_law_changes_select_policies_title: "Выберите [Concept('policy', 'политику')|e], изменение которой будет одобрено [Player.GetParliament.GetParliament.Custom('parliament_ru_INST')|l]."
  prepare_for_war_select_title: "Выберите [Concept('country','державу')|e] с целью получения [Concept('casus_belli','повода для войны')|e]"
  prepare_for_war_select_province_title: "Выберите [Concept('province','провинцию')|e], чтобы определить её как [Concept('war_goal','цель войны')|e]"
  select_a_country_to_get_casus_belli_on: "Будет выбрана [Concept('country', 'держава')|e], в отношении которой представители [Player.Custom('parliament_ru_GEN')|l] сформируют [Concept('casus_belli', 'повод для войны')|e]."
  prepare_for_war: "Создание повода для войны"
- prepare_for_war_desc: "В случае успеха представители [Player.GetGovernment.GetParliament.GetNameAlt('CFP_RP')|l] одобрят проведение [Concept('war', 'войны')|e] и предоставят нам законный [Concept('casus_belli', 'повод')|e].\n• Мы выберем державу, в отношении которой получим [Concept('casus_belli', 'повод для войны')|e] #TOOLTIP:CASUS_BELLI,cb_fabricated_conquer_province,X #L «Завоёванная провинция»#!#!"
+ prepare_for_war_desc: "В случае успеха представители [Player.GetParliament.Custom('CFP_RP')|l] одобрят проведение [Concept('war', 'войны')|e] и предоставят нам законный [Concept('casus_belli', 'повод')|e].\n• Мы выберем державу, в отношении которой получим [Concept('casus_belli', 'повод для войны')|e] #TOOLTIP:CASUS_BELLI,cb_fabricated_conquer_province,X #L «Завоёванная провинция»#!#!"
  PARLIAMENT_IN_SESSION: "[Player.GetGovernment.GetParliamentName] на заседании"
  #Issues
  #Infrastructure and Location Improvements Issues
@@ -115,7 +115,7 @@
  sponsor_training_fields_desc: "$finance_the_armory_desc$"
  sponsor_regimental_camp: "Расширение полковых гарнизонов"
  sponsor_regimental_camp_desc: "$finance_the_armory_desc$"
- sponsor_conscription_center: "Расширение воинских присутствий"
+ sponsor_conscription_center: "Расширение призывного пункта"
  sponsor_conscription_center_desc: "$finance_the_armory_desc$"
  host_army_excercises: "Проведение военных учений"
  host_army_excercises_desc: "Чтобы сохранить гибкость армии, мы должны проводить военные учения, призванные поддерживать солдат в идеальной форме."
@@ -249,7 +249,7 @@
  hussite_army_reform_desc: "Наш народ выстоял, несмотря на все лишения и невзгоды. Мы пережили войны, крестовые походы и преследования. Мы обучим нашу армию самым современным тактикам и поднимем оружие против всех, кто пытается нас сломить!"
  lit_measures_against_romuva: "Меры против ромувского возрождения"
  lit_measures_against_romuva_desc: "В свете возрождения #L [ShowReligionAdjective('romuva')|l]ой#! веры возникли опасения, что её приверженцы могут устроить беспорядки. Нужно созвать сословия и разобраться с этим."
- lit_5_percent_of_pops_convert_to_our_religion_tt: "#Y 5%#! #TOOLTIP:RELIGION,romuva_tt,X #L ромуванского#!#! [Concept('pops', 'населения')|e] обратится в другую религию ([ROOT.GetCountry.GetReligion.GetName|l])"
+ lit_5_percent_of_pops_convert_to_our_religion_tt: "#Y 5%#! #TOOLTIP:RELIGION,$romuva_tt$,X #L ромуванского#!#! [Concept('pops', 'населения')|e] обратится в другую религию ([ROOT.GetCountry.GetReligion.GetName|l])"
  ### IO Parliament Issues ###
  #HRE
  hre_law_debate: "Обсуждение имперского правила"

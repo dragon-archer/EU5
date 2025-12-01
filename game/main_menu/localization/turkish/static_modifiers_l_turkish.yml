@@ -735,8 +735,8 @@
  STATIC_MODIFIER_NAME_good_omen_modifier: "İyi Alametler"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Yenilenme döneminde görülen sakin hava koşulları ve yiyecek bolluğu, Tanrıların hoşnut olduğuna dair bazı alametler demektir."
  #Ottomans
- STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "Coins in Our Name"
- STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Influence of the Old Capital"
+ STATIC_MODIFIER_NAME_coins_in_our_name_modifier: "İsmimizi Taşıyan Paralar"
+ STATIC_MODIFIER_NAME_influence_of_the_old_capital_modifier: "Eski Başkentin Nüfuzu"
  STATIC_MODIFIER_NAME_osmans_dream_modifier: "Osman'ın Rüyası"
  STATIC_MODIFIER_DESC_osmans_dream_modifier: "Kaderimizde ebediyen varlığını sürdürecek bir imparatorluğa hükmetmek yazılı."
  STATIC_MODIFIER_NAME_ahi_bureaucrats: "Ahi Bürokratlar"
@@ -1221,6 +1221,7 @@
  STATIC_MODIFIER_NAME_trading_in_firearms_iro: "Ateşli Silah Ticareti"
  STATIC_MODIFIER_NAME_iro_matriarchal_agriculture: "Anaerkil Tarım"
  #Scotland
+ STATIC_MODIFIER_NAME_sbl_heir_of_empty_coat: "Boş Ceketin Veliahdı"
  STATIC_MODIFIER_NAME_sco_civil_war_aggressive: "Balliol Topraklarına Saldırganlık"
  STATIC_MODIFIER_NAME_sco_civil_war_defensive: "Balliol'un Sınırlarını Zorlamak"
  STATIC_MODIFIER_NAME_sbl_english_backing: "İngiliz Yönetiminin Destek"
@@ -1309,7 +1310,7 @@
  STATIC_MODIFIER_NAME_rebel_leader_modifier: "Asi Lider"
  STATIC_MODIFIER_DESC_rebel_leader_modifier: "Bu kişi bize herhangi bir şekilde hizmet etmeyi reddediyor. Devlet için bir baş belasından ibaret."
  STATIC_MODIFIER_NAME_rtr_support_of_the_people: "Halkın Desteği"
- STATIC_MODIFIER_DESC_rtr_support_of_the_people: "Bu karakter, $YUA$ egemenliğine tabi olmayan bir hükümdar olarak niyeti ister eski hanedanı tahttan indirmek ister desteklemek olsun, halkın tam desteğine sahip."
+ STATIC_MODIFIER_DESC_rtr_support_of_the_people: "Bu karakter, $YUA$ hâkimiyetine tabi olmayan bir hükümdardır. Eski hanedanı devirmek ya da desteklemek için halkın tam desteğini kazanmıştır."
  STATIC_MODIFIER_NAME_rtr_yuanzhangs_leadership: "Sorgusuz Liderlik"
  STATIC_MODIFIER_DESC_rtr_yuanzhangs_leadership: "Halkın tam desteğini almış olan bu karakter, [GetUniqueInternationalOrganization('middle_kingdom').GetName] lideri olmak için her fırsatı kullanacak."
  STATIC_MODIFIER_NAME_chi_new_dynasty: "Yeni Bir Hanedanın Yükselişi"
@@ -1990,7 +1991,7 @@
  STATIC_MODIFIER_NAME_mamluk_commander: "Memlük Komutanı"
  #Denmark
  STATIC_MODIFIER_NAME_dan_integrating_scania: "Skåne'nin Bütünleştirilmesi"
- STATIC_MODIFIER_NAME_royal_dowry_modifier: "Royal Dowry"
+ STATIC_MODIFIER_NAME_royal_dowry_modifier: "Kraliyet Çeyizi"
  #Haudenosaunee/Iroquois
  STATIC_MODIFIER_NAME_iro_shikellamy_pennsylvania: "Pensilvanya Yönetimi"
  STATIC_MODIFIER_NAME_iro_three_sisters_harvest: "Üç Kız Kardeş Hasadı"

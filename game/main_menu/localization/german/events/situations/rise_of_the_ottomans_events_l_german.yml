@@ -29,7 +29,7 @@
  rise_of_the_ottomans.101.b: "Ihre Angelegenheiten interessieren uns nicht!"
  rise_of_the_ottomans.101.tt: "Vielleicht ließe sich „[target_country.GetName]“ überzeugen, unser [ShowSubjectTypeName('vassal')] zu werden"
  rise_of_the_ottomans.102.title: "Die [target_country2.GetAdjectiveWithNoTooltip|l]e Forderung"
- rise_of_the_ottomans.102.desc: "[ROOT.GetCountry.GetGovernment.GetFullRulerName|U], das Oberhaupt eines gewissen Reichs ([GetCountry('TUR').GetLongName|U]), hat einen Abgesandten zu uns entsandt. Man fordert uns auf, uns zu unterwerfen und dem Reich als [ShowSubjectTypeName('vassal')] zu dienen."
+ rise_of_the_ottomans.102.desc: "[target_country2.GetGovernment.GetFullRulerName|U], das Oberhaupt des #L [target_country2.GetAdjective|l]en#! Reichs, hat einen Abgesandten zu uns entsandt. Man fordert uns auf, uns zu unterwerfen und dem [target_country2.GetFlavorRank] als [ShowSubjectTypeName('vassal')] zu dienen."
  rise_of_the_ottomans.102.a: "Wir erfüllen die Forderung."
  rise_of_the_ottomans.102.b: "Wir weigern uns, die Forderung zu erfüllen."
  rise_of_the_ottomans.103.title: "Das [target_country.GetAdjectiveWithNoTooltip|l]e Volk unterwirft sich"

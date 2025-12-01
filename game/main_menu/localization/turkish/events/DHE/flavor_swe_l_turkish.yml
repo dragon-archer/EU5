@@ -293,7 +293,7 @@
  flavor_swe.58.a: "Korsanlık Beratı verelim."
  flavor_swe.58.b: "Böyle bir şey bize yakışmaz."
  flavor_swe.59.title: "#italic Then Swänska Argus#!"
- flavor_swe.59.desc: "[ShowLocationName('stockholm')] kalbinde #italic Then Swänska Argus#! isimli bir haftalık gazete yayımlanmaya başladı. Yayın, zekâ ve netlikle eski gelenekleri eleştirerek rasyonel düşünceyi, ılımlılığı ve [ROOT.GetCountry.GetCulture.GetDialect.GetName] lehçesini savunuyor. Yarattığı etki geniş bir alanda hissediliyor. Reformculara ve dil bilimcilere ilham kaynağı olarak krallığın geleceğini göze çarpmayan bir biçimde şekillendiriyor. Gelişimin bu cesur sesini desteklemeli miyiz?"
+ flavor_swe.59.desc: "[ShowLocationName('stockholm')] kalbinde #italicThen Swänska Argus#! isimli bir haftalık gazete yayımlanmaya başladı. Yayın, zekâ ve netlikle eski gelenekleri eleştirerek rasyonel düşünceyi, ılımlılığı ve [ROOT.GetCountry.GetCulture.GetDialect.GetName] lehçesini savunuyor. Yarattığı etki geniş bir alanda hissediliyor. Reformculara ve dil bilimcilere ilham kaynağı olarak krallığın geleceğini göze çarpmayan bir biçimde şekillendiriyor. Gelişimin bu cesur sesini desteklemeli miyiz?"
  flavor_swe.59.historical_info: "1732'de Olof von Dalin tarafından yayımlanan Then Swänska Argus, İsveç'in edebî tarihinde bir dönüm noktası oldu. Canlı ve kolay anlaşılan bir tarzda yazılarak hem Aydınlanma ideallerini savundu, hem de İsveççe dilinin modernleştirilmesine katkıda bulundu. Yayın, kısa sürede kültürel bir rehber hâline gelerek kamuoyunu şekillendirdi ve nesiller boyu İsveçli düşünürleri etkiledi."
  flavor_swe.59.a: "Modern [ROOT.GetCountry.GetNameWithNoTooltip] için bu düşünceyi destekleyelim!"
  flavor_swe.59.b: "Basının sansürlenmesi lazım!"

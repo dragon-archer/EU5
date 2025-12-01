@@ -1,6 +1,6 @@
 ﻿l_spanish:
  nanban_trade.1.title: "Nanban boeki"
- nanban_trade.1.desc: "Extranjeros con modales vulgares, faltos de higiene e incapaces de entender la escritura en [ROOT.GetCountry.GetCulture.GetLanguage.GetName|l] han llegado a la tierra de [ROOT.GetCountry.GetName] procedentes de países que insisten en darles nombres ridículos, como l[target_nanban.GetName|]. Estos extranjeros traen consigo exploradores, misioneros y mercaderes y su presencia ha empezado a afectar a nuestra gente."
+ nanban_trade.1.desc: "Extranjeros con modales vulgares, faltos de higiene e incapaces de entender la escritura en [ROOT.GetCountry.GetCulture.GetLanguage.GetName|l] han llegado a la tierra de [ROOT.GetCountry.GetName] procedentes de países que insisten en darles nombres ridículos, como [target_nanban.GetName|l]. Estos extranjeros traen consigo exploradores, misioneros y mercaderes y su presencia ha empezado a afectar a nuestra gente."
  nanban_trade.1.a: "Recibamos a los nuevos comerciantes."
  nanban_trade.1.b: "¿Quién sabe qué traerá su presencia?"
  enable_kirishitan_monks.tt: "Ahora tendremos acceso a la [religious_faction|el] de los $kirishitan_monks$."

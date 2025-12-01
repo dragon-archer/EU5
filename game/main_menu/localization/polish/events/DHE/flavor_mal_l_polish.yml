@@ -76,7 +76,7 @@
  flavor_mal.18.title: "Podzielony kraj"
  flavor_mal.18.desc: "Wielu z nas zdaje się wierzyć, że nasz wielki naród chyli się ku upadkowi. Lokalne bunty, pojawiający się uzurpatorzy, a także coraz bardziej surowy klimat – wszystko to doprowadziło do spekulacji, iż kres naszej cywilizacji jest coraz bliższy. Jakby tego było mało, wielu podwładnych na wschodnich terytoriach domaga się całkowitej niepodległości, obalając naszych miejscowych zarządców i wycinając w pień przedstawicieli korony!"
  flavor_mal.18.a: "Nie jest to dla nas korzystne, ale przyjmiemy te warunki..."
- flavor_mal.18.b: "Za krew należy płacić krwią, niech przemówi miecz."
+ flavor_mal.18.b: "Za krew należy płacić krwią, niech przemówi miecz..."
  flavor_mal.18.c: "Może to już czas, by powstało nowe państwo: [GetCountry('SON').GetNameWithNoTooltip]."
  flavor_mal.19.title: "Kopalnie w miejscu [target_location2.GetNameWithNoTooltip]"
  flavor_mal.19.desc: "Choć kopalnie znajdujące się w miejscu [target_location2.GetName] przez lata wspaniale nam służyły, to jednak [target_location.GetName] przeżywa ostatnio napływ inwestycji. [ROOT.GetCountry.GetGovernment.GetEstateName('burghers_estate')] skontaktowali się z [Select_CString(target_character.IsFemale,'władczynią','władcą')] o imieniu [target_character.GetName], domagając się naszych inwestycji w tymże miejscu."

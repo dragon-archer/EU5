@@ -18,7 +18,7 @@
  REBEL_STALLED_NOT_ENOUGH: "Congelación por falta de partidarios."
  REBEL_PROGRESS_ESTATE: "[estate_power|e]: $VAL|2-=%$"
  REBEL_NATIONALISM_SOURCE: "Nacionalismo\nNacionalismo base: $VAL|2=-%$"
- REBEL_NATIONALISM_CULTURE_WAR: "[cultural_influence|e] de los [CULTURE.GetName|l] o [cultural_tradition|el] de los [TARGET_CULTURE.GetName|l]: $VAL|+=2%$"
+ REBEL_NATIONALISM_CULTURE_WAR: "[cultural_influence|e] de los [CULTURE.GetName|l] o [cultural_tradition|e|l] de los [TARGET_CULTURE.GetName|l]: $VAL|+=2%$"
  RSI_HEADER: "Razones por las que las [pops|el] apoyan a estos rebeldes."
  RSI_ENTRY: "$NAME$: $VAL|2+=%$"
  rsi_separatism: "[separatism|e]"
