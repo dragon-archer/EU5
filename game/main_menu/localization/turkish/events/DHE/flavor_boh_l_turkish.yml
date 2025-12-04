@@ -191,7 +191,7 @@
  flavor_boh.42.a: "Sláva rodu!"
  flavor_boh.42.historical_info: "Prag'da toplanan İlk Pan-Slav Kongresi, Slav ulusları arasındaki birliği güçlendirmek adına önemli bir adımdı. Bu kongre aynı zamanda mavi, beyaz ve kırmızı Pan-Slav bayrağının ve \"Hey, Slavlar\" marşının Pan-Slav simgeleri olarak benimsenmesini sağladı."
  flavor_boh.43.title: "[target_character.GetNameWithNoTooltip]"
- flavor_boh.43.desc: "Bir Kalikstinizm piskoposu ve evrensel eğitimin savunucusu olan [target_character.GetName], \"Ulusların Öğretmeni\" olarak adlandırılıyor. Yenilikçi eğitim yöntemleri ve eğitimi ıslah etme çabaları toplumumuzu derinden etkilemiş durumda. Eğitim kuramları giderek daha fazla kabul görürken [ROOT.GetCountry.GetName] ülkesinin gelişimi için uzmanlığından yararlanma fırsatıyla karşı karşıyayız."
+ flavor_boh.43.desc: "Bir Kalikstinizm piskoposu ve evrensel eğitimin savunucusu olan [target_character.GetName], \"Ulusların Öğretmeni\" olarak adlandırılıyor. Yenilikçi eğitim yöntemleri ve eğitimi ıslah etme çabaları, toplumumuzu derinden etkilemiş durumda. Eğitim kuramları giderek daha fazla kabul görürken [ROOT.GetCountry.GetName] ülkesinin gelişimi için uzmanlığından yararlanma fırsatıyla karşı karşıyayız."
  flavor_boh.43.a: "[ROOT.GetCountry.GetGovernment.GetCourtTitle] makamında onun gibi birisini kullanabiliriz."
  flavor_boh.43.historical_info: "Modern eğitimin öncüsü olan ve Comenius olarak da bilinen Jan Amos Komenský, evrensel eğitim savunuculuğu ve ezbere dayalı öğrenme yerine anlamayı ve eleştirel düşünmeyi öne çıkaran ilerici öğretim yöntemleriyle önemli bir kişilikti."
  flavor_boh.44.title: "Altın Şehir [ShowLocationNameWithNoTooltip('prague')]"

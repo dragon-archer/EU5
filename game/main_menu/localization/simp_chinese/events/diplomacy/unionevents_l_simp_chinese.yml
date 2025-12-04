@@ -9,7 +9,7 @@
  unionevents.2.desc: "我们的联合统治者非常专注于[target_ruler.GetHerHis]自己的[union_target.GetFlavorRank]，而在我们的[ROOT.GetCountry.GetFlavorRank]事务上投入的时间看起来不够。这显然不是我们的人民希望看到的。"
  unionevents.2.a: "这是对[ROOT.GetCountry.GetNameWithNoTooltip]的侮辱！"
  opinion_ignorant_monarch: "无知的君主"
- unionevents.2.b: "邀请[target_ruler.GetHerHis]来我们的首都！"
+ unionevents.2.b: "邀请[target_ruler.GetHerHim]来我们的首都！"
  opinion_supportive_monarch: "乐于支持的君主"
  unionevents.3.title: "[ROOT.GetCountry.GetName]经济遭到忽视"
  unionevents.3.desc: "虽然我们两国共奉一君，但我国的商人仍然被视为外国人对待。这伤害了我国的经济。[ROOT.GetCountry.GetGovernment.GetFullRulerName|U]应该花更多的时间在我们的国家，让它繁荣起来！"

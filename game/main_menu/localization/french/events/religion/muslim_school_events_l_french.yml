@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "Il va devoir aller prêcher ailleurs."
  muslim_school_events.8.title: "Des théologiens étrangers à la pointe de l'érudition"
  muslim_school_events.8.desc: "Les théologiens que nous avons invités dans le pays ont énormément enrichi l'enseignement religieux local. Ils ont laissé leur marque dans notre pays et inspiré une nouvelle génération de membres du [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]."
- muslim_school_events.8.a: "Nous aurions bien besoin d'eux à [ROOT.GetCountry.GetCapital.GetName]."
+ muslim_school_events.8.a: "Nous aurions bien besoin d'eux à [ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]."
  muslim_school_events.8.b: "Ils trouveront leur propre place dans notre pays."
  muslim_school_events.9.title: "Théologiens de [SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip]"
  muslim_school_events.9.desc: "En donnant à des lettrés #L [SCOPE.sCountry('scholar_country').GetAdjectiveWithNoTooltip]s#! leur place dans nos médersas, nous ne développons pas seulement le débat théologique dans le pays, mais aussi nos liens avec leur [SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName]."

@@ -2,6 +2,7 @@
  SAVE_BUTTON_DISABLED: "@trigger_no! O jogo só pode ser salvo automaticamente no modo Homem de Ferro"
  SAVE_BUTTON_DISABLED_BY_TUTORIAL: "@trigger_no! Não é possível salvar o jogo durante o passo a passo."
  LOAD_INGAME_BUTTON_DISABLED: "Você não pode carregar um jogo no modo Multijogador"
+ LOAD_INGAME_BUTTON_IRONMAN: "@trigger_no! You cannot load a game in Ironman mode"
  HOST_GAME_BUTTON_DISABLED: "No momento, você está em uma partida no modo Multijogador"
  GAME_NOT_PAUSED: "#X O Jogo NÃO está pausado #!"
  PAUSE_MENU_GAME_RULES_TOOLTIP: "Ver a configuração das regras do jogo atual"

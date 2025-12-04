@@ -58,7 +58,7 @@
  flavor_sco.12.desc: "[young_king_david.GetName](은)는 어린 시절부터 [england.GetAdjective]의 끊이지 않는 위협에서 몸을 지키기 위해 망명 생활을 해 왔고, 그동안 나라를 지키는 일은 유능한 [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]들의 몫이었습니다.\n\n최근 전쟁이 소강상태에 들어간 틈을 타, 젊은 [young_king_david.GetShortNameWithNoTooltip](은)는 자신의 정당한 [ROOT.GetCountry.GetAdjective] 왕위를 다시 찾기 위해 [ROOT.GetCountry.GetCapital.GetName](을)를 향한 항해를 시작했습니다.\n\n혹자에게는 그저 겁 많은 애송이로 보이겠지만, [young_king_david.GetShortNameWithNoTooltip](은)는 지금은 세상을 떠난 영웅 [young_king_david.GetFather.GetName]의 장자입니다."
  flavor_sco.12.a: "[ROOT.GetCountry.GetGovernment.GetRulerTitle]의 귀환을 성대하고 격식 있는 행사로 환영하라!"
  flavor_sco.12.b: "아직 위험은 끝나지 않았지만, 우리 [guardian_of_scotland.GetShortNameWithNoTooltip]에 강한 지도자를 두게 되었군."
- flavor_sco.12.c: "[young_king_david.GetName](은)는 통치자로서 적합하지 않다. [guardian_of_scotland.GetShortNameWithNoTooltip](이)가 [ROOT.GetCountry.GetGovernment.GetRulerTitle] 자리에 올라야 한다."
+ flavor_sco.12.c: "[young_king_david.GetNameWithNoTooltip](은)는 통치자로서 적합하지 않다. [guardian_of_scotland.GetShortNameWithNoTooltip](이)가 [ROOT.GetCountry.GetGovernment.GetRulerTitle] 자리에 올라야 한다."
  flavor_sco.13.title: "우리의 스코틀랜드"
  flavor_sco.13.desc: "[ROOT.GetCountry.GetName](은)는 본래부터 서로 다른 출신의 다양한 집단이 모인 다원성의 땅입니다.\n\n하지만 이러한 다양성이 약점이라며, 씨족들을 규합해 하나의 민족으로서 하나의 목소리를 내는 것이 낫다고 주장하는 자들도 있습니다."
  flavor_sco.13.a: "이 다양성이 곧 우리의 정체성이다."

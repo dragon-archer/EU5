@@ -208,7 +208,7 @@
  MOVING_CAPITAL: "Перенос столицы в [LOCATION.Custom('LR_ACC')|l] [LOCATION.GetNameWithNoTooltip]"
  MARKET_CREATING: "Создание рынка в [LOCATION.Custom('LR_PREP')|l] [LOCATION.GetNameWithNoTooltip]"
  EXPLORATION_CREATING: "Подготовка [Concept('exploration','экспедиции')|e] на территорию области [AREA.GetNameWithNoTooltip] в [LOCATION.Custom('LR_PREP')|l] [LOCATION.GetNameWithNoTooltip]"
- CONQUISTADOR_CREATING: "#TOOLTIP:SUBJECT_TYPE,conquistador,X #L Конкистадор#!#! готовится к отправлению на территорию области [AREA.GetNameWithNoTooltip] в [LOCATION.Custom('LR_PREP')|l] [LOCATION.GetNameWithNoTooltip]"
+ CONQUISTADOR_CREATING: "#TOOLTIP:SUBJECT_TYPE,conquistador,X #L Конкистадор#!#! готовится к отправлению в область @area![AREA.GetName] в @location![LOCATION.Custom('LR_PREP')|l] [LOCATION.GetName]"
  ROAD_TO: "[ROAD_TYPE.GetName] в район $TO$"
  ARMY_NAVY_LEVY_IN_SHORT: "Сбор"
  ARMY_LEVY_IN: "Сбор [Concept('army_levy','армейского ополчения')|e] в провинции $PROV$"

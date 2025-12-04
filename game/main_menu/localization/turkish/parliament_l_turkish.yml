@@ -241,7 +241,7 @@
  new_model_army_pi_desc: "Kraliyetçilere karşı devam eden iç savaşın yol açtığı tahribat ordumuzun ciddi bir ıslahata ihtiyacı olduğunu gözler önüne serdi."
  edict_of_nantes_issue: "Nantes Fermanı"
  edict_of_nantes_issue_desc: "Yıllar süren dinî mücadelenin ardından bir arada yaşamayı seçerek birlik olmayı teşvik etmenin ve gereksiz yere kan dökülmesine son vermenin vakti geldi."
- end_the_french_wars_of_religion_tt: "[ShowDisasterName('french_wars_of_religion')] [Concept('disaster', 'Felaketi')|e] biter"
+ end_the_french_wars_of_religion_tt: "[ShowDisasterName('french_wars_religion')] [Concept('disaster', 'Felaketi')|e] biter."
  mug_promote_rajput_officials: "$rajasthani_language$ Yetkililere Sınıf Atlat"
  mug_promote_rajput_officials_desc: "Ülkedeki $rajasthani_language$ halkına sınıf atlatarak güvenebileceğimiz askerî yetkililer olacağından emin olabiliriz."
  promote_rajput_officials_passed_tt: "[ShowLanguageName('rajasthani_language')] [Concept('language', 'Dilinde')|e] kabiliyetli bir üye ortaya çıkar."

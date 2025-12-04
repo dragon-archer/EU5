@@ -11,7 +11,7 @@
  flavor_sale_of_lusatia.1100.title: "[GetCountry('SOR').GetNameWithNoTooltip] Meselesi"
  flavor_sale_of_lusatia.1100.desc_normal: "Rehin süresi sona erdiğine göre [GetCountry('SOR').GetLongName] toprakları yakında yeniden kontrolümüze girecek.\n\nBununla birlikte söz konusu toprakların bizim için pek de değerli olduğu söylenemez. Aksine, satarsak daha mühim meseleler için gerekli finansal desteği elde edebiliriz. Hatta dilersek doğrudan bu toprakları satabilir ve bu belalı yerlerden hepten kurtulabiliriz. Pek çok gücün [GetCountry('SOR').GetName] ülkesini satın almaya olumlu yaklaşacağına dair hiç kuşkumuz yok. [target_buyer.GetName] ile kurduğumuz iyi ilişkileri de göz ardı etmemek lazım. Amaçlarımız doğrultusunda güvenilir bir seçenek olarak gözümüzü kendisine çevirebiliriz."
  flavor_sale_of_lusatia.1100.desc_fallback: "[GetCountry('SOR').GetName] rehininin süresi sona erdi ancak ne yazık ki mülkiyeti artık o yabancı ahmakların elinde bulunmuyor. Bu toprakları geri almak için kullanabileceğimiz yasal yollar ise oldukça sınırlı."
- flavor_sale_of_lusatia.1100.a: "[target_buyer.GetName] Hazretleri'ne teklif sunulsun."
+ flavor_sale_of_lusatia.1100.a: "[target_buyer.GetNameWithNoTooltip] Hazretleri'ne teklif sunulsun."
  flavor_sale_of_lusatia.1100.b: "Artık topraklarımızı satmayacağız."
  flavor_sale_of_lusatia.1100.c: "Meşru topraklarımızı geri alacağız!"
  flavor_sale_of_lusatia.1100.d: "Anlık bir gaflet."

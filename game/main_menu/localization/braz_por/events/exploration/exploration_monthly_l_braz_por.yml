@@ -76,7 +76,7 @@
  exploration_monthly.23.a: "Vamos construir a atalaia."
  exploration_monthly.23.b: "Não precisamos disso."
  exploration_monthly.24.title: "Um Cachorro Amigável"
- exploration_monthly.24.desc: "[explorer.GetName] teve uma bela surpresa ao explorar [ROOT.GetExploration.GetArea.GetName]. Recentemente, um cachorro passou a aparecer perto do seu acampamento e parece ser bastante amigável. O cachorro late sem parar, mas talvez seja mais para chamar a atenção de [explorer.GetNameWithNoTooltip] do que para ameaçar, pois ele deixar qualquer pessoa se aproximar sem problemas. Ele parece querer guiar a expedição até um ponto específico, mas no final das contas ele é só um cachorro, certo?"
+ exploration_monthly.24.desc: "[explorer.GetName] teve uma bela surpresa ao explorar [ROOT.GetExploration.GetArea.GetName]. Recentemente, um cachorro passou a aparecer perto do seu acampamento e parece ser bastante amigável. O cachorro late sem parar, mas talvez seja mais para chamar a atenção de [explorer.GetNameWithNoTooltip] do que para ameaçar, pois ele deixa qualquer pessoa se aproximar sem problemas. Ele parece querer guiar a expedição até um ponto específico, mas no final das contas ele é só um cachorro, certo?"
  exploration_monthly.24.a: "Os Latidos do Vira-lata Importam"
  exploration_monthly.24.a.tt: "[explorer.GetNameWithNoTooltip] vai adotar o cachorro e seguir suas direções."
  exploration_monthly.24.b: "Quem é um bom garoto?"

@@ -76,7 +76,7 @@
  prices.23.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_sugar: "蔗糖的普及"
  prices.24.title: "丝织物的普及"
- prices.24.desc: "几个世纪以来，[ShowGoodsName('silk')]一直是财富与高雅的象征，深受[ShowContinentName('asia')]、[ShowRegionName('middle_east')]和[ShowContinentName('europe')]各地精英阶层的追捧。它的魅力在塑造贸易路线和全球探索中发挥了关键作用，特别是在[ShowAgeName('age_3_discovery')]。如今，得益于生产和贸易的进步，生丝和丝绸织品比以往任何时候都更容易获得。这种新的可获得性引发许多新兴市场需求激增。在这些市场中，[ShowGoodsNameWithNoTooltip('silk')]正迅速从奢侈品转变为不断壮大的城市中产阶级的时尚商品。"
+ prices.24.desc: "几个世纪以来，[ShowGoodsName('silk')]一直是财富与高雅的象征，深受[ShowContinentName('asia')]、[ShowRegionName('middle_east')]和[ShowContinentName('europe')]各地精英阶层的追捧。它的魅力在塑造贸易路线和全球探索中发挥了关键作用，特别是在[ShowAgeName('age_3_discovery')]。如今，得益于生产和贸易的进步，生丝和丝绸织品比以往任何时候都更容易获得。这种新的可获得性引发许多新兴市场需求激增。在这些市场中，丝绸正迅速从奢侈品转变为不断壮大的城市中产阶级的时尚商品。"
  prices.24.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_silk: "丝绸普及"
  prices.27.title: "东南亚象群减少"

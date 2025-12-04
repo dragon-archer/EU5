@@ -129,7 +129,7 @@
  flavor_bra_dynasty.1101.a.tt: "Wir setzen [emperor_ruler.GetName] als neuen [ruler|e] von „[root_country.GetName]“ ein, indem wir eine [union|e] mit ihnen bilden"
  flavor_bra_dynasty.1101.b: "[dynasty_character.GetNameWithNoTooltip] sollte über „[root_country.GetNameWithNoTooltip]“ herrschen."
  flavor_bra_dynasty.1101.b.tt: "Wir setzen [dynasty_character.GetName] als neuen [ruler|e] von „[root_country.GetName]“ ein"
- flavor_bra_dynasty.1101.c: "[cabinet_character.GetName] soll in unserem Namen darüber herrschen."
+ flavor_bra_dynasty.1101.c: "[cabinet_character.GetNameWithNoTooltip|U] soll in unserem Namen darüber herrschen."
  flavor_bra_dynasty.1101.c.tt: "Wir setzen [cabinet_character.GetName] als neuen [ruler|e] von [root_country.GetName] ein und machen die Nation damit zu unserem #L [ShowSubjectTypeName('vassal')]en#!. Dies führt jedoch zu [ShowBiasValue('subjugated_elector_antagonism')|-=0] [antagonism|e] für jedes Mitglied HRR ([GetUniqueInternationalOrganization('hre').GetName])"
  subjugated_elector_antagonism: "Unterworfener Kurfürst"
  flavor_bra_dynasty.1101.d: "Einer unserer Hofberater wird das [root_country.GetAdjectiveWithNoTooltip|l]e Problem aus der Welt schaffen."

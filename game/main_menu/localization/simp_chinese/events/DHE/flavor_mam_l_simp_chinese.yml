@@ -293,7 +293,7 @@
  flavor_mam.64.a: "我们需要[target_culture.GetNameWithNoTooltip]马穆鲁克的支持。"
  flavor_mam.64.b: "[target_culture2.GetNameWithNoTooltip]马穆鲁克的支持一如既往地重要。"
  flavor_mam.64.c: "尽管没那么重要，但[third_ruler.GetNameWithNoTooltip]展现了能力。"
- flavor_mam.64.d: "出身[target_culture4.GetName]军中的传统马穆鲁克。"
+ flavor_mam.64.d: "出身[target_culture4.GetNameWithNoTooltip]军中的传统马穆鲁克。"
  flavor_mam.65.title: "[target_location.GetNameWithNoTooltip]士兵"
  flavor_mam.65.desc: "虽然$mamluks$是我们军队的核心，但并非所有士兵都是奴隶战士。[target_location.GetName]本地的士兵组成了绝大部分步兵，也被用来执行护卫和驻守任务。\n\n然而，他们晋升机会少，军饷也低，动力严重不足，我们不清楚可以多信任这些人。而他们的训练和军械当然也经常被[ROOT.GetCountry.GetGovernment.GetRulerTitle]和这座[target_location.GetRank.GetName]的官员忽视。在[target_location.GetArea.GetName]，[target_location.GetName]本地人和$mamluks$官员间的不信任导致了动荡。"
  flavor_mam.65.a: "我们必须将叛乱扼杀在摇篮里！"

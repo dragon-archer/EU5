@@ -116,9 +116,9 @@
  revolution_disaster: "Révolution !"
  revolution_disaster_desc: "Des décennies d'oppression féodale, de difficultés économiques et d'intolérance religieuse ont lourdement pesé sur la paix de notre pays, et la soif de liberté de notre population constitue une menace sérieuse pour notre règne. Un soulèvement populaire est presque inévitable..."
  revolution_disaster_end_trigger_tt: "Les #Y Révolutionnaires#! ne prévoient aucune [civil_war|e]"
- MONARCHIST_STR_DESC: "Taille de l'[army|e] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]e : [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "Taille de l'[army|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy!\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[military_strength|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]"
- REVOLUTIONARIES_STR_DESC: "Taille de l'[army|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]e : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "Taille de l'[army|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[levy|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy!\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] : [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[military_strength|e] potentielle de [DisasterView.GetDisaster.GetOwner.GetName]"
  #Revolutionary Chaos
  #Disaster
@@ -128,8 +128,8 @@
  #Disaster
  sinicization_disaster: "L'influence de la Chine"
  sinicization_disaster_desc: "Par bien des manières, l'influence de la [GetCountry('CHI').GetName] a été plus que bénéfique pour notre société. Cependant, nos relations avec ce géant culturel ont introduit dans la tapisserie de notre société de nombreux fils étrangers, qui nous ont peu à peu coupés de nos traditions et menacent notre indépendance. Si nous voulons préserver notre culture unique, nous devons résister à la corruption extérieure de ces influences séduisantes. Cependant, nous pourrions tirer parti de liens plus étroits..."
- has_opted_to_side_with_china_in_events_tt: "A suffisamment #G encouragé#! l'influence de la [GetCountry('CHI').GetNameWithNoTooltip] à la cour par le biais d'[events|e]"
- has_opted_to_stay_sovereign_from_china_in_events_tt: "A suffisamment #G réfréné#! l'influence de la [GetCountry('CHI').GetNameWithNoTooltip] à la cour par le biais d'[events|e]"
+ has_opted_to_side_with_china_in_events_tt: "A suffisamment #G encouragé#! l'influence de [GetCountry('CHI').GetNameWithNoTooltip] à la cour par le biais d'[events|e]"
+ has_opted_to_stay_sovereign_from_china_in_events_tt: "A suffisamment #G réfréné#! l'influence de [GetCountry('CHI').GetNameWithNoTooltip] à la cour par le biais d'[events|e]"
  #Crisis of the Chinese Dynasty
  #Disaster
  crisis_of_the_chinese_dynasty: "Crise de [GetCountry('CHI').GetLongNameWithNoTooltip]"
@@ -232,6 +232,7 @@
  decline_of_empire: "Déclin de l'Empire"
  decline_of_empire_desc: "Autrefois puissant et inébranlable, notre empire est aujourd'hui au bord de l'effondrement. La corruption gangrène nos institutions, le peuple de nos provinces s'agite sous le poids de la négligence et les puissances étrangères tournent autour de nous comme des vautours, attendant le moment opportun pour disloquer ce qu'il nous reste de gloire. L'âge d'or qui nous définissait autrefois n'est plus qu'un lointain souvenir, et les failles qui fissurent nos fondations se creusent toujours davantage jour après jour. Si nous ne luttons pas contre la pourriture intérieure et ne reprenons pas le contrôle rapidement, notre empire s'effondrera, ne laissant que ruines et regrets. Nous ne serions plus que l'ombre de notre gloire passée..."
  has_not_had_decline_of_empire_last_25_years: "N'a pas subi cette [disaster|e] au cours des #Y 25#! dernières années"
+ not_recently_become_empire_tt: "A disposé du [country_rank|e] d'[ShowCountryRankName('rank_empire')] pendant au moins #Y 15#! ans"
  #Decline of Mali
  #Disaster
  decline_of_mali: "Le déclin du Mali"

@@ -46,7 +46,7 @@
  #War of the Roses
  #Disaster
  war_of_the_roses: "Guerra das Rosas"
- war_of_the_roses_desc: "A entidade política [GetCountry('ENG').GetName] está sendo dilacerada por um conflito violento entre os ramos cadetes da dinastia dominante, a \"rosa branca\" da [ShowDynastyName('york_dynasty')] e a \"rosa vermelha\" da [ShowDynastyName('lancaster_dynasty')], a respeito de qual reivindicação hereditária ao governo é a mais forte. Essa briga interna pode se arrastar por décadas e afetar o estamento [GetCountry('ENG').GetGovernment.GetEstateName('nobles_estate')] inteiro, minando completamente a estabilidade do(a) [GetCountry('ENG').GetFlavorRank]!"
+ war_of_the_roses_desc: "A entidade política [GetCountry('ENG').GetName] está sendo dilacerada por um conflito violento entre as vertentes cadetes da dinastia dominante, a \"rosa branca\" da [ShowDynastyName('york_dynasty')] e a \"rosa vermelha\" da [ShowDynastyName('lancaster_dynasty')], a respeito de qual reivindicação hereditária ao governo é a mais forte. Essa briga interna pode se arrastar por décadas e afetar o estamento [GetCountry('ENG').GetGovernment.GetEstateName('nobles_estate')] inteiro, minando completamente a estabilidade do(a) [GetCountry('ENG').GetFlavorRank]!"
  #Actions
  wotr_bribe_garrison: "Subornar uma Guarnição"
  wotr_bribe_garrison_desc: "As lealdades são testadas ao extremo durante uma guerra civil, e a instabilidade agita todo(a) o(a) nosso(a) [actor.GetFlavorRank]. Devemos aproveitar esse caos oferecendo ouro e garantias aos redutos iniumigos, convencendo seus comandantes a se renderem pacificamente em vez de cair sob nosso cerco."
@@ -72,7 +72,7 @@
  crisis_of_the_sayfawa_dynasty_desc: "Apesar da longa e bem-sucedida história da nossa dinastia governando essa região, conflitos internos e uma série de governantes ilegítimos precipitaram uma grande crise entre nós. Enquanto estamos distraídos combatendo nossas disputas internas, inimigos traiçoeiros e nossos vizinhos poderosos vão agarrar qualquer oportunidade para dividir nossas terras e apagar nosso povo da face da Terra. Temos que encontrar um jeito de afirmar o que sempre foi nosso por direito para o mundo exterior, sem sermos consumidos, corroídos por dentro de nossas próprias fileiras."
  #Muscovite Succession War
  #Disaster
- muscovite_succession_war: "Guerra de Sucessão Moscovita"
+ muscovite_succession_war: "Guerra de Sucessão Muscovita"
  muscovite_succession_war_desc: "[GetCountry('MOS').GetCapital.GetName] é a sede do poder na [GetCountry('MOS').GetCapital.GetRegion.GetName]. Por causa de uma crise de sucessão, brigas internas estouraram entre vários membros da família da dinastia dominante, cada um reivindicando o direito de sentar no trono. A escalada desse conflito não só ameaça dilacerar a família deles, mas pode ter efeitos catastróficos para todos nós."
  #Peasants War
  #Disaster
@@ -116,9 +116,9 @@
  revolution_disaster: "Revolução!"
  revolution_disaster_desc: "Décadas de opressão feudal, dificuldades econômicas e intolerância religiosa custaram seu preço na paz de nossa nação, e o desejo de liberdade da nossa população representa uma ameaça séria ao nosso reinado. Um levante popular é quase inevitável..."
  revolution_disaster_end_trigger_tt: "Os #Y Rebeldes Revolucionários#! não planejam uma [civil_war|e]"
- MONARCHIST_STR_DESC: "Tamanho do Exército [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nPotencial [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] de [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[manpower|e] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_STR_DESC: "Tamanho do [army|e] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nPotencial de [Concept('levy', 'conscrição')|e] da entidade política [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[manpower|e] da entidade política [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[military_strength|e] potencial da entidade política [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]"
- REVOLUTIONARIES_STR_DESC: "Tamanho do [army|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nPotencial [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] de [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[manpower|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "Tamanho do [army|e] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nPotencial de [Concept('levy', 'conscrição')|e] da entidade política [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy!\n[manpower|e] da entidade política [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[military_strength|e] potencial da entidade política [DisasterView.GetDisaster.GetOwner.GetName]"
  #Revolutionary Chaos
  #Disaster
@@ -158,7 +158,7 @@
  DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT: "[legitimacy]: [Country.MakeScope.GetVariable('maj_legitimacy_impact').GetValue|-=2%]"
  DEMAK_MONTHLY_CHANGE_BREAKDOWN: "$DEMAK_MONTHLY_CHANGE_POP_SHARE$\n$DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT$\n$DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT$"
  DEMAK_PROGRESS_GROWTH_HEADER: "$demak_progress$"
- DEMAK_PROGRESS_GROWTH_TOOLTIP: "$demak_progress$ é uma medida de quão difundida a [religion|e] [ShowReligionAdjective('sunni')] está em nosso(a) [Country.GetFlavorRank]. O ganho de $demak_progress$ aumenta à medida que o número de [pops|e] da fé [ShowReligionAdjective('sunni')] cresce. Quando chegar a #y 100,0%#!, todos os [locations|e] com a [dominant_religion|e] [ShowReligionAdjective('sunni')] se separarão para formar a entidade política $DEM$."
+ DEMAK_PROGRESS_GROWTH_TOOLTIP: "$demak_progress$ é uma medida de quão difundida a [religion|e] [ShowReligionAdjective('sunni')] está em nosso(a) [Country.GetFlavorRank]. O ganho de $demak_progress$ aumenta à medida que o número de [pops|e] da fé [ShowReligionAdjective('sunni')] cresce. Quando chegar a #y 100%#!, todos os [locations|e] com a [dominant_religion|e] [ShowReligionAdjective('sunni')] se separarão para formar a entidade política $DEM$."
  #Court and Country
  #Disaster
  court_and_country: "Corte e País"
@@ -232,6 +232,7 @@
  decline_of_empire: "Declínio do Império"
  decline_of_empire_desc: "Outrora poderoso e inabalável, nosso império agora oscila à beira do colapso. A corrupção infecta nossas instituições, nossas províncias sofrem com a negligência e potências estrangeiras circulam como abutres ao nosso redor, ansiosas para tomar o que restar da nossa glória. A era de ouro que já nos definiu ficou no passado, e as rachaduras nas nossas fundações ficam maiores a cada dia. Se não agirmos rapidamente para eliminar a podridão e restaurar o controle, nosso império desmoronará, deixando apenas ruínas e remorso, uma sombra da nossa antiga glória..."
  has_not_had_decline_of_empire_last_25_years: "Não teve este [disaster|e] nos últimos #Y 25#! anos"
+ not_recently_become_empire_tt: "Tem o [ShowCountryRankName('rank_empire')] [country_rank|e] por pelo menos #Y 15#! anos"
  #Decline of Mali
  #Disaster
  decline_of_mali: "Declínio de Mali"

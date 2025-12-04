@@ -22,7 +22,7 @@
  colonial_nation.183.title: "新任总督"
  colonial_nation.183.desc: "关于[ROOT.GetCountry.GetGovernment.GetRuler.GetName]执政无方的传言最终还是传到了中央政府耳中，人们开始担心这样的局面将会如何影响他们和我们的声誉。面对可能被中央政府同化的威胁，殖民地给我们提供了一个权益之策：趁现在还不算晚，赶紧任命一位新的总督来接管殖民地。"
  colonial_nation.183.a: "我们应该采纳他们的建议。"
- colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName]还能统治。"
+ colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip]还能统治。"
  colonial_nation.184.title: "[ROOT.GetCountry.GetName]债务缠身！"
  colonial_nation.184.desc: "我们殖民地的艰辛时代看起来没个尽头。折磨着我国千家万户的饥荒导致的债务问题压在我们身上，几乎就要打垮人民的精神，他们要求[ROOT.GetCountry.GetGovernment.GetRuler.GetName]提出适宜而有效的救济方案。"
  colonial_nation.184.a: "我们将用我们的影响力解决此事。"

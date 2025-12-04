@@ -58,7 +58,7 @@
  flavor_sco.12.desc: "Desde que era um bebê, [young_king_david.GetName] tem vivido em exílio como proteção contra a ameaça constante de captura do povo [england.GetAdjective]. Enquanto isso, a defesa do reino está sob o comando eficiente do nosso estamento [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')].\n\nGraças a calmaria recente nas lutas, o jovem [young_king_david.GetShortNameWithNoTooltip] começou sua viagem para a capital [ROOT.GetCountry.GetCapital.GetName] a fim de retomar seu lugar de direito no trono da entidade política [ROOT.GetCountry.GetName].\n\nEmbora muitos o vejam como um jovem covarde, ele é o primogênito do falecido herói [young_king_david.GetFather.GetName]"
  flavor_sco.12.a: "Vamos receber o retorno do [ROOT.GetCountry.GetGovernment.GetRulerTitle] com ostentação e cerimônia!"
  flavor_sco.12.b: "O perigo ainda não passou, e temos uma liderança forte com [guardian_of_scotland.GetShortNameWithNoTooltip]."
- flavor_sco.12.c: "[young_king_david.GetName] não está apto a governar. [guardian_of_scotland.GetShortNameWithNoTooltip] deveria assumir o papel de [ROOT.GetCountry.GetGovernment.GetRulerTitle]."
+ flavor_sco.12.c: "[young_king_david.GetNameWithNoTooltip] não está apto a governar. [guardian_of_scotland.GetShortNameWithNoTooltip] deveria assumir o papel de [ROOT.GetCountry.GetGovernment.GetRulerTitle]."
  flavor_sco.13.title: "Nossa Escócia"
  flavor_sco.13.desc: "Por sua própria natureza, a [ROOT.GetCountry.GetName] é uma terra diversificada, com povos de várias origens.\n\nNo entanto, algumas pessoas dizem que há fraqueza nessa diversidade, e que seria melhor nos consolidarmos e nos apresentarmos como um povo com uma única voz."
  flavor_sco.13.a: "Essa diversidade nos torna quem nós somos."

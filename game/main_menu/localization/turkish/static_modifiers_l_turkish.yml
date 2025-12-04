@@ -91,6 +91,7 @@
  STATIC_MODIFIER_NAME_giving_support_military: "Ordu Desteği Veriliyor"
  STATIC_MODIFIER_NAME_receiving_support_military: "Ordu Desteği Alınıyor"
  STATIC_MODIFIER_NAME_receiving_scutage: "Askerlik Vergisi Alınıyor"
+ STATIC_MODIFIER_NAME_receiving_rein_in_junior_diplomacy: "Reined in Junior Diplomacy"
  STATIC_MODIFIER_NAME_giving_support_loyalists: "Sadıklar Destekleniyor"
  STATIC_MODIFIER_NAME_receiving_support_loyalists: "Sadıklar Tarafından Destekleniyor"
  STATIC_MODIFIER_NAME_receiving_divert_trade: "Ticaret Yönlendiriliyor"
@@ -731,6 +732,7 @@
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "Hussit Zındıklığı"
  STATIC_MODIFIER_DESC_hussite_heresy_modifier: "[ShowReligionName('hussite')] dini yakın zamanda yükselişe geçti ve takipçileri, [ShowReligionAdjective('catholic')] Kilisesi'nde ıslahat yapmaya çalışıyor."
+ STATIC_MODIFIER_NAME_expanded_mines_modifier: "Genişletilmiş Madenler"
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "İyi Alametler"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Yenilenme döneminde görülen sakin hava koşulları ve yiyecek bolluğu, Tanrıların hoşnut olduğuna dair bazı alametler demektir."
@@ -800,6 +802,8 @@
  STATIC_MODIFIER_DESC_austere_court: "Bu ülkedeki saray hayatı ve bürokrasi kültürü, epey yalın ve zevkten uzak bir karaktere sahip."
  STATIC_MODIFIER_NAME_ostentatious_court: "Şatafatlı Saray"
  STATIC_MODIFIER_DESC_ostentatious_court: "Bu ülkedeki saray hayatının bir tarafı zarif olsa da diğer tarafı, şaşaalı gösteriler ve saçılan paralarla öne çıkıyor. Gerçi ziyaretçiler epey etkileniyor gibi."
+ STATIC_MODIFIER_NAME_tur_public_cats: "Public Cat Property"
+ STATIC_MODIFIER_DESC_tur_public_cats: "The cats in this location have been turned into public property, protecting them from any misconduct that may occur. This especially increases the number of rats being hunted, ensuring that no deadly diseases appear."
  #Byzantium
  STATIC_MODIFIER_NAME_defensive_effort_modifier: "Savunma Çabası"
  STATIC_MODIFIER_DESC_defensive_effort_modifier: "Bu ili korumak için çok miktarda asker görevlendirildi."
@@ -1055,6 +1059,7 @@
  STATIC_MODIFIER_NAME_fra_birth_of_college_de_france: "Collège de France'ın Doğuşu"
  STATIC_MODIFIER_NAME_fra_routiers_looted_province: "Hırsız Baronlar"
  STATIC_MODIFIER_NAME_fra_estates_general_halts_support: "États Généraux Desteğine Son Verdi"
+ STATIC_MODIFIER_NAME_fra_recognized_marcel_in_parliament: "Recognized Marcel in the Estates-General"
  STATIC_MODIFIER_NAME_fra_marcel_tax_embargo: "Burjuvaların Vergi Ambargosu"
  STATIC_MODIFIER_NAME_fra_burghers_broken_by_marcel_death: "Burjuvalar Çok Güçsüzleşti"
  STATIC_MODIFIER_NAME_fra_lavish_gifts_to_cadet_branches: "Cömert Adaylık Kolları"
@@ -1727,8 +1732,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Dizginlenmiş Köylü Gücü"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Yerel Otorite Sağlandı"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Vergi Muafiyeti"
- STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
- STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Hükûmette Mutlakiyetçi Etkiler"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Hükûmette Özgürlükçü Etkiler"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "Yasama Organları Geri Getirildi"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Düşük Moral"

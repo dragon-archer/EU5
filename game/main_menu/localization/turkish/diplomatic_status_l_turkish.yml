@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "$WHO$, $LIST$ ülkesine [economic_support|e] gönderir."
  getting_war_reparations_list_who_tt: "$WHO$, $LIST$ ülkesinden [war_reparations|e] alır."
  giving_war_reparations_list_who_tt: "$WHO$, $LIST$ ülkesine [war_reparations|e] gönderir."
- truce_list_who_tt: "$WHO$, $EXTRA|Y$ tarihine kadar $LIST$ ülkesiyle ateşkes hâlinde. Ateşkes sırasında [war|e] ilan eden tarafa #R -%50#! [stability|e] cezası verilir."
+ truce_list_who_tt: "$WHO$, $EXTRA|Y$ tarihine kadar $LIST$ ülkesiyle ateşkes hâlinde. Ateşkes sırasında [war|e] ilan eden tarafa $PRICE$ cezası verilir."
  annul_treaties_list_who_tt: "$WHO$, $EXTRA|Y$ tarihine kadar $LIST$ ile aralarında yapılan tüm antlaşmaları feshetmeye zorlandı."
  casus_belli_list_who_tt: "$WHO$, sahip olduğu bir [casus_belli|e] sayesinde [stability|e] cezası almadan $LIST$ karşıtı bir [war|e] ilan edebilir.\n\nSahip oldukları Savaş Sebebi:\n$EXTRA$"
  casus_belli_target_list_who_tt: "$LIST$, sahip olduğu bir [casus_belli|e] sayesinde [stability|e] cezası almadan $WHO$ karşıtı bir [war|e] ilan edebilir.\n\nSahip oldukları Savaş Sebebi:\n$EXTRA$"

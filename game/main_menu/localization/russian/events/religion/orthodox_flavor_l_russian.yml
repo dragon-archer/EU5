@@ -27,7 +27,7 @@
  orthodox_flavor_synod_prev_string: "Следуя заветам наших праотцов и высших иерархов православной церкви, мы созываем синод для рассмотрения вопросов, касающихся улучшения нашего законодательства. Многие выдающиеся #TOOLTIP:ESTATE,clergy_estate,X #L священники#!#! нашей державы прибудут на него, чтобы выслушать и утвердить вынесенный на нём вердикт."
  orthodox_flavor.7.title: "Синод о церковных делах"
  orthodox_flavor.7.desc: "$orthodox_flavor_synod_prev_string$ Этот синод будет обсуждать дела церкви."
- orthodox_flavor.7.a: "Нам следует увеличить привилегии, которыми пользуются [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('clergy_estate')|l]."
+ orthodox_flavor.7.a: "Нам следует позаботиться о том, чтобы [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('clergy_estate')|l] получили больше привилегий."
  orthodox_flavor.7.b: "Нам следует организовать справедливое налогообложение духовных лиц."
  orthodox_flavor.8.title: "Синод о местных делах"
  orthodox_flavor.8.desc: "$orthodox_flavor_synod_prev_string$ Этот синод будет обсуждать местные дела наших регионов."

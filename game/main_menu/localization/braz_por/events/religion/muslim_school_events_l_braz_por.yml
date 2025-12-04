@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "Ele vai ter que pregar em outro lugar."
  muslim_school_events.8.title: "Estudiosos Estrangeiros Estimulam a Erudição"
  muslim_school_events.8.desc: "Os teólogos que convidamos para o nosso país acabaram enriquecendo expressivamente a erudição religiosa local. Eles deixaram uma marca em nosso país e inspiraram uma nova geração do estamento [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]."
- muslim_school_events.8.a: "Preciso deles na capital [ROOT.GetCountry.GetCapital.GetName]."
+ muslim_school_events.8.a: "Preciso deles na capital [ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]."
  muslim_school_events.8.b: "Eles encontrarão um lugar por todo o nosso país."
  muslim_school_events.9.title: "Teólogos de [SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip]"
  muslim_school_events.9.desc: "Ao inserir estudiosos do território [SCOPE.sCountry('scholar_country').GetAdjectiveWithNoTooltip] em nossos Madraçais não apenas melhoramos a discussão teológica do nosso país, como também aumentamos os nossos laços com [SCOPE.sCountry('scholar_country').GetName]."

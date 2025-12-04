@@ -241,7 +241,7 @@
  new_model_army_pi_desc: "Trudy trwającej wojny domowej z rojalistami udowodniły, że nasza armia pilnie potrzebuje całkowitej reformy."
  edict_of_nantes_issue: "Edykt nantejski"
  edict_of_nantes_issue_desc: "Po latach religijnych trudów nadszedł czas, byśmy promowali jedność poprzez współistnienie i ukrócili zbędny rozlew krwi."
- end_the_french_wars_of_religion_tt: "[disaster|e] „[ShowDisasterName('french_wars_of_religion')]” dobiegnie końca."
+ end_the_french_wars_of_religion_tt: "[disaster|e] „[ShowDisasterName('french_wars_religion')]” dobiegnie końca."
  mug_promote_rajput_officials: "Awansowanie urzędników radżastańskich"
  mug_promote_rajput_officials_desc: "Awansując należące do naszego narodu osoby mówiące językiem radżastani, zadbamy o odpowiednią liczbę godnych zaufania urzędników wojskowych."
  promote_rajput_officials_passed_tt: "Pojawi się wykwalifikowana osoba mówiąca [Concept('language','językiem')|e] [ShowLanguageName('rajasthani_language')|l]."

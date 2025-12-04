@@ -69,6 +69,7 @@
  # Game
  SETTING_DEBUG_SAVES: "Quantidade de salvamentos automáticos"
  SETTING_DEBUG_SAVES_TOOLTIP: "#T $SETTING_DEBUG_SAVES$#!\nQuantidade máxima de jogos salvos automaticamente mantidos"
+ IRONMAN_BLOCKS_THIS: "@trigger_fail! Não é válido para jogos de Homem de Ferro."
  # Multiplayer
  SETTING_MAX_TICKS_AHEAD: "Tempo Máximo à Frente"
  SETTING_MAX_TICKS_AHEAD_TOOLTIP: "#T $SETTING_MAX_TICKS_AHEAD$#!\nQuantidade máxima de tempo que você, como anfitrião, pode ficar à frente dos clientes antes de precisar esperar que eles alcancem você"
@@ -126,6 +127,7 @@
  SETTINGS_CATEGORY_CONFIRM: "Ajustar Modo de Confirmação"
  SETTINGS_CATEGORY_INPUT_LOCK: "Configurações de Bloqueio de Comando"
  SETTINGS_CATEGORY_DYNAMIC_NAMES: "Nomes Dinâmicos"
+ SETTINGS_CATEGORY_PLAYSETS: "Playsets"
  # Hotkeys
  SETTING_INPUT_CONTEXT_COMMON: "Comum"
  SETTING_INPUT_CONTEXT_COMMON_TOOLTIP: "#T Comum #! Mapeamento de teclas mais usado"
@@ -217,6 +219,16 @@
  SETTING_INPUT_ACTION_TOP_RIGHT_8: "Superior Direito 8"
  SETTING_INPUT_ACTION_TOP_RIGHT_9: "Superior Direito 9"
  SETTING_INPUT_ACTION_TOP_RIGHT_10: "Superior Direito 10"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_0: "Control Group 0"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_1: "Control Group 1"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_2: "Control Group 2"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_3: "Control Group 3"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_4: "Control Group 4"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_5: "Control Group 5"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_6: "Control Group 6"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_7: "Control Group 7"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_8: "Control Group 8"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_9: "Control Group 9"
  SETTING_INPUT_ACTION_MAPMODE_MENU: "Alternar Menu do Modo de Mapa"
  # Tooltips
  SETTING_TOOLTIP_MODE: "Modo de Dica"
@@ -286,7 +298,7 @@
  SETTING_MAXIMIZE_TICK_SPEED_TOOLTIP: "#T $SETTING_MAXIMIZE_TICK_SPEED$#!\nPriorizar o uso do processador para a velocidade de clock quando na velocidade máxima do jogo, em vez de manter uma taxa de frames suave. Quando ativada, essa opção também faz com que a velocidade 4 funcione como a velocidade 5 quando estiver desativada."
  SETTING_DISABLE_3D_TERRAIN: "Desabilitar Terreno 3D"
  SETTING_DISABLE_3D_TERRAIN_TOOLTIP: "#T $SETTING_DISABLE_3D_TERRAIN$#!\nDesabilita os elementos 3D do terreno para melhorar o desempenho."
- SETTING_FILL_IN_IMPASSABLE_TERRAIN: "Incluir terreno intransponível"
+ SETTING_FILL_IN_IMPASSABLE_TERRAIN: "Incluir terreno intransitável"
  SETTING_FILL_IN_IMPASSABLE_TERRAIN_TOOLTIP: "#T $SETTING_CAMERA_ROTATION_RESET$#!\nDetermina se haverá terreno intransponível dentro do território de uma nação no mapa."
  SETTING_CAMERA_ROTATION_RESET: "Redefinição da Rotação da Câmera"
  SETTING_CAMERA_ROTATION_RESET_TOOLTIP: "#T $SETTING_CAMERA_ROTATION_RESET$#!\nDetermina se a câmera voltará automaticamente para a posição padrão após ser rotacionada pelo jogador."
@@ -348,3 +360,5 @@
  SETTING_ENABLE_PARTICLES_TOOLTIP: "#T $SETTING_ENABLE_PARTICLES$\n#!Permite desabilitar os efeitos de partícula no jogo para melhorar o desempenho."
  SETTING_GUI_TEXTURE_STREAMING: "Carregamento de Textura da IGU"
  SETTING_GUI_TEXTURE_STREAMING_TOOLTIP: "#T $SETTING_GUI_TEXTURE_STREAMING$\n#!Alterna o carregamento de elementos da Interface Gráfica do Usuário\nAtivar essa opção reduz o uso de VRAM, mas pode causar queda de qualidade temporária."
+ #Playsets
+ SETTINGS_WARNING_PLAYSET: "Show dialog to warn about playset errors"

@@ -115,11 +115,11 @@
  #Disaster
  revolution_disaster: "¡Revolución!"
  revolution_disaster_desc: "Décadas de opresión feudal, dificultades económicas e intolerancia religiosa han pasado factura a la paz de nuestra nación y la lucha del pueblo por la libertad supone una grave amenaza para nuestro reinado. El levantamiento parece inevitable..."
- revolution_disaster_end_trigger_tt: "Los #Y rebeldes revolucionarios#! no planean una [civil_war|e|l]."
- MONARCHIST_STR_DESC: "Tamaño del [army|e|l] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nPotencial de [levy|e|l] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
- REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "Potencial de [military_strength|e|l] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]"
- REVOLUTIONARIES_STR_DESC: "Tamaño del [army|e|l] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nPotencial de [levy|e|l] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
- MONARCHIST_POTENTIAL_STRENGTH_TT: "Potencial de [military_strength|e|l] de [DisasterView.GetDisaster.GetOwner.GetName]"
+ revolution_disaster_end_trigger_tt: "Los #Y rebeldes revolucionarios#! no planean una [civil_war|el]."
+ MONARCHIST_STR_DESC: "Tamaño del [army|el] [DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip|l]: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\nPotencial de [levy|el] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy!\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "Potencial de [military_strength|el] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]"
+ REVOLUTIONARIES_STR_DESC: "Tamaño del [army|el] [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip|l]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\nPotencial de [levy|el] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy!\n[manpower|e] de [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ MONARCHIST_POTENTIAL_STRENGTH_TT: "Potencial de [military_strength|el] de [DisasterView.GetDisaster.GetOwner.GetName]"
  #Revolutionary Chaos
  #Disaster
  revolutionary_chaos: "Caos revolucionario"
@@ -232,6 +232,7 @@
  decline_of_empire: "Declive del imperio"
  decline_of_empire_desc: "Otrora poderoso e inquebrantable, nuestro imperio se tambalea ahora al borde del colapso. La corrupción se propaga por nuestras instituciones, nuestras provincias se agitan bajo el peso del abandono y las potencias extranjeras nos rodean como buitres, ansiosas por despedazar lo que queda de nuestra gloria. La edad de oro que antaño nos definiese se ha desvanecido en el recuerdo, y las grietas de nuestros cimientos se ensanchan día tras día. Si no actuamos con presteza para atajar la podredumbre interna y recuperar el control, nuestro imperio se derrumbará, dejando solo ruinas y pesar, una sombra de nuestra antigua gloria..."
  has_not_had_decline_of_empire_last_25_years: "No ha tenido este [disaster|el] en los últimos #Y 25#! años"
+ not_recently_become_empire_tt: "Ha tenido el rango de [ShowCountryRankName('rank_empire')|l] durante al menos #Y 15#! años"
  #Decline of Mali
  #Disaster
  decline_of_mali: "La decadencia de Mali"

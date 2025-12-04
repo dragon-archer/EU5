@@ -1,7 +1,7 @@
 ﻿l_german:
  flavor_gra.1.title: "Maurische Flüchtlinge"
  flavor_gra.1.desc: "Im Namen Allahs, des Gnädigen, des Barmherzigen. Granada ist in die Hände der Ungläubigen gefallen! Das letzte Juwel von al-Andalus, ein Hort des Wissens, ist nun in kastilischer Hand. Während die islamische Welt diesen Verlust zu verkraften versucht, strömen maurische Flüchtlinge in die muslimischen Städte und an die Höfe Nordafrikas und des Nahen Ostens und bringen das Wissen und die Werke herausragender Gelehrter wie Abū l-Walīd Muhammad ibn Ahmad Ibn Ruschd, Abu al-Qasim al-Zahrawi und Abu Bakr ibn Tufail mit. Die Einladung dieser Flüchtlinge nach „[ROOT.GetCountry.GetName|U]“ könnte unseren eigenen Bemühungen in den Bereichen Wissenschaft und Kultur einen gewaltigen Schub verleihen."
- flavor_gra.1.a: "Ladet sie auf jeden Fall nach „[ROOT.GetCountry.GetName|U]“ ein!"
+ flavor_gra.1.a: "Ladet sie auf jeden Fall nach [ROOT.GetCountry.GetNameWithNoTooltip] ein!"
  flavor_gra.1.b: "Nein, wir brauchen sie nicht."
  flavor_gra.2.title: "Das Emirat Sizilien"
  flavor_gra.2.desc: "In der Vergangenheit war das Emirat Sizilien eine unerschütterliche Bastion unseres Glaubens, die bis zur Eroberung der Insel durch die Kreuzritter im Jahr 1087 standhielt.\n\nDa wir nun im Besitz dieses begehrten Landes sind, werden wir die Kontrolle darüber nicht mehr aus der Hand geben!"

@@ -293,7 +293,7 @@
  flavor_mam.64.a: "Necesitamos el apoyo de los mamelucos [target_culture.GetNameWithNoTooltip|l]."
  flavor_mam.64.b: "El apoyo de los mamelucos [target_culture2.GetNameWithNoTooltip|l] es tan vital como siempre."
  flavor_mam.64.c: "Aunque no es tan importante, [third_ruler.GetNameWithNoTooltip|l] ha demostrado talento."
- flavor_mam.64.d: "Un mameluco tradicional de entre nuestros [target_culture4.GetName|l]."
+ flavor_mam.64.d: "Un mameluco tradicional de entre nuestros [target_culture4.GetNameWithNoTooltip|l]."
  flavor_mam.65.title: "Soldados de [target_location.GetNameWithNoTooltip]"
  flavor_mam.65.desc: "Aunque los $mamluks$ constituyen el núcleo de nuestras fuerzas, no todo nuestro poderío militar consiste en esclavos guerreros. Los soldados locales de [target_location.GetName] conforman gran parte de nuestra infantería y también se utilizan para tareas de guardia y guarnición.\n\nSin embargo, las escasas posibilidades de ascenso y los bajos salarios no son las mejores motivaciones, y no está claro hasta qué punto podemos confiar en estos hombres. Sin duda, el adiestramiento militar y los pertrechos son a menudo descuidados por su [ROOT.GetCountry.GetGovernment.GetRulerTitle|l] y los gobernadores que administran [target_location.GetRank.GetName|l]. En [target_location.GetArea.GetName] la desconfianza entre los habitantes de [target_location.GetName] y los gobernadores $mamluks$ ha provocado cierto riesgo de revuelta."
  flavor_mam.65.a: "¡Debemos erradicar ese problema!"

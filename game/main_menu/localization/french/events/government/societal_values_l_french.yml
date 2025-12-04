@@ -273,7 +273,7 @@
  societal_values.604.b: "Il pourrait servir [ROOT.GetCountry.GetReligion.GetGodName] !"
  societal_values.604.c: "$societal_values.604.b$"
  societal_values.604.d: "$societal_values.604.b$"
- societal_values.604.e: "Il pourrait servir le [GetUniqueInternationalOrganization('hre').GetName] !"
+ societal_values.604.e: "Il pourrait servir le [GetUniqueInternationalOrganization('hre').GetNameWithNoTooltip] !"
  societal_values.605.title: "Conciliation"
  societal_values.605.desc: "Parfois, lorsque deux pays connaissent des régimes politiques différents, ils éprouvent quelques difficultés à se comprendre. Grâce aux talents de nos diplomates, pourtant, nous avons pu aplanir les dissensions avec l'un de nos voisins."
  societal_values.605.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

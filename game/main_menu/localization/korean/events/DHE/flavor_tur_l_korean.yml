@@ -138,7 +138,7 @@
  flavor_tur.25.b: "뇌물을 보내도록."
  algiers_uprising: "[ShowAreaName('algiers_area')] 내 모든 [ShowCultureName('algerian')] [pops|e]의 [Concept('pop_satisfaction', '만족도')|e]가 [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] 감소합니다"
  flavor_tur.27.title: "온 세상이 탐내는 [ShowLocationRankNameWithNoTooltip('city')]"
- flavor_tur.27.desc: "마침내 [ShowLocationName('constantinople')](을)를 정복했습니다. 지난 세월 수많은 [ShowReligionGroupName('muslim')] 지휘관이 [ShowBuildingTypeName('theodosian_walls')]의 위용 앞에 무릎 꿇었던 이 위대한 로마 [constantinople_location.GetRank.GetName](은)는 우리 [ROOT.GetCountry.GetFlavorRank]의 새로운 수도로 삼기에 아무런 손색이 없습니다. [ShowCultureName('turkish_culture')] 충성파를 요직에 앉혀 이곳을 과거의 영광스러웠던 모습으로 되돌리기 위해 힘쓸 수 있겠지만, 그저 닥치는 대로 약탈을 벌이는 것도 가능합니다."
+ flavor_tur.27.desc: "마침내 [ShowLocationName('constantinople')](을)를 정복했습니다. 지난 세월 수많은 [ShowReligionGroupAdjective('muslim')] 지휘관이 [ShowBuildingTypeName('theodosian_walls')]의 위용 앞에 무릎 꿇었던 이 위대한 로마 [constantinople_location.GetRank.GetName](은)는 우리 [ROOT.GetCountry.GetFlavorRank]의 새로운 수도로 삼기에 아무런 손색이 없습니다. [ShowCultureName('turkish_culture')] 충성파를 요직에 앉혀 이곳을 과거의 영광스러웠던 모습으로 되돌리기 위해 힘쓸 수 있겠지만, 그저 닥치는 대로 약탈을 벌이는 것도 가능합니다."
  flavor_tur.27.historical_info: "오스만의 콘스탄티노플 정복은 서구 기독교도 사이에서 큰 충격을 자아냈지만, 이슬람 세계에서는 오스만의 위상을 드높인 사건으로 여겨집니다. 관례대로 3일 동안 약탈을 자행한 후, 메흐메트 2세는 앞으로 거주민들을 해치지 말라고 명령했습니다. 그 뒤로 콘스탄티노플의 그리스인 중 많은 인물이 오스만의 조언가로서 활약하게 됩니다."
  flavor_tur.27.a: "우리에게 걸맞은 수도가 될 것이야."
  flavor_tur.27.b: "재산을 약탈하고 승리를 선언하라!"

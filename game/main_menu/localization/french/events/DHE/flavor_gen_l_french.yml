@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "La Corse a toujours été une source d'ennuis pour la [ROOT.GetCountry.GetLongName]. Son peuple est têtu et cherche à s'affranchir de nous à la moindre occasion.\n\nPourtant, il refuse aussi de s'incliner devant n'importe quel seigneur féodal. Chef d'une jacquerie, paysans révoltés de [GetCountry('FRA').GetName] pendant la guerre de Cent Ans, [sambucuccio_dalando.GetName] et ses alliés ont entamé une révolte contre le [rebel_location.GetController.GetAdjective] de [rebel_location.GetName]."
  anti_feudal_revolters: "Révolte contre les féodaux"
  flavor_gen.18.a: "Puissent les révoltes repousser nos ennemis."
- flavor_gen.18.b: "Nous avons besoin de [sambucuccio_dalando.GetName] comme général !"
+ flavor_gen.18.b: "Nous avons besoin de [sambucuccio_dalando.GetNameWithNoTooltip] comme général !"
  flavor_gen.19.title: "Fondation de Bastia"
  flavor_gen.19.desc: "L'île de Corse s'est révélée peu rentable et, de ce fait, de nombreux marchands et fonctionnaires #L [ROOT.GetCountry.GetAdjective|l]s#! ont cessé d'interférer dans la politique intérieure de l'île. Cependant, certains hommes d'affaires du [ROOT.GetCountry.GetFlavorRank] voient toujours un potentiel en Corse. Les Maona di Corsica ont organisé la fortification de la ville de [ShowLocationName('bastia')] afin d'affirmer leur contrôle sur l'île. Ils ont également l'intention d'accélérer la croissance d'une ville voisine, ce qui nécessitera un soutien financier supplémentaire."
  flavor_gen.19.a: "Accordons-leur notre soutien."

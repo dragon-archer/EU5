@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "코르시카는 언제나 [ROOT.GetCountry.GetLongName]에 많은 문제를 일으켰습니다. 완고한 그곳 주민들은 틈만 나면 우리에게서 독립을 부르짖습니다.\n\n그런데 이들은 봉건 영주에게도 굴복하지 않습니다. 백년 전쟁에서 [GetCountry('FRA').GetName] 출신 농민 반란군인 자크리를 이끈 [sambucuccio_dalando.GetName](과)와 동료들이 [rebel_location.GetName]에서 [rebel_location.GetController.GetAdjective]에 대항해 반란을 일으킨 것입니다."
  anti_feudal_revolters: "반봉건 반란군"
  flavor_gen.18.a: "반란군이 우리의 적을 격퇴해 주면 좋겠군."
- flavor_gen.18.b: "[sambucuccio_dalando.GetName](을)를 우리 장군으로 임명하라!"
+ flavor_gen.18.b: "[sambucuccio_dalando.GetNameWithNoTooltip](을)를 우리 장군으로 임명하라!"
  flavor_gen.19.title: "바스티아 설립"
  flavor_gen.19.desc: "코르시카섬은 그다지 수익성이 없는 것으로 판명되어, 많은 [ROOT.GetCountry.GetAdjective] 상인과 관리들이 섬의 내부 정치에 간섭하는 것을 그만두었습니다. 그러나 [ROOT.GetCountry.GetFlavorRank]의 일부 사업가는 여전히 코르시카에 잠재력이 있다고 생각합니다. 확고히 자리를 잡은 마오나 디 코르시카는 이 섬에 대한 통제권을 주장하고자 [ShowLocationName('bastia')] 지점의 요새화를 추진했습니다. 이들은 또한 인근 도시의 성장을 가속화하려고 하는데, 이를 위해서는 추가 재정 지원이 필요합니다."
  flavor_gen.19.a: "마오나에 필요한 지원을 제공하겠다."

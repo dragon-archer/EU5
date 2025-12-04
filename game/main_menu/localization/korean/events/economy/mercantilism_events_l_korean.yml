@@ -37,7 +37,7 @@
  mercantilism_events.9.desc: "저명한 경제학자들이 최근 우리나라의 커피 수입량이 급증한 원인에 대한 분석 결과를 내놓았습니다. 우리 주변국 중 한 곳이 교묘한 무역 활동을 통해 지금까지 알려진 세계 최대 규모의 커피콩 산지를 대거 장악했고, 이들이 만든 커피는 [ROOT.GetCountry.GetAdjective] 국민들 사이에서 높은 인기를 누리고 있습니다. 보호무역주의자들은 이러한 호화품 수입이 [ROOT.GetCountry.GetName]에 도움이 되는지 의문을 표하면서, 주변국의 통제하에 있는 물품에 대한 의존도가 높아지면 우리나라의 경제적 입지가 약해질 것이라 주장하고 있습니다."
  mercantilism_events.9.a: "그 경제학자라는 것들은 아침 일찍 일어날 일이 없다더냐?"
  mercantilism_events.9.b: "자연에 반하는 이 약물의 확산을 제한해야 한다."
- mercantilism_events.9.c: "우리 [ROOT.GetCountry.GetAdjective](은)는 차를 마시는 민족이다. 커피 따위는 들이지 않을 것이다."
+ mercantilism_events.9.c: "우리 [ROOT.GetCountry.GetAdjectiveWithNoTooltip](은)는 차를 마시는 민족이다. 커피 따위는 들이지 않을 것이다."
  mercantilism_events.10.title: "차 수입"
  mercantilism_events.10.desc: "저명한 경제학자들이 최근 우리나라의 차 수입량이 급증한 원인에 대한 분석 결과를 내놓았습니다. 우리 주변국 중 한 곳이 교묘한 무역 활동을 통해 지금까지 알려진 세계 최대 규모의 차 산지를 대거 장악했고, 이들이 만든 찻잎은 [ROOT.GetCountry.GetAdjectiveWithNoTooltip] 국민들 사이에서 높은 인기를 누리고 있습니다. 보호무역주의자들은 이러한 호화품 수입이 [ROOT.GetCountry.GetName]에 도움이 되는지 의문을 표하면서, 주변국의 통제하에 있는 물품에 대한 의존도가 높아지면 우리나라의 경제적 입지가 약해질 것이라 주장하고 있습니다."
  mercantilism_events.10.a: "차를 저버리는 것은 곧 문명을 저버리는 일이다."

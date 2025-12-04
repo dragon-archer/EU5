@@ -9,7 +9,7 @@
  unionevents.2.desc: "Ortak hükümdarımız kendi [union_target.GetFlavorRank] makamına o kadar odaklanmış ki bizim [ROOT.GetCountry.GetFlavorRank] makamımızdaki işlerle ilgilenmek için neredeyse hiç vakit ayırmıyor. Birçok kişi de doğal olarak bu durumdan rahatsız."
  unionevents.2.a: "Bu [ROOT.GetCountry.GetNameWithNoTooltip] için düpedüz bir hakarettir!"
  opinion_ignorant_monarch: "İlgisiz Hükümdar"
- unionevents.2.b: "Onu başkentimize davet edin!"
+ unionevents.2.b: "Onu başkentimize davet edelim!"
  opinion_supportive_monarch: "Destekleyici Hükümdar"
  unionevents.3.title: "[ROOT.GetCountry.GetName] Ekonomisi Yerlerde"
  unionevents.3.desc: "Tek bir hükümdarın altında birleşmiş olsak da ulusumuzun tüccarlarına hâlâ yabancı muamelesi yapılıyor. Bu durum da ulusumuzun ekonomisini kötü etkiliyor. [ROOT.GetCountry.GetGovernment.GetFullRulerName|U], ülkemizde daha fazla vakit geçirmeli ve ülkemizi zenginleştirmelidir!"

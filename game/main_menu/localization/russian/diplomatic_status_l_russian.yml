@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "Страна $WHO$ оказывает [Concept('economic_support','финансовую поддержку')|e] державе $LIST$"
  getting_war_reparations_list_who_tt: "Страна $WHO$ получает [Concept('war_reparations','контрибуции')|e] от державы $LIST$"
  giving_war_reparations_list_who_tt: "Страна $WHO$ выплачивает [Concept('war_reparations','контрибуции')|e] державе $LIST$"
- truce_list_who_tt: "Страна $WHO$ в состоянии перемирия с державой $LIST$ до $EXTRA|Y$. Объявление [Concept('war','войны')|e] в нарушение перемирия приводит к потере #R 50#! ед. [Concept('stability','стабильности')|e]"
+ truce_list_who_tt: "Страна $WHO$ в состоянии перемирия с державой $LIST$ до $EXTRA|Y$. Объявление [Concept('war', 'войны')|e] в нарушение перемирия приносит −$PRICE$"
  annul_treaties_list_who_tt: "Страна $WHO$ была вынуждена расторгнуть все договоры с державой $LIST$ до $EXTRA|Y$."
  casus_belli_list_who_tt: "Страна $WHO$ имеет [Concept('casus_belli','повод для войны')|e] против державы $LIST$, поэтому может объявить ей [Concept('war','войну')|e] без потери [Concept('stability','стабильности')|e].\n\nПовод для войны:\n$EXTRA$"
  casus_belli_target_list_who_tt: "Страна $LIST$ имеет [Concept('casus_belli','повод для войны')|e] против державы $WHO$, поэтому может объявить ей [Concept('war','войну')|e] без потери [Concept('stability','стабильности')|e].\n\nПовод для войны:\n$EXTRA$"

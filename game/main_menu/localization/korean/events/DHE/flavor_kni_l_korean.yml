@@ -104,7 +104,7 @@
  flavor_kni.120.b: "그 대신 우리 기반 시설을 개발하도록."
  flavor_kni.121.title: "[target_location.GetNameWithNoTooltip]의 해상 사업"
  flavor_kni.121.desc: "[target_location.GetName](은)는 대단히 유리한 입지 조건을 갖춘 섬입니다. [target_location.GetRegion.GetName] 해안과 가까운 위치에 있는 덕분에 우리가 이웃한 바다에서 해상 활동을 펼칠 때 귀중한 정박지가 되어 주며, 동서양을 잇는 통로 역할을 하는 덕분에 근동을 오가는 많은 외국 상인들은 항해 도중 [target_location.GetNameWithNoTooltip]에 들르곤 합니다."
- flavor_kni.121.a: "[ShowGoodsName('naval_supplies')]의 생산을 장려하자꾸나!"
+ flavor_kni.121.a: "[ShowGoodsNameWithNoTooltip('naval_supplies')]의 생산을 장려하자꾸나!"
  flavor_kni.121.b: "상인들을 지금보다 더 많이 맞이해야 한다."
  flavor_kni.121.c: "그보다는 현지의 주민들을 돌보는 데 노력을 쏟도록 하라."
  flavor_kni.130.title: "기적적인 지진"

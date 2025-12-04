@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "Córcega ha supuesto siempre muchos problemas para [ROOT.GetCountry.GetLongName|l]. Su pueblo es obstinado y busca independizarse de nosotros siempre que puede.\n\nSin embargo, también se niegan a inclinarse ante ningún señor feudal. El líder de una #italic jacquerie#!, una revuelta campesina de [GetCountry('FRA').GetName] durante la Guerra de los Cien Años, [sambucuccio_dalando.GetName], ha iniciado una revuelta con sus aliados en contra [rebel_location.GetController.GetAdjective|l] en [rebel_location.GetName]."
  anti_feudal_revolters: "Sublevados antifeudales"
  flavor_gen.18.a: "Que los sublevados rechacen a nuestros enemigos."
- flavor_gen.18.b: "¡Necesitamos que [sambucuccio_dalando.GetName] sea nuestro general!"
+ flavor_gen.18.b: "¡Necesitamos que [sambucuccio_dalando.GetNameWithNoTooltip] sea nuestro general!"
  flavor_gen.19.title: "La fundación de Bastia"
  flavor_gen.19.desc: "La isla de Córcega ha demostrado ser poco rentable y, por tanto, muchos comerciantes y funcionarios [ROOT.GetCountry.GetAdjective|l] han dejado de intervenir en la política interna de la isla. Sin embargo, en [ROOT.GetCountry.GetFlavorRank|l], algunos hombres de negocios aún ven potencial en Córcega. La Maona de Córcega ha organizado la fortificación de la ubicación de [ShowLocationName('bastia')] para imponer su control sobre la isla. También quieren acelerar el crecimiento de un pueblo cercano, aunque esto requerirá apoyo financiero adicional."
  flavor_gen.19.a: "Concedámosle a la Maona el apoyo que necesitan."

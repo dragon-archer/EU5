@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "Gitsin başka yerde vaaz versin."
  muslim_school_events.8.title: "Yabancı İlahiyatçılar, Âlimliğe Renk Katıyor"
  muslim_school_events.8.desc: "Ülkemize davet ettiğimiz ilahiyatçılar dinî âlimlerimizin zümresini fikren zenginleştirdi. Ülkede iyi bir iz bıraktılar ve yeni gelecek nesle önderlik edecek [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')] zümresi onlardan fazlasıyla esinlendi."
- muslim_school_events.8.a: "[ROOT.GetCountry.GetCapital.GetName] onlara ihtiyaç duyuyor."
+ muslim_school_events.8.a: "Onlara [ROOT.GetCountry.GetCapital.GetNameWithNoTooltip] şehrinde ihtiyaç var."
  muslim_school_events.8.b: "Ülkemizin her tarafında kendilerine bir yer bulacaklar."
  muslim_school_events.9.title: "[SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip] İlahiyatçıları"
  muslim_school_events.9.desc: "Medreselerimizde [SCOPE.sCountry('scholar_country').GetAdjectiveWithNoTooltip] âlimler olduğu için hem ülkemizdeki ilahiyat ilmini geliştiriyoruz hem de bir [SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName] olan [SCOPE.sCountry('scholar_country').GetName] ile ilişkilerimizi iyileştiriyoruz."

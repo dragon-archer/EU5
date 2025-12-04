@@ -130,6 +130,7 @@
  LEAVE_WAR_REASON_Forced: "[TARGET_COUNTRY.GetName] tarafından savaştan çıkmaya zorlandı"
  LEAVE_WAR_REASON_Abandoned: "İhtiyaç anında müttefikleri [TARGET_COUNTRY.GetName] ülkesini yalnız başına bıraktılar"
  LEAVE_WAR_REASON_ForcedAbandoned: "Metbu Devleti tarafından müttefikleri [TARGET_COUNTRY.GetName] ülkesinin ihtiyacı anında onları yalnız başına bırakmaya zorlandılar"
+ LEAVE_WAR_REASON_BrokeFreeOfOverlord: "Broke free from their [overlord|e] [TARGET_COUNTRY.GetName]"
  REFUSE_TO_JOIN_WAR_REASON_HumanDeclined: "Bir Oyuncu katılmayı reddetti."
  REFUSE_TO_JOIN_WAR_REASON_NotEnoughReasons: "Katılmak için yeterli sebepleri yok."
- REFUSE_TO_JOIN_WAR_REASON_ConflictOfInterests: "Ellerinden gelse iki ülkeyi de desteklerlerdi ama destekleyemezler, bu yüzden tarafsız kaldılar."
+ REFUSE_TO_JOIN_WAR_REASON_ConflictOfInterests: "Ellerinden gelse iki ülkeyi de desteklerlerdi, ancak destekleyemedikleri için tarafsız kaldılar."

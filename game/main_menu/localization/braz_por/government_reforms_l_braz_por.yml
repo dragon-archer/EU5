@@ -205,6 +205,8 @@
  coastal_city_or_town_gets_tt: "Todos os [towns_and_cities|e] [Concept('coastal', 'costeiros')|e] possuídos ganharão:"
  every_coastal_location_gains_tt: "Cada [location|e] [Concept('coastal', 'costeiro')|e] possuído ganhará:"
  #Specific ones
+ alsno_stadga: "Alsnö Stadga"
+ alsno_stadga_desc: "Este conjunto de regras foi definido por [GetCharacter('swe_magnus_ladulas').GetName] em 1280 em Alsnö Hus para regular e formalizar os benefícios do estamento [ShowEstateTypeName('nobles_estate')], ao mesmo tempo que protegia [ShowPopTypeName('peasants')] da sua exploração. Por isso ele recebeu o apelido \"Ladulås\", ou \"Fechadura de Celeiro\", dos plebeus."
  papacy_reform: "Santa Sé"
  papacy_reform_desc: "A Santa Sé é a jurisdição do Bispo de [ShowLocationName('rome')], o #italic Pontifex Maximus#!, chefe da Igreja [ShowReligionAdjective('catholic')], conhecido como [GetCountry('PAP').GetGovernment.GetRulerTitle]."
  kingdom_of_god_reform: "Reino de Deus"
@@ -220,7 +222,7 @@
  magna_carta_reform: "Carta Magna"
  magna_carta_reform_desc: "A Carta Magna é um documento que protege os direitos feudais dos nossos barões de tributações injustas e manobras legais do estamento [ShowEstateTypeName('crown_estate')]. Ela também é um dos primeiros documentos a explorar a ideia de liberdades civis, como o direito a um julgamento justo e a proteção contra prisões ilegais."
  sbl_restorer_of_the_disinherited: "Restauração dos Deserdados"
- sbl_restorer_of_the_disinherited_desc: "Os lordes deserdados pelo traidor [GetCharacter('sco_robert_de_brus_1st_lord_of_annandale'), migram para o nosso estandarte devido à nossa promessa de restaurar suas propriedades legítimas!"
+ sbl_restorer_of_the_disinherited_desc: "Os lordes deserdados pelo traidor [GetCharacter('sco_robert_de_brus_1st_lord_of_annandale')], migram para o nosso estandarte devido à nossa promessa de restaurar suas propriedades legítimas!"
  irish_earldom_reform: "Earldom $IRE_ADJ$"
  irish_earldom_reform_desc: "Nossa autoridade consiste nos títulos que nos foram concedidos pelo Lorde da $IRE$."
  iron_ring_reform: "O Anel de Ferro"
@@ -432,7 +434,7 @@
  kor_daedongbeob: "Daedongbeob"
  kor_daedongbeob_desc: "Também conhecido como #italic Lei do Imposto sobre Terra Uniforme#!, o $kor_daedongbeob$ muda o regime tributário para se basear em contribuições de [ShowGoodsName('wheat')] uniformes. Este conjunto de reformas de melhorar as vidas dos [ShowEstateTypeName('peasants_estate')] e aumentar o potencial comercial dos nossos [ShowEstateTypeName('burghers_estate')]."
  son_in_law_rule: "Regra do \"Genro\""
- son_in_law_rule_desc: "Nosso Estado está profundamente conectado aos assuntos dinásticos das terras governadas pela [ShowCultureGroupName('mongolian_group')] na $china$. Os próprios núcleos do nosso governo atual servem de extensão da vontade de Yuán, nosso \"Sogro\", e nossos monarcas são obrigados a se casar com princesas [ShowCultureGroupNameWithNoTooltip('mongolian_group')]."
+ son_in_law_rule_desc: "Nosso Estado está profundamente conectado aos assuntos dinásticos das terras governadas pela [ShowCultureGroupName('mongolian_group')] na $china$. Os próprios núcleos do nosso governo atual servem de extensão da vontade de Yuan, nosso \"Sogro\", e nossos monarcas são obrigados a se casar com princesas [ShowCultureGroupNameWithNoTooltip('mongolian_group')]."
  kor_sadae_reform: "Política Sadae"
  kor_sadae_reform_desc: "$kor_sadae_reform$ mantém uma relação próxima entre [ShowRegionName('korea_region')] e $china$, onde a primeira é tratada como um sócio júnior da outra. Com isso nós continuamos subservientes ao [GetInternationalOrganization('middle_kingdom').GetName] e precisamos lutar para manter boas relações com o povo [ShowCultureGroupName('chinese_group')]."
  holy_imperial_monarchy_reform: "Monarquia Imperial Sagrada"
@@ -455,7 +457,7 @@
  lifan_yuan: "Lǐfān Yuàn"
  lifan_yuan_desc: "O $lifan_yuan$ é um departamento que administra os territórios e políticas do Estado no interior da [ShowContinentName('asia')], como as províncias na [ShowRegionName('mongolia_region')], no [ShowRegionName('tibet_region')] e em [ShowRegionName('xinjiang_region')], Se houver necessidade, ele administrará as propriedades nas terras ainda mais no interior."
  prikazi_reform: "Prikazi"
- prikazi_reform_desc: "O $prikazi_reform$ é uma reforma da estrutura administrativa usada para a burocracia governamental. Ele estabelece diversos gabinetes responsáveis por vários aspectos de governança como tributação, justiça, interesses militares e transação comercial, o que facilita a implementação mais rápida de políticas e decisões tomadas pelo Czar."
+ prikazi_reform_desc: "O $prikazi_reform$ é uma reforma da estrutura administrativa usada para a burocracia governamental. Ele estabelece diversos gabinetes responsáveis por vários aspectos de governança como tributação, justiça, assuntos militares e transação comercial, o que facilita a implementação mais rápida de políticas e decisões tomadas pelo Czar."
  razriadnyi_reform: "Razriadnyi Prikaz"
  razriadnyi_reform_desc: "O $razriadnyi_reform$ introduz um censo que é usado para manter registros da população, propriedades e tributação do país. Ele é atualizado em intervalos regulares, avalia as obrigações militares dos estamentos e mantém um registro de posse de terras e propriedades, garantindo que tudo o que é devido seja pago."
  byzantine_court_ceremonies_reform: "Cerimônias da Corte [GetCountry('BYZ').GetAdjectiveWithNoTooltip]"
@@ -505,7 +507,7 @@
  austrian_archduchy_reform: "Arquiducado de [GetCountry('HAB').GetNameWithNoTooltip]"
  austrian_archduchy_reform_desc: "Recebemos o #italic Privilegium Maius#!, que nos concede uma posição elevada entre os príncipes do [GetUniqueInternationalOrganization('hre').GetName]. Isso demonstra nossa posição social e nosso prestígio até fora das terras do império e nos eleva a posições acima do que a de um simples duque."
  reichshofrat_reform: "Reichshofrat"
- reichshofrat_reform_desc: "O Reichshofrat serve como a principal instituição jurídica para os países [GetCountry('HAB').GetName] e [ROOT.GetCountry.GetName], dando-nos um controle maior dos processos jurídicos tanto dos nossos súditos diretos quanto dos imperiais."
+ reichshofrat_reform_desc: "O Reichshofrat serve como a principal instituição jurídica para [GetCountry('HAB').GetName] e [GetUniqueInternationalOrganization('hre').GetName], dando-nos um controle maior dos processos jurídicos tanto dos nossos súditos diretos quanto dos imperiais."
  hab_geheimer_rat: "Geheimrat"
  hab_geheimer_rat_desc: "O Geheimrat serve como um corpo de assessoria central do monarca. Formado por nobres, ministros e confidentes, o conselho exerceu uma função crucial na criação de políticas imperiais."
  #Bohemia
@@ -547,7 +549,7 @@
  zmw_council_of_senior_wives_desc: "Este Conselho nos fornecerá pareceres excelentes, envolvendo as esposas mais habilidosas da nossa classe dominante na administração do nosso país."
  #Ayutthaya
  ayu_chatusadom: "Chatusadom"
- ayu_chatusadom_desc: "O chamado \"Quatro Pilares\" é o ministério de organização $ayu_chatusadom$ que divide o governo em duas partes: a militar e a civil, sendo que a segunda é subdividida em quatro ministérios. A compartimentalização e a atribuição direta de tarefas a cada ministério geram uma administração mais eficiente e serve como forma de estender a autoridade do governante."
+ ayu_chatusadom_desc: "O chamado \"Quatro Pilares\" é o ministério de organização $ayu_chatusadom$ que divide o governo em duas vertentes: a militar e a civil, sendo que a segunda é subdividida em quatro ministérios. A compartimentalização e a atribuição direta de tarefas a cada ministério geram uma administração mais eficiente e serve como forma de estender a autoridade do governante."
  mandala_system: "Sistema de Mandala"
  mandala_system_desc: "Mandala é um sistema de poder no qual cidades-Estados independentes juram fidelidade a quem lidera a mais poderosa entre elas. Com origem nas visões de mundo [ShowReligionGroupAdjective('dharmic')] e [ShowReligionGroupAdjective('buddhist')], sua ideia fundamental é de que o poder emana radialmente de uma fonte central.Assim cada Estado é uma fonte de poder local, mas seu poder, por outro lado, irradia da fonte central, que é a mais poderosa."
  #Rise of the Ottomans
@@ -559,7 +561,7 @@
  legacy_of_the_turks_desc: "Superar os nossos poderosos vizinhos da região da [ShowRegionName('anatolia_region')] nos possibilitou a chegada de um novo poder em ascensão! $legacy_of_the_ottomans_desc$"
  #Songhai
  son_trans_saharan_trade: "Comércio Transaariano"
- son_trans_saharan_trade_desc: "As rotas comerciais transaarianas do Oeste da África sempre trouxeram riquezas à [ShowRegionName('guinea_region')] e seus impérios. Em vez de deixar estas rotas decaírem, vamos continuar oferecendo ajuda para as caravanas que passam por nossas terras."
+ son_trans_saharan_trade_desc: "As rotas comerciais transaarianas da [ShowContinentName('africa')] sempre trouxeram riqueza à África Ocidental e aos seus impérios. Em vez de deixar estas rotas decaírem, vamos oferecer apoio às caravanas que passam pelas nossas terras."
  #Revolutionary States
  revolutionary_republic: "República Revolucionária"
  revolutionary_republic_desc: "A $revolutionary_republic$ representa o governo da nação com um pequeno executivo, apoiado por uma câmara de deputados eleitos. Propagandas revolucionárias fortalecem o moral dos exércitos que defendem a revolução, e o princípio de que todos são iguais fortalece a liderança."
@@ -592,7 +594,7 @@
  #Timurids
  timurid_diwan_reform: "Dīwān $TIM_ADJ$"
  timurid_diwan_reform_desc: "Devemos abandonar outras reformas e legalizar a $sharia$ como lei oficial. Este $timurid_diwan_reform$ possibilitará estabelecer a governância islâmica apropriada sobre quaisquer infiéis, além de facilitar a concessão de governadoria a qualquer um de nossos parentes."
- soyurghal_governor_reform_desc_common: "Um governador do [GetCountry('TIM').GetName]. A pessoa a cargo das terras foi indicada por diversos motivos: seja porque precisava de mais experiência para ser o próximo governante, porque a área precisa desesperadamente de um governador capacitado, ou simplesmente para removê-la das políticas do reino."
+ soyurghal_governor_reform_desc_common: "Governadores da entidade política [GetCountry('TIM').GetLongName] que foram nomeados para o cargo porque precisavam de mais experiência antes de se tornarem os próximos governantes, porque a área em questão precisava desesperadamente de um governador competente ou simplesmente para excluí-los da política ativa do reino."
  soyurghal_governor_reform: "Governador Soyurghal de Tutoria"
  soyurghal_governor_reform_desc: "$soyurghal_governor_reform_desc_common$"
  soyurghal_governor_banished_reform: "Governador Soyurghal Banido"
@@ -620,3 +622,6 @@
  #Sikhism
  guru_granth_sahib_reform: "$guru_granth_sahib$"
  guru_granth_sahib_reform_desc: "$guru_granth_sahib_desc$"
+ #Malacca Formable
+ shahbandariyya_reform: "Shāhbandariyya"
+ shahbandariyya_reform_desc: "$shahbandar_desc$"

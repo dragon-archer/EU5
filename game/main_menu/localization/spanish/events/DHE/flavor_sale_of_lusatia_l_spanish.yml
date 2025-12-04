@@ -11,7 +11,7 @@
  flavor_sale_of_lusatia.1100.title: "El asunto de [GetCountry('SOR').GetNameWithNoTooltip]"
  flavor_sale_of_lusatia.1100.desc_normal: "En teoría, [GetCountry('SOR').GetLongName|l] debería volver ahora a nuestra posesión, ya que el acuerdo ha llegado a su fin.\n\nSin embargo, esta posesión sigue ofreciéndonos muy poco valor, mientras que vender las tierras podría darnos el apoyo financiero necesario para asuntos más importantes. Podríamos explorar la opción de vender el título en su totalidad, lo que nos liberaría de este problemático terreno. Seguro que muchos estarían interesados en adquirir [GetCountry('SOR').GetName], sobre todo porque nuestras buenas relaciones con [target_buyer.GetName] hacen que sea una opción fiable."
  flavor_sale_of_lusatia.1100.desc_fallback: "El acuerdo de [GetCountry('SOR').GetName] ya ha llegado a término. Sin embargo, mientras estaba en manos de esos idiotas extranjeros, su existencia ha llegado a su fin. Ahora mismo tenemos muy pocas opciones legales para recuperar esas tierras."
- flavor_sale_of_lusatia.1100.a: "Hagámosle la oferta a [target_buyer.GetName]."
+ flavor_sale_of_lusatia.1100.a: "Hagámosle la oferta a [target_buyer.GetNameWithNoTooltip]."
  flavor_sale_of_lusatia.1100.b: "No vamos a vender más tierras."
  flavor_sale_of_lusatia.1100.c: "¡Recuperaremos nuestra legítima tierra!"
  flavor_sale_of_lusatia.1100.d: "¿Mal juicio, quizá?"

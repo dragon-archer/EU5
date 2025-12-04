@@ -173,7 +173,7 @@
  flavor_vij.1101.title: "$flavor_vij.1100.title$"
  flavor_vij.1101.desc.a: "随着我们遏制[ShowCultureName('tamil')]叛乱的政策奏效，大多数叛军已被平息，更重要的是，煽动此次叛乱的首领也被捕了。我军成功逮捕了[target_character.GetName]，举国上下都在呼吁将[target_character2.GetHerHim]放逐。"
  flavor_vij.1101.desc.b: "我们未能遏制[ShowCultureName('tamil')]叛乱，叛军首领终于露面。[target_character.GetName]暗中筹谋，试图赢得支持，意图将[target_character.GetHerHis]的领地从[ROOT.GetCountry.GetName]中独立出去，[target_character.GetHeShe]甚至与[ShowCultureNameWithNoTooltip('tamil')]人展开谈判。如今，唯有彻底粉碎叛军，方可挽回局势。"
- flavor_vij.1101.a: "流放[target_character.GetHerHim]！叛徒不配留在[ROOT.GetCountry.GetName]！"
+ flavor_vij.1101.a: "流放[target_character.GetHerHim]！叛徒不配留在[ROOT.GetCountry.GetNameWithNoTooltip]！"
  flavor_vij.1101.b: "拿起武器，兄弟们！让我们碾碎[target_character.GetNameWithNoTooltip]与[target_character.GetHerHis]那帮乌合之众！"
  tamil_uprising: "泰米尔人起义"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "所有[ShowCultureName('tamil')][pops|e]会失去[ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%][pop_satisfaction|e]。"

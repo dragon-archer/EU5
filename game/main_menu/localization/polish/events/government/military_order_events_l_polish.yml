@@ -37,6 +37,6 @@
  military_order_events.9.a: "Jesteśmy zwycięzcami!"
  forming_koj_easier_tt: "Założenie Królestwa Jerozolimskiego zwiększy naszą [stability|el] i [government_power|el] oraz zyskamy modyfikator „[ShowModifier('jerusalem_resurgent_modifier')]” na #Y 20#! lat"
  military_order_events.9.b: "Te ziemie należą do naszego zakonu!"
- military_order_events.9.c: "Przywróć tereny miasta [ShowLocationName('jerusalem')] prawowitemu właścicielowi."
+ military_order_events.9.c: "[ShowLocationNameWithNoTooltip('jerusalem')] zostanie oddana prawowitemu właścicielowi."
  #Tooltips
  because_we_opted_inwards_tt: "Z uwagi na to, że wybraliśmy #italic Spójrz w siebie, musimy rozbudować naszą twierdzę#! w wydarzeniu #Y Następstwa ery krucjat#!, opcja ta będzie wzmocniona."

@@ -1,7 +1,7 @@
 ﻿l_polish:
  flavor_gra.1.title: "Uchodźcy mauretańscy"
  flavor_gra.1.desc: "W imię Allaha, Najłaskawszego, Najmiłosierniejszego. Granada padła łupem niewiernych! Ostatni klejnot Al-Andalus, kaganek oświaty, jest teraz w rękach Kastylii. Świat islamu rozpacza po tej stracie, a mauretańscy uchodźcy napływają do muzułmańskich miast i dworów Afryki Północnej oraz Bliskiego Wschodu, przynosząc ze sobą wiedzę, a także dzieła wyjątkowych uczonych, takich jak Abu al-Walid ibn Ruszd, Abu al-Kasim al-Zahrawi i Abu Bakr ibn Tufajl. Zaproszenie tych uchodźców do państwa [ROOT.GetCountry.GetName] może być potężną zachętą do podjęcia własnych wysiłków w dziedzinach nauki i kultury."
- flavor_gra.1.a: "Jak najbardziej, przyjmijmy ich w państwie [ROOT.GetCountry.GetName]!"
+ flavor_gra.1.a: "Jak najbardziej przyjmijmy ich w państwie [ROOT.GetCountry.GetNameWithNoTooltip]!"
  flavor_gra.1.b: "Nie, nie potrzebujemy ich."
  flavor_gra.2.title: "Emirat Sycylii"
  flavor_gra.2.desc: "W minionych wiekach Emirat Sycylii był silnym bastionem naszej wiary. Trzymał się mocno, dopóki krzyżowcy nie podbili wyspy w 1087 roku.\n\nTeraz, gdy jesteśmy w posiadaniu tej upragnionej ziemi, nie stracimy nad nią kontroli ponownie!"

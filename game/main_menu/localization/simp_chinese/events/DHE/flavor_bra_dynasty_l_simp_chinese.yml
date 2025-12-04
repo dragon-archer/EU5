@@ -129,7 +129,7 @@
  flavor_bra_dynasty.1101.a.tt: "我们会让[emperor_ruler.GetName]成为[root_country.GetName]的新[ruler|e]，建立与他们的[union|e]"
  flavor_bra_dynasty.1101.b: "让[dynasty_character.GetNameWithNoTooltip]统治[root_country.GetNameWithNoTooltip]。"
  flavor_bra_dynasty.1101.b.tt: "我们会让[dynasty_character.GetName]成为[root_country.GetName]的新[ruler|e]"
- flavor_bra_dynasty.1101.c: "[cabinet_character.GetName]将代我们统治。"
+ flavor_bra_dynasty.1101.c: "[cabinet_character.GetNameWithNoTooltip]将代我们统治。"
  flavor_bra_dynasty.1101.c.tt: "我们会让[cabinet_character.GetName]成为[root_country.GetName]的新[ruler|e]，将这里转变为我们的[ShowSubjectTypeName('vassal')]，但会引起[GetUniqueInternationalOrganization('hre').GetName]所有成员国的[ShowBiasValue('subjugated_elector_antagonism')|-=0][antagonism|e]"
  subjugated_elector_antagonism: "降服选帝侯"
  flavor_bra_dynasty.1101.d: "我们的一位宫廷顾问会解决[root_country.GetAdjectiveWithNoTooltip]的情况。"

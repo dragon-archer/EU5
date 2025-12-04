@@ -318,7 +318,7 @@
  child_gregarious_die_desc: "La gente con la que interactuó en su corta vida sentirá mucha tristeza por la muerte de [CHARACTER.GetName]."
  desc_child_gregarious: "A este niño le gusta estar rodeado constantemente de otras personas y le encanta interactuar con ellas."
  child_rowdy: "Travieso"
- child_rowdy_die_desc: "[CHARACTER.GetName] descansa por fin. Es extraño no escuchar su voz."
+ child_rowdy_die_desc: "[CHARACTER.GetName] descansa por fin. Es extraño no oír su voz."
  desc_child_rowdy: "Este niño es cualquier cosa menos tranquilo; siempre hace notar su presencia, y no de la manera más pacífica."
  child_ambitious: "Ambicioso"
  child_ambitious_die_desc: "Por desgracia, sus ambiciosos sueños no se verán cumplidos."

@@ -8,7 +8,7 @@
  death_of_hayan_wuruk.2.a: "Потребовать от них клятв верности."
  death_of_hayan_wuruk.2.b: "Мы не можем с ними бороться, дадим им автономию."
  death_of_hayan_wuruk.3.title: "[target_overlord.GetNameWithNoTooltip] требует от нас верности"
- death_of_hayan_wuruk.3.desc: "Прошло совсем немного времени с тех пор, как [target_hayan.GetName] отошёл в мир иной, а [target_overlord.GetLongName] уже медленно погружается в безумие и хаос. В самый разгар непростого перехода власти от нас вдруг потребовали поклясться в верности короне. Это наглый шаг, явная демонстрация силы и оскорбление со стороны #L [target_overlord.GetGovernment.GetAdjective]ого#! дома, который отчаянно цепляется за власть."
+ death_of_hayan_wuruk.3.desc: "Прошло совсем немного времени с тех пор, как [target_hayan.GetName] отошёл в мир иной, а [target_overlord.GetLongName] уже медленно погружается в безумие и хаос. В самый разгар непростого перехода власти от нас вдруг потребовали поклясться в верности короне. Это наглый шаг, явная демонстрация силы и оскорбление со стороны [target_overlord.GetGovernment.GetAdjective]ого дома, который отчаянно цепляется за власть."
  death_of_hayan_wuruk.3.a: "Мы подчинимся."
  death_of_hayan_wuruk.3.b: "Пора им отправиться в могилу вслед за своим Хайямом Варуком!"
  death_of_hayan_wuruk.4.title: "[target_subject.GetNameWithNoTooltip] ставит под сомнение нашу власть"

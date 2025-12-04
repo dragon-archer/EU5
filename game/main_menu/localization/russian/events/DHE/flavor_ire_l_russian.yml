@@ -22,6 +22,6 @@
  ireland.40.b: "Мы не должны забывать о своих корнях в этих диких землях!"
  opinion_gone_native: "Полная ассимиляция"
  ireland.50.title: "Галлогласы"
- ireland.50.desc: "Флотилия #L [origin_pop.GetCulture.GetName|l]их#! галер во главе с капитаном по имени [captain.GetName] вошла в порт [target_location.Custom('LR_RP')|l] [target_location.GetName].\n\n[captain.GetShortNameWithNoTooltip] заявил, что его клан был изгнан из родного [origin_location.Custom('LR_RP')|l] [origin_location.GetName]. [ROOT.GetCountry.GetLongName] — воины клана будут верой и правдой служить этой державе, если им разрешат поселиться в [target_location.Custom('LR_PP')|l] [target_location.GetName]."
+ ireland.50.desc: "Флотилия #L [origin_pop.GetCulture.GetName|l]их#! галер во главе с капитаном по имени [captain.GetName] вошла в порт [target_location.Custom('LR_GEN')|l] [target_location.GetName].\n\n[captain.GetShortNameWithNoTooltip] заявил, что его клан был изгнан из родного [origin_location.Custom('LR_GEN')|l] [origin_location.GetName]. [ROOT.GetCountry.GetLongName] — воины клана будут верой и правдой служить этой державе, если им разрешат поселиться в [target_location.Custom('LR_PREP')|l] [target_location.GetName]."
  ireland.50.a: "Пусть остаются!"
  ireland.50.b: "Нам проблемы не нужны!"

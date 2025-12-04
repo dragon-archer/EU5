@@ -11,7 +11,7 @@
  language.2.desc: "O uso contínuo do [enemy_dialect.GetName] por [overlord.GetLongName] como idioma preferencial na corte causou certa controvérsia devido ao presente conflito com o país [enemy_country.GetLongName].\n\nComo solução, eles decidiram adotar o [new_language.GetName] como Idioma da Corte. Devemos seguir seus passos?"
  language.2.a: "Também deveríamos promover o uso oficial do nosso idioma nativo, o [common_dialect.GetNameWithNoTooltip]."
  language.2.b: "Também deveríamos adotar o [new_language.GetNameWithNoTooltip]."
- language.2.c: "Não, mas está na hora de adotarmos o [common_dialect.GetName]."
+ language.2.c: "Não, mas está na hora de adotarmos o [common_dialect.GetNameWithNoTooltip]."
  language.2.d: "Não. Não há nada de errado com o [enemy_dialect.GetNameWithNoTooltip]."
  language.10.title: "O Discurso do(a) [country.GetGovernment.GetRulerTitle|U]"
  language.10.desc: "Outra reunião do conselho, outro documento oficial, e está claro que [ruler.GetShortName] não é capaz de se comportar na corte.\n\nDevido à sua criação sob o povo [ruler_culture.GetName], seu domínio do [court_language.GetName] deixa muito a desejar. Seu forte sotaque estrangeiro é insuportável para ouvidos nativos, e um constante lembrete de que [ruler.GetSheHe] não é alguém que deveria estar no controle de uma corte que fala [court_language.GetNameWithNoTooltip]."

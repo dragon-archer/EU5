@@ -16,7 +16,7 @@
  # Graphics
  SETTING_TRIPLANAR_UV_QUALITY: "Трёхпланарное качество UV"
  SETTING_TRIPLANAR_UV_QUALITY_TOOLTIP: "#T $SETTING_TRIPLANAR_UV_QUALITY$#!\nВлияет на качество текстур отвесного ландшафта."
- OPTION_VERY_LOW: "Очень низк."
+ OPTION_VERY_LOW: "Очень низкое"
  SETTING_UNIT_COA_RESOLUTION: "Разрешение гербов отрядов"
  SETTING_UNIT_COA_RESOLUTION_TOOLTIP: "#T $SETTING_UNIT_COA_RESOLUTION$#!\nВлияет на разрешение гербов, которые отображаются на униформе отрядов."
  # System
@@ -69,6 +69,7 @@
  # Game
  SETTING_DEBUG_SAVES: "Число автосохранений"
  SETTING_DEBUG_SAVES_TOOLTIP: "#T $SETTING_DEBUG_SAVES$#!\nМаксимальное число возможных сохранений"
+ IRONMAN_BLOCKS_THIS: "@trigger_fail! Недоступно в режиме «Железная воля»."
  # Multiplayer
  SETTING_MAX_TICKS_AHEAD: "Предельное опережение по тактам"
  SETTING_MAX_TICKS_AHEAD_TOOLTIP: "#T $SETTING_MAX_TICKS_AHEAD$#!\nМаксимальное число тактов до ожидания подключения клиентов, если вы хост"
@@ -126,6 +127,7 @@
  SETTINGS_CATEGORY_CONFIRM: "Подтверждение настроек"
  SETTINGS_CATEGORY_INPUT_LOCK: "Настройки блока ввода"
  SETTINGS_CATEGORY_DYNAMIC_NAMES: "Динамические названия"
+ SETTINGS_CATEGORY_PLAYSETS: "Playsets"
  # Hotkeys
  SETTING_INPUT_CONTEXT_COMMON: "Обычные"
  SETTING_INPUT_CONTEXT_COMMON_TOOLTIP: "#T Обычные #! Привязки клавиш для частых действий"
@@ -217,6 +219,16 @@
  SETTING_INPUT_ACTION_TOP_RIGHT_8: "Вверх и вправо 8"
  SETTING_INPUT_ACTION_TOP_RIGHT_9: "Вверх и вправо 9"
  SETTING_INPUT_ACTION_TOP_RIGHT_10: "Вверх и вправо 10"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_0: "Control Group 0"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_1: "Control Group 1"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_2: "Control Group 2"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_3: "Control Group 3"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_4: "Control Group 4"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_5: "Control Group 5"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_6: "Control Group 6"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_7: "Control Group 7"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_8: "Control Group 8"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_9: "Control Group 9"
  SETTING_INPUT_ACTION_MAPMODE_MENU: "Вкл./Выкл. меню режима карты"
  # Tooltips
  SETTING_TOOLTIP_MODE: "Режим подсказок"
@@ -348,3 +360,5 @@
  SETTING_ENABLE_PARTICLES_TOOLTIP: "#T $SETTING_ENABLE_PARTICLES$\n#!Позволяет отключить эффекты частиц в игре, чтобы улучшить быстродействие."
  SETTING_GUI_TEXTURE_STREAMING: "Потоковая передача текстур интерфейса"
  SETTING_GUI_TEXTURE_STREAMING_TOOLTIP: "#T $SETTING_GUI_TEXTURE_STREAMING$#!\nПозволяет включить потоковую передачу элементов графического интерфейса\nВключение этого параметра снизит использование видеопамяти, но при этом в интерфейсе могут временно отображаться текстуры более низкого качества."
+ #Playsets
+ SETTINGS_WARNING_PLAYSET: "Show dialog to warn about playset errors"

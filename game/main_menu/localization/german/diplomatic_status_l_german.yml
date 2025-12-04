@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "„$WHO$“ gewährt „$LIST$“ [Concept('economic_support', 'Wirtschaftshilfe')|e]"
  getting_war_reparations_list_who_tt: "„$WHO$“ erhält [Concept('war_reparations', 'Kriegsreparationen')|e] von „$LIST$“"
  giving_war_reparations_list_who_tt: "„$WHO$“ leistet [Concept('war_reparations', 'Kriegsreparationen')|e] an „$LIST$“"
- truce_list_who_tt: "„$WHO$“ hat einen Waffenstillstand bis $EXTRA|Y$ mit „$LIST$“ vereinbart. Einen [war|e] während eines Waffenstillstands zu erklären, verringert die eigene [stability|e] um #R -50#!"
+ truce_list_who_tt: "$WHO$ hat bis zum $EXTRA|Y$ einen Waffenstillstand mit „$LIST$“ vereinbart. Durch das Erklären eines [Concept('war', 'Kriegs')|e] während eines Waffenstillstands verliert der Agressor $PRICE$"
  annul_treaties_list_who_tt: "„$WHO$“ war gezwungen, alle Verträge mit $LIST$ bis $EXTRA|Y$ aufzukündigen."
  casus_belli_list_who_tt: "„$WHO$“ hat einen [casus_belli|e] gegen $LIST$. Dieser erlaubt es „$WHO$“, einen [war|e] zu erklären, ohne [stability|e] zu verlieren\n\nMan hat den folgenden Kriegsgrund:\n$EXTRA$"
  casus_belli_target_list_who_tt: "$LIST$ haben einen [casus_belli|e] gegen „$WHO$“. Dieser erlaubt es $LIST$, einen [war|e] zu erklären, ohne [stability|e] zu verlieren.\n\nSie haben den folgenden Kriegsgrund:\n$EXTRA$"

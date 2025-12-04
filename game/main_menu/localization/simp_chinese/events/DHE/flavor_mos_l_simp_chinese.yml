@@ -365,7 +365,7 @@
  flavor_mos.49.a: "这一血统是无可争议的。"
  flavor_mos.49.tt1: "[dmitry_gerasimov.GetName]精湛的翻译技巧使[target_root_country.GetNameWithNoTooltip ]作为第三罗马的合法性传播更广"
  flavor_mos.49.b: "迷信的胡言。"
- flavor_mos.49.c: "把这一谱系做成浮雕装点[ShowWorkOfArtName('uspensky_sobor')]。"
+ flavor_mos.49.c: "把这一谱系做成浮雕装点[ShowWorkOfArtNameWithNoTooltip('uspensky_sobor')]。"
  flavor_mos.49.historical_info: "#italic 《弗拉基米尔诸王公的故事》#!由德米特里·格拉西莫夫（也有说法称是塞尔维亚人帕科米乌斯）在16世纪初创作。本书意在构建莫斯科公国与罗马皇帝，特别是奥古斯都本人之间的历史联系，从而在君士坦丁堡沦陷，东罗马灭国后为莫斯科作为第三罗马继承拜占庭帝国遗产提供理论支撑。"
  flavor_mos.50.title: "[dmitry_gerasimov.GetNameWithNoTooltip]"
  flavor_mos.50.desc: "作为语言大师和熟练的外交官，[dmitry_gerasimov.GetName]在[GetCountry('LIV').GetLongName]访学期间学习并精通了多国语言。如果[dmitry_gerasimov.GetHimHer]被派遣任命为驻外宫廷的大使，这一炙手可热的技能便能派上用场。因为这一职位肯定需要[dmitry_gerasimov.GetHisHer]和其他文艺复兴学派学者会面，从而提升[ROOT.GetCountry.GetName]的外交声誉。或者，我们可以利用[dmitry_gerasimov.GetHisHer]的语言专长更好地翻译宗教典籍，让基督教更为广泛地传播。"

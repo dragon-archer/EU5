@@ -6,7 +6,7 @@
  struggle_for_royal_power.100.desc: "Hem siyasi hem de askerî çatışmaların dâhil olduğu uzun bir mücadele sonrasında [ROOT.GetCountry.GetName] içerisindeki kriz sona erdi. Artık [ROOT.GetCountry.GetName] ülkesinde gerçek gücün kimin elinde olduğunu herkes biliyor."
  struggle_for_royal_power.100.a: "[ROOT.GetCountry.GetGovernment.GetRulerTitle], herkesten üstündür!"
  struggle_for_royal_power.100.b: "Sejm herkesten üstündür!"
- struggle_for_royal_power.100.c: "Bu iç savaş [ROOT.GetCountry.GetName] ülkesinin sonu olacak."
+ struggle_for_royal_power.100.c: "Bu iç savaş [ROOT.GetCountry.GetNameWithNoTooltip] ülkesinin sonu olacak."
  struggle_for_royal_power.10.title: "Konfederacja"
  struggle_for_royal_power.10.desc: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName] Sejm'in gücünü elinden almaya karar verdiği gibi Sejm de [ROOT.GetCountry.GetGovernment.GetRuler.GetName] Hazretleri'ne kendi taleplerini iletti. Mikolaj Zebrzydowski, Jan Szczesny Herburt, Stanislaw Stadnicki, Aleksander Józef Lisowski ve Janusz Radziwill; Stezyca ve Lublin şehirlerinde kısmen de olsa meşru sayılabilecek bir rokosz, yani bir isyan başlattı. Rokosz ile bir araya gelen soylular bir Konfederacja, yani bir konfederasyon kurarak 67 maddelik taleplerini sıraladı. Henryk Maddeleri'ni ihlal ettiği gerekçesiyle [ROOT.GetCountry.GetGovernment.GetRuler.GetName] Hazretleri'nin tahttan indirilmesini talep etmenin yanı sıra devlet görevlilerini de [ROOT.GetCountry.GetGovernment.GetRulerTitle] yerine Sejm'in atayabilmesi için yetki talep ettiler."
  struggle_for_royal_power.10.a: "Konfederacja ile pazarlık yapılsın."

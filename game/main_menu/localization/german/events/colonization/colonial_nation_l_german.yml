@@ -22,7 +22,7 @@
  colonial_nation.183.title: "Ein neuer Statthalter"
  colonial_nation.183.desc: "Gerüchte über die ineffiziente Herrschaft von [ROOT.GetCountry.GetGovernment.GetRuler.GetName] erreichten unweigerlich die Krone, die sich Sorgen darüber macht, wie sich diese Lage auf ihren Ruf auswirken könnte – und auf unseren. Unter der Drohung, von der Krone übernommen zu werden, bot uns die Kolonie einen Kompromiss an: Wir sollen einen neuen Statthalter ernennen, der die Zügel unserer Kolonie in die Hand nimmt, bevor es zu spät ist."
  colonial_nation.183.a: "Wir sollten diesem Rat folgen."
- colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName|U] ist fähig genug, um auch weiterhin zu herrschen."
+ colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip|U] ist fähig genug, um auch weiterhin zu herrschen."
  colonial_nation.184.title: "„[ROOT.GetCountry.GetName|U]“ hat Schulden!"
  colonial_nation.184.desc: "Die schwierigen Zeiten, die unserer Kolonie bevorstehen, kennen kein Ende. Die Geldschulden, die nun auf uns lasten, haben den Geist unseres Volkes gebrochen. Getrieben durch die Hungersnot verlangt es, dass [ROOT.GetCountry.GetGovernment.GetRuler.GetName] eine sofortige und wirksame Lösung findet."
  colonial_nation.184.a: "Wir werden unseren Einfluss nutzen, um das zu klären."

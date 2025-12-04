@@ -104,7 +104,7 @@
  flavor_kni.120.b: "Vamos desenvolver a nossa infraestrutura em vez disso."
  flavor_kni.121.title: "Comércio Naval em [target_location.GetNameWithNoTooltip]"
  flavor_kni.121.desc: "[target_location.GetName] é uma ilha em uma posição extremamente vantajosa. Sua proximidade com a costa da região [target_location.GetRegion.GetName] a eleva a um ancoradouro valioso para as nossas atividades navais ao longo das costas vizinhas. Ao mesmo tempo, servindo como passagem entre o Oriente e o Ocidente, muitos comerciantes estrangeiros têm procurado fazer de [target_location.GetNameWithNoTooltip] uma parada em suas viagens de ida e volta ao Oriente Próximo."
- flavor_kni.121.a: "Vamos favorecer a produção de [ShowGoodsName('naval_supplies')]!"
+ flavor_kni.121.a: "Vamos favorecer a produção de [ShowGoodsNameWithNoTooltip('naval_supplies')]!"
  flavor_kni.121.b: "Precisamos acomodar mais comerciantes."
  flavor_kni.121.c: "Vamos concentrar nossos esforços em cuidar dos habitantes locais em vez disso."
  flavor_kni.130.title: "Terremoto Milagroso"

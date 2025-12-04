@@ -11,7 +11,7 @@
  flavor_sale_of_lusatia.1100.title: "[GetCountry('SOR').GetNameWithNoTooltip] 문제"
  flavor_sale_of_lusatia.1100.desc_normal: "양도 기간이 만료되어, [GetCountry('SOR').GetLongName](이)가 우리 품으로 돌아올 때가 되었습니다.\n\n그러나 여전히 이 땅은 우리에게 별 가치가 없으며, 차라리 땅을 매각한다면 필요 자금을 마련함으로써 더 중요한 사안에 사용할 수 있을 것입니다. 아예 소유권을 넘김으로써 저 골치 아픈 땅에서 벗어나는 방법도 고려할 수 있습니다. [GetCountry('SOR').GetName]를 얻고자 하는 세력은 많을 테고, 그중에서도 [target_buyer.GetName](은)는 우리와 우호적인 관계를 맺고 있어 매각 상대로 믿을 만합니다."
  flavor_sale_of_lusatia.1100.desc_fallback: "[GetCountry('SOR').GetName] 양도가 만료되었지만, 안타깝게도 저 아둔한 외국인들이 그 땅을 잃고 말았습니다. 이제 합법적으로 그 땅을 다시 얻을 수단은 많지 않습니다."
- flavor_sale_of_lusatia.1100.a: "[target_buyer.GetName]에게 제안을 보내도록."
+ flavor_sale_of_lusatia.1100.a: "[target_buyer.GetNameWithNoTooltip]에게 제안을 보내도록."
  flavor_sale_of_lusatia.1100.b: "영토 매각은 이제 끝이다."
  flavor_sale_of_lusatia.1100.c: "우리의 마땅한 영토를 되찾을 것이다!"
  flavor_sale_of_lusatia.1100.d: "판단 착오였던 게지."

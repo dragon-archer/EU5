@@ -6,7 +6,7 @@
  struggle_for_royal_power.100.desc: "À l'issue d'une longue lutte politique aussi bien que militaire, le conflit qui déchirait la [ROOT.GetCountry.GetName] est enfin arrivé à son terme. Nul ne doute plus désormais qui détient le pouvoir en [ROOT.GetCountry.GetName]."
  struggle_for_royal_power.100.a: "Vive le [ROOT.GetCountry.GetGovernment.GetRulerTitle] !"
  struggle_for_royal_power.100.b: "Vive le Sejm !"
- struggle_for_royal_power.100.c: "Cette guerre civile anéantira la [ROOT.GetCountry.GetName]."
+ struggle_for_royal_power.100.c: "Cette guerre civile anéantira la [ROOT.GetCountry.GetNameWithNoTooltip]"
  struggle_for_royal_power.10.title: "Konfederacja"
  struggle_for_royal_power.10.desc: "Au moment même où le [ROOT.GetCountry.GetGovernment.GetRuler.GetName] résolvait d'abattre la puissance du Sejm, celui-ci présentait ses propres exigences au [ROOT.GetCountry.GetGovernment.GetRuler.GetName]. À Stezyca et Lublin, Mikolaj Zebrzydowski, Jan Szczesny Herburt, Stanislaw Stadnicki, Aleksander Józef Lisowski et Janusz Radziwill se sont réunis en « rokosz », une rébellion semi-légale. La noblesse réunie là autour d'eux a alors formé une « konfederacja », une alliance politique, qui a rédigé 67 articles pour présenter ses exigences. Parmi celles-ci se trouve l'abdication de [ROOT.GetCountry.GetGovernment.GetRuler.GetName] pour avoir enfreint les Articles henriciens, et le droit pour le Sejm de nommer lui-même les ministres en lieu et place du [ROOT.GetCountry.GetGovernment.GetRulerTitle]."
  struggle_for_royal_power.10.a: "Tentons de négocier avec cette konfederacja."

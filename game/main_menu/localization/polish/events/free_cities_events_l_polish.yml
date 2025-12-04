@@ -47,7 +47,7 @@
  free_cities.12.b: "„...niezdolni do rządzenia...”. Czyli nie otrzymamy pomocy."
  free_cities.13.title: "Związek miast"
  free_cities.13.desc: "Liga Hanzeatycka i Liga Lombardzka zainspirowały nas do zapytania, czy inne wolne miasta byłyby skłonne przystąpić do związku razem z nami. My, jako wolne miasta, jesteśmy słabi w pojedynkę, ale wspólnie udowodniliśmy już, że wzajemna współpraca między małymi narodami w sprawach takich jak handel, utrzymywanie cesarskiego pokoju, wspieranie trybunałów i utrzymywanie zjednoczonych sił sprawia, że jesteśmy potęgą, z którą należy się liczyć i której nie zdołają zbyt szybko pokonać nawet wielkie mocarstwa."
- free_cities.13.a: "Wyślijmy dyplomatów do państwa [SCOPE.sCountry('fc_league_invitation_target').GetName]!"
+ free_cities.13.a: "Wyślijmy dyplomatów do państwa [SCOPE.sCountry('fc_league_invitation_target').GetNameWithNoTooltip]!"
  free_cities.13.b: "Czy nie moglibyśmy po prostu wynająć najemników?"
  free_cities.14.title: "Propozycja związku miast"
  free_cities.14.desc: "[GetUniqueInternationalOrganization('hre').GetName] miało wiele związków opartych na wzajemnej współpracy. Na przykład Liga Hanzeatycka była związkiem gildii kupieckich w konfederacji handlowej i obronnej, zaś Związek Szwabski był stowarzyszeniem wzajemnej obrony i utrzymania pokoju. Niektóre ligi stały się tak potężne i zjednoczone, że były nawet postrzegane jako państwa same w sobie, jak choćby Związek Szwajcarski. [ShowSpecialStatusName('free_city')] [SCOPE.sCountry('fc_league_invitation_source').GetName] zasugerowało, abyśmy dołączyli do czegoś podobnego w ramach współpracy, w której ustalimy wspólną politykę handlu, utrzymywania cesarskiego pokoju i wspierania trybunałów."

@@ -365,7 +365,7 @@
  flavor_mos.49.a: "El linaje es inapelable."
  flavor_mos.49.tt1: "Las habilidades de traducción de [dmitry_gerasimov.GetName] facilitan la propagación de la idea de [target_root_country.GetNameWithNoTooltip] como Tercera Roma."
  flavor_mos.49.b: "Necedades supersticiosas."
- flavor_mos.49.c: "Que el relato adorne los muros de [ShowWorkOfArtName('uspensky_sobor')]."
+ flavor_mos.49.c: "Que el relato adorne los muros de [ShowWorkOfArtNameWithNoTooltip('uspensky_sobor')]."
  flavor_mos.49.historical_info: "El #italic Cuento de los príncipes de Vladimir#! fue escrito por Dimitri Gerasimov o por Pacomio el Serbio a principios del siglo XVI, y se creó como mito fundacional para que los zares pudieran utilizarlo en las ceremonias de coronación. Su principal objetivo era establecer una conexión histórica entre el Principado de Moscovia y los emperadores romanos, especialmente Augusto, aunque también sirvió como medio para imaginar la idea de Moscovia como Tercera Roma y sucesora natural del Imperio romano de Oriente, colapsado tras la conquista de Constantinopla."
  flavor_mos.50.title: "[dmitry_gerasimov.GetNameWithNoTooltip]"
  flavor_mos.50.desc: "[dmitry_gerasimov.GetName], luminaria de la lengua y hábil diplomático, está versado en varios idiomas, legado de sus estudios académicos en [GetCountry('LIV').GetLongName]. Estas codiciadas habilidades podrían ser de gran utilidad si se lo nombra embajador en las cortes extranjeras, una posición que seguramente lo reuniría con otros eruditos renacentistas e impulsaría la reputación diplomática de [ROOT.GetCountry.GetName]. Por otra parte, su pericia con las lenguas podría emplearse mejor en la traducción de textos religiosos para apoyar la continua expansión del cristianismo."

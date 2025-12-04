@@ -37,6 +37,6 @@
  military_order_events.9.a: "我们胜利了！"
  forming_koj_easier_tt: "建立耶路撒冷王国会提高我们的[stability|e]、[government_power|e]并给予我们[ShowModifier('jerusalem_resurgent_modifier')]，持续#Y 20#!年"
  military_order_events.9.b: "这片土地属于我们骑士团！"
- military_order_events.9.c: "把[ShowLocationName('jerusalem')]的领地还给它的法理统治者。"
+ military_order_events.9.c: "把[ShowLocationNameWithNoTooltip('jerusalem')]的领地还给它的法理统治者。"
  #Tooltips
  because_we_opted_inwards_tt: "由于我们在“#Y 十字军时代的余波#!”事件中选择了“#italic 向内看，我们必须发展自己的要塞。#!”，该选项已被增强"

@@ -365,7 +365,7 @@
  flavor_mos.49.a: "Rodowód jest niepodważalny."
  flavor_mos.49.tt1: "[dmitry_gerasimov.GetName] posiada zdolności translatorskie, dzięki którym państwo [target_root_country.GetNameWithNoTooltip] może zyskać sławę jako Trzeci Rzym."
  flavor_mos.49.b: "Zabobonny nonsens."
- flavor_mos.49.c: "[ShowWorkOfArtName('uspensky_sobor')] zostanie ozdobiony tą historią."
+ flavor_mos.49.c: "[ShowWorkOfArtNameWithNoTooltip('uspensky_sobor')] zostanie ozdobiony tą historią."
  flavor_mos.49.historical_info: "#italic Legenda książąt włodzimierskich#! została napisana przez Dymitra Gierasimowa lub Pachomiusza Serba na początku XVI wieku i miała za zadanie stworzyć tło historyczne dla cara podczas ceremonii koronacyjnych. Głównym celem było wskazanie historycznego związku między księstwem moskiewskim a cesarzami rzymskimi, zwłaszcza Augustem, ale opowieść posłużyła również za fundament idei Moskwy jako Trzeciego Rzymu i naturalnej następczyni Cesarstwa Wschodniorzymskiego, które upadło po podboju Konstantynopola."
  flavor_mos.50.title: "[dmitry_gerasimov.GetNameWithNoTooltip]"
  flavor_mos.50.desc: "Lingwistyczny luminarz i wykwalifikowany dyplomata [dmitry_gerasimov.GetName], biegle włada kilkoma językami dzięki latom poświęconym nauce w państwie [GetCountry('LIV').GetLongName]. Tak ceniony zestaw umiejętności może być bardzo przydatny, gdy mianujemy tego człowieka ambasadorem na zagranicznych dworach, co z pewnością wiąże się ze spotkaniami z innymi renesansowymi uczonymi i podwyższaniem dyplomatycznej reputacji kraju [ROOT.GetCountry.GetName]. Weźmy też pod uwagę, że wiedza językowa może znaleźć lepsze zastosowanie w tłumaczeniu tekstów religijnych, aby wspierać dalsze rozprzestrzenianie się chrześcijaństwa."

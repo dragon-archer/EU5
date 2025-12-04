@@ -76,7 +76,7 @@
  prices.23.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_sugar: "설탕의 대중화"
  prices.24.title: "비단 섬유의 대중화"
- prices.24.desc: "지난 수 세기 동안 [ShowGoodsName('silk')]은 부와 세련미의 상징으로서 [ShowContinentName('asia')], [ShowRegionName('middle_east')], [ShowContinentName('europe')] 전역의 상류층이 선망하는 상품으로 자리매김해 왔습니다. 그 매력은 [ShowAgeName('age_3_discovery')] 시대에 수많은 교역로가 형성되고 탐사 원정이 이루어지는 데 결정적인 역할을 했다고 말해도 과언이 아닙니다. 오늘날에는 생산 및 무역의 발전 덕분에 생 비단과 비단을 사용한 직물을 그 어느 때보다 쉽게 접할 수 있게 되었습니다. 이러한 접근성 향상은 수많은 신규 시장에서 [ShowGoodsNameWithNoTooltip('silk')] 수요가 급증하는 결과를 낳았고, 그렇게 [ShowGoodsNameWithNoTooltip('silk')]은 단순한 사치품에서 성장하는 도시 중산층 사이에서 유행하는 상품으로 빠르게 변화했습니다."
+ prices.24.desc: "지난 수 세기 동안 [ShowGoodsName('silk')]은 부와 세련미의 상징으로서 [ShowContinentName('asia')], [ShowRegionName('middle_east')], [ShowContinentName('europe')] 전역의 상류층이 선망하는 상품으로 자리매김해 왔습니다. 그 매력은 [ShowAgeName('age_3_discovery')] 시대에 수많은 교역로가 형성되고 탐사 원정이 이루어지는 데 결정적인 역할을 했다고 말해도 과언이 아닙니다. 오늘날에는 생산 및 무역의 발전 덕분에 생 비단과 비단을 사용한 직물을 그 어느 때보다 쉽게 접할 수 있게 되었습니다. 이러한 접근성 향상은 수많은 신규 시장에서 수요가 급증하는 결과를 낳았고, 그렇게 비단은 단순한 사치품에서 성장하는 도시 중산층 사이에서 유행하는 상품으로 빠르게 변화했습니다."
  prices.24.a: "[ROOT.GetCountry.Custom('common_string_ok')]"
  popularization_of_silk: "비단의 대중화"
  prices.27.title: "동남아시아 코끼리 개체 수 감소"

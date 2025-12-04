@@ -37,6 +37,6 @@
  military_order_events.9.a: "우리는 승리했도다!"
  forming_koj_easier_tt: "예루살렘 왕국을 창설하면 우리의 [stability|e]와 [government_power|e]이 향상되며, 앞으로 #Y 20#!년간 [ShowModifier('jerusalem_resurgent_modifier')] 보정치를 얻습니다"
  military_order_events.9.b: "이 땅은 우리 기사 수도회의 것이다!"
- military_order_events.9.c: "[ShowLocationName('jerusalem')] 영토를 수복하여 정당한 주인에게 돌려주어라."
+ military_order_events.9.c: "[ShowLocationNameWithNoTooltip('jerusalem')] 영토를 수복하여 정당한 주인에게 돌려주어라."
  #Tooltips
  because_we_opted_inwards_tt: "'#Y 십자군 시대의 여파#!' 이벤트에서 '#italic 내부를 살펴라, 근거지를 개발해야 한다#!' 선택지를 골라 이 선택지가 강화되었습니다"

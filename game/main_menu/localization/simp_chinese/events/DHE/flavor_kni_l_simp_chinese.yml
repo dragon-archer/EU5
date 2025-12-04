@@ -104,7 +104,7 @@
  flavor_kni.120.b: "让我们发展基础设施吧。"
  flavor_kni.121.title: "[target_location.GetNameWithNoTooltip]的海上生意"
  flavor_kni.121.desc: "[target_location.GetName]是一个地理位置极为优越的岛屿。它毗邻[target_location.GetRegion.GetName]海岸，是我国海军在邻近海域活动的关键停泊点。同时，作为东西方贸易的枢纽，许多海外商人都期望将[target_location.GetNameWithNoTooltip]作为他们往返近东航程中的重要停靠站。"
- flavor_kni.121.a: "我们将支持[ShowGoodsName('naval_supplies')]的生产！"
+ flavor_kni.121.a: "我们将支持[ShowGoodsNameWithNoTooltip('naval_supplies')]的生产！"
  flavor_kni.121.b: "我们必须接纳更多的商人。"
  flavor_kni.121.c: "集中精力安抚本地居民。"
  flavor_kni.130.title: "一场神奇的地震"

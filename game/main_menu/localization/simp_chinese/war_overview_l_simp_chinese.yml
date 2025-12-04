@@ -130,6 +130,7 @@
  LEAVE_WAR_REASON_Forced: "被[TARGET_COUNTRY.GetName]强制要求退出战争"
  LEAVE_WAR_REASON_Abandoned: "在[TARGET_COUNTRY.GetName]最需要的时刻抛弃了他们单独媾和"
  LEAVE_WAR_REASON_ForcedAbandoned: "因为宗主的强迫而在[TARGET_COUNTRY.GetName]最需要的时刻抛弃了他们单独媾和"
+ LEAVE_WAR_REASON_BrokeFreeOfOverlord: "Broke free from their [overlord|e] [TARGET_COUNTRY.GetName]"
  REFUSE_TO_JOIN_WAR_REASON_HumanDeclined: "该人类玩家拒绝参战。"
  REFUSE_TO_JOIN_WAR_REASON_NotEnoughReasons: "该国参战的动机不足。"
  REFUSE_TO_JOIN_WAR_REASON_ConflictOfInterests: "该国想要同时支持战争双方，因此他们选择中立。"

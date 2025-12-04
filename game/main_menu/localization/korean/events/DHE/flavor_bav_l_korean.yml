@@ -88,7 +88,7 @@
  flavor_bav.29.historical_info: "30년 전쟁이 한창이던 당시 페르디난트 2세 황제는 신성 로마 제국 내에서 미묘한 힘의 균형을 유지하면서 충성스러운 동맹국에 보답해야 하는 복잡한 과제에 직면했습니다. 바이에른의 공작 막시밀리안 1세는 가톨릭 동맹에서 지도력을 발휘하고 1620년 백산 전투에서 결정적인 승리를 거두는 등 군사적으로도 공헌하여 가톨릭 진영을 지원하는 데 중요한 역할을 했습니다. 이러한 변함없는 충성심을 치하하고 제국 내에서 가톨릭의 입지를 강화하고자 페르디난트 2세는 1623년에 레겐스부르크 의회를 소집했습니다. 이 의회에서 황제는 보헤미아 반란 사건으로 제국 금지령에 처한 개신교 팔츠 선제후 프리드리히 5세의 선제후 지위를 막시밀리안 1세에게 공식적으로 이양했습니다. 이 전략적 결정으로 충직한 동맹국에 합당한 보상을 하사했을 뿐만 아니라 선거 구도를 가톨릭 세력에 유리하도록 재편하여, 격동의 시기에 황제의 권위를 강화하는 데 도움이 되었습니다."
  flavor_bav.30.title: "[bavaria_country.GetNameWithNoTooltip]의 [ShowSpecialStatusNameWithNoTooltip('elector')] 승격"
  flavor_bav.30.desc: "[emperor_ruler.GetName](이)가 [home_ruler.GetName](과)와 [bavaria_country.GetName]에 [ShowSpecialStatusName('elector')]라는 권위 있는 지위를 수여하기로 했습니다. 이는 [bavaria_country.GetNameWithNoTooltip](이)가 [GetInternationalOrganization('hre').GetName] 내에서 중대한 영향력을 행사하는 위치로 올라서는 중요한 순간입니다."
- flavor_bav.30.a: "[bavaria_country.GetName]에 새 시대가 시작되는구나!"
+ flavor_bav.30.a: "[bavaria_country.GetNameWithNoTooltip]에 새 시대가 시작되는구나!"
  flavor_bav.31.title: "요청을 거부한 [GetUniqueInternationalOrganization('hre').GetLeaderTitle]"
  flavor_bav.31.desc: "[emperor_ruler.GetName](이)가 [bavaria_country.GetName](을)를 [ShowSpecialStatusName('elector')] 지위로 승격하는 것을 거부하기로 했습니다. [ShowSituationName('war_of_religions')] 중 [bavaria_country.GetNameWithNoTooltip](이)가 보여 준 충성스러운 지원에도 불구하고 [GetInternationalOrganization('hre').GetName] 내 힘의 균형은 변하지 않을 것으로 보입니다."
  flavor_bav.31.a: "이 결정이 어쨌든 우리는 힘을 더 키울 것이다."

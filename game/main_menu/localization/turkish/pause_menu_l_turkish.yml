@@ -2,6 +2,7 @@
  SAVE_BUTTON_DISABLED: "@trigger_no! Oyun sadece Tek Şans modunda otomatik kaydedilebilir"
  SAVE_BUTTON_DISABLED_BY_TUTORIAL: "@trigger_no! Eğitime devam ederken Oyunu Kaydedemezsin."
  LOAD_INGAME_BUTTON_DISABLED: "Çok oyunculu bir oyunda kayıt yükleyemezsin"
+ LOAD_INGAME_BUTTON_IRONMAN: "@trigger_no! You cannot load a game in Ironman mode"
  HOST_GAME_BUTTON_DISABLED: "Şu anda çok oyunculu bir oyundasın"
  GAME_NOT_PAUSED: "#X Oyun DURAKLATILMADI #!"
  PAUSE_MENU_GAME_RULES_TOOLTIP: "Mevcut oyun kurallarını görüntüle"

@@ -37,6 +37,6 @@
  military_order_events.9.a: "Zafer bizimdir!"
  forming_koj_easier_tt: "Kudüs Krallığı'nı kurmak [Concept('stability', 'istikrarımızı')|e], [Concept('government_power', 'hükûmet gücümüzü')|e] artıracak ve bize #Y 20#! yıl boyunca [ShowModifier('jerusalem_resurgent_modifier')] kazandıracak."
  military_order_events.9.b: "Bu topraklar Tarikatımızındır!"
- military_order_events.9.c: "[ShowLocationName('jerusalem')] topraklarını gerçek sahibine geri kazandır."
+ military_order_events.9.c: "[ShowLocationNameWithNoTooltip('jerusalem')] topraklarını gerçek sahibine geri kazandır."
  #Tooltips
  because_we_opted_inwards_tt: "#Y Haçlı Dönemi'nin Sonrası#! etkinliğinde \"#italic İçe dönmeli ve dayanağımızı güçlendirmeliyiz.#!\" seçeneğini seçtiğimiz için bu seçenek güçlendirildi."

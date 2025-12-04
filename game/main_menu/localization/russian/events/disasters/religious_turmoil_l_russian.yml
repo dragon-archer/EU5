@@ -7,7 +7,7 @@
  religious_turmoil.2.desc: "Страна наконец-то оправилась от ожесточённых религиозных распрей. Наша держава вновь едина!"
  religious_turmoil.2.a: "Единая вера!"
  religious_turmoil.3.title: "Число еретиков растёт"
- religious_turmoil.3.desc: "Вопреки нашим попыткам искоренить ересь население некоторых провинций по-прежнему отказывается от обращения. Они упорно держатся за свою веру."
+ religious_turmoil.3.desc: "Вопреки нашим попыткам искоренить ересь, население некоторых провинций по-прежнему отказывается от обращения. Они упорно держатся за свою веру."
  religious_turmoil.3.a: "Изгоним инакомыслящих."
  religious_turmoil.3.a.tt: "Некоторые [Concept('pops', 'группы населения')|e], которые не исповедуют #L [ROOT.GetCountry.GetReligion.GetAdjective|l]ую#! веру, потеряют [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] [Concept('pop_satisfaction', 'довольства')|e]."
  religious_turmoil.3.b: "Придётся увеличить расходы на обращение еретиков."

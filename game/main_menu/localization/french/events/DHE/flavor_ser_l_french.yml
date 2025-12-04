@@ -2,8 +2,8 @@
  #Events
  flavor_ser.10.title: "La faiblesse de la Couronne"
  flavor_ser.10.desc: "Les conquêtes et l'héritage de [GetCharacter('ser_stefan_dusan').GetName] ont donné naissance à une puissante nouvelle force dans les Balkans. Cependant, la disparition de notre ancien Dirigeant a entraîné la montée en puissance de [target_character.GetName]. Confrontés à la perte du chef d'État le plus vénéré de notre Pays, de nombreux conseillers ont commencé à chuchoter dans nos couloirs que nos dirigeants n'étaient pas à la hauteur. Des rumeurs d'indécision et d'impuissance ont corrodé l'autorité royale, faisant pression et risquant de détruire ce que nous avons construit. Notre destin est en jeu, et le règne de [target_character.GetNameWithNoTooltip] risque d'éradiquer notre héritage impérial et d'entraîner une descente incontrôlable dans le chaos."
- flavor_ser.10.a: "Laissons [target_parent.GetName] superviser la régence."
- flavor_ser.10.b: "Nous pouvons confier le trône à [target_dynasty_member_scope.GetName]."
+ flavor_ser.10.a: "Laissons [target_parent.GetNameWithNoTooltip] superviser la régence."
+ flavor_ser.10.b: "Nous pouvons confier le trône à [target_dynasty_member_scope.GetNameWithNoTooltip]."
  flavor_ser.10.c: "[target_character.GetNameWithNoTooltip] doit partir !"
  flavor_ser.10.d: "Nous ne sommes pas des lâches, nous combattrons !"
  flavor_ser.10.e: "Nous les mettrons à genoux."

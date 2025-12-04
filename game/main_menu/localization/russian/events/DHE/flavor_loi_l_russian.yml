@@ -5,7 +5,7 @@
  flavor_loi.10.b: "Мы воспротивимся зову Севера."
  opinion_loi_10_adopted_our_culture: "Принятие скандинавской культуры"
  flavor_loi.20.title: "Соревнование в кораблестроении"
- flavor_loi.20.desc: "Непрекращающийся стук молотков по дубу и сосне доносится из провинции [target_location.GetProvinceDefinition.GetName], когда лучшие корабелы со всей области [target_location.GetArea.GetName] сходятся в главном #L [ROOT.GetCountry.GetAdjective|l]ом#! судостроительном соревновании, которое проводится в [target_location.Custom('LR_PP')|l] [target_location.GetName].\n\nТрадиционные техники кораблестроения играют для нас ключевую роль, поэтому наша держава всегда поощряет тех, кто ими владеет. И мы, [ROOT.GetCountry.GetGovernment.GetEstateName('crown_estate')|l], обязаны следить за ходом этого соревнования."
+ flavor_loi.20.desc: "Непрекращающийся стук молотков по дубу и сосне доносится из провинции [target_location.GetProvinceDefinition.GetName], когда лучшие корабелы со всей области [target_location.GetArea.GetName] сходятся в главном #L [ROOT.GetCountry.GetAdjective|l]ом#! судостроительном соревновании, которое проводится в [target_location.Custom('LR_PREP')|l] [target_location.GetName].\n\nТрадиционные техники кораблестроения играют для нас ключевую роль, поэтому наша держава всегда поощряет тех, кто ими владеет. И мы, [ROOT.GetCountry.GetGovernment.GetEstateName('crown_estate')|l], обязаны следить за ходом этого соревнования."
  flavor_loi.20.a: "Мы закажем галеру для нашего триумфального появления."
  flavor_loi.20.b: "Мы поможем деньгами участнику-фавориту."
  flavor_loi.20.c: "Мы проигнорируем соревнование."

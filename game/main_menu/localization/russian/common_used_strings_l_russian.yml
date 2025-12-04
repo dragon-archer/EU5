@@ -74,13 +74,13 @@
  common_string_it_belongs_in_a_museum: "Этому место в музее!"
  #Utility
  common_string_go_to: "Перейти к"
- common_string_prefix_article: "в"
+ common_string_prefix_article: "$common_string_prefix_article_ru$"
  #Other
  common_string_aum: "Ом."
  common_string_let_them_fend_for_themselves: "Пусть позаботятся о себе сами."
  common_string_rein_them_in: "Усмирим их."
  common_string_we_shall_do_something: "Нужно что-то предпринять!"
  common_string_quran: "Коран"
- common_string_shaikh_al_islam: "Шейх-уль-ислам"
+ common_string_shaikh_al_islam: "Шейх аль-ислам"
  genghis_khan_name: "#TOOLTIP:CHARACTER,[GetCharacter('genghis_khan').GetID],X #L $rank_kingdom_horde_ruler_suffix_male$ [GetCharacter('genghis_khan').GetNicknameWithNoTooltip]#!#!"
  genghis_khan_name_no_tooltip: "$rank_kingdom_horde_ruler_suffix_male$ $name_genghis$"

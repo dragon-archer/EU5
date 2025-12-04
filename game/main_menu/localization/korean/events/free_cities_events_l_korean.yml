@@ -47,7 +47,7 @@
  free_cities.12.b: "\"...과연 국가를 다스릴 수 있겠는가...\" 안 도와주신다는 뜻이로군."
  free_cities.13.title: "도시 동맹"
  free_cities.13.desc: "한자 동맹과 롬바르디아 동맹을 보니 우리도 다른 자유 도시에 우리와 동맹을 결성할 뜻이 있는지 물어보면 좋겠다는 생각이 들었습니다. 기존의 사례가 증명하듯, 우리 같은 자유 도시 국가는 혼자서는 약할지라도 여럿이 모여 교역이나 제국의 평화 유지, 재판소 지원, 또는 군사력 통합 등의 사안에 협력하면 열강조차 억누르기 힘든 막강한 세력으로 거듭날 수 있습니다."
- free_cities.13.a: "[SCOPE.sCountry('fc_league_invitation_target').GetName](으)로 외교관을 파견하게!"
+ free_cities.13.a: "[SCOPE.sCountry('fc_league_invitation_target').GetNameWithNoTooltip](으)로 외교관을 파견하게!"
  free_cities.13.b: "그냥 용병들을 고용하면 되지 않나?"
  free_cities.14.title: "도시 동맹 제안"
  free_cities.14.desc: "[GetUniqueInternationalOrganization('hre').GetName]에는 서로 협력하는 국가 간의 동맹이 많았습니다. 상인 길드의 한자 동맹은 상업 및 방위 분야에서, 슈바벤 동맹은 방위 및 평화 유지 분야에서 서로 협력했습니다. 스위스 서약동맹처럼 막강하고 깊이 단합되어 그 자체가 국가로 여겨진 동맹도 있습니다. [ShowSpecialStatusName('free_city')] [SCOPE.sCountry('fc_league_invitation_source').GetName]에서는 우리도 그러한 동맹을 결성하여 교역, 제국 내 평화 유지, 재판소 지원 등의 분야에서 협력하자는 제안을 해 왔습니다."

@@ -173,7 +173,7 @@
  flavor_vij.1101.title: "$flavor_vij.1100.title$"
  flavor_vij.1101.desc.a: "Nasza polityka dążąca do zdławienia #L [ShowCultureName('tamil')|l]kiej#! rebelii popłaciła. Zdołaliśmy spacyfikować większość rebeliantów. Na powrót wyrażają zadowolenie z naszych rządów i co więcej, schwytali zdrajcę, który podżegał ich do powstania. [target_character.GetName] [Select_CString(target_character.IsFemale,'została pojmana','został pojmany')]!. Wszyscy są zgodni, że należy [Select_CString(target_character2.IsFemale,'ją','go')]! wydalić z kraju."
  flavor_vij.1101.desc.b: "Nie udało nam się powstrzymać #L [ShowCultureName('tamil')|l]kiego#! powstania. [Select_CString(target_character.IsFemale,'Przywódczyni','Przywódca')] tej zdradzieckiej hołoty się [Select_CString(target_character.IsFemale,'ujawniła','ujawniła')] – [target_character.GetName] spróbuje uzyskać poparcie [ShowCultureNameWithNoTooltip('tamil')|l]kich mas i utworzyć własne królestwo, na co [ROOT.GetCountry.GetName] nie może pozwolić. Pozostaje nam zmiażdżyć rebeliantów."
- flavor_vij.1101.a: "Precz z [Select_CString(target_character.IsFemale,'nią','nim')]! [ROOT.GetCountry.GetName] nie potrzebuje zdrajców!"
+ flavor_vij.1101.a: "Precz z [Select_CString(target_character.IsFemale,'nią','nim')]! [ROOT.GetCountry.GetNameWithNoTooltip] nie potrzebuje zdrajców!"
  flavor_vij.1101.b: "Do broni! [target_character.GetNameWithNoTooltip] i [Select_CString(target_character.IsFemale,'jej','jego')] motłoch zostaną zgnieceni!"
  tamil_uprising: "Powstanie tamilskie"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "Wszystkie #L [ShowCultureName('tamil')|l]kie#! [pops|el] stracą [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] [Concept('pop_satisfaction','satysfakcji')|e]."

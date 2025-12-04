@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "Er muss seine Predigten anderswo halten."
  muslim_school_events.8.title: "Fremdländische Theologen bereichern religiöse Lehre"
  muslim_school_events.8.desc: "Die Theologen, die wir in unser Land einluden, haben die örtliche religiöse Lehre sehr bereichert. Sie haben ihre Spuren in unserem Land hinterlassen und inspirieren eine neue Generation des #L [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]s#!."
- muslim_school_events.8.a: "Ich brauche sie in [ROOT.GetCountry.GetCapital.GetName]."
+ muslim_school_events.8.a: "Wir brauchen sie in [ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]."
  muslim_school_events.8.b: "Sie werden ihren Platz im gesamten Land finden."
  muslim_school_events.9.title: "[SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip]-Theologen"
  muslim_school_events.9.desc: "Wenn wir Gelehrte aus „[SCOPE.sCountry('scholar_country').GetNameWithNoTooltip]“ in unseren Madrasas einsetzen, verbessern wir nicht nur den theologischen Diskurs in unserem Land, sondern auch unsere Beziehungen [SelectLocalization(EqualTo_string(ROOT.GetCountry.GetGovernment.GetGovernmentType.GetNameWithNoTooltip,'Stamm'),'zum','zur')] [SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName] von „[SCOPE.sCountry('scholar_country').GetName]“."

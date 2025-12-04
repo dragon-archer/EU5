@@ -130,6 +130,7 @@
  LEAVE_WAR_REASON_Forced: "[TARGET_COUNTRY.GetName]에 의해 전쟁에서 강제 철수함"
  LEAVE_WAR_REASON_Abandoned: "곤경에 처한 우방인 [TARGET_COUNTRY.GetName](을)를 저버림"
  LEAVE_WAR_REASON_ForcedAbandoned: "곤경에 처한 우방인 [TARGET_COUNTRY.GetName](을)를 종주국의 강요로 저버림"
+ LEAVE_WAR_REASON_BrokeFreeOfOverlord: "Broke free from their [overlord|e] [TARGET_COUNTRY.GetName]"
  REFUSE_TO_JOIN_WAR_REASON_HumanDeclined: "인간이 참전을 거부했습니다."
  REFUSE_TO_JOIN_WAR_REASON_NotEnoughReasons: "참전할 이유가 부족합니다."
  REFUSE_TO_JOIN_WAR_REASON_ConflictOfInterests: "가능하다면 양쪽을 다 지지하겠으나 그럴 수 없으므로 중립을 유지했습니다."

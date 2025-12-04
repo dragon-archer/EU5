@@ -91,6 +91,7 @@
  STATIC_MODIFIER_NAME_giving_support_military: "Предоставляет военную помощь"
  STATIC_MODIFIER_NAME_receiving_support_military: "Получает военную помощь"
  STATIC_MODIFIER_NAME_receiving_scutage: "Получает скутагий"
+ STATIC_MODIFIER_NAME_receiving_rein_in_junior_diplomacy: "Reined in Junior Diplomacy"
  STATIC_MODIFIER_NAME_giving_support_loyalists: "Предоставляет помощь лоялистам"
  STATIC_MODIFIER_NAME_receiving_support_loyalists: "Получает помощь лоялистам"
  STATIC_MODIFIER_NAME_receiving_divert_trade: "Происходит перенаправление торговли"
@@ -731,6 +732,7 @@
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "Гуситская ересь"
  STATIC_MODIFIER_DESC_hussite_heresy_modifier: "#TOOLTIP:RELIGION,$hussite_tt$,X #L Гуситство#!#! распространяется всё шире. Последователи этого движения призывают к реформе #TOOLTIP:RELIGION,$catholic_tt$,X #L католической#!#! церкви."
+ STATIC_MODIFIER_NAME_expanded_mines_modifier: "Расширенные шахты"
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "Добрые знамения"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Время обновления, благоприятная погода и обилие пищи — всё это добрые знаки, ниспосланные богами."
@@ -800,6 +802,8 @@
  STATIC_MODIFIER_DESC_austere_court: "Придворная жизнь и государственные учреждения этой державы известны строгостью нравов."
  STATIC_MODIFIER_NAME_ostentatious_court: "Придворная роскошь"
  STATIC_MODIFIER_DESC_ostentatious_court: "Придворная жизнь этой державы утратила прежнюю утончённость, теперь при дворе господствуют грубые зрелища и вульгарная демонстрация богатства. Впрочем, нельзя не признать, что это производит сильное впечатление на гостей страны."
+ STATIC_MODIFIER_NAME_tur_public_cats: "Public Cat Property"
+ STATIC_MODIFIER_DESC_tur_public_cats: "The cats in this location have been turned into public property, protecting them from any misconduct that may occur. This especially increases the number of rats being hunted, ensuring that no deadly diseases appear."
  #Byzantium
  STATIC_MODIFIER_NAME_defensive_effort_modifier: "Оборонительные действия"
  STATIC_MODIFIER_DESC_defensive_effort_modifier: "Для защиты этого района собрана значительная группировка войск."
@@ -968,9 +972,9 @@
  STATIC_MODIFIER_NAME_mch_manchu_identity: "Маньчжурская идентичность"
  #Sinicization Soc. Value Modifiers
  MODIFIER_TYPE_NAME_monthly_towards_sinicized: "Движение к китаизации за месяц"
- MODIFIER_TYPE_DESC_monthly_towards_sinicized: "Влияет на переход к [Concept('societal_values','общественным ценностям')|e] «[ShowSocietyDirectionName('sinicized')]»."
+ MODIFIER_TYPE_DESC_monthly_towards_sinicized: "Влияет на смещение [Concept('societal_values','общественных ценностей')|e] в сторону #TOOLTIP:SOCIETAL_VALUE,sinicized_vs_unsinicized,X #L китаизации#!#!."
  MODIFIER_TYPE_NAME_monthly_towards_unsinicized: "Движение от китаизации за месяц"
- MODIFIER_TYPE_DESC_monthly_towards_unsinicized: "Влияет на переход к [Concept('societal_values','общественным ценностям')|e] «[ShowSocietyDirectionName('unsinicized')]»."
+ MODIFIER_TYPE_DESC_monthly_towards_unsinicized: "Влияет на смещение [Concept('societal_values','общественных ценностей')|e] в сторону #TOOLTIP:SOCIETAL_VALUE,sinicized_vs_unsinicized,X #L самобытности#!#!."
  #Generic Missions Modifiers
  STATIC_MODIFIER_NAME_symbol_of_power_modifier: "Символ могущества"
  STATIC_MODIFIER_TYPE_DESC_symbol_of_power_modifier: "Наши дворцы — зримое воплощение власти и могущества, которым нет равных во всей стране."
@@ -1055,6 +1059,7 @@
  STATIC_MODIFIER_NAME_fra_birth_of_college_de_france: "Зарождение Коллеж де Франс"
  STATIC_MODIFIER_NAME_fra_routiers_looted_province: "Бароны-грабители"
  STATIC_MODIFIER_NAME_fra_estates_general_halts_support: "Генеральные штаты прекращают поддержку"
+ STATIC_MODIFIER_NAME_fra_recognized_marcel_in_parliament: "Recognized Marcel in the Estates-General"
  STATIC_MODIFIER_NAME_fra_marcel_tax_embargo: "Горожане протестуют против налогов"
  STATIC_MODIFIER_NAME_fra_burghers_broken_by_marcel_death: "Серьёзное ослабление горожан"
  STATIC_MODIFIER_NAME_fra_lavish_gifts_to_cadet_branches: "Дары кадетским ветвям"
@@ -1310,7 +1315,7 @@
  STATIC_MODIFIER_NAME_rebel_leader_modifier: "Глава мятежников"
  STATIC_MODIFIER_DESC_rebel_leader_modifier: "Этот человек доставляет нам множество проблем и отказывается как-либо служить на благо нашей державы."
  STATIC_MODIFIER_NAME_rtr_support_of_the_people: "Народная поддержка"
- STATIC_MODIFIER_DESC_rtr_support_of_the_people: "$YUA$ не имеет власти над этим персонажем, способным свергнуть или поддержать старую династию с помощью народных масс."
+ STATIC_MODIFIER_DESC_rtr_support_of_the_people: "$YUA$ не влияет на этого персонажа, способного свергнуть или поддержать старую династию при помощи народных масс."
  STATIC_MODIFIER_NAME_rtr_yuanzhangs_leadership: "Неоспоримая власть"
  STATIC_MODIFIER_DESC_rtr_yuanzhangs_leadership: "Этот персонаж пользуется полной поддержкой своей державы и при первой возможности постарается встать во главе #TOOLTIP:INTERNATIONAL_ORGANIZATION,$middle_kingdom_tt$,X #L Срединного государства#!#!."
  STATIC_MODIFIER_NAME_chi_new_dynasty: "Расцвет новой династии"
@@ -1501,18 +1506,18 @@
  STATIC_MODIFIER_DESC_gag_favors_ghibellines: "Этот [Concept('ruler','правитель')|e] поддерживает гибеллинов и займёт их сторону."
  #Rise of Timur
  STATIC_MODIFIER_NAME_timmy_wants_to_play: "Погибель из Центральной Азии"
- STATIC_MODIFIER_DESC_timmy_wants_to_play: "Этот правитель обладает острым умом и глубокими познаниями, неоднократно проявлявшимися на поле боя. Руками этого человека будет построена одна из величайших в мире империй; она охватит #TOOLTIP:SUB_CONTINENT,central_asia,X #L Центральную Азию#!#!, #TOOLTIP:SUB_CONTINENT,middle_east,X #L Ближний Восток#!#! и #TOOLTIP:SUB_CONTINENT,india,X #L Индию#!#!, и почва её будет обильно удобрена кровью врагов.\n\n#Y Пока действует этот [Concept('modifier','модификатор')|e], [Concept('locations','районы')|e] в обозначенном национальном регионе будут обладать бонусом #TOOLTIP:STATIC_MODIFIER,rot_timurs_core_region,X #V #L «Национальный регион»#!#!#!.#!"
+ STATIC_MODIFIER_DESC_timmy_wants_to_play: "Этот правитель обладает острым умом и глубокими познаниями, неоднократно проявлявшимися на поле боя. Руками этого человека будет построена одна из величайших в мире империй; она охватит #TOOLTIP:SUB_CONTINENT,central_asia,X #L Центральную Азию#!#!, #TOOLTIP:SUB_CONTINENT,middle_east,X #L Ближний Восток#!#! и #TOOLTIP:SUB_CONTINENT,india,X #L Индию#!#!, и почва её будет обильно удобрена кровью врагов.\n\n#Y Пока действует этот [Concept('modifier','модификатор')|e], [Concept('locations','районы')|e] в обозначенном национальном регионе будут обладать бонусом #TOOLTIP:STATIC_MODIFIER,rot_timurs_core_region,X #V #L «Национальный регион»#!#!.#!"
  STATIC_MODIFIER_NAME_rot_timurs_core_region: "Национальный регион"
  STATIC_MODIFIER_NAME_rot_legacy_islam: "Меч ислама"
  STATIC_MODIFIER_NAME_rot_legacy_borjigin: "Наследие Чингисхана"
  STATIC_MODIFIER_NAME_rot_legacy_fallback: "Судьба эмира"
  #Ottoman Situation
  STATIC_MODIFIER_NAME_sovereign_of_anatolia: "Соверен Анатолии"
- STATIC_MODIFIER_DESC_sovereign_of_anatolia: "Некогда могучие правители #TOOLTIP:LOCATION,constantinople_tt,X #L Константинополя#!#! признают нашу безраздельную власть над #TOOLTIP:REGION,anatolia_region,X #L Анатолией#!#!!"
+ STATIC_MODIFIER_DESC_sovereign_of_anatolia: "Некогда могучие правители #TOOLTIP:LOCATION,constantinople,X #L Константинополя#!#! признают нашу безраздельную власть над #TOOLTIP:REGION,anatolia_region,X #L Анатолией#!#!!"
  STATIC_MODIFIER_NAME_rebellious_subjects_modifier: "Мятежные ленники"
  STATIC_MODIFIER_DESC_rebellious_subjects_modifier: "Мы теряем своё влияние, и ленники начинают сопротивляться нашей власти!"
  STATIC_MODIFIER_NAME_influential_grand_domestic: "Влияние великого доместика"
- STATIC_MODIFIER_DESC_influential_grand_domestic: "Великий доместик пользуется поддержкой различных фракций своей державы и строит замыслы по захвату #TOOLTIP:LOCATION,constantinople_tt,X #L Константинополя#!#! и #TOOLTIP:REGION,balkan_region,X #L Балкан#!#!."
+ STATIC_MODIFIER_DESC_influential_grand_domestic: "Великий доместик пользуется поддержкой различных фракций своей державы и строит замыслы по захвату #TOOLTIP:LOCATION,constantinople,X #L Константинополя#!#! и #TOOLTIP:REGION,balkan_region,X #L Балкан#!#!."
  #Mamluks
  STATIC_MODIFIER_NAME_mam_political_instability_modifier: "Политическая нестабильность"
  STATIC_MODIFIER_DESC_mam_political_instability_modifier: "Неумелое управление и утрата легитимности привели нашу державу в состояние упадка и неопределённости."
@@ -1580,7 +1585,7 @@
  STATIC_MODIFIER_NAME_vij_curtailed_tamil_rebels: "Неудачное восстание тамилов"
  STATIC_MODIFIER_DESC_vij_curtailed_tamil_rebels: "Этот персонаж не смог помочь тамилам добиться независимости."
  STATIC_MODIFIER_NAME_preserved_vijayanagar: "Сохранение города победы"
- STATIC_MODIFIER_DESC_preserved_vijayanagar: "Вместо того чтобы уничтожить #TOOLTIP:LOCATION,$vijayanagar_tt$,X #L Виджаянагару#!#!, мы решили сохранить её для потомков."
+ STATIC_MODIFIER_DESC_preserved_vijayanagar: "Вместо того чтобы уничтожить #TOOLTIP:LOCATION,vijayanagar,X #L Виджаянагару#!#!, мы решили сохранить её для потомков."
  #Cossacks
  STATIC_MODIFIER_NAME_cossacks_expanded_power: "Рост влияния казаков"
  STATIC_MODIFIER_DESC_cossacks_expanded_power: "$cossacks_estate$ начинают пользоваться всё большим влиянием на державу."
@@ -1727,8 +1732,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Ослабление влияние крестьян"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Укрепление местной власти"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Налоговые льготы"
- STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
- STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Влияние сторонников абсолютизма в правительстве"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Влияние либералов в правительстве"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "Восстановление законодательных собраний"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Низкий боевой дух"
@@ -1776,7 +1781,7 @@
  STATIC_MODIFIER_NAME_dev_rafida: "Рафидиты"
  STATIC_MODIFIER_DESC_dev_rafida: "Шииты иногда называются рафидитами — отрицателями. Они не признают Абу Бакра, Умара и Усмана преемниками пророка Мухаммеда."
  STATIC_MODIFIER_NAME_dev_nasibi: "Насибиты"
- STATIC_MODIFIER_DESC_dev_nasibi: "Ненавистники Ахль аль-Байт — семейства пророка Мухаммеда — и его почитателей-#TOOLTIP:RELIGION,sunni_tt,X #L суннитов#!#!, по глупости верящих, что Абу Бакр, Умар и Усман являются законными преемниками Мухаммеда."
+ STATIC_MODIFIER_DESC_dev_nasibi: "Ненавистники Ахль аль-Байт — семейства пророка Мухаммеда — и его почитателей-#TOOLTIP:RELIGION,$sunni_tt$,X #L суннитов#!#!, по глупости верящих, что Абу Бакр, Умар и Усман являются законными преемниками Мухаммеда."
  STATIC_MODIFIER_NAME_dev_mutaween: "Мухтасиб"
  STATIC_MODIFIER_DESC_dev_mutaween: "Религиозная полиция, которая будет следить за соблюдением шариата — законов Аллаха — в наших провинциях."
  #Treaty of Tordesillas

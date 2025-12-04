@@ -9,7 +9,7 @@
  regencies.1.c: "사실 [target_previous_ruler.GetShortNameWithNoTooltip]의 유언장에 [target_character.GetShortNameWithNoTooltip](을)를 양자로 삼겠다고 적혀 있었다네."
  regencies.2.title: "악감정은 없어"
  regencies.2.desc: "[ROOT.GetCountry.GetGovernment.GetHeir.GetName](은)는 훌륭한 교육을 받고, 타고난 매력까지 갖춘 덕에 통지자 자리를 계승하기에 더할 나위 없는 인재입니다. 하지만 [ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName]의 형편없는 통치 때문에 [ROOT.GetCountry.GetName]의 [stability|e]는 크게 하락한 상태입니다. 본래 한 국가를 통치하는 것은 가시에 안 찔리고 장미를 모으는 것만큼이나 어렵고 섬세한 일입니다. 그리고 때로는 단순히 재능이 없는 사람도 있기 마련이죠. 어쩌면 우리가 그 가시 중 하나를 이용할 수도 있을 겁니다..."
- regencies.2.a: "무슨 일이 있더라도 [ROOT.GetCountry.GetName]의 [Concept('stability', '안정')|e]을 바로 세워야 한다."
+ regencies.2.a: "무슨 일이 있더라도 [ROOT.GetCountry.GetNameWithNoTooltip]의 [Concept('stability', '안정')|e]을 바로 세워야 한다."
  regencies.3.title: "그림자로도 좋으니"
  regencies.3.desc: "시해 시도에서 살아남은 이후, [ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName](은)는 기이한 태도에 사로잡히고 말았습니다. 섭정 본인은 그것을 경계심이라고 하겠지만, 다른 사람들은 이를 훨씬 저속한 말로 헐뜯고는 합니다. 섭정은 국가 운영을 오롯이 의회에만 맡기고, 사교 모임에 참석하기를 꺼리기 시작했습니다.\n섭정이 노골적으로 책무에 태만한 모습을 보이자, 궁정에서는 많은 의심이 일었습니다. 그렇지만 무엇보다도 [ROOT.GetCountry.GetGovernment.GetActiveRegent.GetName]에 대한 여론이 심하게 악화된 것은 섭정이 최근 들어 보이는 기이한 태도 때문입니다. 섭정은 한밤중에 충혈된 눈을 부릅뜨고는 어둠 속에서 자신이 절대로 권좌를 떠나지 않을 거라고 중얼거린다고 합니다. 게다가 정체불명의 누군가에게 \"그림자나 꿈으로라도 좋으니 내게 와다오\"라고 읊조린다니 사람들이 꺼림칙해하는 것도 이해가 됩니다."
  regencies.3.a: "즉시 이 사태에 종지부를 찍어야 한다."

@@ -23,7 +23,7 @@
  flavor_swe_nov.4.b.tt: "[swedish_theologian.GetName] und andere Theologen werden nach [target_location.GetName] reisen, um an einer religiösen Debatte mit dem #L [GetCountry('BYZ').GetAdjective|l]en#! [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')] teilzunehmen."
  flavor_swe_nov.5.title: "Besuch [sweden_country.GetAdjectiveWithNoTooltip|l]er Theologen"
  flavor_swe_nov.5.desc: "Eine interessante Persönlichkeit ist an unserem Hof erschienen: [swedish_theologian.GetName] ist ein #L [sweden_country.GetAdjective|l]er#! Theologe aus [novgorod_country.GetNameWithNoTooltip], der uns gesandt wurde, um mit uns über das einzig wahre Bekenntnis zu Christus zu debattieren. Er stützt sich dabei auf die renommierte Expertise der #L [GetCountry('BYZ').GetAdjective|l]en#! Theologen in diesen Glaubensfragen."
- flavor_swe_nov.5.a: "Erklärt ihm, was „[ShowReligionName('orthodox')]“ bedeutet."
+ flavor_swe_nov.5.a: "Erklärt ihm, was „[ShowReligionNameWithNoTooltip('orthodox')]“ bedeutet."
  flavor_swe_nov.5.a.at: "[swedish_theologian.GetName] akzeptiert die Niederlage in der Debatte und konvertiert zum [ROOT.GetCountry.GetReligion.GetAdjective|l]en Glauben.\n[swedish_theologian.Custom('DE_PRO_PER_S_3P_N')|U] kehrt nach [sweden_country.GetName] zurück, um den Glauben zu verbreiten."
  flavor_swe_nov.5.b: "Interessant."
  swe_theologian_visit_received: "Besuch eines Theologen erhalten"

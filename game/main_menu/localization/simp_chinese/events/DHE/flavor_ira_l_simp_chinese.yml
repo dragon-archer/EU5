@@ -193,7 +193,7 @@
  flavor_ira.45.title: "[ShowDynastyNameWithNoTooltip('qajar_dynasty')]部族"
  flavor_ira.45.desc: "[ShowDynastyName('qajar_dynasty')]部族近期迁入[ROOT.GetCountry.GetName]境内，给[ROOT.GetCountry.GetFlavorRank]带来许多动荡。尽管如此，该部族统治者[target_character.GetName]与[target_character2.GetName]已展现出卓越的战略与行政能力。尽管他们在[ROOT.GetCountry.GetFlavorRank]中极不受欢迎，但仍可考虑将其留任现政府，以利用其经验，并借助其部族力量提供额外助力。"
  flavor_ira.45.historical_info: "作为萨法维王朝的继承者，卡扎尔家族早期主要辅佐伊朗沙阿。随着阿迦·穆罕默德·汗·卡扎尔在该地区崛起以及萨法维领土的分裂，卡扎尔家族得以自立为沙阿，逐步征服众多质疑其合法性的部族。其统治持续至1925年，最终在一场政变中被巴列维王朝取代之。"
- flavor_ira.45.a: "[ROOT.GetCountry.GetName]欢迎他们。"
+ flavor_ira.45.a: "[ROOT.GetCountry.GetNameWithNoTooltip]欢迎他们。"
  flavor_ira.45.b: "让他们滚！"
  ira_qajar_dynasty_may_claim_crown: "如果[legitimacy|e]和[stability|e]，[ShowDynastyName('qajar_dynasty')][dynasty|e]将试图篡夺我们的王位"
  flavor_ira.46.title: "[ShowDynastyNameWithNoTooltip('qajar_dynasty')]部族叛乱"

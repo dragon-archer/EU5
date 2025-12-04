@@ -129,7 +129,7 @@
  flavor_bra_dynasty.1101.a.tt: "Colocaremos [emperor_ruler.GetName] como novo(a) [ruler|e] do país [root_country.GetName], formando uma [union|e] com eles"
  flavor_bra_dynasty.1101.b: "Deixem que [dynasty_character.GetNameWithNoTooltip] governe o país [root_country.GetNameWithNoTooltip]."
  flavor_bra_dynasty.1101.b.tt: "Colocaremos [dynasty_character.GetName] como novo(a) [ruler|e] do país [root_country.GetName]"
- flavor_bra_dynasty.1101.c: "[cabinet_character.GetName] governará em nosso nome."
+ flavor_bra_dynasty.1101.c: "[cabinet_character.GetNameWithNoTooltip] governará em nosso nome."
  flavor_bra_dynasty.1101.c.tt: "Colocaremos [cabinet_character.GetName] como novo(a) [ruler|e] do país [root_country.GetName], tornando-o nosso [ShowSubjectTypeName('vassal')], mas causando [ShowBiasValue('subjugated_elector_antagonism')|-=0] de [antagonism|e] com cada membro do [GetUniqueInternationalOrganization('hre').GetName]"
  subjugated_elector_antagonism: "Eleitor Subjugado"
  flavor_bra_dynasty.1101.d: "Um dos nossos assessores da corte resolverá o problema [root_country.GetAdjectiveWithNoTooltip]."

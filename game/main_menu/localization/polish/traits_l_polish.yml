@@ -322,7 +322,7 @@
  desc_child_rowdy: "To dziecko nie jest spokojne i ciche – zawsze daje o sobie znać i to raczej nie w spokojny sposób."
  child_ambitious: "Ambicja"
  child_ambitious_die_desc: "[Select_CString(CHARACTER.IsFemale,'Jej','Jego')] ambitne marzenia pozostaną niestety niespełnione."
- desc_child_ambitious: "To dziecko wie, czego chce, i nie jest to nic drobnego. Gdyby mogło, wzięłoby wszystko."
+ desc_child_ambitious: "To dziecko wie, czego chce, przy czym nie jest to nic nieznaczącego. Gdyby mogło, wzięłoby wszystko."
  child_gallant: "Szarmanckość"
  child_gallant_die_desc: "Wszyscy opłakują tę śmierć. Wygląda na to, że [CHARACTER.GetName] [Select_CString(CHARACTER.IsFemale,'była','był')] dla tego świata zbyt [Select_CString(CHARACTER.IsFemale,'idealna','idealny')], dlatego nie [Select_CString(CHARACTER.IsFemale,'mogła','mógł')] w nim dłużej pozostać. Z pewnością nigdy więcej już nikogo takiego nie zobaczymy."
  desc_child_gallant: "Pomimo młodego wieku to dziecko jest uosobieniem galanterii. Odważne, eleganckie, uprzejme i uważne – z pewnością zasłuży na wiele wierszy i opowieści, gdy dorośnie."

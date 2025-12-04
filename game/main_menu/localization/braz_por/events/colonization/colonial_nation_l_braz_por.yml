@@ -22,7 +22,7 @@
  colonial_nation.183.title: "Um Novo Governador"
  colonial_nation.183.desc: "Boatos sobre a ineficácia do governo de [ROOT.GetCountry.GetGovernment.GetRuler.GetName] acabaram chegando à Coroa, espalhando preocupações sobre como essa infeliz situação pode afetar sua reputação – e a nossa. Sob ameaça de assimilação pela Coroa, a colônia nos ofereceu um acordo paliativo: nomear um novo governador que possa assumir as rédeas da nossa colônia antes que seja tarde demais."
  colonial_nation.183.a: "Deveríamos seguir esse conselho."
- colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName] ainda pode governar."
+ colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip] ainda pode governar."
  colonial_nation.184.title: "O País [ROOT.GetCountry.GetName] Está em Dívida!"
  colonial_nation.184.desc: "Os tempos conturbados que assolam nossa colônia parecem não ter fim. Nossa dívida monetária devastou os ânimos da população que, movida pela fome que suas próprias famílias estão sofrendo, exigiu que [ROOT.GetCountry.GetGovernment.GetRuler.GetName] encontre uma solução imediata e eficaz."
  colonial_nation.184.a: "Devemos usar nossa influência para resolver isso."

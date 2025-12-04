@@ -91,7 +91,7 @@
  flavor_eng_diplomacy.1300.desc: "[ROOT.GetCountry.GetName]和[target_root_country.GetName]之间的联盟已经不复存在，然而自《温莎条约》生效以来，两国间奠定了有发展前景关系的基础。因此，我们应该考虑向尚未结婚的[target_root_country.GetGovernment.GetRuler.GetName]提出一项王室婚姻的建议，并以此作为恢复两国同盟的契机。作为嫁妆的一部分，我们还会赠与一块有价值的土地，这一提议可能难以抗拒。\n\n[ShowLocationName('tangier')]的战略位置至关重要，然而在我们掌控之下，它却带来了巨大的挑战和高昂的防御成本。因此，我们可以将其作为战略港口提供给[target_root_country.GetNameWithNoTooltip]，以服务于他们的抱负。"
  flavor_eng_diplomacy.1300.a: "准备好必要的文件。"
  flavor_eng_diplomacy.1300.a.custom: "[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')]和[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]不会喜欢割让[ShowLocationNameWithNoTooltip('tangier')]的提议"
- flavor_eng_diplomacy.1300.b: "还是交给他们[overseas_location.GetName]吧。"
+ flavor_eng_diplomacy.1300.b: "还是交给他们[overseas_location.GetNameWithNoTooltip]吧。"
  flavor_eng_diplomacy.1300.c: "这样的安排没有必要。"
  flavor_eng_diplomacy.1301.title: "长期友谊重现"
  flavor_eng_diplomacy.1301.desc: "[GetCountry('POR').GetAdjective]大使传达了一份信息，建议通过确保联盟以换取领土让步，并提出将[suitable_daughter.GetName]嫁给尚未结婚的[ROOT.GetCountry.GetGovernment.GetRuler.GetName]，以加强外交关系。\n\n他们建议将[ceded_location.GetName]作为嫁妆的一部分，这是否符合我们的愿望尚难判断。"

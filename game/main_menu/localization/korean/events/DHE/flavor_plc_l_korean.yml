@@ -113,7 +113,7 @@
  flavor_plc.1001.title: "총대주교의 방문"
  flavor_plc.1001.desc: "최근 [ShowLocationName('constantinople')] 총대주교가 [leader_of_the_kyiv_patriarchate.GetName]의 [target_religion.GetAdjective] 대주교를 방문했습니다. 목적은 [target_religion.GetAdjectiveWithNoTooltip] 교회의 대의를 위한 기금을 모금하는 것이었습니다. 방문 중에 총대주교는 교회의 위기를 극복하도록 도와달라는 현지 주민들의 간청을 무시한 채 공치사만을 늘어놓았습니다.\n\n이 상황을 잘 이용한다면, 우리는 두 교회를 하나로 규합하는 데 있어 큰 진전을 이룰 수 있을 것입니다."
  flavor_plc.1001.historical_info: "1588년에 콘스탄티노플 총대주교 예레미아스 2세는 총대교구의 재정과 자신의 정치적 권력을 보강하기 위한 자금을 마련하고자 루스 땅을 찾았습니다. 이 과정에서 총대주교는 모스크바를 독립 총대교구로 지정했습니다. 루테니아 방문 중에는 키예프 대주교 오니시포르를 해임하고 성직자들의 중혼 행위에 대해 경고하기도 했습니다. 하지만 이러한 행동은 루테니아 주교들을 달래기에는 한참 부족했습니다. 주교들은 예레미아스 총대주교가 루테니아 백성들의 약해지는 신앙심에 대해 충분한 노력을 기울이지 않았다고 여긴 것입니다."
- flavor_plc.1001.a: "[leader_of_the_kyiv_patriarchate.GetAdjective] 대주교구와의 통합을 제안한다."
+ flavor_plc.1001.a: "[leader_of_the_kyiv_patriarchate.GetAdjectiveWithNoTooltip] 대주교구와의 통합을 제안한다."
  flavor_plc.1001.b: "[target_religion.GetAdjectiveWithNoTooltip] 신도인 백성의 [ROOT.GetCountry.GetReligion.GetNameWithNoTooltip] 개종을 시도한다."
  plc_revoking_empowered_orthodox_nobility_will_prevent: "[ShowEstatePrivilegeName('plc_empower_orthodox_nobility')]를 철회하면 향후 [events|e]가 발생하지 않습니다."
  STATIC_MODIFIER_NAME_plc_diplomatic_efforts_to_unify_churches: "교회 통합"

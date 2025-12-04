@@ -241,7 +241,7 @@
  new_model_army_pi_desc: "왕당파와의 계속되는 내전에 따른 타격은, 우리 군에 총체적인 개혁이 필요함을 입증해 주었습니다."
  edict_of_nantes_issue: "낭트 칙령"
  edict_of_nantes_issue_desc: "이제는 여러 해에 걸친 종교 분쟁을 뒤로 하고, 불필요한 유혈 사태를 종결해 공존을 통한 화합을 도모할 때가 찾아왔습니다."
- end_the_french_wars_of_religion_tt: "[ShowDisasterName('french_wars_of_religion')] [disaster|e]이 종결됩니다"
+ end_the_french_wars_of_religion_tt: "[ShowDisasterName('french_wars_religion')] [disaster|e]이 종결됩니다"
  mug_promote_rajput_officials: "$rajasthani_language$ 장교 등용"
  mug_promote_rajput_officials_desc: "$rajasthani_language$를 사용하는 인물을 장교로 등용함으로써 신뢰할 만한 장교를 더 많이 확보합니다."
  promote_rajput_officials_passed_tt: "[ShowLanguageName('rajasthani_language')]를 사용하는 능력 있는 인물이 출현합니다"

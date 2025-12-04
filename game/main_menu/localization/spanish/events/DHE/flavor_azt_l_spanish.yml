@@ -5,6 +5,7 @@
  flavor_azt.70.a: "¡Todos deben contribuir a la pirámide!"
  flavor_azt.70.b: "Que nuestros súbditos contribuyan lo que les corresponde."
  flavor_azt.70.c: "Puede que sea un proyecto para otro momento."
+ subject_contribution_reason: "Contribución de los súbditos"
  we_will_be_able_to_construct_the_building_later_tt: "Podremos construir este [building|el] más adelante."
  flavor_azt.70.historical_info: "En el centro de Tenochtitlán, el Huey teocalli se alza como un símbolo imponente de la devoción y el poder de los mexicas. Construido por fases a partir del siglo XIV, posee una escalinata doble que conduce a dos templos diferenciados: uno para Huitzilopochtli, dios de la guerra, y otro para Tláloc, dios de la lluvia y la fertilidad. Cerca se encuentra un santuario a Ehécatl, el dios del viento. El templo se convertiría en un rasgo imponente del corazón sagrado de la ciudad, donde los sacerdotes ejecutarían sacrificios y ceremonias para sostener el orden cósmico."
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

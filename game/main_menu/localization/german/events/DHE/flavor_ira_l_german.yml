@@ -5,7 +5,7 @@
  flavor_ira.1.b: "Das Militär braucht dringend Reformen."
  flavor_ira.1.c: "Überholen wir die Staatsgesetze."
  flavor_ira.1.d: "Wir können uns nichts davon leisten."
- flavor_ira.1.historical_info: "Ismail I., $rank_kingdom_persian_ruler_male$ von Persien von 1501 bis 1524, war der Gründer der Safawiden-Dynastie Persiens. Obwohl er vor allem als großer Eroberer und Einer bekannt ist, führte er auch viele Reformen in Persien ein, die für den Aufstieg des Großreichs sorgten. Sein Volk, das schrecklich unter den timuridischen und turkmenischen Stämmen gelitten hatte, hieß Ismails Reformen in weiten Teilen willkommen."
+ flavor_ira.1.historical_info: "Ismail I., $rank_kingdom_persian_ruler_male$ von Persien von 1501 bis 1524, war der Gründer der Safawiden-Dynastie. Obwohl er vor allem als großer Eroberer und Einer bekannt ist, führte er auch viele Reformen in Persien ein, die für den Aufstieg des Großreichs sorgten. Sein Volk, das schrecklich unter den timuridischen und turkmenischen Stämmen gelitten hatte, hieß Ismails Reformen in weiten Teilen willkommen."
  abbas_the_great: "Abbas I."
  flavor_ira.2.title: "Herrschaft von [target_character.GetNameWithNoTooltip]"
  flavor_ira.2.desc: "Eine gewisse Nation ([target_country.GetLongName|U]) gedeiht unter der lenkenden Hand von [target_character.GetName]. Die Regierung lässt sich ohne Schwierigkeiten führen und das [target_country.GetAdjectiveWithNoTooltip|l]e Volk genießt ein Leben im Wohlstand, während die #L [target_country.GetCulture.GetName|l]e#! Kultur erblüht."

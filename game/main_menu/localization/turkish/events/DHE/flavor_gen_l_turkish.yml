@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "Korsika, [ROOT.GetCountry.GetLongName] için her zaman sıkıntılı bir yer olmuştur. Korsikalılar çok inatçı bir halk ve buldukları her fırsatta bizden bağımsızlıklarını kazanmaya çalışıyorlar.\n\nFeodal lordlara da diz çökmüyorlar. Yüzyıl Savaşları'nda [GetCountry('FRA').GetName] topraklarında çıkan köylü isyanlarının liderlerinden biri olan [sambucuccio_dalando.GetName], müttefikleriyle birlikte [rebel_location.GetName] bölgesinde [rebel_location.GetController.GetAdjective] karşıtı bir ayaklanma başlattı."
  anti_feudal_revolters: "Feodallik Karşıtı İsyancılar"
  flavor_gen.18.a: "İsyancılar, düşmanlarımızı püskürtsün."
- flavor_gen.18.b: "[sambucuccio_dalando.GetName] bizim generalimiz olsun!"
+ flavor_gen.18.b: "[sambucuccio_dalando.GetNameWithNoTooltip] bizim generalimiz olsun!"
  flavor_gen.19.title: "Bastia'nın Temeli"
  flavor_gen.19.desc: "Korsika adası pek kârlı bir yer çıkmayınca birçok [ROOT.GetCountry.GetAdjective] tüccarı ve yetkilisi adanın iç işlerine müdahale etmemeye başladı. Öte yandan, [ROOT.GetCountry.GetFlavorRank] topraklarında Korsika'dan yana hâlâ umudu olan tüccarlar da var. Korsika Maonası, adadaki kontrolünü güvenceye almak için [ShowLocationName('bastia')] ilini tahkim ettirdi. Ayrıca yakınlardaki bir kasabanın daha hızlı büyümesini sağlamak için çalışmalar yapmak niyetindeler fakat bunun için mali anlamda daha fazla desteğe ihtiyaçları olacak."
  flavor_gen.19.a: "Maona'ya gerekli destek verilsin."

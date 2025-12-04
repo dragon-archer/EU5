@@ -273,7 +273,7 @@
  societal_values.604.b: "他可以侍奉[ROOT.GetCountry.GetReligion.GetGodName]！"
  societal_values.604.c: "$societal_values.604.b$"
  societal_values.604.d: "$societal_values.604.b$"
- societal_values.604.e: "他将为[GetUniqueInternationalOrganization('hre').GetName]效劳！"
+ societal_values.604.e: "他将为[GetUniqueInternationalOrganization('hre').GetNameWithNoTooltip]效劳！"
  societal_values.605.title: "弥合分歧"
  societal_values.605.desc: "有时，不同政体的国家之间很难互相理解。但我们能力出众的外交官让我国与邻国成功弥合了分歧。"
  societal_values.605.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

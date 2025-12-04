@@ -11,7 +11,7 @@
  flavor_sale_of_lusatia.1100.title: "[GetCountry('SOR').GetNameWithNoTooltip]问题"
  flavor_sale_of_lusatia.1100.desc_normal: "随着抵押期满，[GetCountry('SOR').GetLongName]理应回归我方统治。\n\n但这片领地价值有限，将其出售可为更重要事务提供资金支持。我们可考虑彻底出售[GetCountry('SOR').GetName]的头衔，摆脱这个麻烦。定会有许多人有兴趣收购，而[target_buyer.GetName]与我们交好，不失为可靠的选择。"
  flavor_sale_of_lusatia.1100.desc_fallback: "抵押虽已到期，但[GetCountry('SOR').GetName]已被外国蠢货占据。我们目前缺乏合法手段收回这些土地。"
- flavor_sale_of_lusatia.1100.a: "向[target_buyer.GetName]提出报价。"
+ flavor_sale_of_lusatia.1100.a: "向[target_buyer.GetNameWithNoTooltip]提出报价。"
  flavor_sale_of_lusatia.1100.b: "我们不再出售领土。"
  flavor_sale_of_lusatia.1100.c: "必须收回合法领地！"
  flavor_sale_of_lusatia.1100.d: "或许当初判断有误。"

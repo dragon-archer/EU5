@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "Korsika bereitet unserer Nation ([ROOT.GetCountry.GetLongName|U]) immer wieder Schwierigkeiten. Die Korsen sind stur und versuchen bei jeder Gelegenheit, sich von uns unabhängig zu machen.\n\nDoch sie weigern sich zugleich, sich irgendeinem Feudalherrn zu unterwerfen. [sambucuccio_dalando.GetName|U], der Anführer einer Jacquerie – eines Bauernaufstandes in „[GetCountry('FRA').GetName|U]“ während des Hundertjährigen Krieges – und seine Verbündeten, haben einen Aufstand gegen die [rebel_location.GetController.GetAdjective|l]en Menschen in [rebel_location.GetName] begonnen."
  anti_feudal_revolters: "Aufständische gegen die Feudalherrschaft"
  flavor_gen.18.a: "Mögen die Aufständischen unsere Feinde in die Flucht schlagen."
- flavor_gen.18.b: "Wir brauchen [sambucuccio_dalando.GetName] als unseren General!"
+ flavor_gen.18.b: "Wir brauchen [sambucuccio_dalando.GetNameWithNoTooltip] als unseren General!"
  flavor_gen.19.title: "Die Gründung von Bastia"
  flavor_gen.19.desc: "Die Insel Korsika hat sich als eher unrentabel erwiesen, weshalb sich viele #L [ROOT.GetCountry.GetAdjective|l]e#! Geschäftsleute und Beamte aus der Einmischung in die korsische Innenpolitik zurückgezogen haben. Einige Geschäftsleute des #L [ROOT.GetCountry.GetFlavorRank]s#! sehen aber immer noch Potenzial in Korsika. Die alteingesessene Maona di Corsica hat die Konsolidierung des Standorts [ShowLocationName('bastia')] organisiert, um ihre Kontrolle über die Insel zu behaupten. Sie beabsichtigt zudem, das Wachstum einer nahen Stadt zu beschleunigen, was jedoch zusätzliche finanzielle Unterstützung erfordert."
  flavor_gen.19.a: "Gewährt der Maona die Unterstützung, die sie braucht."

@@ -275,7 +275,7 @@
  #Papacy
  powerful_italian_families: "Güçlü [ShowCultureGroupNameWithNoTooltip('italian_group')] Aileler"
  powerful_italian_families.tt: "Başkentimiz [ShowRegionNameWithNoTooltip('italy_region')] Bölgesinde DEĞİL"
- powerful_italian_families_desc: "[ShowLocationName('rome')] şehrindeki ve diğer [ShowCultureGroupName('italian_group')] zümrelerindeki anarşi ile itaatsizlik [GetCountry('PAP').GetGovernment.GetRulerTitle], sarayını [ShowLocationName('avignon')] şehrine taşıdığında büyük oranda arttı. Şimdi bu bölgeler, Colonna ve Orsini gibi [GetCountry('PAP').GetGovernment.GetRulerTitle] hükmünden tamamen bağımsız olan güçlü İtalyan ailelerinin kontrolü altında."
+ powerful_italian_families_desc: "[GetCountry('PAP').GetGovernment.GetRulerTitle], sarayı [ShowLocationName('avignon')] şehrine taşıdığından beri [ShowLocationName('rome')] şehrindeki ve diğer [ShowCultureGroupName('italian_group')] zümrelerindeki anarşi ile itaatsizlik büyük oranda arttı. Şimdi bu bölgeler, Colonna ve [ShowDynastyName('orsini_dynasty')] gibi [GetCountry('PAP').GetGovernment.GetRulerTitle] hükmünden neredeyse tamamen bağımsız olan güçlü İtalyan ailelerinin kontrolü altında."
  french_cardinals: "[ShowCultureGroupNameWithNoTooltip('french_group')] Kardinaller"
  french_cardinals_desc: "[GetCharacter('pap_boniface_viii').GetName] öldüğünden ve saray [ShowLocationName('avignon')] şehrine taşındığından beri saraya akın eden kardinallerin çoğu [ShowCultureGroupName('french_group')] ve [GetCountry('FRA').GetName] ülkesinin başındaki [GetCountry('FRA').GetGovernment.GetRulerTitle] etkisi altında. Kendisinin [GetCountry('PAP').GetName] üzerinde sahip olduğu kontrol sebebiyle [ShowLocationName('rome')] şehrine dönmek mümkün görünmüyor."
  cardinal_lead_guilds: "Kardinal Önderliğindeki Loncalar"
@@ -496,7 +496,7 @@
  warrior_tribunal: "Savaşçı Mahkemeleri"
  warrior_tribunal_desc: "Topraklarımızda çeşitli suçlar üzerinde karar verme yetkisiyle donatılmış hukuki bir sistemdir."
  ceremonial_tax_exemptions: "Törensel Vergi Muafiyetleri"
- ceremonial_tax_exemptions_desc: "Haraçların, adakların ve festivallerin hazırlanması [[ShowEstateTypeName('burghers_estate')]')] zümresi için büyük bir şereftir. Bu sorumluluğun karşılığında sıradan vergilendirmelerden muaf tutulacaklar."
+ ceremonial_tax_exemptions_desc: "Haraçların, adakların ve festivallerin hazırlanması [ShowEstateTypeName('burghers_estate')] zümresi için büyük bir şereftir. Bu sorumluluğun karşılığında sıradan vergilendirmelerden muaf tutulacaklar."
  #Incas
  mita_system: "Mit'a Sistemi"
  mita_system_desc: "#italic Mit'a#! sisteminin yürürlüğe girmesiyle birlikte on beş ile elli yaş aralığındaki tüm erkekler hükûmet için bir yıl boyunca ücretsiz olarak çalışmak zorundadır. Bu iş gücü, kişinin ailesine bakma kabiliyetiyle çakışmayacak şekilde düzenlenir."
@@ -532,7 +532,7 @@
  share_of_the_spoils: "Ganimetlerin Paylaştırılması"
  share_of_the_spoils_desc: "Ganimetler yüce klanımıza kaldığı zaman zafer hep daha tatlı gelir. Fakat bu ganimetleri paylaşarak diğer güçlü klanlarla gelecekte işimize yarayabilecek iyi ilişkiler kurabiliriz."
  tribal_host: "Kabile Ordusu"
- tribal_host_desc: "En güçlü atları yetiştirmek, kudretli ordumuzun temeli olmalıdır. Bu süreci [ShowEstateTypeName('nobles_estate')] zümresinin sorumluluğuna bırakarak efsanevi savaşçılarımızın hiç bir zaman bineksiz kalmamasını sağlayacağız."
+ tribal_host_desc: "En güçlü atları yetiştirmek, kudretli ordumuzun temeli olmalıdır. Bu süreci [ShowEstateTypeName('nobles_estate')] zümresinin sorumluluğuna bırakarak efsanevi savaşçılarımızın hiçbir zaman bineksiz kalmamasını sağlayacağız."
  tribal_autonomy: "Kabile Özerkliği"
  tribal_autonomy_desc: "Hem atalarımız hem de onlardan önceki nesiller, yerleşim yerlerinin dışındaki özgür yaşamı takdir ederdi. Biz de onların ayak izinden giderek halkımızı yolundan saptırmaya çalışan dış etkenlerden uzak durmalıyız."
  #Venice

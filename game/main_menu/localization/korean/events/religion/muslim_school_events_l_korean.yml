@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "설교는 다른 곳에 가서 하라고 해라."
  muslim_school_events.8.title: "외국 신학자들의 학문 부흥"
  muslim_school_events.8.desc: "우리 국가에 초빙된 신학자들이 현지 종교학계를 풍성하게 만들어 주고 있습니다. 이들은 우리 국가에서 업적을 남기며 신세대 [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]에게 영감을 주었습니다."
- muslim_school_events.8.a: "[ROOT.GetCountry.GetCapital.GetName]에 그 학자들이 필요하구나."
+ muslim_school_events.8.a: "[ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]에 그 학자들이 필요하구나."
  muslim_school_events.8.b: "그 학자들은 우리 국가 곳곳에서 제자리를 찾을 것이다."
  muslim_school_events.9.title: "[SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip] 신학자들"
  muslim_school_events.9.desc: "우리 마드라사에 [SCOPE.sCountry('scholar_country').GetAdjectiveWithNoTooltip] 신학자들을 앉히자, 우리 국가 신학계의 논의는 물론 우리와 [SCOPE.sCountry('scholar_country').GetName] [SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName](과)와의 관계 또한 발전하고 있습니다."

@@ -5,6 +5,7 @@
  flavor_azt.70.a: "Wszyscy muszą wybudować piramidę!"
  flavor_azt.70.b: "Niech nasi poddani wniosą sprawiedliwy wkład."
  flavor_azt.70.c: "To projekt na inną okazję."
+ subject_contribution_reason: "Wkład poddanego"
  we_will_be_able_to_construct_the_building_later_tt: "Będziemy mogli zbudować tę [Concept('building','budowlę')|e] później."
  flavor_azt.70.historical_info: "Huēyi Teōcalli w centrum Tenochtitlan to potężny symbol oddania i potęgi ludu Mexica. Budowany etapami od XIV wieku, posiada podwójne schody, które prowadzą do oddzielnych świątyń: jednej dla boga wojny Huitzilopochtli, a drugiej dla boga deszczu i płodności Tlaloca. W pobliżu znajduje się świątynia poświęcona bogu wiatru Ehecatlowi. Budowla stała się imponującym elementem świętego serca miasta, gdzie kapłani składali ofiary i odprawiali ceremonie mające na celu utrzymanie kosmicznego porządku."
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

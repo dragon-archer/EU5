@@ -293,7 +293,7 @@
  flavor_mam.64.a: "[target_culture.GetNameWithNoTooltip] Memlüklerinin desteğine ihtiyacımız var."
  flavor_mam.64.b: "[target_culture2.GetNameWithNoTooltip] Memlüklerinin desteği her zamanki gibi hayati önem taşıyor."
  flavor_mam.64.c: "Diğerleri kadar önemli olmasa da [third_ruler.GetNameWithNoTooltip] hünerlerini kanıtladı."
- flavor_mam.64.d: "[target_culture4.GetName] saflarından geleneksel bir Memlük seçilmeli."
+ flavor_mam.64.d: "[target_culture4.GetNameWithNoTooltip] saflarından bir Memlük seçilmeli."
  flavor_mam.65.title: "[target_location.GetNameWithNoTooltip] Askerleri"
  flavor_mam.65.desc: "Birliklerimizin merkezinde $mamluks$ olsa da ordumuzun tamamı köle savaşçılardan oluşmuyor. Piyadelerimizin çoğu yerel [target_location.GetName] askerlerinden oluşuyor. Bu askerler aynı zamanda muhafızlık yapıp garnizonlarda da görev alıyor.\n\nDüşük terfi ihtimali ve düşük maaşlar pek de iyi motivasyon araçları sayılmaz. Bu yüzden bu askerlere ne kadar güvenebileceğimizi bilmiyoruz. Eğitimlerinin ve ekipmanlarının çoğu zaman [ROOT.GetCountry.GetGovernment.GetRulerTitle] ve [target_location.GetRank.GetName] ilindeki yerel valiler tarafından ihmal edildiği açık. [target_location.GetArea.GetName] ilinde [target_location.GetName] yerlileri ile $mamluk$ valileri arasındaki güvensizlik, huzursuzluğa yol açıyor."
  flavor_mam.65.a: "Vaktimiz varken bunun önüne geçmemiz lazım!"

@@ -40,7 +40,7 @@
  savonarola.10.a: "이단이 분명하다. 체포해서 처형하라."
  savonarola.10.b: "불타지 않은 것은 맞으니, 신께서 함께하시는 것 아니겠나."
  savonarola.11.title: "사보나롤라의 유산"
- savonarola.11.desc: "[GetCharacter('flo_savonarola').GetName]의 죽음은 생전의 행적만큼이나 우리나라를 크게 뒤흔들었습니다. 그가 설파한 내용에 공감하지 않더라도, 이 인물이 모든 [ROOT.GetCountry.GetLongName] 사람들에게 큰 영향을 남겼다는 사실은 부정할 수 없습니다. 사보나롤라의 죽음으로 그가 주도했던 선동도 모두 종식되었습니다. 추종자 중 상당수는 여전히 예전과 같은 내용을 설파하고 있지만, 그 변화의 기세는 예전에 미치지 못합니다.\n\n[ROOT.GetCountry.GetFlavorRank](은)는 [GetCharacter('flo_savonarola').GetNameWithNoTooltip]라는 재난을 견뎌냈고, 그 전보다 더 강인하게 다시 일어섰습니다."
+ savonarola.11.desc: "[GetCharacter('flo_savonarola').GetName]의 죽음은 생전의 행적만큼이나 우리나라를 크게 뒤흔들었습니다. 그가 설파한 내용에 공감하지 않더라도, 이 인물이 모든 [ROOT.GetCountry.GetLongName] 사람들에게 큰 영향을 남겼다는 사실은 부정할 수 없습니다. 사보나롤라의 죽음으로 그가 주도했던 선동도 모두 종식되었습니다. 추종자 중 상당수는 여전히 예전과 같은 내용을 설파하고 있지만, 그 변화의 기세는 예전에 미치지 못합니다.\n\n[ROOT.GetCountry.GetFlavorRank](은)는 [GetCharacter('flo_savonarola').GetNameWithNoTooltip](이)라는 재난을 견뎌 냈고, 그 전보다 더 강인하게 다시 일어섰습니다."
  savonarola.11.theocracy.desc: "[GetCharacter('flo_savonarola').GetName](은)는 우리나라를 완전히 뒤흔들어 놓았습니다. 신께서 이끄신 그의 행적은 전능하신 하느님의 축복을 영광스러운 우리나라 전체에 베풀어 주었습니다. 우리는 사보나롤라의 뒤를 이어 [ROOT.GetCountry.GetLongName](을)를 신께서 선택하신 나라로 만들어 나갈 것입니다.\n\n신의 인도 아래 영광스러운 [ROOT.GetCountry.GetNameWithNoTooltip](은)는 지상에서 천국의 빛을 밝히고, 만인을 위한 구원의 등불이자 모범이 될 것입니다."
  savonarola.11.a: "[ROOT.GetCountry.GetFlavorRank]의 질서를 회복하라."
  savonarola.11.b: "그가 걸었던 거룩한 길을 따를 것이다."

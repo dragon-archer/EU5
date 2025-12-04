@@ -35,7 +35,7 @@
  hre.900.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle]驾崩……"
  hre.900.desc: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle]万岁！诸位选帝侯决定继续信任我们，帝国皇冠仍然由[GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetName]保留。随着我们国家对帝国皇冠的掌控不断加强，诸侯开始将我们视为帝国皇冠的天然持有者，我们在[GetUniqueInternationalOrganization('hre').GetName]内的权威也随之提升。"
  hre.900.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName]获得[ROOT.GetVariable('imperial_authority_change').GetValue]#Y $imperial_authority$#!"
+ hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName]获得[ROOT.GetVariable('imperial_authority_change').GetValue|+2]#Y $imperial_authority$#!"
  hre.901.title: "诸侯国复国"
  hre.901.desc: "如同凤凰涅槃，[released_country.GetName]从灰烬中重生，重新成为[GetUniqueInternationalOrganization('hre').GetName]的诸侯国！"
  hre.901.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

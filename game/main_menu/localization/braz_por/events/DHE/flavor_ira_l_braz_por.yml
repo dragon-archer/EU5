@@ -193,7 +193,7 @@
  flavor_ira.45.title: "As Tribos [ShowDynastyNameWithNoTooltip('qajar_dynasty')]es"
  flavor_ira.45.desc: "A recente migração das tribos [ShowDynastyName('qajar_dynasty')]es na entidade política [ROOT.GetCountry.GetName] trouxe certa desestabilização para o(a) [ROOT.GetCountry.GetFlavorRank]. Apesar disso, os governantes da tribo, [target_character.GetName] e [target_character2.GetName], demonstraram-se estrategistas e administradores capazes. Mesmo sendo impopulares com todos no(a) [ROOT.GetCountry.GetFlavorRank], ainda pode ser possível mantê-los no nosso governo atual, aproveitando sua experiência e talvez usando a tribo como uma ajuda a mais."
  flavor_ira.45.historical_info: "Como os sucessores dos safávidas, a família Cajar ajudou os xás iranianos nos estágios iniciais. Com a ascensão de Aga Maomé Cã Cajar na região e a fragmentação do reino safávida, a família Cajar conseguiu se proclamar xás, conquistando aos poucos as diversas outras tribos que resistiram à sua legitimidade. Seu reinado duraria até 1925, quando um golpe de estado ocorreu, substituindo-os pela dinastia Pahlavi."
- flavor_ira.45.a: "Eles são bem-vindos na entidade política [ROOT.GetCountry.GetName]."
+ flavor_ira.45.a: "Eles são bem-vindos na entidade política [ROOT.GetCountry.GetNameWithNoTooltip]."
  flavor_ira.45.b: "Tirem eles daqui."
  ira_qajar_dynasty_may_claim_crown: "A [dynasty|e] [ShowDynastyName('qajar_dynasty')] tentará reivindicar o trono se tivermos pouca [legitimacy|e] e [stability|e]"
  flavor_ira.46.title: "Rebelião das Tribos [ShowDynastyNameWithNoTooltip('qajar_dynasty')]es"

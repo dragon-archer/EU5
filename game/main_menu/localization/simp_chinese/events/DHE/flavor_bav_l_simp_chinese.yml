@@ -88,7 +88,7 @@
  flavor_bav.29.historical_info: "在三十年战争期间，斐迪南二世皇帝面临着双重挑战：既要犒赏忠诚盟友，又需维系神圣罗马帝国内部脆弱的权力平衡。巴伐利亚公爵马克西米利安一世通过领导天主教联盟并在1620年白山战役中取得决定性胜利等军事贡献，为支持天主教事业发挥了关键作用。为表彰其坚定忠诚并增强帝国内天主教势力，斐迪南二世于1623年召开雷根斯堡议会，正式将选帝侯爵位从信奉新教的普法尔茨选帝侯腓特烈五世处剥夺——因其参与波西米亚叛乱而遭帝国剥夺一切权利——转授马克西米利安一世。这一战略决策不仅回报了坚定盟友，又重构了选帝侯格局以倾向天主教阵营，在动荡时期巩固了帝国权威。"
  flavor_bav.30.title: "[bavaria_country.GetNameWithNoTooltip]晋升为[ShowSpecialStatusNameWithNoTooltip('elector')]"
  flavor_bav.30.desc: "[emperor_ruler.GetName]决定授予[home_ruler.GetName]和[bavaria_country.GetName]尊贵的[ShowSpecialStatusName('elector')]头衔。这是[bavaria_country.GetNameWithNoTooltip]历史上的关键时刻，它在[GetInternationalOrganization('hre').GetName]内拥有了巨大的影响力。"
- flavor_bav.30.a: "[bavaria_country.GetName]新时代的开始！"
+ flavor_bav.30.a: "[bavaria_country.GetNameWithNoTooltip]新时代的开始！"
  flavor_bav.31.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle]拒绝请求"
  flavor_bav.31.desc: "[emperor_ruler.GetName]拒绝将[bavaria_country.GetName]擢升为[ShowSpecialStatusName('elector')]。尽管[bavaria_country.GetNameWithNoTooltip]在[ShowSituationName('war_of_religions')]中鼎力支持，[GetInternationalOrganization('hre').GetName]的权力格局仍将维持原状。"
  flavor_bav.31.a: "即便没有这个头衔，我们照样能壮大实力。"

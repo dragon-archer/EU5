@@ -83,7 +83,7 @@
  artist_events.19.b: "Louons plutôt le travail acharné de [target_bad_composer.GetNameWithNoTooltip]."
  artist_events.19.c: "Tout cela est indigne de nous."
  artist_events.20.title: "L'essor des beaux-arts"
- artist_events.20.desc: "Une récente série de pièces musicales écrites par [target_character.GetName] a captivé un large public, les airs se mêlant parfaitement les uns aux autres, en créant une mélodie digne d'un peuple ayant notre prestige et notre rang."
+ artist_events.20.desc: "Une récente série de pièces musicales écrites par [target_character.GetName] a captivé un large public. Les airs se mêlent parfaitement les uns aux autres et créent une mélodie digne d'un peuple ayant notre prestige et notre rang."
  artist_events.20.a: "La carrière de [target_character.GetNameWithNoTooltip] s'annonce prometteuse !"
  artist_events.21.title: "La vie dans les villes"
  artist_events.21.desc: "Le développement des centres urbains à travers notre [ROOT.GetCountry.GetFlavorRank] a apporté de nombreux bienfaits à notre société. Cependant, cette nouvelle vague de centralisation urbaine s'accompagne des inconvénients de la vie dans un environnement très urbanisé. Conçu à l'origine par la guilde dirigée par [target_character.GetName], [target_location.GetName] a évolué en un lieu de cauchemar où vivre est une abomination."

@@ -23,7 +23,7 @@
  parliaments.6.desc: "$parliaments.3.desc_generic$ Похоже, многие из них считают, что одобрение обсуждаемого вопроса будет весьма выгодно для них, поэтому они решили оказать давление на членов [ROOT.GetCountry.Custom('parliament_ru_GEN')|l], чтобы те проголосовали нужным образом."
  parliaments.6.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  parliaments.7.title: "Военная поддержка в [target_location.Custom('LR_PREP')|l] [target_location.GetNameWithNoTooltip]"
- parliaments.7.desc: "Во многих отношениях армия — самая влиятельная сила в [target_location.Custom('LR_PREP')|l] [target_location.GetName]. Члены [ROOT.GetCountry.GetParliament.GetParliament.Custom('parliament_ru_GEN')|l] — как выходцы из армии, так и просто сохраняющие ей верность — поддались убеждению и решили проголосовать в пользу обсуждаемого предложения."
+ parliaments.7.desc: "Во многих отношениях армия — самая влиятельная сила в [target_location.Custom('LR_PREP')|l] [target_location.GetName]. Члены [ROOT.GetCountry.Custom('parliament_ru_GEN')|l] — как выходцы из армии, так и просто сохраняющие ей верность — поддались убеждению и решили проголосовать в пользу обсуждаемого предложения."
  parliaments.7.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
  parliaments.7.b: "Нам достаточно их поддержки."
  parliaments.8.title: "Влияние [target_location.Custom('LR_GEN')|l] [target_location.GetNameWithNoTooltip]"

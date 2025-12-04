@@ -193,7 +193,7 @@
  flavor_ira.45.title: "[ShowDynastyNameWithNoTooltip('qajar_dynasty')] 부족"
  flavor_ira.45.desc: "최근 [ROOT.GetCountry.GetName]에서 [ShowDynastyName('qajar_dynasty')] 부족이 이주해 오며 우리 [ROOT.GetCountry.GetFlavorRank]에 약간의 소요가 발생했습니다. 그럼에도 부족의 지도자인 [target_character.GetName](과)와 [target_character2.GetName](은)는 유능한 전략가이자 행정가의 면모를 보여 주었습니다. 비록 두 지도자가 [ROOT.GetCountry.GetFlavorRank] 내의 모든 이들 사이에서 인망이 있는 것은 아니지만, 계속하여 저들이 현 정부에 남을 수 있도록 유지한다면 그 경험에서 도움을 받고, 부족을 추가적인 지원 세력으로 활용할 수 있을 것입니다."
  flavor_ira.45.historical_info: "사파비 왕조를 계승한 카자르 가문은 초기 집권 시기에 주로 이란 샤의 보좌 역할을 수행했습니다. 이후 아가 모하마드 칸 카자르가 부상하고 사파비 왕조의 영토가 분열되자, 카자르 가문은 스스로 샤를 자처하며 가문의 정통성을 거부하는 여러 부족을 서서히 정복해 나갔습니다. 카자르 가문의 통치는 1925년에 쿠데타가 발생해 팔라비 왕조가 그 자리를 가로챌 때까지 지속되었습니다."
- flavor_ira.45.a: "저들을 [ROOT.GetCountry.GetName]에 기꺼이 맞이하겠다."
+ flavor_ira.45.a: "저들을 [ROOT.GetCountry.GetNameWithNoTooltip]에 기꺼이 맞이하겠다."
  flavor_ira.45.b: "내쫓아 버려라!"
  ira_qajar_dynasty_may_claim_crown: "[ShowDynastyName('qajar_dynasty')] [dynasty|e]은 우리의 [legitimacy|e]과 [stability|e]가 부족할 경우 권좌를 차지하려 들 것입니다"
  flavor_ira.46.title: "[ShowDynastyNameWithNoTooltip('qajar_dynasty')] 부족의 반란"

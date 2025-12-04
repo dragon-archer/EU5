@@ -104,7 +104,7 @@
  flavor_kni.120.b: "Zamiast tego rozwińmy naszą infrastrukturę."
  flavor_kni.121.title: "Działalność morska w regionie [target_location.GetNameWithNoTooltip]"
  flavor_kni.121.desc: "[target_location.GetName] jest wyspą o bardzo korzystnym położeniu. Jej bliskość do wybrzeża w regionie [target_location.GetRegion.GetName] sprawia, że jest to ważny punkt oparcia dla wszelkich działań morskich w okolicy. Jednocześnie służy jako korytarz między Wschodem a Zachodem, a wielu kupców dąży do tego, by wyspa ta była miejscem postoju podczas podróży z i na Bliski Wschód."
- flavor_kni.121.a: "[ShowGoodsName('naval_supplies')] – trzeba zwiększyć ich produkcję!"
+ flavor_kni.121.a: "[ShowGoodsNameWithNoTooltip('naval_supplies')] – trzeba zwiększyć ich produkcję!"
  flavor_kni.121.b: "Musimy ulokować tam większą liczbę kupców."
  flavor_kni.121.c: "Zamiast tego zadbajmy o miejscowych."
  flavor_kni.130.title: "Cudowne trzęsienie ziemi"

@@ -17,7 +17,7 @@
  ireland.30.a: "Wir vertrauen darauf, dass der [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')] „[ROOT.GetCountry.GetNameWithNoTooltip|U]“ modernisiert."
  ireland.30.b: "Der [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')] sollte sich ans Beten halten."
  ireland.40.title: "[native_culture.GetNameWithNoTooltip|U]er als ein [native_culture.GetNameWithNoTooltip|l]er Mensch"
- ireland.40.desc: "Über die Generationen hat das Leben unter den #L [native_culture.GetName|l]en#! Menschen zu einer schrittweisen, aber merklichen Änderung unserer Sitten geführt. Die #L [judgmental_culture.GetName]en#! Leute halten uns nicht mehr für [judgmental_culture.GetNameWithNoTooltip|l], wohingegen die [native_culture.GetNameWithNoTooltip|l]en Leute uns nicht mehr als Neuankömmlinge betrachten …"
+ ireland.40.desc: "Über die Generationen führte das Leben unter den #L [native_culture.GetName|l]en#! Menschen zu einer schrittweisen, aber merklichen Änderung unserer Sitten. Die #L [judgmental_culture.GetName|l]en#! Leute halten uns nicht mehr für [judgmental_culture.GetNameWithNoTooltip|l], wohingegen die [native_culture.GetNameWithNoTooltip|l]en Leute uns nicht mehr als Neuankömmlinge betrachten …"
  ireland.40.a: "Wir sind [native_culture.GetNameWithNoTooltip|l]er als die [native_culture.GetNameWithNoTooltip|l]en Menschen geworden!"
  ireland.40.b: "Wir müssen unser Erbe in diesem wilden Land erhalten!"
  opinion_gone_native: "Einheimisch geworden"

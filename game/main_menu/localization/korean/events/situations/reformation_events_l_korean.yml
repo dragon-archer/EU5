@@ -3,7 +3,7 @@
  reformation.1.desc: "면죄부 관행이 성행하고 교회의 탐욕에 대한 의혹이 제기되면서, 로마 [GetUniqueInternationalOrganization('catholic_church').GetName]에 대한 반감이 [ShowContinentName('europe')] 전체로 확산되고 있습니다.\n\n이러한 비판은 얼마 전까지만 해도 포괄적이고 일반적인 수준에 지나지 않았지만, [target_location.GetName]에서 일어난 어떤 사건을 계기로 양상이 일변했습니다. [target_character.GetName](이)라는 평범한 수도사가 진정한 예배와 우리 신앙의 본질에 관한 논문을 저술하여 발표한 것입니다. 이 수도사는 특히 면죄부 판매를 탐욕스럽고 불필요한 행위라 비난하며, 오직 신만이 베풀 수 있는 용서를 판매할 권위가 [GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle]에게 있는지 문제를 제기했습니다."
  reformation.1.a: "이것이 어떤 미래를 부를지는 두고 볼 일이겠지."
  reformation.2.title: "성경 번역"
- reformation.2.desc: "[ROOT.GetCountry.GetCapital.GetName]의 한 신부가 성경을 [ROOT.GetCountry.GetCourtLanguage.GetName]로 번역해, 그 사본을 [ROOT.GetCountry.GetName] 전국의 마을에 배포했습니다. 이들은 [ROOT.GetCountry.GetLiturgicalLanguage.GetName] 이외의 언어로 성경을 번역한다면 백성들이 저마다 자신이 이해할 수 있는 언어로 신의 말씀을 접할 수 있기에, 하느님께 다가가는 데 큰 도움이 될 것이라고 주장했습니다. 그러나 교회는 이러한 번역이 신의 뜻에 어긋난다며 반대하고 있습니다."
+ reformation.2.desc: "[ROOT.GetCountry.GetCapital.GetName]의 한 신부가 성경을 [ROOT.GetCountry.GetDominantLanguage.GetName]로 번역해, 그 사본을 [ROOT.GetCountry.GetName] 전국의 마을에 배포했습니다. 이들은 [ROOT.GetCountry.GetLiturgicalLanguage.GetName] 이외의 언어로 성경을 번역한다면 백성들이 저마다 자신이 이해할 수 있는 언어로 신의 말씀을 접할 수 있기에, 하느님께 다가가는 데 큰 도움이 될 것이라고 주장했습니다. 그러나 교회는 이러한 번역이 신의 뜻에 어긋난다며 반대하고 있습니다."
  reformation.2.a: "이단이다! 신부도 책도 모두 불태워라!"
  reformation.2.b: "훌륭한 소식이로다! 성경을 널리 전파하라."
  reformation.3.title: "개혁가 [target_character.GetNameWithNoTooltip]"

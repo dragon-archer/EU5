@@ -318,7 +318,7 @@
  child_gregarious_die_desc: "Vefat haberi birçok insanı yıkacak olan [CHARACTER.GetName], kısa hayatı boyunca çok fazla arkadaş edinmişti."
  desc_child_gregarious: "Bu çocuk, etrafında insanların olmasından ve onlarla vakit geçirmekten keyif alır."
  child_rowdy: "Gürültücü"
- child_rowdy_die_desc: "[CHARACTER.GetName] huzura kavuştu. Onun bu kadar sessiz olduğunu görmek çok garip."
+ child_rowdy_die_desc: "[CHARACTER.GetName] nihayet huzura kavuştu. Onu böylesine suskun görmek çok garip."
  desc_child_rowdy: "Bu çocuk hiç ama hiç sakin veya sessiz değildir. Huzur bozan tavırlarıyla her yerde kendisini belli eder."
  child_ambitious: "Hırslı"
  child_ambitious_die_desc: "Ne yazık ki hırslarına hiçbir zaman ulaşamayacak."

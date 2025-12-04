@@ -46,10 +46,10 @@
  #War of the Roses
  #Disaster
  war_of_the_roses: "Güllerin Savaşı"
- war_of_the_roses_desc: "[GetCountry('ENG').GetName], hüküm süren hanedanın alt kolları arasında çıkan çatışma nedeniyle paramparça ediliyor. \"Beyaz gül\" adı verlien ShowDynastyName('york_dynasty')] kolu ve \"kırmızı gül\" adı verilen [ShowDynastyName('lancaster_dynasty')] kolu, kimin egemenlik üzerindedaha güçlü bir kalıtsal hakkı olduğu konusunda tartışıyor. Bu iç çatışma on yıllarca devam edebilir ve [GetCountry('ENG').GetGovernment.GetEstateName('nobles_estate')] zümresinin tamamını etkileyerek [GetCountry('ENG').GetFlavorRank] içindeki istikrarı zayıflatabilir."
+ war_of_the_roses_desc: "[GetCountry('ENG').GetName], hüküm süren hanedanın alt kolları arasında çıkan çatışma nedeniyle paramparça ediliyor. \"Beyaz gül\" adı verilen [ShowDynastyName('york_dynasty')] kolu ve \"kırmızı gül\" adı verilen [ShowDynastyName('lancaster_dynasty')] kolu, kimin egemenlik üzerinde daha güçlü bir kalıtsal hakkı olduğu konusunda tartışıyor. Bu iç çatışma on yıllarca devam edebilir ve [GetCountry('ENG').GetGovernment.GetEstateName('nobles_estate')] zümresinin tamamını etkileyerek [GetCountry('ENG').GetFlavorRank] içindeki istikrarı zayıflatabilir."
  #Actions
  wotr_bribe_garrison: "Garnizona Rüşvet Ver"
- wotr_bribe_garrison_desc: "İç savaş insanların sadakatlerinin ağır şekilde sınandığı bir süreçtir. Şu an [actor.GetFlavorRank] makamımız her köşede istikrarsızlıkla boğuşuyor. Bu kaostan yararlanmak için düşman kalelerine para ve güvence teklif ederek komutanlarını, kuşatmamız altında kalmak yerine barışçıl bir şekilde teslim olmaya ikna etmeliyiz."
+ wotr_bribe_garrison_desc: "İç savaş, insanların sadakatlerinin ağır şekilde sınandığı bir süreçtir. Şu an [actor.GetFlavorRank] makamımız her köşede istikrarsızlıkla boğuşuyor. Bu kaostan yararlanmak için düşman kalelerine para ve güvence teklif ederek komutanlarını, kuşatmamız altında kalmak yerine barışçıl bir şekilde teslim olmaya ikna etmeliyiz."
  select_ongoing_siege_to_bribe: "Rüşvet verilecek devam eden bir [siege|e] seç"
  no_ongoing_siege_to_bribe: "@trigger_no! Rüşvet verilecek devam eden bir [siege|e] yok"
  chosen_siege_tt: "[target_siege.GetName] garnizonu teslim olur."
@@ -57,7 +57,7 @@
  #War of the Aragonese Union
  #Disaster
  war_of_the_aragonese_union_disaster: "Birlik Savaşı"
- war_of_the_aragonese_union_disaster_desc: "[SCOPE.sCountry('CAS').GetGovernment.GetAdjective] yönetimi tarafından üstülerine yüklenen aşırı talepler sebebiyle öfkelenmiş iki iyi donanımlı asi grubu ortaya çıktı: Aragon ve Valensiya Birlikleri. [GetCountry('ARA').GetGovernment.GetEstateName('nobles_estate')] ve [GetCountry('ARA').GetGovernment.GetEstateName('burghers_estate')] sınıflarının memnuniyetsiz üyeleri tarafından oluşturulan bu birliklerin ikisi de hükümdarın gücünün kısıtlanmasını, vergilerin azaltılmasını ve yerel yasalar, ayrıcalıklar ile geleneklere saygı gösterilmesini talep ediyor."
+ war_of_the_aragonese_union_disaster_desc: "[SCOPE.sCountry('CAS').GetGovernment.GetAdjective] yönetimi tarafından üstlerine yüklenen aşırı talepler sebebiyle öfkelenmiş iki iyi donanımlı asi grubu ortaya çıktı: Aragon ve Valensiya Birlikleri. [GetCountry('ARA').GetGovernment.GetEstateName('nobles_estate')] ve [GetCountry('ARA').GetGovernment.GetEstateName('burghers_estate')] sınıflarının memnuniyetsiz üyeleri tarafından oluşturulan bu birliklerin ikisi de hükümdarın gücünün kısıtlanmasını, vergilerin azaltılmasını ve yerel yasalar, ayrıcalıklar ile geleneklere saygı gösterilmesini talep ediyor."
  #Savonarola
  #Disaster
  savonarola_disaster: "Savonarola'nın Yükselişi"
@@ -65,15 +65,15 @@
  #Ciompi Revolt
  #Disaster
  ciompi_revolt: "Ciompi İsyanı"
- ciompi_revolt_desc: "Floransa, Ciompi'nin açık bir isyan başlatma tehdidi üstüne belirsizliklerle dolu bir dönemle karşı karşıya. İşçiler, zanaatkârlar ve loncalarla bağlantısı olmayan ustalardan oluşan Ciompi, yüksek vergilerle boğuşmasına rağmen lonca üyeliği olmadığı için hiç bir siyasi temsile sahip değil. Böylesine yaygın bir huzursuzluk, bütün toplumumuzu kargaşaya sürükleme riski taşıyor."
+ ciompi_revolt_desc: "Floransa, Ciompi'nin açık bir isyan başlatma tehdidi sebebiyle belirsizliklerle dolu bir dönemle karşı karşıya. İşçiler, zanaatkârlar ve loncalarla bağlantısı olmayan ustalardan oluşan Ciompi; yüksek vergilerle boğuşmasına rağmen lonca üyeliği olmadığı için hiçbir siyasi temsile sahip değil. Böylesine yaygın bir huzursuzluk, bütün toplumumuzu kargaşaya sürükleme riski taşıyor."
  #Crisis of the Sayfawa Dynasty
  #Disaster
  crisis_of_the_sayfawa_dynasty: "Sayfawa Hanedanlığı Krizi"
- crisis_of_the_sayfawa_dynasty_desc: "Hanedanımız uzun yıllar boyunca bu bölgeyi başarılı bir şekilde yönetmiş de olsa iç çekişmeler ve bir dizi gayrimeşru hükümder yüzünden büyük bir krizle burun buruna geldik. Biz iç çekişmelerle uğraşırken sinsi düşmanlarımız ve güçlü komuşlarımız, topraklarımızı bölmek ve halkımızı yeryüzünden silmek için ellerine geçen her fırsatı değerlendirecektir. Kendi saflarımızdaki yıpranmanın bizi içten çürütmesine izin vermeksizin dış dünyaya karşı tarih boyunca hep bizim hakkımız olan gerçeği savunmanın bir yolunu bulmalıyız."
+ crisis_of_the_sayfawa_dynasty_desc: "Hanedanımız uzun yıllar boyunca bu bölgeyi başarılı bir şekilde yönetmiş de olsa iç çekişmeler ve bir dizi gayrimeşru hükümdar yüzünden büyük bir krizle burun buruna geldik. Biz iç çekişmelerle uğraşırken sinsi düşmanlarımız ve güçlü komşularımız topraklarımızı bölmek ve halkımızı yeryüzünden silmek için ellerine geçen her fırsatı değerlendirecektir. Kendi saflarımızdaki yıpranmanın bizi içten çürütmesine izin vermeksizin nicedir hakkımız olanları dış dünyaya karşı savunmanın bir yolunu bulmalıyız."
  #Muscovite Succession War
  #Disaster
  muscovite_succession_war: "Moskova İç Savaşı"
- muscovite_succession_war_desc: "[GetCountry('MOS').GetCapital.GetRegion.GetName] böglesinin güç makamı [GetCountry('MOS').GetCapital.GetName] şehridir. Bir veliaht krizi sonucunda hüküm süren hanedanın çeşitli aileleri arasında bir iç çatışma ortaya çıktı. Bu ailelerin her biri taht üzerinde hak iddia ediyor. Bu çatışmanın kızışması yalnızca bu aileleri parçalama değil, aynı zamanda hepimiz için bir felaket yaratma tehdidi taşıyor."
+ muscovite_succession_war_desc: "[GetCountry('MOS').GetCapital.GetRegion.GetName] bölgesinin güç makamı [GetCountry('MOS').GetCapital.GetName] şehridir. Bir veliaht krizi sonucunda, hüküm süren hanedanın çeşitli aileleri arasında bir iç çatışma ortaya çıktı. Bu ailelerin her biri taht üzerinde hak iddia ediyor. Bu çatışmanın kızışması yalnızca bu aileleri parçalama değil, aynı zamanda hepimiz için bir felaket yaratma tehdidi taşıyor."
  #Peasants War
  #Disaster
  peasants_war: "Köylü Savaşı"
@@ -92,16 +92,16 @@
  struggle_for_royal_power_desc: "Monarkın otoritesi ile Sejm'in gücü arasındaki çatışma şiddetle devam ediyor. Görünüşe göre geleneksel hiyerarşimize yakın zamanda karşı çıkılacak. Statükoyu korumak istiyorsak bu tehditleri tamamen ortadan kaldırmalıyız. Kendimizi zümrelerin gözetiminden kurtarıp iktidarın hâkimiyetini sona erdirme vakti geldi!"
  #Dissolution of Delhi
  #Disaster
- dissolution_of_delhi: "Delhi'nin Feshedilmesi"
- dissolution_of_delhi_desc: "Tüm çabalarımıza rağmen, bize karşı çıkanların açtığı yarayı henüz kapatamadık. Bir zaman büyük olan İmparatorluğumuz, düşmanlarımızın bizi dört koldan sarmasıyla karmaşaya sürüklendi. Gerçekten zor bir dönemden geçiyoruz ve bu sorunla bir an önce yüzleşmezsek topraklarımıza göz dikenlerin saldırgan politikalarına kurban gidebiliriz..."
+ dissolution_of_delhi: "Delhi'nin Dağılması"
+ dissolution_of_delhi_desc: "Tüm çabalarımıza rağmen, bize karşı çıkanların açtığı yarayı henüz kapatamadık. Bir zamanların yüce İmparatorluğu, düşmanlarımızın bizi dört koldan sarmasıyla karmaşaya sürüklendi. Gerçekten zor bir dönemden geçiyoruz ve bu sorunla bir an önce yüzleşmezsek topraklarımıza göz dikenlerin saldırgan politikalarına kurban gidebiliriz."
  #Hook and Cod Wars
  #Disaster
  hook_and_cod_wars: "Kanca ve Morina Savaşları"
- hook_and_cod_wars_desc: "Veraset sıramız belirsiz olduğu için siyasi liderlerimiz iki fraksiyona bölünmüş durumda. Morina fraksiyonu genellikle muhafazakâr olur ve yerleşik hükümdarları destekler. Kanca fraksiyonu ise genellikle bağımsızlıktan yanadır ve hak iddiası daha zayıf hükümdarları destekler. Bu bölünme statükoyu derinden sarsma potansiyeline sahip, bu yüzden de büyük bir dikkatle ele alınması gerekiyor."
+ hook_and_cod_wars_desc: "Veraset sıramız belirsiz olduğu için siyasi liderlerimiz iki fraksiyona bölünmüş durumda. Morina fraksiyonu genellikle bağımsızlıktan yanadır ve hak iddiası daha zayıf hükümdarları destekler. Kanca fraksiyonu ise genellikle daha muhafazakârdır ve yerleşik hükümdarları destekler. Bu bölünme statükoyu derinden sarsma potansiyeline sahip, bu yüzden de büyük bir dikkatle ele alınması gerekiyor."
  hook_and_cod_wars_hooks_have_won_tt: "#Y Kancalar#! #Y 20#! Nüfuz Skoru kazandı. (mevcut skor: #Y [THIS.GetVariable('hacw_hook_faction_power').GetValue]#!)"
  hook_and_cod_wars_cods_have_won_tt: "#Y Morinalar#! #Y 20#! Nüfuz Skoru kazandı. (mevcut skor: #Y [THIS.GetVariable('hacw_cod_faction_power').GetValue]#!)"
- HACW_HOOK_TOOLTIP: "#Y Kancalar#!, [DisasterView.GetDisaster.GetOwner.GetName] ülkesinin [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('nobles_estate')] zümresini temsil eder. Tahta çıkmak isteyen [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.GetName] Kancalar tarafından desteklenmektedir"
- HACW_COD_TOOLTIP: "#Y Morinalar#!, [DisasterView.GetDisaster.GetOwner.GetName] ülkesinin [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('burghers_estate')] zümresini temsil eder. Tahta çıkmak isteyen [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.GetName], Morinalar tarafından desteklenmektedir"
+ HACW_HOOK_TOOLTIP: "#Y Kancalar#!, [DisasterView.GetDisaster.GetOwner.GetName] ülkesinin [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('nobles_estate')] zümresini temsil eder. Tahta çıkmak isteyen [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_hook_contender').GetCharacter.GetName], Kancalar tarafından desteklenmektedir."
+ HACW_COD_TOOLTIP: "#Y Morinalar#!, [DisasterView.GetDisaster.GetOwner.GetName] ülkesinin [DisasterView.GetDisaster.GetOwner.GetGovernment.GetEstateName('burghers_estate')] zümresini temsil eder. Tahta çıkmak isteyen [DisasterView.GetDisaster.GetOwner.MakeScope.GetVariable('hacw_cod_contender').GetCharacter.GetName], Morinalar tarafından desteklenmektedir."
  #Horde Civil War
  #Disaster
  horde_civil_war: "Orda İç Savaşı"
@@ -114,11 +114,11 @@
  #Revolution
  #Disaster
  revolution_disaster: "Devrim!"
- revolution_disaster_desc: "On yıllarca süren feodal baskı, ekonomik zorluklar ve dinî hoşgörüsüzlük, ülkemizdeki huzurun üzerinde ağır bir etki bıraktı. Halkımızın özgürlük arzusu, hükümranlığımız için ciddi bir tehdit oluşturuyor. Bir halk ayaklanması artık kaçınılmaz sayılır..."
+ revolution_disaster_desc: "On yıllarca süren feodal baskı, ekonomik zorluklar ve dinî hoşgörüsüzlük; ülkemizdeki huzurun üzerinde ağır bir etki bıraktı. Halkımızın özgürlük arzusu, hükümranlığımız için ciddi bir tehdit oluşturuyor. Bir halk ayaklanması artık kaçınılmaz sayılır."
  revolution_disaster_end_trigger_tt: "#Y Devrimci Asiler#! [civil_war|e] planlamıyor"
  MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName] potansiyel [Concept('military_strength', 'Askerî Gücü')|e]"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] Boyutu: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] Potansiyel [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName] potansiyel [Concept('military_strength', 'Askerî Gücü')|e]"
  #Revolutionary Chaos
  #Disaster
@@ -127,13 +127,13 @@
  #Sinicization Disaster
  #Disaster
  sinicization_disaster: "Çin Nüfuzu"
- sinicization_disaster_desc: "[GetCountry('CHI').GetName] nüfuzu, halkımıza birçok yönden fayda sağlamıştır. Buna rağmen bu kültürel devle aramızdaki ilişki, toplumsal yapımıza birçok yabancı etkinin karışmasına sebep olarak bizleri geleneklerimizden uzaklaştırmış ve bağımsızlığımızı tehdit etmiştir. Eğer benzersiz kültürümüzü korumak istiyorsak bu çekici dış etkilerin yarattığı yozlaşmaya karşı direnmeliyiz. Öte yandan, daha yakın bağlar kurmak belki de işimize yarayabilir..."
- has_opted_to_side_with_china_in_events_tt: "[GetCountry('CHI').GetNameWithNoTooltip] nüfuzu [events|e] aracılığıyla yeterince #G teşvik edildi#!."
- has_opted_to_stay_sovereign_from_china_in_events_tt: "[GetCountry('CHI').GetNameWithNoTooltip] nüfuzu [events|e] aracılığıyla yeterince #G azaltıldı#!."
+ sinicization_disaster_desc: "[GetCountry('CHI').GetName] etkisi, halkımıza birçok yönden fayda sağlamıştır. Buna rağmen bu kültürel devle aramızdaki ilişki, toplumsal yapımıza birçok yabancı etkinin karışmasına sebep olarak bizleri geleneklerimizden uzaklaştırmış ve bağımsızlığımızı tehdit etmiştir. Eğer benzersiz kültürümüzü korumak istiyorsak bu çekici dış etkilerin yarattığı yozlaşmaya karşı direnmeliyiz. Öte yandan, daha yakın bağlar kurmak belki de işimize yarayabilir."
+ has_opted_to_side_with_china_in_events_tt: "[GetCountry('CHI').GetNameWithNoTooltip] nüfuzu, [events|e] aracılığıyla yeterince #G teşvik edildi#!."
+ has_opted_to_stay_sovereign_from_china_in_events_tt: "[GetCountry('CHI').GetNameWithNoTooltip] nüfuzu, [events|e] aracılığıyla yeterince #G azaltıldı#!."
  #Crisis of the Chinese Dynasty
  #Disaster
  crisis_of_the_chinese_dynasty: "[GetCountry('CHI').GetLongNameWithNoTooltip] Krizi"
- crisis_of_the_chinese_dynasty_desc: "Gökyüzü kararıyor ve grileşiyor. İlahi lütfu kaybetmenin eşiğindeyiz! İç ve dış baskılar giderek artıyor. Dağılan bürokratik sistem ve zirai başarısızlıklar dengeleri aleyhimize çevirdi. Halk artık bizi [GetCountry('CHI').GetFlavorRank] topraklarının meşru hükümdarları olarak görmüyor!"
+ crisis_of_the_chinese_dynasty_desc: "Gökyüzü kararıyor ve grileşiyor. İlahi lütfu kaybetmenin eşiğindeyiz! İç ve dış baskılar giderek artıyor. Dağılan bürokratik sistem ve zirai başarısızlıklar, dengeleri aleyhimize çevirdi. Halk artık bizi [GetCountry('CHI').GetFlavorRank] topraklarının meşru hükümdarları olarak görmüyor!"
  ccd_celestial_authority_trigger: "[celestial_authority_gc|e] değerimiz en az #Y 90#! (şu anda: #Y [GetUniqueInternationalOrganization('middle_kingdom').MakeScope.GetVariable('celestial_authority').GetValue|V1]#!)"
  #Triggers
  cmd_has_reformed_cabinet_tt: "[ShowGenericActionName('cmd_reform_the_cabinet')] [Concept('action', 'Eylemini')|e] yürürlüğe koydu"
@@ -144,7 +144,7 @@
  fire_event_5_tt: "[Concept('provinces', 'Vilayetlerimizde')|e] [Concept('prosperity', 'Refahı')|e] azaltacak bir [event|e] meydana gelebilir."
  #Decline of Majapahit
  #Disaster
- decline_of_majapahit: "$MAJ$ Çöküşü"
+ decline_of_majapahit: "$MAJ$ Çöküyor"
  decline_of_majapahit_desc: "[GetCountry('MAJ').GetFlavorRank], eskiden olduğu kadar müreffeh değil. Yurt içinde hanedan çatışmalarıyla karşı karşıya kaldığımız bu zayıf an, sınırlarımızı aşmak için fırsat kollayan birçok rakip devletin beklediği bir andı. [ShowRegionName('indonesia_region')] bölgesinde [ShowReligionGroupName('muslim')] topluluğunun yükselişiyle itibarımızı hızla yitirebilir ve unutulmuş imparatorlukların karanlık zindanlarına düşebiliriz."
  demak_progress: "[ShowReligionAdjectiveWithNoTooltip('sunni')] Hâkimiyeti"
  SUNNI_POPS: "Sünni Toplumlar"
@@ -158,11 +158,11 @@
  DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT: "[legitimacy]: [Country.MakeScope.GetVariable('maj_legitimacy_impact').GetValue|-=2%]"
  DEMAK_MONTHLY_CHANGE_BREAKDOWN: "$DEMAK_MONTHLY_CHANGE_POP_SHARE$\n$DEMAK_MONTHLY_CHANGE_STABILITY_IMPACT$\n$DEMAK_MONTHLY_CHANGE_LEGITIMACY_IMPACT$"
  DEMAK_PROGRESS_GROWTH_HEADER: "$demak_progress$"
- DEMAK_PROGRESS_GROWTH_TOOLTIP: "$demak_progress$, [ShowReligionAdjective('sunni')] [Concept('religion', 'Dininin')|e] [Country.GetFlavorRank] içinde ne kadar yaygın olduğunu gösterir. [ShowReligionAdjective('sunni')] [Concept('pops', 'Toplumların')|e] sayısı arttıkça $demak_progress$ artar. #y %100,0#! olduğunda [Concept('dominant_religion', 'Baskın Dini')|e] [ShowReligionAdjective('sunni')] olan tüm [locations|e] $DEM$ ülkesinden ayrılır."
+ DEMAK_PROGRESS_GROWTH_TOOLTIP: "$demak_progress$, [ShowReligionAdjective('sunni')] [Concept('religion', 'Dininin')|e] [Country.GetFlavorRank] içinde ne kadar yaygın olduğunu gösterir. [ShowReligionAdjective('sunni')] [Concept('pops', 'Toplumların')|e] sayısı arttıkça $demak_progress$ artar. #y %100,0#! olduğunda [Concept('dominant_religion', 'Baskın Dini')|e] [ShowReligionAdjective('sunni')] olan tüm [locations|e] $DEM$ ile bağlarını koparır."
  #Court and Country
  #Disaster
  court_and_country: "Saray ve Ülke"
- court_and_country_desc: "Ülkemizde merkezîleşmeye karşı giderek artan direniş, Saray ve Ülke arasında genel bir kriz ve çatışma dönemine girilmesine sebep oldu. Bu zorlu kriz dönemini doğru şekilde idare edebilirsek krizden çıktığımızda eskisinden bile daha güçlü bir ülke olabiliriz. Tabii önce bu fırtınayı atlatmamız gerekiyor."
+ court_and_country_desc: "Ülkemizde merkezîleşme artışına direniş, Saray ve Ülke arasında genel bir kriz ve çatışma dönemine girilmesine sebep oldu. Bu zorlu kriz dönemini doğru şekilde idare edebilirsek krizden çıktığımızda eskisinden bile daha güçlü bir ülke olabiliriz. Tabii önce bu fırtınayı atlatmamız gerekiyor."
  court_and_country_tips_header: "Saray ve Ülke için Nasihat"
  court_and_country_tips_tt: "[Concept('crown_power', 'Yönetimimizin Gücünü')|e] şunlarla artırabiliriz:\n$BULLET_WITH_TAB$[Concept('privileges', 'Ayrıcalıkları')|e] kaldırarak\n$BULLET_WITH_TAB$[Concept('locations', 'İllerimizdeki')|e] [Concept('control', 'Kontrolü')|e] artırarak\n$BULLET_WITH_TAB$Bir [ShowBuildingTypeName('counting_house')] yaparak\n$BULLET_WITH_TAB$[Concept('legitimacy', 'Meşruiyetimizi')|e] artırarak\n$BULLET_WITH_TAB$Belirli [Concept('policies', 'Politikaları')|e] yürürlüğe sokarak"
  french_wars_of_religion_breakdown_tt: "[Concept('country', 'Ülkemizdeki')|e] ilgili [ShowReligionGroupAdjective('christian')] [Concept('religions', 'Dinlerin')|e] oranı\n[ShowReligionName('catholic')]:"
@@ -176,22 +176,22 @@
  #Aspiration for Liberty Disaster
  #Disaster
  aspiration_for_liberty: "Özgürlük Arzusu"
- aspiration_for_liberty_desc: "Halkın özgürlük arayışı ve aydın fikirlerin hayata geçirilmesine dair isteği, isyanı neredeyse kaçınılmaz kılıyor. Başarısız olarak gördükleri yönetimimize duyulan öfke, her an büyük bir devrim yangınına yol açabilir! Bu durum gelecekte işimizi çok zorlaştıracak..."
- battles_on_foreign_grounds_tt: "Bir [event|e] aracılığıyla yabancı ülkelerdeki savaşları sürdürmenin maliyetleri artabilir."
+ aspiration_for_liberty_desc: "Halkın özgürlük arayışı ve aydın fikirlerin hayata geçirilmesine dair isteği, isyanı neredeyse kaçınılmaz kılıyor. Başarısız olarak gördükleri yönetimimize duyulan öfke, her an büyük bir devrim yangınına yol açabilir! Bu durum gelecekte işimizi çok zorlaştıracak."
+ battles_on_foreign_grounds_tt: "Bir [event|e] aracılığıyla, yabancı ülkelerdeki savaşları sürdürmenin maliyetleri artabilir."
  governmental_incompetence_event_tt: "Halk bir [event|e] aracılığıyla hükûmetimizin beceriksizliği karşısında ayaklanabilir"
  #Reform Society
  #Disaster
  reform_society: "Islah Edilmiş Toplum"
- reform_society_desc: "[ShowGovernmentReformName('altepetl')] sistemi yıllar boyunca halkımıza özen ve refah içinde hizmet etti. Ne var ki diğer şehir devletlerindeki tebaalarımızın meseleleri üzerindeki kontrolümüzün gevşek olması, hükmümüze karşı pek çok muhalif sesin yükselmesine neden oldu. İhtişamımızı korumak ve gücümüzü pekiştirmek istiyorsak merkezileştirme konusunda ıslahatlar yapmamız şart."
+ reform_society_desc: "[ShowGovernmentReformName('altepetl')] sistemi yıllar boyunca halkımıza özen ve refah içinde hizmet etti. Ne var ki diğer şehir devletlerindeki tebaamızın meseleleri üzerindeki kontrolümüzün gevşek olması, hükmümüze karşı pek çok muhalif sesin yükselmesine neden oldu. İhtişamımızı korumak ve gücümüzü pekiştirmek istiyorsak merkezîleştirme konusunda ıslahatlar yapmamız şart."
  #Rise of the Szlachta
  #Disaster
  rise_of_the_szlachta: "$nobles_estate_szlachta$ Zümresinin Yükselişi"
- rise_of_the_szlachta_desc: "$nobles_estate_szlachta$ zümresinin güç düşkünlüğüne yabancı değiliz. $nobles_estate_szlachta$ zümresinin nüfuzu arttıkça daha fazla ayrıcalık talep ederek sarayımızı meşgul ediyorlar. Bu siyasi hamleler, pusuya yatmış bir yırtıcı hayvanın avını çevrelemesini ve saldırmak için fırsat kollamasını andırıyor. Şüphesiz ki otoritemize meydan okumak için ellerine geçen ilk fırsatı kaçırmayacaklar!"
+ rise_of_the_szlachta_desc: "$nobles_estate_szlachta$ zümresinin güç düşkünlüğüne yabancı değiliz. $nobles_estate_szlachta$ zümresinin nüfuzu arttıkça daha fazla ayrıcalık talep ederek sarayımızı meşgul ediyorlar. Bu siyasi hamleler, pusuya yatmış bir yırtıcı hayvanın avını çevreleyip saldırmak için fırsat kollamasını andırıyor. Şüphesiz ki otoritemize meydan okumak için ellerine geçen ilk fırsatı kaçırmayacaklar!"
  #Actions
  pw_push_for_aristocracy: "[ShowSocietyDirectionNameWithNoTooltip('aristocracy')] için uğraşılsın"
- pw_push_for_aristocracy_desc: "Yönetmeliklerimiz [SCOPE.sCountry('actor').GetGovernment.GetEstateName('nobles_estate')] zümresinin ayrıcalıklarını gözetmeye ve geleneksel yönetim biçimini desteklemeye başladı. Kişinin toplum içindeki yerini kılıcının gücü ve soyunun asaleti belirler. Köklü aileler, iktidar gücünü ellerinde tutmalıdır. Ne var ki bu gücün merkezîleşmesi [SCOPE.sCountry('actor').GetGovernment.GetEstateName('burghers_estate')] zümresi gibi diğer güçlü sınıfları öfkelendirebilir."
+ pw_push_for_aristocracy_desc: "Yönetmeliklerimiz, [SCOPE.sCountry('actor').GetGovernment.GetEstateName('nobles_estate')] zümresinin ayrıcalıklarını gözetmeye ve geleneksel yönetim biçimini desteklemeye başladı. Kişinin toplum içindeki yerini kılıcının gücü ve soyunun asaleti belirler. Köklü aileler, iktidar gücünü ellerinde tutmalıdır. Ne var ki bu gücün merkezîleşmesi, [SCOPE.sCountry('actor').GetGovernment.GetEstateName('burghers_estate')] zümresi gibi diğer güçlü sınıfları öfkelendirebilir."
  pw_push_for_plutocracy: "[ShowSocietyDirectionNameWithNoTooltip('plutocracy')] için uğraşılsın"
- pw_push_for_plutocracy_desc: "Nüfuza giden yol mirastan değil servetten geçer. [SCOPE.sCountry('actor').GetGovernment.GetEstateName('burghers_estate')], finansörler ve girişimci seçkinler kaçınılmaz olarak imtiyaz kazanacak, mevcut kurumlarımızı ticaret ve kâr tapınakları olarak yeniden şekillendirecekler. Böylesi bir hamle de hiç kuşkusuz [SCOPE.sCountry('actor').GetGovernment.GetEstateName('nobles_estate')] zümresinin en nüfuzlu üyelerinin keyfini kaçıracak."
+ pw_push_for_plutocracy_desc: "Nüfuza giden yol atadan değil servetten geçer. [SCOPE.sCountry('actor').GetGovernment.GetEstateName('burghers_estate')], finansörler ve girişimci seçkinler kaçınılmaz olarak imtiyaz kazanacak ve mevcut kurumlarımızı ticaret ve kâr tapınakları olarak yeniden şekillendirecekler. Böylesi bir hamle de hiç kuşkusuz [SCOPE.sCountry('actor').GetGovernment.GetEstateName('nobles_estate')] zümresinin en nüfuzlu üyelerinin keyfini kaçıracak."
  #Tooltips
  given_more_estate_power_nobles_estate_power_tt: "[GetCountry('POL').GetGovernment.GetEstateName('nobles_estate')] [Concept('estate', 'Zümresine')|e] daha fazla [Concept('estate_power', 'Güç')|e] veririz."
  given_more_estate_power_burghers_estate_power_tt: "[GetCountry('POL').GetGovernment.GetEstateName('burghers_estate')] [Concept('estate', 'Zümresine')|e] daha fazla [Concept('estate_power', 'Güç')|e] veririz."
@@ -199,15 +199,15 @@
  #Death of Hayam Wuruk
  #Disaster
  death_of_hayan_wuruk: "[GetCharacter('maj_hayam_wuruk').GetNameWithNoTooltip] Vefat Etti"
- death_of_hayan_wuruk_desc: "Büyük liderimiz [GetCharacter('maj_hayam_wuruk').GetName] öldü ve onun ölümü [GetCountry('MAJ').GetFlavorRank] topraklarımızın her köşesinde büyük kargaşaya sebep oldu. Bu çalkantılı dönem uzun yıllar sürebilir ve önceden bize boyun eğenler ayaklanarak otoritemize meydan okuyabilir. Halefiyetin tartışılması ve [GetCountry('MAJ').GetAdjective] gücümüzün azalması, bu felaketten kurtulmak istiyorsak derhâl tersine çevrilmesi gereken iki ciddi sorundur."
+ death_of_hayan_wuruk_desc: "Büyük liderimiz [GetCharacter('maj_hayam_wuruk').GetName] öldü ve onun ölümü [GetCountry('MAJ').GetFlavorRank] topraklarımızın her köşesinde büyük kargaşaya sebep oldu. Bu çalkantılı dönem uzun yıllar sürebilir ve önceden bize boyun eğenler ayaklanarak otoritemize meydan okuyabilir. Tartışmalı halefiyet ve [GetCountry('MAJ').GetAdjective] gücümüzün azalması, bu felaketten kurtulmak istiyorsak derhâl tersine çevrilmesi gereken iki ciddi sorundur."
  #Curse of Stefan Uros III
  #Disaster
  curse_of_stefan_uros_iii: "[GetCharacter('ser_stefan_decanski').GetNameWithNoTooltip] Laneti"
- curse_of_stefan_uros_iii_desc: "[GetCharacter('ser_stefan_dusan').GetName] efsanesinin ne kadar büyük ve görkemli olduğu kimsenin itiraz edemediği bir konu. En iyi eğitimleri almış, saray adabına hâkim ve başarılı bir komutan olan [GetCharacter('ser_stefan_dusan').GetShortNameWithNoTooltip], yüce ulusumuzu zirveye taşıdı. Ne var ki her kraliyetteki gibi onun mirası da acı, cinayet ve entrika üzerine kuruldu. Tahta çıkması için ilk olarak babası [GetCharacter('ser_stefan_decanski').GetName] kellesinden oldu ve son nefesinde [GetCharacter('ser_stefan_dusan').GetNameWithNoTooltip] soyunun kuruması için beddua etti. Sarayımızdaki birtakım batıl inançlı kişiler eski [SCOPE.sCountry('actor').GetGovernment.GetRulerTitle] suretinin geri döndüğünü ve sonumuzun yakın olduğunu söylüyor."
+ curse_of_stefan_uros_iii_desc: "[GetCharacter('ser_stefan_dusan').GetName] efsanesinin ne kadar büyük ve görkemli olduğu kimsenin itiraz edemediği bir konu. En iyi eğitimleri almış, saray adabına hâkim ve başarılı bir komutan olan [GetCharacter('ser_stefan_dusan').GetShortNameWithNoTooltip]; yüce ulusumuzu zirveye taşıdı. Ne var ki her kraliyetteki gibi onun mirası da acı, cinayet ve entrika üzerine kuruldu. Tahta çıkması için ilk olarak babası [GetCharacter('ser_stefan_decanski').GetName] kellesinden oldu ve son nefesinde [GetCharacter('ser_stefan_dusan').GetNameWithNoTooltip] ardında bir soy bırakamasın diye beddua etti. Sarayımızdaki birtakım batıl inançlı kişiler, eski [SCOPE.sCountry('actor').GetGovernment.GetRulerTitle] suretinin geri döndüğünü ve sonumuzun yakın olduğunu söylüyor."
  #English Civil War Disaster
  #Disaster
  english_civil_war: "İngiliz İç Savaşı"
- english_civil_war_desc: "Kraliyet makamı ile Parlamento arasında güç ve yönetim konularında artan gerilim ülkenin tamamını tehdit etmektedir. Hükümdarımızın kutsal hakka ve dinî politikalara olan inancının yanı sıra uygun vergilendirme prosedürleri hakkındaki bariz bilgisizliği, Parlamento üyelerini öfkelendirdi. Bu durum, hızlı bir çözüm bulamadığımız takdirde doğrudan bir iç savaşa dönüşebilir."
+ english_civil_war_desc: "Kraliyet makamı ile Parlamento arasında güç ve yönetim konularında artan gerilim, ülkenin tamamını tehdit etmektedir. Hükümdarımızın kutsal hakka ve dinî politikalara olan inancının yanı sıra uygun vergilendirme prosedürleri hakkındaki bariz bilgisizliği, Parlamento üyelerini öfkelendirdi. Bu durum, hızlı bir çözüm bulamadığımız takdirde doğrudan bir iç savaşa dönüşebilir."
  lost_civil_war_tt: "[Concept('civil_war', 'İç Savaşı')|e] #Y Parlamentocular#! kazandı"
  won_civil_war_tt: "[Concept('civil_war', 'İç Savaşı')|e] #Y Kraliyetçiler#! kazandı"
  parliamentarist_rebels: "Parlamentocular"
@@ -232,21 +232,22 @@
  decline_of_empire: "İmparatorluğun Gerilemesi"
  decline_of_empire_desc: "Bir zamanlar heybetiyle titreten ve kimsenin sarsamadığı imparatorluğumuz çökmenin eşiğinde. Kurumlarımızı zehirleyen yozlaşmanın ihmal ettiği vilayetlerimizde huzursuzluk artıyor ve yabancı güçler tepemizde akbabalar gibi dönüp görkemli mirasımızdan geriye kalanları kendilerine pay etmek için fırsat kolluyor. Ülkemizi tanımlayan altın çağdan yakında eser kalmayacak ve temelimizdeki çatlaklar günbegün büyümekte. İçimizdeki çürümeyi ıslah etmek için elimizi çabuk tutmazsak ve dizginleri tekrar elimize almazsak imparatorluğumuz çökecek, ardında sadece harabeler, pişmanlık ve eski ihtişamımızın gölgesini bırakacak."
  has_not_had_decline_of_empire_last_25_years: "Bu [disaster|e] son #Y 25#! yılda yaşanmadı"
+ not_recently_become_empire_tt: "#Y 15#! yıldır [ShowCountryRankName('rank_empire')] [Concept('country_rank', 'Ülke Derecesine')|e] sahip"
  #Decline of Mali
  #Disaster
  decline_of_mali: "Mali'nin Düşüşü"
- decline_of_mali_desc: "Zayıf yönetim, iç savaşlar, artan dış tehditler ve durgunluk dönemi, [GetCountry('MAL').GetLongName] ülkesinin son yıllarda yüzleştiği temel sorunlardır. [GetCountry('MAL').GetFlavorRank] topraklarının istikrarı ve güvenliği tehlikede. Yalnızca güçlü bir lider bizi bu yaklaşan kıyametten kurtarıp eski ihtişamımıza geri kavuşturabilir."
+ decline_of_mali_desc: "Zayıf yönetim, iç savaşlar, artan dış tehditler ve durgunluk dönemi; [GetCountry('MAL').GetLongName] ülkesinin son yıllarda yüzleştiği temel sorunlardır. [GetCountry('MAL').GetFlavorRank] topraklarının istikrarı ve güvenliği tehlikede. Yalnızca güçlü bir lider bizi bu yaklaşan kıyametten kurtarıp eski ihtişamımıza geri kavuşturabilir."
  #Coup Attempt
  #Disaster
  coup_attempt: "Darbe Girişimi"
- coup_attempt_desc: "Gölgeler gibi etrafımızı saran sinsi tehditler, avına saldırmak için fırsat kollayan yırtıcı kuşlar gibi bize saldırmak için pusuda bekliyor. Bu tehditlerden en korkuncu, hükümdarımızın vakitsiz ölümüne bile yol açabilir! Daha da kötüsü, ölen hükümdarımızın yerine perde arkasındaki bu katillerin kontrolünde bir kukla geçecektir."
+ coup_attempt_desc: "Gölge misali etrafımızı saran sinsi tehditler, avına saldırmak için fırsat kollayan yırtıcı kuşlar gibi bize saldırmak için pusuda bekliyor. Bu tehditlerden en korkuncu, hükümdarımızın vakitsiz ölümüne bile yol açabilir! Daha da kötüsü, ölen hükümdarımızın yerine perde arkasındaki bu katillerin kontrolünde bir kukla geçecektir."
  recently_had_coup_attempt_inconclusive_tt: "Son #Y 5#! yılda başarısız veya başarılı bir darbe girişimi OLMADI"
  conspirators_murdered_ruler_tt: "Komplocular hükümdarımızın suikastında başarılı oldu."
  #Byzantine Civil War
  #Disaster
  byzantine_succession_crisis: "[GetCountry('BYZ').GetAdjectiveWithNoTooltip] Halefiyet Krizi"
- byzantine_succession_crisis_desc: "Türlü entrikalar düzenleyen taklitçiler ve perde arkasındaki nüfuz sahibi kişiler, hüküm süren [GetCountry('BYZ').GetAdjective] Hanedanı'nı devirmeyi amaçlıyor. Güçlü generaller ve yabancılar böylesine çalkantılı bir dönemin gidişatına yön vermek isterken, saray koridorlarında kargaşa hüküm sürüyor. [ShowRegionName('balkan_region')] bölgesindeki varlığımızın zayıflaması, son meşru $ROM$ kalesinin geleceği hususunda da belirsizliklere neden oluyor."
+ byzantine_succession_crisis_desc: "Türlü entrikalar düzenleyen talipler ve perde arkasındaki nüfuz sahibi kişiler, hüküm süren [GetCountry('BYZ').GetAdjective] Hanedanı'nı devirmeyi amaçlıyor. Güçlü generaller ve yabancılar böylesine çalkantılı bir dönemin gidişatına yön vermek isterken saray koridorlarında kargaşa hüküm sürüyor. [ShowRegionName('balkan_region')] bölgesindeki varlığımızın zayıflaması, son meşru $ROM$ kalesinin geleceği hususunda da belirsizliklere neden oluyor."
  #Castilian Civil War
  #Disaster
  castilian_civil_war: "[GetCountry('CAS').GetAdjectiveWithNoTooltip] İç Savaşı"
- castilian_civil_war_desc: "Düşmanlarımız, sürekli istikrarsızlık çıkararak veya yetki makamımız için rakip hak sahiplerini destekleyerek siyasetimize müdahele etmenin yollarını kollar. Bu istikrarsızlık dönemi, hükümdarlığımızı sonlandırıp adımızı tarih sayfalarından silmek isteyenlerin açığa çıkmasına yol açacak. [ShowRegionName('iberia_region')] bölgesinin zenginliği, düşmanların bakışlarını daima iştahla sınırlarımıza çevirmiştir ancak onların bu zenginliklerden faydalanmasına izin veremeyiz!"
+ castilian_civil_war_desc: "Düşmanlarımız, sürekli istikrarsızlık çıkararak veya yetki makamımız için rakip hak sahiplerini destekleyerek siyasetimize müdahale etmenin yollarını kollar. Bu istikrarsızlık dönemi, hükümdarlığımızı sonlandırıp adımızı tarih sayfalarından silmek isteyenlerin açığa çıkmasına yol açacak. [ShowRegionName('iberia_region')] bölgesinin zenginliği, düşmanların bakışlarını daima iştahla sınırlarımıza çevirmiş olsa da onların bu zenginliklerden faydalanmasına izin veremeyiz!"

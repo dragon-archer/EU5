@@ -54,7 +54,7 @@
  black_death.1005.b: "Ne rendons pas autrui responsable du châtiment divin !"
  plague_masses_appeased_tt: "Cela apaisera le peuple, pour l'instant..."
  black_death.1006.t: "Recrutement forcé des serviteurs"
- black_death.1006.desc: "La peur d'attraper la peste en servant un noble malade est trop forte pour les classes inférieures, même si les salaires ont augmenté !\n\nLa [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')] exige maintenant le droit de recruter de force de la [ROOT.GetCountry.GetGovernment.GetEstateName('paysans_estate')] à son service en la forçant à risquer la maladie pour la servir."
+ black_death.1006.desc: "La peur d'attraper la peste en servant un noble malade est trop forte pour les classes inférieures, même si les salaires ont augmenté !\n\nLa [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')] exige maintenant le droit de recruter de force de la [ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')] à son service en la forçant à risquer la maladie pour la servir."
  black_death.1006.a: "Instituons le recrutement forcé."
  black_death.1006.b: "C'est ridicule ! Qu'ils fassent le ménage eux-mêmes !"
  black_death.1007.t: "Le dilemme de Delhi"

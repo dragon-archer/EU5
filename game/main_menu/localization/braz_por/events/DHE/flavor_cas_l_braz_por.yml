@@ -85,7 +85,7 @@
  flavor_cas.21.title: "O Trono Assegurado de [GetCountry('POR').GetNameWithNoTooltip]"
  flavor_cas.21.desc: "A nossa intervenção em [GetCountry('POR').GetName] foi um sucesso. Depois de uma guerra muito árdua, a coroa do governo [GetCountry('POR').GetAdjectiveWithNoTooltip] ficou garantida em nossas mãos, unindo os dois reinos ibéricos sob o governo da entidade política [ROOT.GetCountry.GetName]."
  flavor_cas.21.a: "Comemorem essa vitória."
- flavor_cas.21.b: "Comemorem a vitória dedicando o [ShowBuildingTypeNameWithNoTooltip('monastery')] de [ShowLocationName('guadalupe')]."
+ flavor_cas.21.b: "Comemorem a vitória dedicando o [ShowBuildingTypeNameWithNoTooltip('monastery')] de [ShowLocationNameWithNoTooltip('guadalupe')]."
  flavor_cas.22.title: "O Título de Rei e Rainha [ShowReligionAdjectiveWithNoTooltip('catholic')]"
  flavor_cas.22.desc: "A constante defesa da fé [ShowReligionAdjective('catholic')] e o apoio determinado da Santa Sé não passaram despercebidos. Reconhecendo a nossa religiosidade e influência dentro do cristianismo, [pope.GetName] emitiu uma Bula [GetCountry('PAP').GetAdjective] que nos concede o prestigiado título de Monarcas Católicos."
  flavor_cas.22.a: "Adotem logo essa Bula!"

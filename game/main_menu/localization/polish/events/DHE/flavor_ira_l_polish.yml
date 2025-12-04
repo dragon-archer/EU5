@@ -193,7 +193,7 @@
  flavor_ira.45.title: "Plemiona dynastii [ShowDynastyNameWithNoTooltip('qajar_dynasty')]"
  flavor_ira.45.desc: "Niedawna migracja plemion dynastii [ShowDynastyName('qajar_dynasty')] w granicach kraju [ROOT.GetCountry.GetName] sprawiła, że [ROOT.GetCountry.GetFlavorRank|l] jest poddane pewnej destabilizacji. Mimo to wodzowie tego ludu, [target_character.GetName] i [target_character2.GetName], udowodnili, że są wprawnymi strategami i administratorami. Choć nie cieszą się uznaniem w kraju [ROOT.GetCountry.GetFlavorRank|l], to być może uda nam się zatrzymać ich w naszym obecnym rządzie, wykorzystać ich doświadczenie i skorzystać z dodatkowego wsparcia ich współplemieńców."
  flavor_ira.45.historical_info: "Spadkobiercy Safawidów, ród Kadżarów z początku wspierał głównie szachów Iranu. Wraz z dojściem w regionie do władzy Aghi Mohammada Chana Kadżara i postępującym podziałem państwa Safawidów, dynastia Kadżarów była w stanie ogłosić się szachami, stopniowo pokonując pozostałe plemiona, które kwestionowały ich prawowitą władzę. Dynastia rządziła aż do roku 1925, kiedy to wskutek przewrotu władze przejęła dynastia Pahlawich."
- flavor_ira.45.a: "W kraju [ROOT.GetCountry.GetName] są oni mile widziani."
+ flavor_ira.45.a: "Są mile widziani w kraju [ROOT.GetCountry.GetNameWithNoTooltip]."
  flavor_ira.45.b: "Niech idą precz!"
  ira_qajar_dynasty_may_claim_crown: "[Concept('dynasty','Dynastia')|e] [ShowDynastyName('qajar_dynasty')] spróbuje przejąć nasz tron, jeśli zabraknie nam [Concept('legitimacy','prawomocności')|e] i [Concept('stability','stabilności')|e]"
  flavor_ira.46.title: "Rebelia plemion dynastii [ShowDynastyNameWithNoTooltip('qajar_dynasty')]"

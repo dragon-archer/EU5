@@ -30,7 +30,7 @@
  tusi: "土司"
  tusi_desc: "[GetInternationalOrganizationType('middle_kingdom').GetName]的一种特殊行政体制，是代表天子管理部落土地的世袭官员。他们不能被吞并，但会自然获得更高的[ShowModifierTypeName('monthly_towards_sinicized')]，并强制采用[overlord|e]的[court_language|e]。这种属国占用更少的[diplomatic_capacity|e]。"
  uc_bey: "乌奇贝伊"
- uc_bey_desc: "$uc_bey$是一种以[Concept( 'army_based', '兵团' )|e]为基础的属国类型，在强大的$turkic_group$人领主统治下，充当边疆领主，承担着保卫边境、发动袭击和扩张领土的任务。他们指挥着忠诚的加齐战士，这些战士的驱动力来自宗教狂热、掠夺战利品和土地赏赐。这使得乌奇贝伊对边疆的稳定和扩张至关重要。这种属国只能通过[ShowGenericActionName('create_uc_bey')][action|e]来建立。其特点是拥有[ShowGovernmentReformName('uc_bey_reform')][reform|e]和[ShowModifierTypeName('always_allow_levies')]征召兵。与普通[ShowSubjectTypeName('vassal')]相比，其向宗主国支付的义务大大减少，但会占用宗主国更多的[diplomatic_capacity|e]，并导致宗主国[ShowModifierTypeName('monthly_towards_decentralization')]增加。"
+ uc_bey_desc: "$uc_bey$是一种以[Concept('army_based', '兵团')|e]为基础的属国类型，在强大的$turkic_group$人领主统治下，充当边疆领主，承担着保卫边境、发动袭击和扩张领土的任务。他们指挥着忠诚的加齐战士，这些战士的驱动力来自宗教狂热、掠夺战利品和土地赏赐。这使得乌奇贝伊对边疆的稳定和扩张至关重要。这种属国只能通过[ShowGenericActionName('create_uc_bey')][action|e]来建立。其特点是拥有[ShowGovernmentReformName('uc_bey_reform')][reform|e]和[ShowModifierTypeName('always_allow_army_levies')]征召兵。与普通[ShowSubjectTypeName('vassal')]相比，其向宗主国支付的义务大大减少，但会占用宗主国更多的[diplomatic_capacity|e]，并导致宗主国[ShowModifierTypeName('monthly_towards_decentralization')]增加。"
  imperial_free_city: "帝国自由市"
  imperial_free_city_desc: "$imperial_free_city$是一种与神圣罗马帝国[hre_emperor|e]紧密关联的的特殊属国类型。只要该附庸拥有[GetUniqueInternationalOrganization('hre').GetName][ShowSpecialStatusName('free_city')]的特殊地位，他们就持续处于这一属国类型。他们无法被吞并，不会为[overlord|e]提供任何收益，也不会响应其战争召唤；但他们不需要占用[diplomatic_capacity|e]，并且可以通过[ShowPolicyName('direct_imperial_cities_policy')][policy|e]转换为[ShowSubjectTypeName('direct_imperial_free_city')]。"
  direct_imperial_free_city: "直属帝国自由市"

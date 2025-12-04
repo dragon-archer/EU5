@@ -91,6 +91,7 @@
  STATIC_MODIFIER_NAME_giving_support_military: "Zapewnienie wsparcia wojskowego"
  STATIC_MODIFIER_NAME_receiving_support_military: "Otrzymanie wsparcia wojskowego"
  STATIC_MODIFIER_NAME_receiving_scutage: "Otrzymanie podatku za uniknięcie udziału w wojnie"
+ STATIC_MODIFIER_NAME_receiving_rein_in_junior_diplomacy: "Reined in Junior Diplomacy"
  STATIC_MODIFIER_NAME_giving_support_loyalists: "Zapewnienie wsparcia lojalistów"
  STATIC_MODIFIER_NAME_receiving_support_loyalists: "Otrzymanie wsparcia lojalistów"
  STATIC_MODIFIER_NAME_receiving_divert_trade: "Otrzymanie przekierowania handlu"
@@ -731,6 +732,7 @@
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "Herezja husycka"
  STATIC_MODIFIER_DESC_hussite_heresy_modifier: "[ShowReligionName('hussite')] rośnie ostatnio w siłę, a wyznawcy tej religii nawołują do reform w Kościele #L [ShowReligionAdjective('catholic')|l]im#!."
+ STATIC_MODIFIER_NAME_expanded_mines_modifier: "Rozbudowane kopalnie"
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "Dobre znaki"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Okres odnowy w połączeniu ze spokojną pogodą i mnóstwem pożywienia to znak, że bogowie są zadowoleni."
@@ -800,6 +802,8 @@
  STATIC_MODIFIER_DESC_austere_court: "Życie dworskie i kultura biurokratyczna tego kraju charakteryzuje się ponurym, surowym klimatem."
  STATIC_MODIFIER_NAME_ostentatious_court: "Ostentacyjny dwór"
  STATIC_MODIFIER_DESC_ostentatious_court: "Skądinąd wytworne życie dworskie w tym kraju charakteryzuje się obecnie dekadenckimi widowiskami i próżnym manifestowaniem bogactwa – choć nie robi to na gościach wrażenia."
+ STATIC_MODIFIER_NAME_tur_public_cats: "Public Cat Property"
+ STATIC_MODIFIER_DESC_tur_public_cats: "The cats in this location have been turned into public property, protecting them from any misconduct that may occur. This especially increases the number of rats being hunted, ensuring that no deadly diseases appear."
  #Byzantium
  STATIC_MODIFIER_NAME_defensive_effort_modifier: "Działania obronne"
  STATIC_MODIFIER_DESC_defensive_effort_modifier: "W celu obrony tego miejsca rozmieszczono znaczną liczbę żołnierzy."
@@ -1046,7 +1050,7 @@
  STATIC_MODIFIER_NAME_fra_appeasing_norman_lords: "Obłaskawienie nielojalnych normańskich lordów"
  STATIC_MODIFIER_NAME_fra_disloyal_norman_lords_appeased: "Nielojalni lordowie obłaskawieni"
  STATIC_MODIFIER_NAME_fra_loyal_nrm_lands: "Autonomiczna domena królewska Normandii"
- STATIC_MODIFIER_NAME_fra_success_of_the_praguerie_faction: "Sukcesy frakcji pragerii"
+ STATIC_MODIFIER_NAME_fra_success_of_the_praguerie_faction: "Sukces frakcji Praugerie"
  STATIC_MODIFIER_NAME_fra_royal_expenditure_managed: "Zarządzanie królewskimi wydatkami"
  STATIC_MODIFIER_NAME_fra_enterprising_nobles: "Przedsiębiorcza szlachta"
  STATIC_MODIFIER_NAME_fra_louis_legal_reforms: "Reforma prawna francuskiej biurokracji"
@@ -1055,6 +1059,7 @@
  STATIC_MODIFIER_NAME_fra_birth_of_college_de_france: "Narodziny Collège de France"
  STATIC_MODIFIER_NAME_fra_routiers_looted_province: "Raubritterzy"
  STATIC_MODIFIER_NAME_fra_estates_general_halts_support: "États généraux wycofują wsparcie"
+ STATIC_MODIFIER_NAME_fra_recognized_marcel_in_parliament: "Recognized Marcel in the Estates-General"
  STATIC_MODIFIER_NAME_fra_marcel_tax_embargo: "Embargo podatkowe dla mieszczan"
  STATIC_MODIFIER_NAME_fra_burghers_broken_by_marcel_death: "Znaczące osłabienie mieszczan"
  STATIC_MODIFIER_NAME_fra_lavish_gifts_to_cadet_branches: "Wystawne linie boczne"
@@ -1727,8 +1732,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Ograniczona siła włościan"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Potwierdzona władza lokalna"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Zwolnienie z podatku"
- STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
- STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutystyczne wpływy w rządzie"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberalne wpływy w rządzie"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "Przywrócenie zgromadzeń ustawodawczych"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Obniżone morale"

@@ -586,7 +586,7 @@
  jurchen_barracks: "Jurchen-Kaserne"
  jurchen_barracks_desc: "Diese Kaserne dient als Treffpunkt unserer Soldaten, wo sie sich für die Schlacht vorbereiten, ihre Fähigkeiten üben und unsere stolzen Traditionen aufrechterhalten."
  provincial_garrison: "Provinzgarnison"
- provincial_garrison_desc: "Die Provinzen sind die Stützpfeiler für das [GetInternationalOrganizationType('middle_kingdom')]. Um uns gegen Angreifer zur Wehr setzen zu können, müssen wir Garnisonen errichten und diese dauerhaft mit Truppen füllen."
+ provincial_garrison_desc: "Die Provinzen sind die Stützpfeiler für das [GetInternationalOrganizationType('middle_kingdom')]. Um uns gegen Angreifer zur Wehr zu setzen, müssen wir Garnisonen errichten und diese dauerhaft mit Truppen füllen."
  kremlin: "Kreml"
  kremlin_desc: "Die $kremlin$-Festung dient als ein Zentrum für die Verwaltung und die Kirche sowie als Symbol der Autorität – und passt somit gut zu unserem wachsenden Einfluss. Aufgrund der eindrucksvollen Größe und mächtigen Mauern bietet er der Bevölkerung entscheidenden Schutz bei Überfällen und Belagerungen."
  kremlin_why: "Kann nur in [ShowLocationName('moscow')] gebaut werden."

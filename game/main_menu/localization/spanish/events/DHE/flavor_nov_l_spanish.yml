@@ -116,7 +116,7 @@
  nov_accepted_alliance_with_us: "Alianza aceptada"
  flavor_nov.24.title: "Alianza con [GetCountry('LIT').GetNameWithNoTooltip]"
  flavor_nov.24.desc: "Nuestros enviados a [GetCountry('LIT').GetName] han regresado con buenas noticias: ¡[GetCountry('LIT').GetNameWithNoTooltip] ha decidido aliarse con nosotros!"
- flavor_nov.24.a: "¡[marfa_boretskaya.GetName] tenía razón!"
+ flavor_nov.24.a: "¡[marfa_boretskaya.GetNameWithNoTooltip] tenía razón!"
  flavor_nov.25.title: "Alianza con [GetCountry('LIT').GetNameWithNoTooltip]"
  flavor_nov.25.desc: "Nuestros enviados a [GetCountry('LIT').GetName] han regresado con malas noticias: ¡[GetCountry('LIT').GetNameWithNoTooltip] ha rechazado aliarse con nosotros!"
  flavor_nov.25.a: "¿Por qué confiamos en esta mujer?"

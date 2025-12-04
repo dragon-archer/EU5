@@ -85,7 +85,7 @@
  flavor_cas.21.title: "[GetCountry('POR').GetNameWithNoTooltip] 왕위 확보"
  flavor_cas.21.desc: "[GetCountry('POR').GetName] 개입은 성공적이었습니다. 치열한 전쟁 끝에 [GetCountry('POR').GetAdjectiveWithNoTooltip] 왕좌가 우리의 손아귀에 무사히 들어오면서, [ROOT.GetCountry.GetName]의 통치 아래 이베리아반도의 두 왕국이 통합되었습니다."
  flavor_cas.21.a: "승리를 축하하자."
- flavor_cas.21.b: "[ShowLocationName('guadalupe')]의 [ShowBuildingTypeNameWithNoTooltip('monastery')]을 봉헌하여 승리를 기념하라."
+ flavor_cas.21.b: "[ShowLocationNameWithNoTooltip('guadalupe')]의 [ShowBuildingTypeNameWithNoTooltip('monastery')]을 봉헌하여 승리를 기념하라."
  flavor_cas.22.title: "[ShowReligionAdjectiveWithNoTooltip('catholic')] 왕의 칭호"
  flavor_cas.22.desc: "[ShowReligionAdjective('catholic')] 신앙을 굳건히 수호하고 교황청을 한결같이 지지하는 우리의 노력은 헛되지 않았습니다. 우리의 경건함과 기독교 세계에서의 영향력을 인정한 [pope.GetName](이)가 [GetCountry('PAP').GetAdjective] 칙서를 반포하여 우리에게 가톨릭 군주라는 권위 있는 칭호를 수여했습니다."
  flavor_cas.22.a: "받아들이겠다!"

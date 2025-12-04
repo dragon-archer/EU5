@@ -9,7 +9,7 @@
  unionevents.2.desc: "Notre dirigeant commun s'intéresse de près à son propre [union_target.GetFlavorRank], mais ne semble guère enclin à consacrer du temps à notre [ROOT.GetCountry.GetFlavorRank]. Il est clair que notre peuple n'apprécie pas son attitude."
  unionevents.2.a: "C'est une véritable insulte envers [ROOT.GetCountry.GetNameWithNoTooltip] !"
  opinion_ignorant_monarch: "Souverain ignorant"
- unionevents.2.b: "Invitons [target_ruler.GetHerHis] à visiter notre capitale !"
+ unionevents.2.b: "Qu'on l'invite à visiter notre capitale !"
  opinion_supportive_monarch: "Souverain impliqué"
  unionevents.3.title: "L'économie du [ROOT.GetCountry.GetName] négligée"
  unionevents.3.desc: "Bien que nous soyons unis en la personne de notre souverain commun, nos marchands sont toujours traités en étrangers. Cela a des impacts néfastes sur notre économie. [ROOT.GetCountry.GetGovernment.GetFullRulerName|U] devrait passer plus de temps dans notre pays et l'aider à prospérer !"

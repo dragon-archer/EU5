@@ -37,6 +37,6 @@
  military_order_events.9.a: "Somos vitoriosos!"
  forming_koj_easier_tt: "Formar o Reino de Jerusalém aumentará nossa [stability|e], [government_power|e] e nos proporcionará o modificador [ShowModifier('jerusalem_resurgent_modifier')] por #Y 20#! anos"
  military_order_events.9.b: "A terra pertence à nossa Ordem!"
- military_order_events.9.c: "Devolva os territórios de [ShowLocationName('jerusalem')] ao legítimo dono."
+ military_order_events.9.c: "Devolva os territórios de [ShowLocationNameWithNoTooltip('jerusalem')] ao legítimo dono."
  #Tooltips
  because_we_opted_inwards_tt: "Como optamos por \"#italic Olhar internamente, devemos desenvolver nossa fortaleza.#!\" no evento \"#Y Consequência da Era das Cruzadas#!\", essa opção foi amplificada"

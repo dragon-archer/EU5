@@ -241,7 +241,7 @@
  PAST_CHANGE_UNION_INTEGRATION_LEVEL_EFFECT: "[union_integration_level|e] $VALUE|0Y$ arttı"
  NEG_THIRD_CHANGE_UNION_INTEGRATION_LEVEL_EFFECT: "[union_integration_level|e] $VALUE|0Y$ azaldı"
  THIRD_CHANGE_UNION_INTEGRATION_LEVEL_EFFECT: "[INTERNATIONAL_ORGANIZATION.GetName] [Concept('union_integration_level', 'Birlik Bütünleşme Seviyesini')|e] $VALUE|0Y$ artırır"
- PAST_NEG_CHANGE_UNION_INTEGRATION_LEVEL_EFFECTT: "[INTERNATIONAL_ORGANIZATION.GetName] [Concept('union_integration_level', 'Birlik Bütünleşme Seviyesini')|e] $VALUE|0Y$ azaltır"
+ PAST_NEG_CHANGE_UNION_INTEGRATION_LEVEL_EFFECT: "[INTERNATIONAL_ORGANIZATION.GetName] [Concept('union_integration_level', 'Birlik Bütünleşme Seviyesini')|e] $VALUE|0Y$ azaltır"
  THIRD_PAST_CHANGE_UNION_INTEGRATION_LEVEL_EFFECT: "[INTERNATIONAL_ORGANIZATION.GetName] [Concept('union_integration_level', 'Birlik Bütünleşme Seviyesini')|e] $VALUE|0Y$ artırdı"
  THIRD_PAST_NEG_CHANGE_UNION_INTEGRATION_LEVEL_EFFECT: "[INTERNATIONAL_ORGANIZATION.GetName] [Concept('union_integration_level', 'Birlik Bütünleşme Seviyesini')|e] $VALUE|0Y$ azalttı"
  CAST_VOTE_EFFECT: "[TARGET_PARLIAMENT_ISSUE.GetName] lehine oy kullanılır"

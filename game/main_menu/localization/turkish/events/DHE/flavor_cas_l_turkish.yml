@@ -85,7 +85,7 @@
  flavor_cas.21.title: "[GetCountry('POR').GetNameWithNoTooltip] Tahtı Alındı"
  flavor_cas.21.desc: "[GetCountry('POR').GetName] içinde yaptığımız müdahale başarıyla sonuçlandı. Zorlu geçen bir savaşın ardından [GetCountry('POR').GetAdjectiveWithNoTooltip] tacı elimize geçti. İki İberya bölgesini [ROOT.GetCountry.GetName] ülkesinin hâkimiyeti altında birleştirdik."
  flavor_cas.21.a: "Zafer kutlansın."
- flavor_cas.21.b: "[ShowLocationName('guadalupe')] içindeki [ShowBuildingTypeNameWithNoTooltip('monastery')] zafere adansın."
+ flavor_cas.21.b: "[ShowLocationNameWithNoTooltip('guadalupe')] ilindeki [ShowBuildingTypeNameWithNoTooltip('monastery')] zafere adansın."
  flavor_cas.22.title: "[ShowReligionAdjectiveWithNoTooltip('catholic')] Kralların Ünvanı"
  flavor_cas.22.desc: "[ShowReligionName('catholic')] inancını sadakatle savunmamız ve Kutsal Makama sunduğumuz sarsılmaz destek göz ardı edilmedi. Dindarlığımız ve Hristiyan âlemi içerisinde edindiğimiz nüfuzu ödüllendirmek adına [pope.GetName] bir [GetCountry('PAP').GetAdjective] Fetvası yayınlayarak bize Katolik Hükümdar ünvanını bahşetti."
  flavor_cas.22.a: "Ünvan alınsın!"

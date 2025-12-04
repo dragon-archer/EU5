@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "Korsyka zawsze była powodem wielu kłopotów państwa [ROOT.GetCountry.GetLongName]. Jej mieszkańcy są uparci i próbują uzyskać niezależność przy każdej okazji.\n\nJednak odmawiają też pokłonu przed jakimkolwiek feudalnym panem. Przywódca żakerii, chłopskich buntowników z państwa [GetCountry('FRA').GetName] podczas wojny stuletniej, [sambucuccio_dalando.GetName] i jego sojusznicy rozpoczęli rewoltę przeciwko siłom #L [rebel_location.GetController.GetAdjective|l]kim#! w regionie [rebel_location.GetName]."
  anti_feudal_revolters: "Antyfeudalni powstańcy"
  flavor_gen.18.a: "Niech powstańcy odeprą naszych wrogów."
- flavor_gen.18.b: "[sambucuccio_dalando.GetName] musi być naszym generałem!"
+ flavor_gen.18.b: "[sambucuccio_dalando.GetNameWithNoTooltip] musi być naszym generałem!"
  flavor_gen.19.title: "Założenie Bastii"
  flavor_gen.19.desc: "Korsyka okazała się raczej nierentowna, w związku z czym wielu kupców i urzędników #L [ROOT.GetCountry.GetAdjective|l]kich#! przestało ingerować w wewnętrzną politykę wyspy. Jednak niektórzy przedsiębiorcy z państwa [ROOT.GetCountry.GetFlavorRank] wciąż widzą potencjał w Korsyce. Utworzona Maona di Corsica zarządziła ufortyfikowanie regionu [ShowLocationName('bastia')], by wzmocnić kontrolę nad wyspą. Zarządcy zamierzają również przyspieszyć rozwój pobliskiego miasta, choć będzie to wymagało dodatkowego wsparcia finansowego."
  flavor_gen.19.a: "Udzielmy Maonie potrzebnego wsparcia."

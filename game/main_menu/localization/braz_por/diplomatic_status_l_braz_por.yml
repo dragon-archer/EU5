@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "A entidade política $WHO$ está enviando [economic_support|e] a $LIST$"
  getting_war_reparations_list_who_tt: "A entidade política $WHO$ está recebendo [war_reparations|e] de $LIST$"
  giving_war_reparations_list_who_tt: "A entidade política $WHO$ está enviando [war_reparations|e] a $LIST$"
- truce_list_who_tt: "A entidade política $WHO$ tem uma trégua com $LIST$ até $EXTRA|Y$. Ao declarar [war|e] durante uma trégua, o agressor sofrerá um impacto de #R -50#! de [stability|e]"
+ truce_list_who_tt: "A entidade política $WHO$ tem uma trégua com $LIST$ até $EXTRA|Y$. Ao declarar [war|e] durante uma trégua, o agressor sofrerá um impacto de $PRICE$"
  annul_treaties_list_who_tt: "O país $WHO$ foi forçado a anular tratados com o(s) país(es) $LIST$ até $EXTRA|Y$."
  casus_belli_list_who_tt: "O país $WHO$ tem um [casus_belli|e] contra o(s) país(es) $LIST$. Isso permite que o país $WHO$ declare uma [war|e] sem sofrer impacto na [stability|e].\n\nEles possuem os seguintes Casus Belli:\n$EXTRA$"
  casus_belli_target_list_who_tt: "O(s) país(es) $LIST$ possui(em) um [casus_belli|e] contra o país $WHO$. Isso permite que o(s) país(es) $LIST$ declare(m) uma [war|e] sem sofrer impacto na [stability|e].\n\nEles possuem os seguintes Casus Belli:\n$EXTRA$"

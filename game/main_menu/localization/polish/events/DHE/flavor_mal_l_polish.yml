@@ -59,7 +59,7 @@
  flavor_mal.14.title: "Kraj [target_subject_country.GetNameWithNoTooltip] dąży do niepodległości"
  flavor_mal.14.desc: "Mimo naszych prób poprawienia bytu wszystkich naszych podwładnych, są wśród nas tacy, którzy chcieliby ujrzeć nasz upadek, wykorzenić nasze dziedzictwo. Kryją się w cieniach, ze sztyletami w dłoniach, wyczekując na chwilę naszej słabości...\n\nGłos buntu, jaki niesie się z kraju [target_subject_country.GetName], jest jedynie wyrazem krnąbrności dziecka, które stało się zbyt bezczelne."
  flavor_mal.14.a: "Dobrze, niech staną się suwerennym krajem."
- flavor_mal.14.b: "Skoro chcą wojny..."
+ flavor_mal.14.b: "Jeśli chcą wojny..."
  flavor_mal.14.b.tt: "Podejmiemy próbę poskromienia kraju [GetCountry('JOL').GetName].\n#italic Może to skończyć się #R wojną#! między naszymi państwami!#!"
  flavor_mal.15.title: "Kraj [target_overlord_country.GetNameWithNoTooltip] interweniuje"
  flavor_mal.15.desc: "Pomimo naszych wysiłków, aby przekonać kraj [target_overlord_country.GetName] oraz tamtejszych prostackich, barbarzyńskich władców, że chcemy jedynie współegzystować w pokoju, domagają się oni naszego całkowitego posłuszeństwa. Ta zniewaga powinna stać się iskrą, która wznieci ogień niepodległości na naszych ziemiach!"

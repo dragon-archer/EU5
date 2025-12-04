@@ -44,7 +44,7 @@
  flavor_usa.11.title: "[ShowBuildingTypeNameWithNoTooltip('usa_philosophical_society')]"
  flavor_usa.11.a: "Звучит впечатляюще. Выделим на это средства!"
  flavor_usa.12.title: "Великий пожар в [target_location.Custom('LR_PREP')|l] [target_location.GetNameWithNoTooltip]"
- flavor_usa.12.desc: "[target_location.GetRank.GetName|U] [target_location.GetName] в огне!\n\nЯзыки пламени пожирают дома, но местные власти уже организуют помощь погорельцам и обсуждают планы восстановления [target_location.Custom('LR_RP')|l]. Это обойдётся недёшево, но в перспективе вложения в этот ценный участок земли могут многократно окупиться."
+ flavor_usa.12.desc: "[target_location.GetRank.GetName|U] [target_location.GetName] в огне!\n\nЯзыки пламени пожирают дома, но местные власти уже организуют помощь погорельцам и обсуждают планы восстановления [target_location.Custom('LR_GEN')|l]. Это обойдётся недёшево, но в перспективе вложения в этот ценный участок земли могут многократно окупиться."
  flavor_usa.12.a.tt: "[target_location.GetName] утратит долю [Concept('prosperity','процветания')|e] и лишится части [Concept('pops', 'групп населения')|e], в результате пожара пострадают некоторые [Concept('buildings', 'сооружения')|e]"
  flavor_usa.12.a: "Реализуем этот амбициозный план!"
  flavor_usa.12.b.tt: "[target_location.GetName] утратит долю [Concept('prosperity','процветания')|e] и [Concept('development','развития')|e], а также лишится части [Concept('pops', 'групп населения')|e], в результате пожара пострадают некоторые [Concept('buildings', 'сооружения')|e]"

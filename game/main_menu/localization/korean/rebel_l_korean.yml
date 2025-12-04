@@ -18,7 +18,7 @@
  REBEL_STALLED_NOT_ENOUGH: "지지자가 부족해 동결되었습니다."
  REBEL_PROGRESS_ESTATE: "[estate_power|e]: $VAL|2-=%$"
  REBEL_NATIONALISM_SOURCE: "국수주의\n기본 국수주의: $VAL|2=-%$"
- REBEL_NATIONALISM_CULTURE_WAR: "[CULTURE.GetName]의 [cultural_influence|e] 대비 [TARGET_CULTURE.GetName]의 [cultural_tradition|e]: $VAL|+=2%$"
+ REBEL_NATIONALISM_CULTURE_WAR: "[CULTURE.GetName]의 [cultural_influence|e] 대비 [TARGET_CULTURE.GetName]의 [cultural_tradition|e]: $VAL|-=2%$"
  RSI_HEADER: "[pops|e]의 반란군 지지 사유"
  RSI_ENTRY: "$NAME$: $VAL|2+=%$"
  rsi_separatism: "[separatism|e]"

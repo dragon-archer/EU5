@@ -208,7 +208,7 @@
  MOVING_CAPITAL: "[LOCATION.GetNameWithNoTooltip]: przenoszenie stolicy"
  MARKET_CREATING: "[LOCATION.GetNameWithNoTooltip]: tworzenie rynku"
  EXPLORATION_CREATING: "[AREA.GetNameWithNoTooltip] ([LOCATION.GetNameWithNoTooltip]): przygotowania do [Concept('exploration','eksploracji')|e]"
- CONQUISTADOR_CREATING: "[LOCATION.GetNameWithNoTooltip]: przygotowania do rozpoczęcia konkwisty na terenie [AREA.GetNameWithNoTooltip]"
+ CONQUISTADOR_CREATING: "[LOCATION.GetNameWithNoTooltip]: przygotowania do rozpoczęcia konkwisty w @area![AREA.GetName] w @location![LOCATION.GetName]"
  ROAD_TO: "[ROAD_TYPE.GetName] do: $TO$"
  ARMY_NAVY_LEVY_IN_SHORT: "Werbunek"
  ARMY_LEVY_IN: "$PROV$: zwerbuj [Concept('army_levy','armię poborową')|e]"

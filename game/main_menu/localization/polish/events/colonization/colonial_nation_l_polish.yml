@@ -22,7 +22,7 @@
  colonial_nation.183.title: "Nowy gubernator"
  colonial_nation.183.desc: "Plotki o nieskuteczności rządów, jakie prowadzi [ROOT.GetCountry.GetGovernment.GetRuler.GetName], nieuchronnie dotarły do korony, budząc obawy, jak ta nieszczęśliwa sytuacja może wpłynąć na reputację – zarówno ich, jak i naszą. Pod groźbą asymilacji przez koronę kolonia zaoferowała nam półśrodek: powołanie nowego gubernatora, który przejmie stery naszej kolonii, zanim będzie za późno."
  colonial_nation.183.a: "Powinniśmy skorzystać z ich rady."
- colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName] wciąż może rządzić."
+ colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip] wciąż może rządzić."
  colonial_nation.184.title: "[ROOT.GetCountry.GetAdjective] długi!"
  colonial_nation.184.desc: "Trudnym czasom, które nadeszły dla naszej kolonii, nie widać końca. Długi finansowe, którymi nas obciążono, zniszczyły ducha ludu, który, kierowany głodem nękającym ich rodziny, żąda, by [ROOT.GetCountry.GetGovernment.GetRuler.GetName] [Select_CString(ROOT.GetCountry.GetGovernment.GetRuler.IsFemale,'znalazła','znalazł')] natychmiastowe i skuteczne rozwiązanie."
  colonial_nation.184.a: "Wykorzystamy nasze wpływy, żeby załatwić te sprawę."

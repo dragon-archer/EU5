@@ -275,7 +275,7 @@
  #Papacy
  powerful_italian_families: "强大的[ShowCultureGroupNameWithNoTooltip('italian_group')]家族"
  powerful_italian_families.tt: "我们的首都不在[ShowRegionNameWithNoTooltip('italy_region')]区域"
- powerful_italian_families_desc: "自从[GetCountry('PAP').GetGovernment.GetRulerTitle]将宗座迁往[ShowLocationName('avignon')]以来，[ShowLocationName('rome')]城和其他[ShowCultureGroupName('italian_group')]阶层对教廷的抗拒与不配合现象大大恶化了。科隆纳和奥尔西尼这两个强大的意大利家族几乎独立于[GetCountry('PAP').GetGovernment.GetRulerTitle]之外，并完全掌控了我们在意大利的领地。"
+ powerful_italian_families_desc: "自从[GetCountry('PAP').GetGovernment.GetRulerTitle]将宗座迁往[ShowLocationName('avignon')]以来，[ShowLocationName('rome')]城和其他[ShowCultureGroupName('italian_group')]阶层对教廷的抗拒与不配合现象大大恶化了。科隆纳和[ShowDynastyName('orsini_dynasty')]这两个强大的意大利家族几乎独立于[GetCountry('PAP').GetGovernment.GetRulerTitle]之外，并完全掌控了我们在意大利的领地。"
  french_cardinals: "[ShowCultureGroupNameWithNoTooltip('french_group')]枢机"
  french_cardinals_desc: "自从[GetCharacter('pap_boniface_viii').GetName]去世，且教廷迁往[ShowLocationName('avignon')]以来，涌向那儿的大多数枢机主教都是清一色的[ShowCultureGroupName('french_group')]人，并且受到[GetCountry('FRA').GetName][GetCountry('FRA').GetGovernment.GetRulerTitle]的控制。在这样的控制下，[GetCountry('PAP').GetName]不被允许返回[ShowLocationName('rome')]。"
  cardinal_lead_guilds: "枢机领导行会"

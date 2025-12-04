@@ -60,7 +60,7 @@
  flavor_kbo.16.title: "Azalai ve Taghlamt"
  flavor_kbo.16.desc: "Batı ve Orta Afrika'ya devenin getirilmesinden sonra birçok tüccar, yüzyıllar boyunca Azalai veya Taghlamt gibi rotaları kullanarak ticaret yapıp kâr elde etmek için zorlu ortamlardan geçmeyi kendilerine görev edinmiştir. Amenokal olarak bilinen bu güçlü kişiler, çölde vahadan vahaya ulaşımı denetleyip seyahat ederek uzak yerleri birbirine bağlar ve [ShowGoodsName('salt')] ticareti yapardı. Bu pazarlarda kalıp veya taş hâlinde olan tuzlar; yiyecek, sığır ve diğer önemli emtialar karşılığında satılırdı. Güçlü kişilere böylesine ayrıcalıklı bir denetleme mevkisinin verilip verilmemesi hassas bir mevzudur ve bu konuyu en güvenilir danışmanlarımızın ele alması gerekir."
  flavor_kbo.16.a: "Her kervanın Amenokalı kendi ticaretini yönetsin."
- flavor_kbo.16.b: "Bu otorite, [ROOT.GetCountry.GetGovernment.GetRuler.GetName] Hazretleri'ne aittir!"
+ flavor_kbo.16.b: "Bu yetki, [ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip] Hazretleri'ne aittir!"
  flavor_kbo.17.title: "[ROOT.GetCountry.GetNameWithNoTooltip] Ülkesinde $sharia$"
  flavor_kbo.17.desc: "Yüce ulusumuz, [ShowReligionAdjective('sunni')] İslam'ın en eski ve en hızlı benimseyenlerinden biri olmuştur. Gerçek inanç amacıyla oluşturduğumuz iman ve durmak bilmeyen bir enerjiyle dini değerlerimizi güçlendirip halkımıza karışan kâfirlerden korumak için elimizden geleni yaptık ancak inancımızın henüz tutunamamış bir yönü $sharia$tır. Yönetimimizin verimliliğini ve halkımız üzerindeki etkisini belirleyebilecek dini kanunlar bütünü. Danışmanlarımızın çoğu $sharia$ı uygulamaktan yana olsa da diğerleri din ve yönetimin iç içe geçmesine karşın bizi uyarıyor."
  flavor_kbo.17.a: "Bizim için en mantıklı adımlardan biri $sharia$!"

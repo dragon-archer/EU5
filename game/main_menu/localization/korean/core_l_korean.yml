@@ -54,6 +54,7 @@
  END_OF_TIME_MERCS: "모두 전장에서 스러지거나 소중한 이들에게 돌아갈 때"
  END_OF_TIME_REBELS: "모두 자신에게 주어진 운명에 만족하기로 할 때"
  END_OF_TIME_IO: "행정부가 마지막으로 문을 닫을 때"
+ END_OF_TIME_DYNASTY: "their extinction"
  END_OF_TIME_LIFE: "사망할 때"
  BULLET_WITH_TAB: "    • "
  BULLET: "• "

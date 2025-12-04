@@ -25,6 +25,6 @@
  impacted_locations_var_tt: "Около [ROOT.GetVariable('num_rebelling_locations').GetValue] [Concept('locations', 'районов')|e] перейдут на сторону персонажа [target_character2.GetNameWithNoTooltip]"
  burhan_al_din_pretenders: "[GetCharacter('ere_burhan_al_din').GetShortNameWithNoTooltip] претендует на власть"
  flavor_ere.6.title: "Кёшк медресе"
- flavor_ere.6.desc: "Безвременная кончина [ere_suli_scope.GetName] подорвала дух нашего дражайшего правителя: [ruler_scope.GetName] убеждён, что обычных погребальных ритуалов недостаточно для того, чтобы должным образом почтить её память.\n\nВыдающийся [ShowCultureName('armenian_culture')|l]ий архитектор [ere_kaluyan_scope.GetName] предлагает построить в #TOOLTIP:LOCATION,kayseri_tt,X #L Кайсери#!#! #TOOLTIP:BUILDING_TYPE,madrasa,X #L медресе#!#! нового типа, которое обессмертит имя [ere_suli_scope.GetShortNameWithNoTooltip] в веках."
+ flavor_ere.6.desc: "Безвременная кончина [ere_suli_scope.GetName] подорвала дух нашего дражайшего правителя: [ruler_scope.GetName] убеждён, что обычных погребальных ритуалов недостаточно для того, чтобы должным образом почтить её память.\n\nВыдающийся [ShowCultureName('armenian_culture')|l]ий архитектор [ere_kaluyan_scope.GetName] предлагает построить в #TOOLTIP:LOCATION,kayseri,X #L Кайсери#!#! #TOOLTIP:BUILDING_TYPE,madrasa,X #L медресе#!#! нового типа, которое обессмертит имя [ere_suli_scope.GetShortNameWithNoTooltip] в веках."
  flavor_ere.6.a: "Нанять его и построить медресе."
  flavor_ere.6.b: "Нам это не по карману."

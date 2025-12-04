@@ -22,7 +22,7 @@
  colonial_nation.183.title: "Новый губернатор"
  colonial_nation.183.desc: "До верховных властей дошли слухи о том, что [ROOT.GetCountry.GetGovernment.GetRuler.GetName] не справляется со своими обязанностями. Теперь многие чиновники беспокоятся, что их — и наша — репутация также будет испорчена. Опасаясь перехода колонии под прямую власть короны, они предлагают как можно скорее назначить нового губернатора, чтобы попытаться исправить эту ситуацию."
  colonial_nation.183.a: "Это дельное предложение"
- colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName] заслуживает второго шанса."
+ colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip] заслуживает второго шанса."
  colonial_nation.184.title: "[ROOT.GetCountry.GetName] в долгах!"
  colonial_nation.184.desc: "Наша колония переживает поистине трудные времена. Непосильные долги подавляют жителей, а многие семьи на наших землях страдают от голода. На фоне этого народ требует, чтобы [ROOT.GetCountry.GetGovernment.GetRuler.GetName] немедленно [Select_CString(ROOT.GetCountry.GetGovernment.GetRuler.IsFemale, 'разобралась', 'разобрался' )] с этой проблемой."
  colonial_nation.184.a: "Мы задействуем своё влияние, чтобы решить этот вопрос."

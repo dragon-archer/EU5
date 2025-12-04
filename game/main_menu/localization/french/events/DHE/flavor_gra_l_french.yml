@@ -1,7 +1,7 @@
 ﻿l_french:
  flavor_gra.1.title: "Réfugiés maures"
  flavor_gra.1.desc: "Au nom d'Allāh, le Très Gracieux, le Très Miséricordieux. Grenade est tombée aux mains des infidèles ! Le dernier joyau d'al-'Andalûs, la citadelle du savoir, est désormais aux mains des Castillans. Alors que le monde islamique est ébranlé par cette perte, les réfugiés maures affluent dans les villes et les cours musulmanes d'Afrique du Nord et du Moyen-Orient, apportant avec eux le savoir, les ouvrages d'érudits exceptionnels comme Abu al-Walid ibn Rushd, Abu al-Qasim al-Zahrawi et Abu Bakr ibn Tufail. Inviter ces réfugiés dans notre pays pourrait permettre de grandes avancées pour les sciences et la culture de [ROOT.GetCountry.GetName]."
- flavor_gra.1.a: "Quel qu'en soit le prix, invitons-les en [ROOT.GetCountry.GetName] !"
+ flavor_gra.1.a: "Quel qu'en soit le prix, invitons-les en [ROOT.GetCountry.GetNameWithNoTooltip] !"
  flavor_gra.1.b: "Non, nous n'en avons nul besoin."
  flavor_gra.2.title: "L'émirat de Sicile"
  flavor_gra.2.desc: "Au cours des siècles passés, l'émirat de Sicile était un véritable bastion de notre foi, résistant à toutes les épreuves, jusqu'à ce que les croisés s'emparent de l'île en 1087.\n\nMaintenant que cette terre convoitée est revenue entre nos mains, nous n'en perdrons plus le contrôle !"

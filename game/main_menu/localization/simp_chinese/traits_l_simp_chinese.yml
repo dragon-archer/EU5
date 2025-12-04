@@ -322,7 +322,7 @@
  desc_child_rowdy: "这个孩子一点也静不下来，总是要彰显他们的存在，与平和规矩毫不相干。"
  child_ambitious: "野心勃勃"
  child_ambitious_die_desc: "不幸的是，[CHARACTER.GetHisHer|U]野心勃勃的梦想将无法实现。"
- desc_child_ambitious: "这个孩子知道自己想要什么，而且皆非易予之物。如果他们可以，他们将夺取一切。"
+ desc_child_ambitious: "这孩子很清楚自己要什么，而且想要的绝非寻常之物。若有可能，他恨不得将整个世界都收入囊中。"
  child_gallant: "英勇"
  child_gallant_die_desc: "所有人都为[CHARACTER.GetName]的去世而哭泣，似乎[CHARACTER.GetHeShe]太完美了，以至于不能在这个世界上久留。我们再也见不到像[CHARACTER.GetHimHer]这样的人了。"
  desc_child_gallant: "尽管还是个孩子，但他们已经是骑士精神的缩影。勇敢、高雅、礼貌、细心，他们长大后一定值得拥有许多诗歌和故事。"

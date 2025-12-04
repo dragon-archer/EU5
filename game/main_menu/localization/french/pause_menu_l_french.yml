@@ -2,6 +2,7 @@
  SAVE_BUTTON_DISABLED: "@trigger_no! En mode Iron Man, la partie ne peut pas être sauvegardée manuellement."
  SAVE_BUTTON_DISABLED_BY_TUTORIAL: "@trigger_no! Vous ne pouvez pas sauvegarder la partie pendant le didacticiel."
  LOAD_INGAME_BUTTON_DISABLED: "Vous ne pouvez pas charger une partie en multijoueur"
+ LOAD_INGAME_BUTTON_IRONMAN: "@trigger_no! You cannot load a game in Ironman mode"
  HOST_GAME_BUTTON_DISABLED: "Vous êtes actuellement dans une partie multijoueur"
  GAME_NOT_PAUSED: "#X La partie n'est PAS en pause #!"
  PAUSE_MENU_GAME_RULES_TOOLTIP: "Afficher la configuration actuelle de la partie"

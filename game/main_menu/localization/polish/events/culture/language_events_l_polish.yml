@@ -11,7 +11,7 @@
  language.2.desc: "Konflikt, jaki prowadzą obecnie [overlord.GetLongName] i [enemy_country.GetLongName] sprawia, że używany na dworze tego pierwszego kraju język [enemy_dialect.GetName|l] wywołuje mnóstwo kontrowersji.\n\nAby położyć im kres, podjęto decyzje, że nowym językiem tamtejszego dworu stanie się [new_language.GetName|l]. Czy powinniśmy pójść za ich przykładem?"
  language.2.a: "My również powinniśmy promować korzystanie z naszego ojczystego języka, jakim jest [common_dialect.GetNameWithNoTooltip|l]."
  language.2.b: "Język [new_language.GetNameWithNoTooltip|l] powinien być używany i u nas."
- language.2.c: "Nie, ale za to najwyższy czas, abyśmy wprowadzili u siebie język [common_dialect.GetName|l]."
+ language.2.c: "Nie, ale za to najwyższy czas, abyśmy wprowadzili u siebie język #L [common_dialect.GetNameWithNoTooltip|l]ki#!."
  language.2.d: "Nie, język [enemy_dialect.GetNameWithNoTooltip|l] sam w sobie nie jest niczym złym."
  language.10.title: "Mowa, jaką [Select_CString(country.GetGovernment.GetRuler.IsFemale,'wygłosiła','wygłosił')] [country.GetGovernment.GetRulerTitle|l]"
  language.10.desc: "Wraz z kolejnymi zgromadzeniami i oficjalnymi dokumentami oczywistym staje się fakt, że [ruler.GetShortName] nie ma pojęcia, jak zachowywać się na dworze.\n\nZe względu na [ruler.GetHisHer] #L [ruler_culture.GetName|l]kie#! pochodzenie, [ruler.GetHisHer] umiejętności posługiwania się naszą wybraną mową, jaką jest język [court_language.GetName|l], pozostawiają wiele do życzenia, a [ruler.GetHisHer] trudny do zignorowania obcy akcent stał się nieznośny dla rdzennych uszu naszego kraju, nieustannie przypominając o fakcie, że nie jest to osoba, która powinna stać na czele dworu, gdzie używanym językiem jest [court_language.GetNameWithNoTooltip|l]."

@@ -216,6 +216,7 @@
  rtr_demand_occupied_territories_entry_short: "$rtr_demand_occupied_territories$"
  rtr_demand_occupied_territories_desc: "Exigir todos os locais [Concept('occupied', 'ocupados')|e] do [country|e]-alvo."
  rtr_demand_occupied_territories_tt: "Cada [location|e] [loser.GetAdjective] ocupado por [winner.GetName] é tomado por [winner.GetNameWithNoTooltip]"
+ rtr_demand_occupied_territories_no_winner_loser_tt: "Any [location|e] the winner occupies from the loser is seized."
  rtr_demand_complete_annexation: "Exigir Anexação Completa"
  rtr_demand_complete_annexation_entry: "$rtr_demand_complete_annexation$"
  rtr_demand_complete_annexation_entry_short: "$rtr_demand_complete_annexation$"

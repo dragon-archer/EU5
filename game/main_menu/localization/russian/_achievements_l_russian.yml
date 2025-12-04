@@ -20,7 +20,7 @@
  ACHIEVEMENTS_ENABLED_NO_HEADER: "#P Доступны#!"
  ACHIEVEMENTS_DISABLED_NO_HEADER: "#N Недоступны#!"
  ACHIEVEMENTS_DISABLED_NO_HEADER_PLAY_BUTTON: "#N Недоступно#!\n\nСейчас вы не можете получать достижения в игре.\n$ACHIEVEMENTS_EXPLANATION$"
- ACHIEVEMENTS_EXPLANATION: "#indent_newline:2 Достижения доступны, если соблюдены условия:\n$EFFECT_LIST_BULLET$Вы играете в одиночном режиме\n$EFFECT_LIST_BULLET$Включён режим «Железная воля»\n$EFFECT_LIST_BULLET$Вы не используете моды, затрагивающие игровой процесс."
+ ACHIEVEMENTS_EXPLANATION: "#indent_newline:2 Достижения доступны, если соблюдены условия:\n$EFFECT_LIST_BULLET$Вы играете в одиночном режиме\n$EFFECT_LIST_BULLET$Включён режим «Железная воля»\n$EFFECT_LIST_BULLET$Не достигнута финальная дата игры.\n$EFFECT_LIST_BULLET$Вы не используете моды, затрагивающие игровой процесс."
  ACHIEVEMENTS_ENABLED: "#T Достижения доступны#!\nВы можете получать достижения в игре."
  ACHIEVEMENTS_DISABLED: "#T Достижения недоступны#!\nСейчас вы не можете получать достижения в игре.\n\n$ACHIEVEMENTS_EXPLANATION$"
  ACHIEVEMENT_GROUP_TITLE_CAESAR: "[Group.GetName]"
@@ -47,7 +47,7 @@
  ACHIEVEMENT_city_of_cities: "Метрополия"
  ACHIEVEMENT_DESC_city_of_cities: "Завладейте национальной провинцией с уровнем развития не менее 100."
  ACHIEVEMENT_cold_war: "Холодная война"
- ACHIEVEMENT_DESC_cold_war: "Находитесь в состоянии войны в течение двух лет, не вступая при этом в сражения."
+ ACHIEVEMENT_DESC_cold_war: "Находитесь в состоянии войны в течение трёх лет, не вступая при этом в сражения."
  ACHIEVEMENT_for_the_glory: "Великолепная работа!"
  ACHIEVEMENT_DESC_for_the_glory: "Добейтесь присоединения ленника дипломатическим путём."
  #Achievements Easy
@@ -125,9 +125,9 @@
  ACHIEVEMENT_be_in_all_the_clubs: "Везде свой человек"
  ACHIEVEMENT_DESC_be_in_all_the_clubs: "Станьте участником сразу 6 международных объединений."
  ACHIEVEMENT_what_the_lord_giveth: "Господь дал, Господь и взял"
- ACHIEVEMENT_DESC_what_the_lord_giveth: "Даруйте аристократии 8 привилегий, а затем отзовите их."
+ ACHIEVEMENT_DESC_what_the_lord_giveth: "Даруйте аристократам не менее восьми привилегий, а затем отзовите их."
  ACHIEVEMENT_welfare_state: "Социальное государство"
- ACHIEVEMENT_DESC_welfare_state: "Добейтесь, чтобы на одном вашем рынке находилось не менее 20 000 ед. пищи."
+ ACHIEVEMENT_DESC_welfare_state: "Добейтесь, чтобы на одном вашем рынке находилось не менее 60 000 ед. пищи."
  ACHIEVEMENT_five_hundred_miles: "500 миль"
  ACHIEVEMENT_DESC_five_hundred_miles: "Завладейте 100 районами, в которых построено хотя бы 5 дорог."
  #Achievements Very Hard
@@ -145,4 +145,4 @@
  #Tooltips
  has_emerged_victorious_during_rise_of_ottomans_situation_tt: "В ходе [Concept('situation', 'ситуации')|e] #TOOLTIP:SITUATION,rise_of_the_ottomans,X #L Восхождение турок#!#! мы одержали победу и проявили себя сильнейшим бейликом."
  had_timur_as_past_ruler_tt: "Одним из наших предыдущих [Concept('rulers', 'правителей')|e] был [GetCharacter('chg_timur_lame_borjigin').GetName]"
- hussites_won_hussite_wars_situation_tt: "#TOOLTIP:RELIGION,$hussite_tt$,X #L Гуситы#!#! одержали победу в [Concept('situation', 'ситуации')|E] «#TOOLTIP:SITUATION,hussite_wars,X #L Гуситские войны#!#!»"
+ hussites_won_hussite_wars_situation_tt: "#TOOLTIP:RELIGION,$hussite_tt$,X #L Гуситы#!#! одержали победу в [Concept('situation', 'ситуации')|e] #TOOLTIP:SITUATION,hussite_wars,X #L Гуситские войны#!#!"

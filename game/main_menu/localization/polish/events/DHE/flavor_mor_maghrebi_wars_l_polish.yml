@@ -3,7 +3,7 @@
  flavor_mor_maghrebi_wars.1000.desc: "Gdy uwielbiany [old_ruler.GetName] odszedł, zgodnie z jego życzeniem #L [GetCountry('TUN').GetAdjective|l]ki#! tron objął jego syn, [new_ruler.GetName].\n\nZamiast jednak zaakceptować prawowitego władcę, jego brat [usurper_scope.GetName] dokonał przewrotu i zagarnął rządy. [ShowEstateTypeName('nobles_estate')] z przerażeniem obserwowali, jak uzurpator przeprowadza egzekucję brata, by upewnić się, że prawowity [ROOT.GetCountry.GetGovernment.GetRulerTitle|l] nie odzyska władzy.\n\nJedynym wyjściem lojalistów jest zasięgnięcie pomocy u obcych sił, które mogłyby odbić kraj z rąk zdrajcy."
  flavor_mor_maghrebi_wars.1000.historical_info: "Po śmierci hafsydskiego sułtana Abu Jahji Abu Bakra na dworze doszło do kryzysu wywołanego koronacją uzurpatora, Abu Hafsa Umara, który zapewnił sobie wyłączne prawo do tronu, zlecając zabójstwo wszystkich braci."
  flavor_mor_maghrebi_wars.1000.a: "Wezwijmy pomoc państwa [GetCountry('MOR').GetLongNameWithNoTooltip]"
- flavor_mor_maghrebi_wars.1000.b: "Wezwijmy pomoc państwa [ally_scope.GetName]"
+ flavor_mor_maghrebi_wars.1000.b: "[ally_scope.GetNameWithNoTooltip] ma nasze zaproszenie"
  flavor_mor_maghrebi_wars.1000.c: "[rebels_scope.GetNameWithNoTooltip] ma nasze poparcie"
  flavor_mor_maghrebi_wars.1001.title: "[GetCountry('TUN').GetAdjectiveWithNoTooltip]ka sukcesja"
  flavor_mor_maghrebi_wars.1001.p1: "Po tym, jak zmarł [old_ruler.GetName], #L [GetCountry('TUN').GetAdjective|l]ki#! tron powinien objąć [new_ruler.GetName]. Jego brat, [usurper_scope.GetName], zamordował jednak prawowitego następcę i zagarnął władzę. [ShowEstateTypeName('nobles_estate')] obserwujący rozwój zdarzeń na własne oczy wpadli w panikę."

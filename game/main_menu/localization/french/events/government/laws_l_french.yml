@@ -86,7 +86,7 @@
  laws.0023.a: "C'est pour le plus grand bien de tous."
  laws.0023.b: "Aucun flambeau n'embrasera nos recherches !"
  laws.0024.t: "Statuettes religieuses illégales"
- laws.0024.desc: "Sur le marché de [loc_market.GetName], des marchands ont été pris en train de vendre de petites statues en céramique et en argile à caractère religieux, en violation manifeste de notre politique sur la censure religieuse. Bien que leur destruction soit exigée par la loi, cela représenterait un coût considérable, car ces figurines ont gagné en popularité à [loc_market.GetNameWithNoTooltip].\n\nNotre [ROOT.GetCountry.GetFlavorRank] serait affecté par la perte de ces marchandises, mais peut-être est-ce le prix à payer pour préserver la pureté de notre foi."
+ laws.0024.desc: "Sur le [loc_market.GetName], des marchands ont été pris en train de vendre de petites statues en céramique et en argile à caractère religieux, en violation manifeste de notre politique sur la censure religieuse. Bien que leur destruction soit exigée par la loi, cela représenterait un coût considérable, car ces figurines ont gagné en popularité à [loc_market.GetNameWithNoTooltip].\n\nNotre [ROOT.GetCountry.GetFlavorRank] serait affecté par la perte de ces marchandises, mais peut-être est-ce le prix à payer pour préserver la pureté de notre foi."
  laws.0024.a: "Écrasons ces figurines !"
  laws.0024.b: "Mieux vaut fermer les yeux."
  laws.0025.t: "Les hérétiques demandent des pourparlers"

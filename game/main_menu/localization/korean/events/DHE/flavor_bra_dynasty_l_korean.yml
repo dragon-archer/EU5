@@ -129,7 +129,7 @@
  flavor_bra_dynasty.1101.a.tt: "[emperor_ruler.GetName](을)를 [root_country.GetName]의 새 [ruler|e]로 세우고, [union|e]을 결성합니다"
  flavor_bra_dynasty.1101.b: "[dynasty_character.GetNameWithNoTooltip]에게 [root_country.GetNameWithNoTooltip]의 통치를 맡기겠다."
  flavor_bra_dynasty.1101.b.tt: "[dynasty_character.GetName](을)를 [root_country.GetName]의 새 [ruler|e]로 세웁니다"
- flavor_bra_dynasty.1101.c: "[cabinet_character.GetName](이)가 우리의 이름으로 통치할 것이다."
+ flavor_bra_dynasty.1101.c: "[cabinet_character.GetNameWithNoTooltip](이)가 우리의 이름으로 통치할 것이다."
  flavor_bra_dynasty.1101.c.tt: "[cabinet_character.GetName](을)를 [root_country.GetName]의 새 [ruler|e]로 세우고 해당 국가를 우리의 [ShowSubjectTypeName('vassal')]으로 삼지만, 모든 [GetUniqueInternationalOrganization('hre').GetName] 구성국의 우리에 대한 [antagonism|e]이 [ShowBiasValue('subjugated_elector_antagonism')|-=0] 증가합니다"
  subjugated_elector_antagonism: "종속된 선제후"
  flavor_bra_dynasty.1101.d: "우리 궁정 조언가 한 명에게 [root_country.GetAdjectiveWithNoTooltip] 사태 해결을 맡기도록."

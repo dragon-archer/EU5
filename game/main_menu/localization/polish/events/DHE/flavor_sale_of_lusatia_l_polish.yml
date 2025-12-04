@@ -11,7 +11,7 @@
  flavor_sale_of_lusatia.1100.title: "Jak wykorzystać [GetCountry('SOR').GetNameWithNoTooltip]"
  flavor_sale_of_lusatia.1100.desc_normal: "[GetCountry('SOR').GetLongName] powinny teraz wrócić pod nasze skrzydła, jako że umowa dzierżawy dobiegła końca.\n\nJednak ziemie te nie mają dla nas większej wartości, natomiast ich sprzedaż mogłaby zapewnić nam fundusze na ważniejsze przedsięwzięcia. Możemy całkowicie zbyć prawo posiadania i pozbyć się problematycznego terytorium. Z pewnością wielu władców chciałoby kupić [GetCountry('SOR').GetName], a [target_buyer.GetName] wydaje się opcją godną zaufania z uwagi na nasze dobre relacje."
  flavor_sale_of_lusatia.1100.desc_fallback: "Umowa dzierżawy obejmująca [GetCountry('SOR').GetName] dobiegła końca, jednak niestety ziemie te zostały zagrabione przez głupców z zagranicy. Pozostało nam niewiele możliwości, by je odzyskać."
- flavor_sale_of_lusatia.1100.a: "Niech [target_buyer.GetName] zapozna się z naszą propozycją."
+ flavor_sale_of_lusatia.1100.a: "Niech [target_buyer.GetNameWithNoTooltip] zapozna się z naszą propozycją."
  flavor_sale_of_lusatia.1100.b: "Koniec z odsprzedażą ziem."
  flavor_sale_of_lusatia.1100.c: "Odzyskamy należące do nas ziemie!"
  flavor_sale_of_lusatia.1100.d: "Może to był błąd w ocenie sytuacji."

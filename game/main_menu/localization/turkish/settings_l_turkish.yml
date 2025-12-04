@@ -69,6 +69,7 @@
  # Game
  SETTING_DEBUG_SAVES: "Otomatik kayıt sayısı"
  SETTING_DEBUG_SAVES_TOOLTIP: "#T $SETTING_DEBUG_SAVES$#!\nSaklanan maksimum otomatik kayıt sayısı"
+ IRONMAN_BLOCKS_THIS: "@trigger_fail! Tek Şans oyunları için geçerli değildir."
  # Multiplayer
  SETTING_MAX_TICKS_AHEAD: "Maksimum Gecikme Süresi"
  SETTING_MAX_TICKS_AHEAD_TOOLTIP: "#T $SETTING_MAX_TICKS_AHEAD$#!\nSunucu olarak istemcileri beklemeye başlamadan önceki maksimum gecikme süresi."
@@ -126,6 +127,7 @@
  SETTINGS_CATEGORY_CONFIRM: "Kurulum Onaylama Modu"
  SETTINGS_CATEGORY_INPUT_LOCK: "Girdi Kilidi Ayarları"
  SETTINGS_CATEGORY_DYNAMIC_NAMES: "Dinamik Adlar"
+ SETTINGS_CATEGORY_PLAYSETS: "Playsets"
  # Hotkeys
  SETTING_INPUT_CONTEXT_COMMON: "Yaygın"
  SETTING_INPUT_CONTEXT_COMMON_TOOLTIP: "#T Yaygın #! En sık kullanılan kısayol tuşları"
@@ -217,6 +219,16 @@
  SETTING_INPUT_ACTION_TOP_RIGHT_8: "Sağ Üst 8"
  SETTING_INPUT_ACTION_TOP_RIGHT_9: "Sağ Üst 9"
  SETTING_INPUT_ACTION_TOP_RIGHT_10: "Sağ Üst 10"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_0: "Control Group 0"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_1: "Control Group 1"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_2: "Control Group 2"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_3: "Control Group 3"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_4: "Control Group 4"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_5: "Control Group 5"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_6: "Control Group 6"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_7: "Control Group 7"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_8: "Control Group 8"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_9: "Control Group 9"
  SETTING_INPUT_ACTION_MAPMODE_MENU: "Harita Modu Menüsünü Aç/Kapat"
  # Tooltips
  SETTING_TOOLTIP_MODE: "Bilgi Penceresi Modu"
@@ -348,3 +360,5 @@
  SETTING_ENABLE_PARTICLES_TOOLTIP: "#T $SETTING_ENABLE_PARTICLES$\n#!Performansı artırmak için oyun içi parçacık etkilerini devre dışı bırakır."
  SETTING_GUI_TEXTURE_STREAMING: "GUI Doku Akışı"
  SETTING_GUI_TEXTURE_STREAMING_TOOLTIP: "#T $SETTING_GUI_TEXTURE_STREAMING$\n#!Grafik Kullanıcı Arayüzü'ne ait ögelerin akışını aç/kapat\nBu özelliği açmak VRAM kullanımını azaltır fakat geçici olarak daha düşük kaliteye neden olabilir."
+ #Playsets
+ SETTINGS_WARNING_PLAYSET: "Show dialog to warn about playset errors"

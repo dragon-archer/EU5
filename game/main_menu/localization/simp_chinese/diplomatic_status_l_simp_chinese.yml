@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "$WHO$正在给予$LIST$[economic_support|e]"
  getting_war_reparations_list_who_tt: "$WHO$正在接受$LIST$的[war_reparations|e]"
  giving_war_reparations_list_who_tt: "$WHO$正在向$LIST$支付[war_reparations|e]"
- truce_list_who_tt: "$WHO$和$LIST$的休战生效至$EXTRA|Y$。在停战期间发动[war|e]会使侵略方承受#R ‑50#![stability|e]的惩罚"
+ truce_list_who_tt: "$WHO$和$LIST$的休战生效至$EXTRA|Y$。在停战期间发动[war|e]会使侵略方承受$PRICE$的惩罚"
  annul_treaties_list_who_tt: "$WHO$已被迫废除与$LIST$的所有条约，持续到$EXTRA|Y$。"
  casus_belli_list_who_tt: "$WHO$拥有对$LIST$的[casus_belli|e]。这将允许$WHO$发动[war|e]且不受[stability|e]惩罚。\n\n他们拥有以下宣战借口：\n$EXTRA$"
  casus_belli_target_list_who_tt: "$LIST$拥有对$WHO$的[casus_belli|e]。这将允许$LIST$发动[war|e]且不受[stability|e]惩罚。\n\n他们拥有以下宣战借口：\n$EXTRA$"

@@ -130,6 +130,7 @@
  LEAVE_WAR_REASON_Forced: "Wurde von „[TARGET_COUNTRY.GetName|U]“ gezwungen, den Krieg zu verlassen"
  LEAVE_WAR_REASON_Abandoned: "Gaben ihre Freunde in „[TARGET_COUNTRY.GetName|U]“ in Zeiten der Not auf"
  LEAVE_WAR_REASON_ForcedAbandoned: "Wurde vom Suzerän gezwungen, die Freunde in „[TARGET_COUNTRY.GetName|U]“ in Zeiten der Not aufzugeben"
+ LEAVE_WAR_REASON_BrokeFreeOfOverlord: "Broke free from their [overlord|e] [TARGET_COUNTRY.GetName]"
  REFUSE_TO_JOIN_WAR_REASON_HumanDeclined: "Ein Spieler lehnte einen Beitritt ab."
  REFUSE_TO_JOIN_WAR_REASON_NotEnoughReasons: "Sie haben nicht genug Gründe für einen Beitritt."
  REFUSE_TO_JOIN_WAR_REASON_ConflictOfInterests: "Sie würden beide Länder unterstützen, wenn sie könnten; da sie dies nicht können, bleiben sie neutral."

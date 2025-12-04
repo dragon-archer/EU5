@@ -118,7 +118,7 @@
  revolution_disaster_end_trigger_tt: "이 #Y 혁명 반란군#!은 현재 [civil_war|e]을 계획하고 있지 않습니다"
  MONARCHIST_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetMaxManpowerValue|2]@manpower!"
  REVOLUTIONARIES_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetName]의 잠재 [military_strength|e]"
- REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
+ REVOLUTIONARIES_STR_DESC: "[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetAdjectiveWithNoTooltip] [army|e] 규모: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmySize]@army_strength!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] 잠재 [levy|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetArmyLevyPotentialStrength]@levy!\n[DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetNameWithNoTooltip] [manpower|e]: [DisasterView.GetDisaster.GetOwner.GetCurrentCivilWar.GetMaxManpowerValue|2]@manpower!"
  MONARCHIST_POTENTIAL_STRENGTH_TT: "[DisasterView.GetDisaster.GetOwner.GetName]의 잠재 [military_strength|e]"
  #Revolutionary Chaos
  #Disaster
@@ -232,6 +232,7 @@
  decline_of_empire: "제국의 쇠퇴"
  decline_of_empire_desc: "한때 강대하고 굳건했던 우리 제국은 이제 붕괴 직전까지 내몰렸습니다. 각종 기관에는 부패가 만연하고, 지방은 중앙의 무관심 속에서 불안에 떨고 있으며, 외세는 얼마 남지 않은 영광마저 가로채기 위해 마치 하이에나 무리처럼 호시탐탐 기회를 엿보고 있습니다. 우리나라의 상징과도 같았던 황금기는 이제 희미한 기억이 되었고, 국가의 기반에 생겨 난 균열은 날이 갈수록 더 커지고 있습니다. 곪아 버린 환부를 어서 도려내고 지배력을 회복하지 않는다면, 제국은 무너져 내려 오직 후회와 폐허, 그리고 과거의 영광이 드리운 그림자만이 남게 될 것입니다..."
  has_not_had_decline_of_empire_last_25_years: "지난 #Y 25#!년간 이 [disaster|e]을 겪지 않음"
+ not_recently_become_empire_tt: "[ShowCountryRankName('rank_empire')] [country_rank|e]을 최소 #Y 15#!년간 유지했음"
  #Decline of Mali
  #Disaster
  decline_of_mali: "말리의 쇠퇴"

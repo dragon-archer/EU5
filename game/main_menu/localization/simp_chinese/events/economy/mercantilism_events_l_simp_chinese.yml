@@ -37,7 +37,7 @@
  mercantilism_events.9.desc: "著名经济学家对我国近期快速增长的咖啡进口量展开分析。自从邻国通过取巧的贸易行为控制了一大片优良的咖啡豆产地后，他们的饮品变得非常受欢迎，即使在[ROOT.GetCountry.GetAdjective]的民众中也是如此。贸易保护主义政治家如今正在质疑，这种类型的奢侈品进口能否让[ROOT.GetCountry.GetName]获益，他们认为这种依赖于邻国控制的商品的贸易增长，会对我国的经济地位造成不利影响。"
  mercantilism_events.9.a: "这些所谓的经济学家难道早上都没有事情要处理吗？"
  mercantilism_events.9.b: "我们必须限制这种怪异麻醉品的蔓延。"
- mercantilism_events.9.c: "我们[ROOT.GetCountry.GetAdjective]人只喝茶，才不会去碰咖啡。"
+ mercantilism_events.9.c: "我们[ROOT.GetCountry.GetAdjectiveWithNoTooltip]人只喝茶，才不会去碰咖啡。"
  mercantilism_events.10.title: "茶叶进口"
  mercantilism_events.10.desc: "著名经济学家对我国近期快速增长的茶叶进口量展开分析。自从邻国通过取巧的贸易行为控制了一大片优良的茶叶产地后，他们的饮品变得非常受欢迎，甚至在[ROOT.GetCountry.GetAdjectiveWithNoTooltip]的民众中也是如此。贸易保护主义政治家如今正在质疑，这种类型的奢侈品进口能否让[ROOT.GetCountry.GetName]获益，他们认为这种依赖于邻国控制的商品的贸易增长，会对我国的经济地位造成不利影响。"
  mercantilism_events.10.a: "如果我们停止喝茶，文明就会坍塌。"

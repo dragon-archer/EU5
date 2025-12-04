@@ -91,7 +91,7 @@
  flavor_eng_diplomacy.1300.desc: "[target_root_country.GetName](과)와 [ROOT.GetCountry.GetName]의 동맹은 이제 없지만, 두 나라 사이의 희망찬 관계를 이어갈 토대는 윈저 조약을 통해 확고히 마련되었습니다. 이에 아직 미혼인 [target_root_country.GetGovernment.GetRuler.GetName]에게 왕실 혼인을 제안하는 방안을 고려해 봐야 합니다. 물론 동맹 체결이라는 조건을 붙여서 말입니다. 지참금의 일부로 귀중한 토지를 제공한다면 상대측도 쉽게 거절하지 못할 것입니다.\n\n[ShowLocationName('tangier')]는 그 전략적 위치 때문에 어려움도 많고 방위비도 꽤 드는데, 마침 [target_root_country.GetNameWithNoTooltip]의 열망에 부응하는 전략적 항구가 될 수 있습니다."
  flavor_eng_diplomacy.1300.a: "필요한 서류를 준비하도록."
  flavor_eng_diplomacy.1300.a.custom: "[ROOT.GetCountry.GetGovernment.GetEstateName('peasants_estate')]들과 [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]들이 [ShowLocationNameWithNoTooltip('tangier')]를 내주자는 제안을 그다지 달가워하지 않습니다"
- flavor_eng_diplomacy.1300.b: "그곳보다는 [overseas_location.GetName] 지점을 제안하지."
+ flavor_eng_diplomacy.1300.b: "그곳보다는 [overseas_location.GetNameWithNoTooltip] 지점을 제안하지."
  flavor_eng_diplomacy.1300.c: "그런 협정은 필요 없다."
  flavor_eng_diplomacy.1301.title: "되살아난 영원한 우호 관계"
  flavor_eng_diplomacy.1301.desc: "[GetCountry('POR').GetAdjective] 대사가 외교 관계 강화를 제의하는 전갈을 전했습니다. 이들은 동맹을 맺는 대가로 영토를 양보하고, [suitable_daughter.GetName](을)를 아직 미혼인 [ROOT.GetCountry.GetGovernment.GetRuler.GetName]에게 시집보내겠다고 제안했습니다.\n\n그리고 지참금의 일부로 [ceded_location.GetName](을)를 제안했는데, 이곳은 전략적 요충지로서 어쩌면 우리 열망에 부합하는 곳일지도 모릅니다."

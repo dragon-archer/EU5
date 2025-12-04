@@ -293,7 +293,7 @@
  flavor_mam.64.a: "Precisamos do apoio do povo mameluco [target_culture.GetNameWithNoTooltip]."
  flavor_mam.64.b: "O apoio do povo mameluco [target_culture2.GetNameWithNoTooltip] é mais vital do que nunca."
  flavor_mam.64.c: "Embora não seja tão importante, [third_ruler.GetNameWithNoTooltip] se mostrou capaz."
- flavor_mam.64.d: "Um mameluco tradicional do exército [target_culture4.GetName]."
+ flavor_mam.64.d: "Um mameluco tradicional do exército [target_culture4.GetNameWithNoTooltip]."
  flavor_mam.65.title: "Soldados de [target_location.GetNameWithNoTooltip]"
  flavor_mam.65.desc: "Embora o povo $mamluks$ componha o núcleo das nossas forças, nem todo o nosso poderio militar consiste em guerreiros escravos. Soldados locais de [target_location.GetName] compõem grande parte da nossa infantaria, além de servirem à guarda e guarnição.\n\nAs chances de avanço limitadas e pagamentos baixos, no entanto, não são muito motivadoras, portanto, não sabemos se podemos confiar plenamente nesses homens. De fato, seu treinamento e equipamentos costumam ser negligenciados pelo(a) [ROOT.GetCountry.GetGovernment.GetRulerTitle] e pelos governadores locais do(a) [target_location.GetRank.GetName]. Em [target_location.GetArea.GetName], a falta de confiança entre os habitantes de [target_location.GetName] e governadores de berço $mamluks$ causou agitação."
  flavor_mam.65.a: "Precisamos acabar com isso pela raiz!"

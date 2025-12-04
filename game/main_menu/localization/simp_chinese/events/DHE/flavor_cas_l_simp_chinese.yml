@@ -85,7 +85,7 @@
  flavor_cas.21.title: "夺得[GetCountry('POR').GetNameWithNoTooltip]王位"
  flavor_cas.21.desc: "我们在[GetCountry('POR').GetName]的干预成功了。经过一场艰苦的战争，[GetCountry('POR').GetAdjectiveWithNoTooltip]王位落入我们手中，两个伊比利亚国家统一在了[ROOT.GetCountry.GetName]旗下。"
  flavor_cas.21.a: "庆贺胜利。"
- flavor_cas.21.b: "以[ShowLocationName('guadalupe')]的[ShowBuildingTypeNameWithNoTooltip('monastery')]纪念这场胜利。"
+ flavor_cas.21.b: "以[ShowLocationNameWithNoTooltip('guadalupe')]的[ShowBuildingTypeNameWithNoTooltip('monastery')]纪念这场胜利。"
  flavor_cas.22.title: "[ShowReligionAdjectiveWithNoTooltip('catholic')]国王的头衔"
  flavor_cas.22.desc: "我们对[ShowReligionAdjective('catholic')]信仰和圣座的坚定支持并未被忽视。为了表彰我们的虔诚和在基督教世界中的影响力，[pope.GetName]颁布[GetCountry('PAP').GetAdjective]诏书，授予了我们天主教的君主的崇高头衔。"
  flavor_cas.22.a: "接受！"

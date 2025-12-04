@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
  flavor_gra.1.title: "摩尔难民"
  flavor_gra.1.desc: "以至仁至慈的安拉之名。格拉纳达被异教徒攻陷了！这颗安达卢斯最后的珍宝，学术的灯塔现在落入了卡斯蒂利亚人手中。伊斯兰世界还沉浸在此次陷落的悲痛中时，摩尔难民如潮水般涌入了北非和中东的穆斯林城市，同时带来了他们传承自伊本·路世德、宰赫拉威、图费勒等著名学者的知识。邀请这些难民到[ROOT.GetCountry.GetName]将为我们在科学和文化方面的发展带来巨大的帮助。"
- flavor_gra.1.a: "用尽一切办法让他们来[ROOT.GetCountry.GetName]！"
+ flavor_gra.1.a: "用尽一切办法让他们来[ROOT.GetCountry.GetNameWithNoTooltip]！"
  flavor_gra.1.b: "不，我们并不需要他们。"
  flavor_gra.2.title: "西西里埃米尔国"
  flavor_gra.2.desc: "西西里埃米尔国曾是我们信仰的坚固堡垒，直到1087年十字军征服了这座岛屿。\n\n现在我们拥有了这片令人垂涎的土地，我们不会再次失去它！"

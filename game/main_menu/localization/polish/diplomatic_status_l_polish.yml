@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "$WHO$ przekazuje [economic_support|el] dla: $LIST$"
  getting_war_reparations_list_who_tt: "$WHO$ otrzymuje [war_reparations|el] od: $LIST$"
  giving_war_reparations_list_who_tt: "$WHO$ przekazuje [war_reparations|el] dla: $LIST$"
- truce_list_who_tt: "Kraj $WHO$ posiada rozejm z: $LIST$ trwający do: $EXTRA|Y$. Wypowiedzenie [Concept('war','wojny')|e] w czasie trwania rozejmu nałoży na agresora karę #R -50#! do [Concept('stability','stabilności')|e]"
+ truce_list_who_tt: "Kraj $WHO$ posiada rozejm z: $LIST$ trwający do: $EXTRA|Y$. Wypowiedzenie [Concept('war','wojny')|e] w czasie trwania rozejmu nałoży na agresora karę $PRICE$"
  annul_treaties_list_who_tt: "Kraj $WHO$ został zmuszony do anulowania wszystkich traktatów podpisanych z:$LIST$ do $EXTRA|Y$."
  casus_belli_list_who_tt: "Kraj $WHO$ posiada [casus_belli|el] wobec: $LIST$. Oznacza to, że państwo $WHO$ może wypowiedzieć [Concept('war','wojnę')|e] bez obaw o karę do [Concept('stability','stabilności')|e].\n\nPosiadane casus belli:\n$EXTRA$"
  casus_belli_target_list_who_tt: "Kraj $LIST$ posiada [casus_belli|el] wobec: $WHO$. Oznacza to, że państwo $LIST$ może wypowiedzieć [Concept('war','wojnę')|e] bez obaw o karę do [Concept('stability','stabilności')|e].\n\nPosiadane casus belli:\n$EXTRA$"

@@ -35,7 +35,7 @@
  hre.900.title: "El imperio llora la muerte de su [GetUniqueInternationalOrganization('hre').GetLeaderTitle|l]..."
  hre.900.desc: "¡Larga vida al imperio y su [GetUniqueInternationalOrganization('hre').GetLeaderTitle|l]! Los electores han decidido mantener su fe en nosotros y la Corona imperial se mantiene en [GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetName]. Mientras nuestro país fortalece su control sobre la Corona y los príncipes comienzan a vernos como los poseedores naturales, aumenta nuestra autoridad en el [GetUniqueInternationalOrganization('hre').GetName]."
  hre.900.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- hre.imperial_authority_change.tt: "El [GetUniqueInternationalOrganization('hre').GetName] consigue [ROOT.GetVariable ('imperial_authority_change').GetValue] de #Y $imperial_authority$#!"
+ hre.imperial_authority_change.tt: "El [GetUniqueInternationalOrganization('hre').GetName] consigue [ROOT.GetVariable('imperial_authority_change').GetValue|+2] de #Y $imperial_authority$#!"
  hre.901.title: "Restitución principesca"
  hre.901.desc: "Como un fénix, ¡[released_country.GetName] ha renacido de las cenizas y se ha unido a los príncipes del [GetUniqueInternationalOrganization('hre').GetName]!"
  hre.901.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

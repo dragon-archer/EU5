@@ -293,7 +293,7 @@
  flavor_mam.64.a: "Potrzebujemy wsparcia [target_culture.GetNameWithNoTooltip|l]kich mameluków."
  flavor_mam.64.b: "Wsparcie [target_culture2.GetNameWithNoTooltip|l]kich mameluków jest bardziej istotne niż kiedykolwiek."
  flavor_mam.64.c: "Nie tak ważny [third_ruler.GetNameWithNoTooltip] pokazał swoje umiejętności."
- flavor_mam.64.d: "Tradycyjni mamelucy z naszych #L [target_culture4.GetName|l]kich#! szeregów."
+ flavor_mam.64.d: "Tradycyjni mamelucy z naszych #L [target_culture4.GetNameWithNoTooltip|l]kich#! szeregów."
  flavor_mam.65.title: "Żołnierze z regionu [target_location.GetNameWithNoTooltip]"
  flavor_mam.65.desc: "Choć $mamluks$ stanowią trzon naszych wojsk, siła naszej armii nie opiera się w całości na niewolnikach. Lokalni żołnierze z regionu [target_location.GetName] stanowią większość naszej piechoty, a także wykorzystywani są do służby strażniczej oraz obowiązków w garnizonach.\n\nOczywiście niewielkie szanse na awans oraz niski żołd nie są najlepszymi motywatorami, więc nie wiemy do końca, jak bardzo możemy tym ludziom ufać. [Select_CString(ROOT.GetCountry.GetGovernment.GetRuler.IsFemale,'Nasza','Nasz')] [ROOT.GetCountry.GetGovernment.GetRulerTitle|l] dość często lekceważy potrzebę ich wyszkolenia i wyposażenia, a wraz z [Select_CString(ROOT.GetCountry.GetGovernment.GetRuler.IsFemale,'nią','nim')] lokalne władze, które kontrolują [target_location.GetRank.GetName|l]. W regionie [target_location.GetArea.GetName] nieufność między lokalnymi oddziałami a mameluckimi władzami doprowadziła do niepokojów."
  flavor_mam.65.a: "Musimy zdławić to w zarodku!"

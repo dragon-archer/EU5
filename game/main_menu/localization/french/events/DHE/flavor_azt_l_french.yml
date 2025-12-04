@@ -5,6 +5,7 @@
  flavor_azt.70.a: "Nous devons contribuer à la construction de la pyramide !"
  flavor_azt.70.b: "Que nos sujets apportent leur juste contribution."
  flavor_azt.70.c: "Un projet pour une autre fois, peut-être."
+ subject_contribution_reason: "Contribution du vassal"
  we_will_be_able_to_construct_the_building_later_tt: "Nous pourrons construire ce [building|e] plus tard"
  flavor_azt.70.historical_info: "Au centre de Tenochtitlan, le Huēyi Teōcalli se dresse comme un symbole imposant de la dévotion et du pouvoir mexica. Construit par étapes à partir du XIVe siècle, il comporte deux escaliers menant à des temples distincts : l'un pour Huitzilopochtli, le dieu de la guerre, l'autre pour Tlaloc, le dieu de la pluie et de la fertilité. À proximité se trouve un sanctuaire pour Ehecatl, le dieu du vent. Le temple allait devenir un élément imposant du cœur sacré de la ville, où les prêtres accomplissent des sacrifices et des cérémonies pour maintenir l'ordre cosmique."
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

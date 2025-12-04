@@ -47,8 +47,8 @@
  flavor_fra_sco.111.desc: "Zwycięstwo, które odniósł [GetCountry('SBL').GetGovernment.GetRuler.GetName] w wojnie domowej w państwie [GetCountry('SCO').GetAdjective] ostatecznie zjednoczyło królestwo. Po zakończeniu wojny dwór państwa [GetCountry('FRA').GetName] poprosił o formalne zawarcie z nami sojuszu, starając się dotrzymać swoich wcześniejszych zobowiązań w wypadku naszej wygranej."
  #Tooltips
  lord_balliol_recieves_david_ii_tt: "[david_ii_bruce.GetNameWithNoTooltip] i jego doradcy zostaną oddani w ręce Balliola, co mogłoby skłonić lorda Balliola do wsparcia naszej sprawy."
- fra_grant_sco_large_levy_tt: "Państwo [GetCountry('SCO').GetNameWithNoTooltip] zyska armię liczącą 2500 feudalnych poborowych w swojej stolicy."
- fra_grant_sco_footmen_regiments_tt: "Państwo [GetCountry('FRA').GetAdjectiveWithNoTooltip] zyska armię liczącą 1000 żołnierzy piechoty w swojej stolicy."
+ fra_grant_sco_large_levy_tt: "[GetCountry('SCO').GetNameWithNoTooltip] zyska armię liczącą 2500 feudalnych poborowych w swojej stolicy"
+ fra_grant_sco_footmen_regiments_tt: "[GetCountry('FRA').GetNameWithNoTooltip] zyska armię liczącą 1000 żołnierzy piechoty w swojej stolicy"
  fra_one_french_advisors_for_david_tt: "[david_ii_bruce.GetNameWithNoTooltip] otrzyma od rządu jednego dobrze wyszkolonego doradcę [GetCountry('FRA').GetAdjectiveWithNoTooltip|l]kiego, który pojawi się na dworze państwa [GetCountry('SCO').GetNameWithNoTooltip]."
  fra_two_french_advisors_for_david_tt: "[david_ii_bruce.GetNameWithNoTooltip] otrzyma od rządu dwóch dobrze wyszkolonych doradców [GetCountry('FRA').GetAdjectiveWithNoTooltip|l]kich, którzy pojawią się na dworze państwa [GetCountry('SCO').GetNameWithNoTooltip]."
  fra_three_french_advisors_for_david_tt: "[david_ii_bruce.GetNameWithNoTooltip] otrzyma od rządu trzech dobrze wyszkolonych doradców [GetCountry('FRA').GetAdjectiveWithNoTooltip|l]kich, którzy pojawią się na dworze państwa [GetCountry('SCO').GetNameWithNoTooltip]."

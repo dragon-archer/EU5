@@ -12,7 +12,7 @@
  religious_turmoil.3.a.tt: "Einige [pops|e], die nicht dem [ROOT.GetCountry.GetReligion.GetAdjective|l]en Glauben folgen, verlieren [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] [pop_satisfaction|e]"
  religious_turmoil.3.b: "Erhöht die finanziellen Mittel für die Bekehrung von Ketzern."
  religious_turmoil.4.title: "Ketzerunterwerfung"
- religious_turmoil.4.desc: "Die grausame Unterwerfung der Ketzer in unserem Land hat nicht zu den gewünschten Ergebnissen geführt. Statt Ordnung und nationale Einigkeit im Glauben wiederherzustellen, hat unser Handeln das Volk nur noch mehr verärgert und zu größerer Gewaltbereitschaft und Grausamkeit geführt."
+ religious_turmoil.4.desc: "Die grausame Unterwerfung der Ketzer in unserem Land führte nicht zu den gewünschten Ergebnissen. Statt Ordnung und nationale Einigkeit im Glauben wiederherzustellen, verärgerte unser Handeln das Volk nur noch mehr und verleitete es zu größerer Gewaltbereitschaft und Grausamkeit."
  religious_turmoil.4.a: "Setzen wir mehr Mittel ein, um die Ketzer zu unterdrücken."
  religious_turmoil.4.b: "Ignorieren wir sie."
  religious_turmoil.5.title: "Anstieg religiöser Intoleranz"

@@ -116,7 +116,7 @@
  nov_accepted_alliance_with_us: "接受与我国结盟"
  flavor_nov.24.title: "与[GetCountry('LIT').GetNameWithNoTooltip]结盟"
  flavor_nov.24.desc: "我们派往[GetCountry('LIT').GetName]的使者带来了好消息：[GetCountry('LIT').GetNameWithNoTooltip]决定与我们结盟！"
- flavor_nov.24.a: "[marfa_boretskaya.GetName]一直是对的！"
+ flavor_nov.24.a: "[marfa_boretskaya.GetNameWithNoTooltip]一直是对的！"
  flavor_nov.25.title: "与[GetCountry('LIT').GetNameWithNoTooltip]结盟"
  flavor_nov.25.desc: "我们派往[GetCountry('LIT').GetName]的使者带来了坏消息：[GetCountry('LIT').GetNameWithNoTooltip]拒绝与我们结盟！"
  flavor_nov.25.a: "我们怎么会相信这个女人？"

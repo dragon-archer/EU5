@@ -8,7 +8,7 @@
  succession_crisis.2.desc: "[target_ruler.GetName] hükümranlığı zaten pek iç açıcı değilken [target_province.GetName] gibi yerlerde durum daha da vahim bir hâl aldı. Saman çöpünden bile zayıf sığırlar, açlık ve yoksulluk, bir zamanlar görkemli olan bu vilayetin sokaklarını kasıp kavuruyor. Bu yüzden de köylüler silahlandı, doğrudan kraliyetten tazminat talep ediyor!"
  succession_crisis.2.a: "Kahrolası hainler!"
  succession_crisis.2.b: "Taleplerini kabul etmeliyiz."
- every_location_loses_sat_and_joins_rebel_tt: "[target_province.GetName] içerisinde sahip olunan her [location|e], [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] [pop_satisfaction|e] kaybeder ve [scope_pretender.GetName] taklitçisinin taht üzerindeki hak iddiasını destekler."
+ every_location_loses_sat_and_joins_rebel_tt: "[target_province.GetName] içerisinde sahip olunan her [location|e], [ShowNamedValue('pop_satisfaction_mild_penalty')|+=2%] [pop_satisfaction|e] kaybeder ve [scope_pretender.GetName] isimli taklitçinin taht üzerindeki hak iddiasını destekler."
  succession_crisis.3.title: "Becerikli Bakan"
  succession_crisis.3.desc: "Hükümdarımız elinden gelenin en iyisini yapıyor olsa da işe yarayan politikaların çoğunu danışmanların önerdiği açık. [target_character.GetName] gibi kişiler, [ROOT.GetCountry.GetLongName] topraklarını bu zorlu dönemden çıkarmayı kendilerine görev edindiler."
  succession_crisis.3.a: "Çabaları, [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('crown_estate')] zümresini güçlendirecektir!"

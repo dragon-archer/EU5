@@ -205,6 +205,8 @@
  coastal_city_or_town_gets_tt: "모든 소유 [coastal|e] [towns_and_cities|e]이 다음 효과를 받습니다:"
  every_coastal_location_gains_tt: "모든 소유 [coastal|e] [location|e]이 다음 효과를 받습니다:"
  #Specific ones
+ alsno_stadga: "알스뇌 스타드가"
+ alsno_stadga_desc: "[GetCharacter('swe_magnus_ladulas').GetName](이)가 1280년 알스뇌 후스에서 제정한 규칙으로, [ShowEstateTypeName('nobles_estate')]의 혜택을 규제하고 공식화하는 동시에 [ShowPopTypeName('peasants')]들이 착취당하지 않도록 보호하기 위해 만들어졌습니다. 이 덕분에 이 인물은 평민들 사이에서 '라둘로스', 즉 '헛간 자물쇠'라는 별명을 얻었습니다."
  papacy_reform: "성좌"
  papacy_reform_desc: "성좌는 [ShowLocationName('rome')] 주교의 관할권을 의미합니다. 로마 주교인 #italic 폰티펙스 막시무스#!는 [ShowReligionAdjective('catholic')]교회의 수장이며, 세간에는 [GetCountry('PAP').GetGovernment.GetRulerTitle]이라는 이름으로 널리 알려져 있습니다."
  kingdom_of_god_reform: "하느님의 왕국"
@@ -620,3 +622,6 @@
  #Sikhism
  guru_granth_sahib_reform: "$guru_granth_sahib$"
  guru_granth_sahib_reform_desc: "$guru_granth_sahib_desc$"
+ #Malacca Formable
+ shahbandariyya_reform: "Shāhbandariyya"
+ shahbandariyya_reform_desc: "$shahbandar_desc$"

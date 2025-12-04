@@ -1,7 +1,7 @@
 ﻿l_spanish:
  flavor_gra.1.title: "Refugiados moriscos"
  flavor_gra.1.desc: "En el nombre de Alá, el más preciado, el más misericordioso, ¡Granada ha caído en manos de los infieles! Este faro de sabiduría, la última joya de Al-Ándalus, está ahora en manos castellanas. Mientras el mundo islámico se tambalea con esta pérdida, los refugiados moriscos acuden en masa a las ciudades y cortes musulmanas del Norte de África y Oriente Próximo y traen consigo conocimiento: obras escritas por eruditos excepcionales como Averroes, Abulcasis y Abentofail. Invitar a estos refugiados a [ROOT.GetCountry.GetName] podría suponer un enorme empujón a nuestros esfuerzos en los campos de la ciencia y la cultura."
- flavor_gra.1.a: "¡Invitémoslos a [ROOT.GetCountry.GetName]!"
+ flavor_gra.1.a: "¡Invitémoslos a [ROOT.GetCountry.GetNameWithNoTooltip]!"
  flavor_gra.1.b: "No, no los necesitamos."
  flavor_gra.2.title: "El Emirato de Sicilia"
  flavor_gra.2.desc: "En épocas pasadas, el Emirato de Sicilia fue un bastión sólido para nuestra fe que se mantuvo firme hasta que los cruzados conquistaron la isla en 1087.\n\nAhora que poseemos esta codiciada tierra, ¡no permitiremos que nos vuelvan a arrebatar su control!"

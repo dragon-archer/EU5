@@ -365,7 +365,7 @@
  flavor_mos.49.a: "혈통엔 논란의 여지가 없다."
  flavor_mos.49.tt1: "[dmitry_gerasimov.GetName]의 번역 능력 덕분에 [target_root_country.GetNameWithNoTooltip ](이)가 제3의 로마라는 인식이 확산됩니다"
  flavor_mos.49.b: "그런 건 근거 없는 미신이다."
- flavor_mos.49.c: "그 이야기로 [ShowWorkOfArtName('uspensky_sobor')]의 벽을 장식하라."
+ flavor_mos.49.c: "그 이야기로 [ShowWorkOfArtNameWithNoTooltip('uspensky_sobor')]의 벽을 장식하라."
  flavor_mos.49.historical_info: "#italic 블라디미르 공후들의 이야기#!는 드미트리 게라시모프 또는 세르비아인 파코미우스가 16세기 초에 쓴 작품으로, 차르의 대관식에서 쓸 배경 이야기를 제공하고자 만들어졌습니다. 주요 목적은 모스크바 공국과 로마 황제, 특히 아우구스투스 사이의 역사적 연관성을 확립하는 것이었지만, 모스크바가 콘스탄티노플이 정복된 후 붕괴된 동로마 제국의 천부적인 후계자이자 제3의 로마라는 인식을 심어 주는 수단으로도 사용되었습니다."
  flavor_mos.50.title: "[dmitry_gerasimov.GetNameWithNoTooltip]"
  flavor_mos.50.desc: "언어학의 권위자이자 숙련된 외교관인 [dmitry_gerasimov.GetName](은)는 [GetCountry('LIV').GetLongName]에서 수년간 학자 시절을 보낸 덕분에 다양한 언어에 능통합니다. 이렇게 수요가 많은 능력은 대사로 임명되어 외국 궁정에 갈 때 특히 빛을 발할 것이며, 대사로서 다른 르네상스 학자와 만나 [ROOT.GetCountry.GetName]의 외교적 명성을 높이는 데도 큰 도움이 될 것입니다. 그게 아니라면 언어에 관한 전문 지식을 종교 문헌을 번역하는 데 활용하여, 기독교의 지속적인 확산에 이바지하도록 하는 것도 좋은 대안이 될 수 있습니다."

@@ -15,7 +15,7 @@
  flavor_kni_pap.3.desc: "Жалкие #L [papal_state.GetReligion.GetAdjective]ие#! болваны из державы [papal_state.GetName] объявили нам священную войну. Видимо, недавние нападения наших пиратов пришлось им не по нраву. Пора встретиться с ними на воде и показать, кто настоящие хозяева #TOOLTIP:PROVINCE_DEFINITION,aegean_sea_province,X #L Эгейского моря#!#!."
  flavor_kni_pap.3.historical_info: "$flavor_kni_pap.1.historical_info$"
  flavor_kni_pap.3.a: "Нам нужно больше кораблей для набегов!"
- flavor_kni_pap.4.title: "Уступка [target_country.Custom('CL__DP')]"
+ flavor_kni_pap.4.title: "Уступка [target_country.Custom('CL_DAT')]"
  flavor_kni_pap.4.desc: "В ходе последнего крестового похода наши доблестные рыцари захватили множество земель в #TOOLTIP:AREA,west_anatolia_area,X #L Западной Анатолии#!#!, однако шансы удержать эти территории у нас, мягко говоря, спорные. Возможно, лучше передать их державе [target_country.GetLongName]."
  flavor_kni_pap.4.a: "Мы отдадим эти земли."
  flavor_kni_pap.4.b: "Мы проливали кровь за эти территории."

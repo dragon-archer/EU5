@@ -20,7 +20,7 @@
  coup_attempt.4.title: "Расследование при дворе"
  coup_attempt.4.desc: "[target_character_2.GetName] поручил нашим агентам начать тщательное и опасное расследование. Они незаметно прочёсывают залы, прислушиваясь к шёпотам и примечая малейшие оговорки. Изучается каждое действие, от подозрений не свободен никто. Но чем глубже они копают, тем больше врагов у нас появляется. Недавно они совершили совершенно невероятное открытие: по их словам, в заговоре состоит [target_character_1.GetName]!"
  target_character_1_ends_support_tt: "[target_character_1.GetNameWithNoTooltip] мирно прекратит поддержку переворота"
- coup_attempt.5.title: "#L [ROOT.GetCountry.GetGovernment.GetAdjective]ий#! заговор"
+ coup_attempt.5.title: "[ROOT.GetCountry.GetGovernment.GetAdjective]ий заговор"
  coup_attempt.5.desc: "Наш двор потрясён шокирующим известием: судя по всему, в заговоре участвует [target_character_2.GetName]! Выходит, что измена проникла даже в нашу правящую династию. Рискнём ли мы раскрывать [Select_CString(target_character_2.IsFemale, 'её', 'его' )] тёмные дела или [Select_CString(target_character_2.IsFemale, 'её', 'его' )] казнь разорвёт [ROOT.GetCountry.Custom('rank_ru_ACC')] на части?"
  coup_attempt.5.a: "Раскрыть [Select_CString(target_character_2.IsFemale, 'её', 'его' )] дела."
  coup_attempt.5.b: "Голову [Select_CString(target_character_2.IsFemale, 'её', 'ему' )] с плеч!"

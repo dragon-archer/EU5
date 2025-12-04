@@ -216,6 +216,7 @@
  rtr_demand_occupied_territories_entry_short: "$rtr_demand_occupied_territories$"
  rtr_demand_occupied_territories_desc: "夺取目标[country|e]的所有已[occupied|e]的地点。"
  rtr_demand_occupied_territories_tt: "[winner.GetName]占领的每个[loser.GetAdjective][location|e]被[winner.GetNameWithNoTooltip]夺取"
+ rtr_demand_occupied_territories_no_winner_loser_tt: "Any [location|e] the winner occupies from the loser is seized."
  rtr_demand_complete_annexation: "剿灭叛军"
  rtr_demand_complete_annexation_entry: "$rtr_demand_complete_annexation$"
  rtr_demand_complete_annexation_entry_short: "$rtr_demand_complete_annexation$"

@@ -3,7 +3,7 @@
  flavor_mor_maghrebi_wars.1000.desc: "사랑받던 [old_ruler.GetName](이)가 서거한 후, 아들 [new_ruler.GetName](이)가 [old_ruler.GetShortNameWithNoTooltip]의 바람에 따라 [GetCountry('TUN').GetName] 제위에 올랐습니다.\n\n그런데 그 형제 [usurper_scope.GetName](은)는 새 통치자의 합법적인 지위를 제대로 인정하지 않고 쿠데타를 일으켜 권력을 차지했습니다. 현 [ShowEstateTypeName('nobles_estate')]들은 이 찬탈자가 자기 형제를 처형하여 정당한 [ROOT.GetCountry.GetGovernment.GetRulerTitle]의 복권 가능성마저 없애 버린 사실에 경악을 금치 못하고 있습니다.\n\n충성파에게 남은 유일한 선택지는 찬탈자를 제거하기 위해 외세를 불러들이는 것뿐입니다."
  flavor_mor_maghrebi_wars.1000.historical_info: "하프스 술탄 아부 야히아 아부 바크르의 사망 후 찬탈자 아부 하프스 우마르의 대관식으로 궁정 내부는 혼란에 빠졌습니다. 우마르는 자기 형제를 모두 암살하라고 명령하여 자신을 유일한 계승권자로 만들었습니다."
  flavor_mor_maghrebi_wars.1000.a: "[GetCountry('MOR').GetLongNameWithNoTooltip](을)를 불러들인다."
- flavor_mor_maghrebi_wars.1000.b: "[ally_scope.GetName](을)를 불러들인다."
+ flavor_mor_maghrebi_wars.1000.b: "[ally_scope.GetNameWithNoTooltip](을)를 불러들인다."
  flavor_mor_maghrebi_wars.1000.c: "[usurper_scope.GetNameWithNoTooltip](을)를 지지한다."
  flavor_mor_maghrebi_wars.1001.title: "[GetCountry('TUN').GetAdjectiveWithNoTooltip]의 계승 문제"
  flavor_mor_maghrebi_wars.1001.p1: "[old_ruler.GetName](이)가 사망한 후 원래는 아들 [new_ruler.GetName](이)가 [GetCountry('TUN').GetName](을)를 다스리도록 되어 있었습니다. 그런데 형제인 [usurper_scope.GetName](이)가 [new_ruler.GetShortNameWithNoTooltip](을)를 암살하고 권력을 장악하면서 현 [ShowEstateTypeName('nobles_estate')]들을 두려움에 빠뜨렸습니다."

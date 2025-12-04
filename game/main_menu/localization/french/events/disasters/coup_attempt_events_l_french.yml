@@ -9,7 +9,7 @@
  coup_attempt.2.a: "Les vautours tournent autour du trône."
  conspiracy_grows_tt: "L'un de nos de nos [characters|e] participe à la [ShowDisasterName('coup_attempt')] contre nous"
  coup_attempt.3.title: "Conspirateur dévoilé"
- coup_attempt.3.desc: "Un espion dans nos rangs a démasqué un acteur majeur de la conspiration contre [target_character_2.GetName]. Le traître, [target_character_1.GetName], travaillait secrètement à saper notre autorité, mais son sort est désormais entre nos mains. Allons-nous en faire un exemple dans l'espoir de dissuader d'autres opposants, ou tenter de lui soutirer des informations ? Nous sommes encore en mesure de découvrir les causes profondes qui ont mené à cette trahison."
+ coup_attempt.3.desc: "Un espion dans nos rangs a démasqué un acteur majeur de la conspiration contre [target_character_2.GetName]. Le traître, [target_character_1.GetName], cherchait secrètement à saper notre autorité, mais son sort est désormais entre nos mains. Allons-nous en faire un exemple dans l'espoir de dissuader d'autres opposants, ou tenter de lui soutirer des informations ? Nous sommes encore en mesure de découvrir les causes profondes qui ont mené à cette trahison."
  coup_attempt.3.a: "Qu'on l'exécute !"
  coup_attempt.3.b: "Qu'on l'épargne !"
  coup_attempt.3.c: "Qu'on l'oblige à révéler l'identité des autres potentiels conspirateurs !"

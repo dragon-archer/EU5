@@ -47,7 +47,7 @@
  free_cities.12.b: "\"...incapaz de governar...\". Sem ajuda, então."
  free_cities.13.title: "Liga de Cidades"
  free_cities.13.desc: "A Liga Hanseática e a Liga Lombarda nos inspiraram a indagar se alguma das cidades livres gostaria de entrar em uma liga conosco. Nós, cidades livres, somos fracas sozinhas, mas coletivamente já foi provado que a cooperação mútua entre pequenas nações em assuntos como comércio, apoio a tribunais, manutenção da paz imperial e de uma força unificada, as torna uma força notável que até as Grandes Potências sentem dificuldade em refrear."
- free_cities.13.a: "Enviar diplomatas até [SCOPE.sCountry('fc_league_invitation_target').GetName]!"
+ free_cities.13.a: "Enviar diplomatas até [SCOPE.sCountry('fc_league_invitation_target').GetNameWithNoTooltip]!"
  free_cities.13.b: "Não poderíamos simplesmente contratar mercenários?"
  free_cities.14.title: "Sugestão da Liga de Cidades"
  free_cities.14.desc: "Já houve muitas ligas de cooperação mútua dentro do [GetUniqueInternationalOrganization('hre').GetName]. Por exemplo, a Liga Hanseática foi uma liga de guildas mercantis em uma confederação comercial e defensiva. A Liga da Suábia, por sua vez, foi uma associação de defesa mútua e manutenção da paz. Algumas ligas se tornam tão poderosas e unidas que são até vistas como um Estado, como é o caso da Liga Suíça. O(a) [ShowSpecialStatusName('free_city')] do(a) [SCOPE.sCountry('fc_league_invitation_source').GetName] sugeriu que participemos de algo parecido, uma cooperação desse tipo, na qual colaboramos em assuntos comerciais, tratamos da paz e apoiamos os tribunais."

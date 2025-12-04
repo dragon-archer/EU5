@@ -11,7 +11,7 @@
  language.2.desc: "[enemy_country.GetLongName](과)와의 분쟁이 진행되는 와중에 [overlord.GetLongName]에서 계속 [enemy_dialect.GetName](을)를 즐겨 사용하자, 약간의 논란이 발생했습니다.\n\n이 상황을 해결하기 위해, 이들은 [new_language.GetName](을)를 궁중어로 채택했습니다. 우리도 따라야 할까요?"
  language.2.a: "우리도 모국어인 [common_dialect.GetNameWithNoTooltip](을)를 궁중어로 장려해야 한다."
  language.2.b: "우리도 [new_language.GetNameWithNoTooltip](을)를 궁중어로 채택해야 한다."
- language.2.c: "따르진 않겠지만, 우리도 [common_dialect.GetName](을)를 궁중어로 도입할 때가 된 것 같구나."
+ language.2.c: "따르진 않겠지만, 우리도 [common_dialect.GetNameWithNoTooltip](을)를 궁중어로 도입할 때가 된 것 같구나."
  language.2.d: "아니, [enemy_dialect.GetNameWithNoTooltip](을)를 계속 사용해도 아무 문제 없겠지."
  language.10.title: "[country.GetGovernment.GetRulerTitle|U]의 억양"
  language.10.desc: "회의와 공문이 꼬리에 꼬리를 물고 이어지면서, [ruler.GetShortName](이)가 궁정의 공무를 제대로 처리하지 못한다는 사실이 분명하게 드러났습니다.\n\n[ruler_culture.GetName] 문화권에서 자란 탓에 [court_language.GetName] 실력이 매우 미흡한 것이 바로 그 원인입니다. 억센 외국 억양은 모국어 사용자에게는 듣기가 괴로운 수준이며, [ruler.GetShortName](이)가 [court_language.GetNameWithNoTooltip] 궁정을 이끌 진정한 재목이 아니라는 생각을 다시금 되새기게 될 뿐입니다."

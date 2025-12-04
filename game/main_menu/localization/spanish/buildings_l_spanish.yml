@@ -41,7 +41,7 @@
  bridge_infrastructure: "Puente"
  mason: "Albañil"
  construction_center: "Centro de construcción"
- construction_center_desc: "Esto permite realizar más construcciones simultáneamente en una [town_or_city|el]."
+ construction_center_desc: "Esto permite realizar más construcciones simultáneamente en un [town_or_city|el]."
  #Foreign Buildings
  trade_office: "Oficina comercial"
  embassy: "Embajada"

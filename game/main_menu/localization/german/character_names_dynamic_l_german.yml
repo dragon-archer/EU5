@@ -545,7 +545,7 @@
  name_alexis.ruthenian_language: "Oleksiy" #Ukrainian Олексі́й
  name_alexis.scandinavian_language: "Alexis"
  name_alexis.serbian_dialect: "Aleksije"
- name_alexis.serbo_croatian_language: "Alexa"
+ name_alexis.serbo_croatian_language: "Alekseisch"
  name_alexis.south_italian_language: "Alessio"
  name_alexis.spanish_language: "Alejo"
  name_alexis.turkish_language: "Aleksei"
@@ -7033,7 +7033,7 @@
  name_mattea: "Mattea" #English, North & South Italian
  name_mattea.french_language: "Mattéa"
  name_mattea.serbian_dialect: "Mateja"
- name_mattea.serbo_croatian_language: "Mateja"
+ name_mattea.serbo_croatian_language: "Matijanisch"
  name_mattea.spanish_language: "Matea"
  name_matthew: "Matthew"
  name_matthew.arpitan_dialect: "Matéy"

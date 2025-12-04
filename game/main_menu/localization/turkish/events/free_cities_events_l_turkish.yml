@@ -47,7 +47,7 @@
  free_cities.12.b: "\"Yönetime layık değiller.\" Yardım yok galiba."
  free_cities.13.title: "Şehir Birliği"
  free_cities.13.desc: "Hansa Birliği ve Lombard Birliği, bize diğer Özgür Şehirlerin bizimle bir birlik oluşturmak isteyip istemeyeceklerini öğrenmek için bize ilham oldu. Özgür Şehirler olarak tek başımıza zayıf olsak da bir araya geldiğimizde küçük uluslar arasında ticaret, imparatorluk barışını koruma, mahkemeleri destekleme ve birleşik bir gücü sürdürme gibi konularda karşılıklı iş birliğinin bizi büyük güçlerin bile bastırmakta zorlanacağı, hesaba katılması gereken bir güç hâline getireceği zaten kanıtlandı."
- free_cities.13.a: "[SCOPE.sCountry('fc_league_invitation_target').GetName] ülkesine diplomat gönderelim!"
+ free_cities.13.a: "[SCOPE.sCountry('fc_league_invitation_target').GetNameWithNoTooltip] ülkesine diplomat gönderelim!"
  free_cities.13.b: "Paralı asker tutmamız yetmez mi?"
  free_cities.14.title: "Şehir Birliği Önerileri"
  free_cities.14.desc: "[GetUniqueInternationalOrganization('hre').GetName] içinde iş birliği yapan birçok birlik vardı. Örneğin; Hansa Birliği, ticari ve savunma konfederasyonu içinde bulunan tüccar loncalarından oluşmuş bir birlikti. Svabya Birliği ise karşılıklı savunma ve barışı koruma için oluşturulmuştu. Bazı birlikler o kadar güçlü ve öyle kenetleniyorlar ki İsviçre Birliği gibi bir devlet olarak görülmeye başlayabiliyorlar. [ShowSpecialStatusName('free_city')] [SCOPE.sCountry('fc_league_invitation_source').GetName] ticaret, imparatorluk barışını koruma ve mahkemeleri destekleme gibi konularda birlikte çalışacağımız, buna benzer bir oluşuma dâhil olmamızı istiyor."

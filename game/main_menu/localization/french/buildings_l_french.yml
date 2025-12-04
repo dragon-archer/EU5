@@ -74,7 +74,7 @@
  farming_village: "Village de cultivateurs"
  forest_village: "Village forestier"
  market_village: "Village de négoce"
- market_village_explanation: "Nous [Concept('own', 'possédons')|e|l] des [locations|e] qui se trouvent à proximité d'un [ShowBuildingTypeName('market_village')]"
+ market_village_explanation: "Nous [Concept('own', 'possédons')|el] des [locations|e] qui se trouvent à proximité d'un [ShowBuildingTypeName('market_village')]"
  tar_kiln: "Four à goudron"
  stone_quarry: "Carrière de pierre"
  lumber_mill: "Scierie"
@@ -438,7 +438,7 @@
  sco_palace_of_holyroodhouse: "Palais de Holyrood"
  sco_palace_of_holyroodhouse_desc: "Le $sco_palace_of_holyroodhouse$ est parfaitement représentatif de l'une des nombreuses architectures de la Renaissance #L [ShowCultureName('scottish')|l]e#!. Ce somptueux palais gothique fait partie des résidences les plus inestimables du clan [GetCountry('SCO').GetGovernment.GetAdjective|l]."
  fra_louvre_museum: "Musée du Louvre"
- fra_louvre_museum_desc: "Autrefois un symbole de la royauté $french_group$e, le palais du Louvre a été converti en musée public qui abrite les meilleures œuvres d'art de la [GetCountry('FRA').GetNameWithNoTooltip]."
+ fra_louvre_museum_desc: "Autrefois un symbole de la royauté $french_group$, le palais du Louvre a été converti en musée public qui abrite les meilleures œuvres d'art de la [GetCountry('FRA').GetNameWithNoTooltip]."
  #Unique Buildings
  ablaq_palace: "Palais 'Ablaq"
  ablaq_palace_desc: "Illustre résidence des souverains égyptiens, ce bâtiment est orné de la plus belle architecture ablaq. Dans ses salles au caractère sacré est produite la kiswa, une étoffe de soie qui recouvre la $kaaba$."

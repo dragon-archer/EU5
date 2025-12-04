@@ -5,6 +5,7 @@
  flavor_azt.70.a: "모두 피라미드에 기여해야 할 것이다!"
  flavor_azt.70.b: "각 종속 도시가 적정한 수준에서 기여하도록 하라."
  flavor_azt.70.c: "이 과업은 다음에 진행하기로 하지."
+ subject_contribution_reason: "종속국 기여"
  we_will_be_able_to_construct_the_building_later_tt: "해당 [building|e]은 나중에도 건설할 수 있습니다"
  flavor_azt.70.historical_info: "테노치티틀란의 중심에 위치한 우에이 테오칼리는 메시카족의 신심과 위세를 나타내는 상징으로 우뚝 서 있습니다. 14세기부터 여러 단계에 걸쳐 축조된 이 신전에는 특징적인 쌍둥이 계단이 존재하는데, 한쪽은 전쟁의 신 위칠로포치틀리의 신전으로, 다른 한쪽은 비와 다산의 신 틀랄록의 신전으로 이어집니다. 인근에는 바람의 신인 에헤카틀에게 바쳐진 성소도 있습니다. 우에이 테오칼리 신전은 이후 테노치티틀란의 종교계를 대표하는 장엄한 중심지가 되었고, 사제들은 이곳에서 우주의 질서를 유지하기 위한 희생제와 각종 기념 의식을 거행했습니다."
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

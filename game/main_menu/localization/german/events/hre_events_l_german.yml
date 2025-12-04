@@ -35,7 +35,7 @@
  hre.900.title: "[GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetGovernment.GetRuler.Custom('DE_ART_DEF_S_A')] [GetUniqueInternationalOrganization('hre').GetLeaderTitle] ist tot …"
  hre.900.desc: "Lang lebe [GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetGovernment.GetRuler.Custom('DE_ART_DEF_S_N')] [GetUniqueInternationalOrganization('hre').GetLeaderTitle]! Die Kurfürsten sprechen uns weiter ihr Vertrauen aus, und die Kaiserkrone bleibt in [GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetName|U]. Da unser Land die Kaiserwürde fest in der Hand hält und die Fürsten uns mit einer gewissen Selbstverständlichkeit als ihr rechtmäßiges Oberhaupt akzeptieren, erhöht sich unsere Autorität innerhalb des HRR ([GetUniqueInternationalOrganization('hre').GetName])."
  hre.900.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- hre.imperial_authority_change.tt: "Der [international_organization|e] „[GetUniqueInternationalOrganization('hre').GetName]“ erhält [ROOT.GetVariable('imperial_authority_change').GetValue] #Y $imperial_authority$#!"
+ hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName] erhält [ROOT.GetVariable('imperial_authority_change').GetValue|+2] #Y $imperial_authority$#!"
  hre.901.title: "Ein Reichsfürst ersteht auf"
  hre.901.desc: "Wie der Phönix ist [released_country.GetName] aus der Asche auferstanden, und das Land schließt sich erneut den Fürsten des HRR ([GetUniqueInternationalOrganization('hre').GetName]) an!"
  hre.901.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

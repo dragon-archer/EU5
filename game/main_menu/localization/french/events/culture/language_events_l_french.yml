@@ -11,7 +11,7 @@
  language.2.desc: "L'obstination de [overlord.GetLongName] à imposer le [enemy_dialect.GetName|l] comme langue de Cour lui a valu quelques controverses, en raison du conflit avec le [enemy_country.GetLongName].\n\nLa solution retenue a été d'adopter le [new_language.GetName|l] à la place. Devons-nous suivre son exemple ?"
  language.2.a: "Nous devrions aussi promouvoir l'utilisation officielle de notre [common_dialect.GetNameWithNoTooltip|l] natif."
  language.2.b: "Nous devrions également adopter le [new_language.GetNameWithNoTooltip|l]."
- language.2.c: "Non, mais il est temps d'adopter le [common_dialect.GetName|l] nous-mêmes."
+ language.2.c: "Non, mais il est temps d'adopter le [common_dialect.GetNameWithNoTooltip] nous-mêmes."
  language.2.d: "Non, il n'y a rien de mal avec le [enemy_dialect.GetNameWithNoTooltip|l]."
  language.10.title: "Le discours du [country.GetGovernment.GetRulerTitle|U]"
  language.10.desc: "Encore une réunion du conseil et encore un nouveau document officiel... Il paraît évident que [ruler.GetShortName] est incapable de se tenir correctement à la Cour.\n\nDu fait de sa [ruler_culture.GetName], sa maîtrise du [court_language.GetName|l] laisse à désirer. Son accent étranger est difficile à supporter pour les natifs, en plus de rappeler constamment à tous qu'il n'est pas vraiment taillé pour être à la tête d'une Cour #L [court_language.GetNameWithNoTooltip|l]e#!."

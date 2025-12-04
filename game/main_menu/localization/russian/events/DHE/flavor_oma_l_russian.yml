@@ -12,7 +12,7 @@
  mam_por_confronted: "Торговый конфликт"
  flavor_oma.2.b: "[ROOT.GetCountry.Custom('common_string_nothing_we_can_do')]"
  flavor_oma.3.title: "Борьба за торговлю с Индией"
- flavor_oma.3.desc: "Чтобы соперничать за торговлю с #TOOLTIP:SUB_CONTINENT,india,X #L Индией#!#!, сперва стоит создать сеть военных аванпостов, где будут размещаться наши флоты. Один из наиболее подходящих для этого портов — [target_location.GetRank.GetName|L] [target_location.GetName], — занят #L [target_country.GetAdjective]ими#! подданными. Конечно, мы можем напасть на [target_location.GetRank.Custom('LR_ACC')], но не лучше ли придумать иной способ заполучить это стратегически важное место?"
+ flavor_oma.3.desc: "Чтобы соперничать за торговлю с #TOOLTIP:SUB_CONTINENT,india,X #L Индией#!#!, сперва стоит создать сеть военных аванпостов, где будут размещаться наши флоты. Один из наиболее подходящих для этого портов — [target_location.GetRank.GetName|L] [target_location.GetName], — занят #L [target_country.GetAdjective]ими#! подданными. Конечно, мы можем напасть на [target_location.Custom('LR_ACC')], но не лучше ли придумать иной способ заполучить это стратегически важное место?"
  flavor_oma.3.historical_info: "$flavor_oma_portugal_historical_info$"
  flavor_oma.3.a: "Нам нужны новые аванпосты."
  flavor_oma.3.b: "Зачем воевать, если можно торговать?"

@@ -3,7 +3,7 @@
  flavor_mor_maghrebi_wars.1000.desc: "Após a morte do amado [old_ruler.GetName], seu filho [new_ruler.GetName] subiu ao trono do país [GetCountry('TUN').GetName] seguindo os desejos de [old_ruler.GetShortNameWithNoTooltip].\n\nEm vez de reconhecer respeitosamente a posição legítima do novo governante, seu irmão [usurper_scope.GetName] deu um golpe e tomou o poder para si. Para o horror dos presentes do estamento [ShowEstateTypeName('nobles_estate)], o usurpador executou seu irmão, removendo qualquer chance de restaurar o legítimo [ROOT.GetCountry.GetGovernment.GetRulerTitle].\n\nA única opção que resta para os lealistas é convidar uma nação estrangeira para ajudar a remover o usurpador."
  flavor_mor_maghrebi_wars.1000.historical_info: "Após a morte do Sultão Hafsid, Abu Yahya Abu Bakr, uma crise na corte começou com a coroação do usurpador, Abu Hafs Umar, que ordenou o assassinato de todos os seus irmãos, garantindo seu direito exclusivo ao trono."
  flavor_mor_maghrebi_wars.1000.a: "Vamos convidar o país [GetCountry('MOR').GetLongNameWithNoTooltip]."
- flavor_mor_maghrebi_wars.1000.b: "Vamos convidar [ally_scope.GetName]."
+ flavor_mor_maghrebi_wars.1000.b: "Convide [ally_scope.GetNameWithNoTooltip]."
  flavor_mor_maghrebi_wars.1000.c: "Apoiem o [usurper_scope.GetNameWithNoTooltip]."
  flavor_mor_maghrebi_wars.1001.title: "A Sucessão [GetCountry('TUN').GetAdjectiveWithNoTooltip]"
  flavor_mor_maghrebi_wars.1001.p1: "Após a morte de [old_ruler.GetName], seu filho [new_ruler.GetName] deveria ter subido ao trono do país [GetCountry('TUN').GetName]. Em vez disso, seu irmão [usurper_scope.GetName] o assassinou e tomou o poder para si, para o horror do estamento [ShowEstateTypeName('nobles_estate')] presente."

@@ -104,7 +104,7 @@
  flavor_kni.120.b: "Arbeiten wir stattdessen an unserer Infrastruktur."
  flavor_kni.121.title: "Flottenbelange in [target_location.GetNameWithNoTooltip]"
  flavor_kni.121.desc: "[target_location.GetName|U] ist eine Insel in einer äußerst günstigen Lage. Ihre Nähe zur Küste von „[target_location.GetRegion.GetName]“ macht sie zu einem günstigen Ankerpunkt für die Vorhaben unserer Flotte an benachbarten Küsten. Gleichzeitig dient sie als Passage zwischen Ost und West, und viele Händler aus fernen Landen möchten [target_location.GetNameWithNoTooltip] zu einem Zwischenhalt auf ihren Reisen in den Nahen Osten machen."
- flavor_kni.121.a: "Wir werden die Herstellung von [ShowGoodsName('naval_supplies')] begünstigen!"
+ flavor_kni.121.a: "Wir werden die Herstellung von [ShowGoodsNameWithNoTooltip('naval_supplies')] begünstigen!"
  flavor_kni.121.b: "Wir müssen Platz für mehr Kaufleute schaffen."
  flavor_kni.121.c: "Konzentrieren wir uns lieber darauf, uns um die Einheimischen zu kümmern."
  flavor_kni.130.title: "Wundersames Erdbeben"

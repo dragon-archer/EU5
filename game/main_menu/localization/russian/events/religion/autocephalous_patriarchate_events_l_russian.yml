@@ -8,4 +8,4 @@
  autocephalous_patriarchates.2.desc: "$ap_falls_desc_key$"
  autocephalous_patriarchates.2.a: "Распустим патриархат."
  autocephalous_patriarchates.2.b: "Сохраним патриархат."
- every_member_of_scopeloser_ap_loses_opinion_of_scopewinner_tt: "Все члены патриархата «[target_ap.GetName]» изменят своё мнение о нас на [ShowBiasValue('destroyed_my_autocephalous_patriarchate')|-=0]"
+ every_member_of_scopeloser_ap_loses_opinion_of_scopewinner_tt: "Все участники патриархата «[target_ap.GetName]» получат [ShowBiasValue('destroyed_my_autocephalous_patriarchate')|+=0] к мнению о нас"

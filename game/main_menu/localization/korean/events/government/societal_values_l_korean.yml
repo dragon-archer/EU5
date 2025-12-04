@@ -273,7 +273,7 @@
  societal_values.604.b: "진정한 [ROOT.GetCountry.GetReligion.GetGodName]의 종이구나!"
  societal_values.604.c: "$societal_values.604.b$"
  societal_values.604.d: "$societal_values.604.b$"
- societal_values.604.e: "[GetUniqueInternationalOrganization('hre').GetName]의 충실한 종복이 되겠구나!"
+ societal_values.604.e: "[GetUniqueInternationalOrganization('hre').GetNameWithNoTooltip]의 충실한 종복이 되겠구나!"
  societal_values.605.title: "차이 극복"
  societal_values.605.desc: "정부 형태가 서로 다른 국가는 어쩔 수 없이 상대방을 온전히 이해하지 못합니다. 하지만 우리는 서로의 차이에도 불구하고 이웃 국가 한 곳과 조화를 이룰 수 있었습니다. 이는 유능한 외교관들의 활약 덕분입니다."
  societal_values.605.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

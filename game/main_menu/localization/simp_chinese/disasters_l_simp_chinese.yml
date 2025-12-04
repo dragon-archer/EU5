@@ -232,6 +232,7 @@
  decline_of_empire: "帝国的衰落"
  decline_of_empire_desc: "曾经强大而不可动摇的帝国，如今已摇摇欲坠，濒临崩溃。腐败在体制内蔓延，各省在忽视的重压下日益动荡，外国势力如秃鹫般盘旋，觊觎我们残存的荣光。定义我们的黄金时代早已沦为记忆，而帝国的根基随时间流逝愈发支离破碎。若不迅速采取行动，清除内部的腐朽并恢复控制，帝国终将崩塌，只余废墟与悔恨，成为昔日荣光的阴影……"
  has_not_had_decline_of_empire_last_25_years: "在过去#Y 25#!年内未拥有该[disaster|e]"
+ not_recently_become_empire_tt: "成为[ShowCountryRankName('rank_empire')][country_rank|e]至少#Y 15#!年"
  #Decline of Mali
  #Disaster
  decline_of_mali: "马里的衰落"

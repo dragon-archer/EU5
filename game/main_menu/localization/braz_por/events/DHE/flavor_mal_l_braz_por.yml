@@ -59,7 +59,7 @@
  flavor_mal.14.title: "Tentativa de Independência do País [target_subject_country.GetNameWithNoTooltip]"
  flavor_mal.14.desc: "Apesar das nossas tentativas de melhorar a vida de todos os nossos súditos, há aqueles entre nós que desejam nos ver cair, erradicar nosso legado. Eles conspiram nas sombras, com punhais em mãos, esperando para atacar nos nossos momentos de fraqueza... \n\nA voz de dissidência do país [target_subject_country.GetName] não passa de um ato de uma criança petulante que ficou muito ousada e ansiosa."
  flavor_mal.14.a: "Muito bem, vamos conceder a independência a eles."
- flavor_mal.14.b: "Se é guerra que eles querem..."
+ flavor_mal.14.b: "Se eles querem uma guerra..."
  flavor_mal.14.b.tt: "Vamos tentar reinar no país [GetCountry('JOL').GetName].\n#italic Isso pode resultar em uma #R guerra#! entre os nossos Estados!#!"
  flavor_mal.15.title: "Intervenção do País [target_overlord_country.GetNameWithNoTooltip]"
  flavor_mal.15.desc: "Apesar das nossas melhores tentativas de convencer o país [target_overlord_country.GetName] e sua realeza inculta e porca de que simplesmente desejamos coexistir em paz sem qualquer disputa, eles parecem exigir nossa subjugação total e completa. Esse insulto certamente deve servir como combustível para alimentar as chamas da independência nas nossas fronteiras!"

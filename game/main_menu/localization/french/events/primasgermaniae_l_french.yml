@@ -12,7 +12,7 @@
  primasgermaniae.3.b: "Mieux vaut ne pas intervenir. Pour le moment…"
  opinion_supported_primas_germaniae: "A soutenu le nouveau Primas Germaniæ"
  primasgermaniae.4.title: "Titre de Primas Germaniæ perdu"
- primasgermaniae.4.desc: "Notre [original_prime.GetGovernment.GetRulerTitle] a perdu le titre de [ShowGovernmentReformName('primas_germaniae')] du fait de son prestige amoindri au sein du l'[GetUniqueInternationalOrganization('hre').GetName] ces derniers temps, et un autre archevêque, [new_primae.GetGovernment.GetRuler.GetName] de [new_primae.GetName], a pris les devants et revendiqué le titre !"
+ primasgermaniae.4.desc: "Notre [original_prime.GetGovernment.GetRulerTitle] a perdu le titre de [ShowGovernmentReformName('primas_germaniae')] du fait de son prestige amoindri au sein du [GetUniqueInternationalOrganization('hre').GetName] ces derniers temps, et un autre archevêque, [new_primae.GetGovernment.GetRuler.GetName] de [new_primae.GetName], a pris les devants et revendiqué le titre !"
  primasgermaniae.4.a: "Très bien, envoyons-lui toutes nos félicitations..."
  opinion_congratulated_new_primas_germaniae: "A félicité le nouveau Primas Germaniæ"
  primasgermaniae.4.b: "Nous n'oublierons pas cet affront !"

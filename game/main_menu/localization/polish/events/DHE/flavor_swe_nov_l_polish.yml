@@ -23,7 +23,7 @@
  flavor_swe_nov.4.b.tt: "[swedish_theologian.GetName] i inni teologowie udadzą się do regionu [target_location.GetName] na religijną debatę, w której wezmą też udział [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l] z [byzantium_country.GetName]"
  flavor_swe_nov.5.title: "Odwiedziny [Select_CString(swedish_theologian.IsFemale,'teolożki','teologa')] z kraju [sweden_country.GetNameWithNoTooltip]"
  flavor_swe_nov.5.desc: "Na naszym dworze pojawiła się ciekawa postać. [swedish_theologian.GetName] to [Select_CString(swedish_theologian.IsFemale,'teolożka','teolog')] z kraju [sweden_country.GetName] [Select_CString(swedish_theologian.IsFemale,'przysłana','przysłany')] do nas przez [novgorod_country.GetNameWithNoTooltip], by odbyć debatę, która wiara w Chrystusa jest tą prawdziwą, jako że #L [GetCountry('BYZ').GetAdjective|l]cy#! teolodzy słyną ze swego doświadczenia w kwestiach religii."
- flavor_swe_nov.5.a: "Wyjaśnijmy mu, czym jest [ShowReligionName('orthodox')|l]."
+ flavor_swe_nov.5.a: "Wyjaśnijmy mu, czym jest [ShowReligionNameWithNoTooltip('orthodox')|l]."
  flavor_swe_nov.5.a.at: "[swedish_theologian.GetName] akceptuje swoją przegraną w debacie i zmienia wyznanie na [ROOT.GetCountry.GetReligion.GetName|l].\nNastępnie wraca do swego kraju, [sweden_country.GetName], by głosić swoją nową religię."
  flavor_swe_nov.5.b: "Ciekawe."
  swe_theologian_visit_received: "Przyjęto [Select_CString(swedish_theologian.IsFemale,'teolożkę','teologa')]"

@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "A Córsega sempre causou muitos problemas para o país [ROOT.GetCountry.GetLongName]. Seu povo é teimoso e busca sua independência de nossa soberania sempre que há oportunidade.\n\nE mais, eles se recusam a se curvar diante de qualquer lorde feudal. O líder de uma jacquerie, camponeses revoltos da [GetCountry('FRA').GetName] durante a Guerra dos Cem Anos, [sambucuccio_dalando.GetName] e seus aliados começaram a se revoltar contra o controlador [rebel_location.GetController.GetAdjective] em [rebel_location.GetName]."
  anti_feudal_revolters: "Revoltos Antifeudais"
  flavor_gen.18.a: "Que os revoltosos afastem os nossos inimigos."
- flavor_gen.18.b: "Precisamos de [sambucuccio_dalando.GetName] como nosso general!"
+ flavor_gen.18.b: "Precisamos de [sambucuccio_dalando.GetNameWithNoTooltip] como nosso general!"
  flavor_gen.19.title: "A Fundação da Bastia"
  flavor_gen.19.desc: "A ilha da Córsega demonstrou ser pouco lucrativa e, por conta disso, muitos comerciantes e oficiais do país [ROOT.GetCountry.GetName] desistiram de interferir nas políticas internas da ilha. No entanto, alguns empresários do(a) [ROOT.GetCountry.GetFlavorRank] ainda veem potencial na Córsega. A Maona di Corsica organizou a fortificação do local da [ShowLocationName('bastia')] para declarar seu controle sobre a ilha. Eles também pretendem acelerar o crescimento de um município nas redondezas, embora isso exija mais apoio financeiro."
  flavor_gen.19.a: "Concedam o apoio necessário à Maona."

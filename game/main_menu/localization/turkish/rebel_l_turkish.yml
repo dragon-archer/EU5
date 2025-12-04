@@ -18,7 +18,7 @@
  REBEL_STALLED_NOT_ENOUGH: "Yeterli destekçi olmadığı için durdu."
  REBEL_PROGRESS_ESTATE: "[estate_power|e]: $VAL|2-=%$"
  REBEL_NATIONALISM_SOURCE: "Milliyetçilik\nTemel Milliyetçilik: $VAL|2=-%$"
- REBEL_NATIONALISM_CULTURE_WAR: "[CULTURE.GetName] [Concept('cultural_influence', 'Kültürünün Nüfuzu')|e] karşısında [TARGET_CULTURE.GetName] [Concept('cultural_tradition', 'Kültürel Geleneği')|e]: $VAL|+=2%$"
+ REBEL_NATIONALISM_CULTURE_WAR: "[CULTURE.GetName] [Concept('cultural_influence', 'Kültürünün Nüfuzu')|e] karşısında [TARGET_CULTURE.GetName] [Concept('cultural_tradition', 'Kültürel Geleneği')|e]: $VAL|-=2%$"
  RSI_HEADER: "[Concept('pops', 'Toplumların')|e] asileri desteklemeleri için sebepler."
  RSI_ENTRY: "$NAME$: $VAL|2+=%$"
  rsi_separatism: "[separatism|e]"

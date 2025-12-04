@@ -54,6 +54,7 @@
  END_OF_TIME_MERCS: "tümü ya savaşta öldüğünde ya da sevdiklerine döndüğünde"
  END_OF_TIME_REBELS: "elindekilerle mutlu olduklarına karar verdiklerinde"
  END_OF_TIME_IO: "idare kapılarını son kez kapadığında"
+ END_OF_TIME_DYNASTY: "their extinction"
  END_OF_TIME_LIFE: "öldüğünde"
  BULLET_WITH_TAB: "    • "
  BULLET: "• "

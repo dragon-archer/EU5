@@ -35,7 +35,7 @@
  hre.900.title: "L'[GetUniqueInternationalOrganization('hre').GetLeaderTitle] n'est plus..."
  hre.900.desc: "Longue vie à l'[GetUniqueInternationalOrganization('hre').GetLeaderTitle] ! Les électeurs ont décidé de maintenir leur confiance en nous, et la Couronne impériale demeure en [GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetName]. À mesure que notre Pays renforce son emprise sur la couronne impériale et que les princes commencent à nous en considérer comme les détenteurs naturels, l'Autorité impériale s'accroît dans le [GetUniqueInternationalOrganization('hre').GetName]."
  hre.900.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- hre.imperial_authority_change.tt: "[ROOT.GetVariable('imperial_authority_change').GetValue] #Y $imperial_authority$#! pour le [GetUniqueInternationalOrganization('hre').GetName]"
+ hre.imperial_authority_change.tt: "L'[GetUniqueInternationalOrganization('hre').GetName] obtient [ROOT.GetVariable('imperial_authority_change').GetValue|+2] #Y d'$imperial_authority$#!"
  hre.901.title: "Un prince rétabli"
  hre.901.desc: "Tel un phénix, le [released_country.GetName] a ressuscité et réintégré les princes du [GetUniqueInternationalOrganization('hre').GetName] !"
  hre.901.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

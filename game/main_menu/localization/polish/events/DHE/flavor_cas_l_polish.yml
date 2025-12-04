@@ -85,7 +85,7 @@
  flavor_cas.21.title: "Zabezpieczono [GetCountry('POR').GetAdjectiveWithNoTooltip|l]ki tron"
  flavor_cas.21.desc: "Nasza interwencja w państwie [GetCountry('POR').GetName] zakończyła się sukcesem. Po ciężkiej wojnie korona [GetCountry('POR').GetAdjectiveWithNoTooltip|l]ka spoczywa teraz bezpiecznie w naszych rękach, jednocząc dwa iberyjskie królestwa pod rządami kraju [ROOT.GetCountry.GetName]."
  flavor_cas.21.a: "Uczcijmy to zwycięstwo."
- flavor_cas.21.b: "Upamiętnij zwycięstwo, poświęcając mu [ShowBuildingTypeNameWithNoTooltip('monastery')|l] w regionie [ShowLocationName('guadalupe')]."
+ flavor_cas.21.b: "Upamiętnij zwycięstwo, poświęcając mu [ShowBuildingTypeNameWithNoTooltip('monastery')|l] w regionie [ShowLocationNameWithNoTooltip('guadalupe')]."
  flavor_cas.22.title: "Tytuł [ShowReligionAdjectiveWithNoTooltip('catholic')|l]ich królów"
  flavor_cas.22.desc: "Nasza niezłomna obrona wiary #L [ShowReligionAdjective('catholic')|l]kiej#! i niezachwiane wsparcie dla Stolicy Apostolskiej nie pozostały niezauważone. W uznaniu naszej pobożności i wpływów w chrześcijaństwie, [pope.GetName] postanawia wydać #L [GetCountry('PAP').GetAdjective|l]ką#! bullę przyznającą nam prestiżowy tytuł katolickich monarchów."
  flavor_cas.22.a: "Przyjmijmy ją!"

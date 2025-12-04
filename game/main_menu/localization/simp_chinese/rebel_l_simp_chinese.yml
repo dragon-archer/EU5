@@ -18,7 +18,7 @@
  REBEL_STALLED_NOT_ENOUGH: "由于支持人群不足，叛乱进度不会推进。"
  REBEL_PROGRESS_ESTATE: "[estate_power|e]：$VAL|2-=%$"
  REBEL_NATIONALISM_SOURCE: "分离主义\n基础分离主义：$VAL|2=-%$"
- REBEL_NATIONALISM_CULTURE_WAR: "[CULTURE.GetName][cultural_influence|e]vs[TARGET_CULTURE.GetName][cultural_tradition|e]：$VAL|+=2%$"
+ REBEL_NATIONALISM_CULTURE_WAR: "[CULTURE.GetName][cultural_influence|e]对比[TARGET_CULTURE.GetName][cultural_tradition|e]：$VAL|-=2%$"
  RSI_HEADER: "[pops|e]支持这些叛军的理由。"
  RSI_ENTRY: "$NAME$：$VAL|2+=%$"
  rsi_separatism: "[separatism|e]"

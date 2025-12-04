@@ -173,7 +173,7 @@
  flavor_vij.1101.title: "$flavor_vij.1100.title$"
  flavor_vij.1101.desc.a: "[ShowCultureName('tamil')] 반란을 진압하기로 방침을 정한 후 우리는 대부분의 반란 세력을 진압했습니다. 이제 주민들은 다시금 우리 통치에 만족하고 있으며, 심지어 스스로 나서 반란을 주동한 반역자를 붙잡아 주기까지 했습니다. 현재 [target_character.GetName](은)는 우리 군에 인도되어 붙잡혀 있는 상태로, 조언가들은 입을 모아 어서 추방할 것을 촉구했습니다."
  flavor_vij.1101.desc.b: "우리가 [ShowCultureName('tamil')] 반란을 진압하는 데 실패하자, 이 역도 무리의 지도자가 마침내 모습을 드러냈습니다. [target_character.GetName](은)는 [ROOT.GetCountry.GetName]에 독립 국가를 세우기 위해 지지 세력을 결집하고 [ShowCultureNameWithNoTooltip('tamil')] 주민들과 협상을 벌이는 중입니다. 이제 이 반란군을 섬멸하기만 하면 됩니다."
- flavor_vij.1101.a: "당장 추방하라! [ROOT.GetCountry.GetName]에 역도들이 있을 곳은 없다!"
+ flavor_vij.1101.a: "당장 추방하라! [ROOT.GetCountry.GetNameWithNoTooltip]에 역도들이 있을 곳은 없다!"
  flavor_vij.1101.b: "무기를 들어라! [target_character.GetNameWithNoTooltip](과)와 그 폭도들을 짓밟아라!"
  tamil_uprising: "타밀 봉기"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "모든 [ShowCultureName('tamil')] [pops|e]의 [Concept('pop_satisfaction', '만족도')|e]가 [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] 감소합니다"

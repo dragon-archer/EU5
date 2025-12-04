@@ -2,6 +2,7 @@
  SAVE_BUTTON_DISABLED: "@trigger_no! Im Ironman-Modus kann nur das automatische Speichern genutzt werden"
  SAVE_BUTTON_DISABLED_BY_TUTORIAL: "@trigger_no! Wir können während des Tutorials das Spiel nicht speichern."
  LOAD_INGAME_BUTTON_DISABLED: "Man kann kein Spiel im Mehrspieler-Modus laden"
+ LOAD_INGAME_BUTTON_IRONMAN: "@trigger_no! You cannot load a game in Ironman mode"
  HOST_GAME_BUTTON_DISABLED: "Ihr befindet Euch derzeit in einem Mehrspieler-Spiel"
  GAME_NOT_PAUSED: "#X Spiel ist NICHT pausiert#!"
  PAUSE_MENU_GAME_RULES_TOOLTIP: "Zeigt die derzeitige Spielregelkonfiguration an"

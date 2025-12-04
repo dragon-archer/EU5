@@ -8,4 +8,4 @@
  autocephalous_patriarchates.2.desc: "$ap_falls_desc_key$"
  autocephalous_patriarchates.2.a: "독립 총대교구를 해체하라."
  autocephalous_patriarchates.2.b: "유지하라."
- every_member_of_scopeloser_ap_loses_opinion_of_scopewinner_tt: "우리에 대한 [target_ap.GetName] 측 모든 구성국의 우호도가 [ShowBiasValue('destroyed_my_autocephalous_patriarchate')|-=0] 감소합니다"
+ every_member_of_scopeloser_ap_loses_opinion_of_scopewinner_tt: "우리에 대한 [target_ap.GetName] 측 모든 구성국의 우호도가 [ShowBiasValue('destroyed_my_autocephalous_patriarchate')|+=0] 감소합니다"

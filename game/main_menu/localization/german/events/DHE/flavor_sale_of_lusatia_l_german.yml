@@ -11,7 +11,7 @@
  flavor_sale_of_lusatia.1100.title: "Die Angelegenheit von [GetCountry('SOR').GetNameWithNoTooltip|U]"
  flavor_sale_of_lusatia.1100.desc_normal: "[GetCountry('SOR').GetLongName|U] sollte nun wieder in unseren Besitz übergehen, da wir unsere Verpflichtung erfüllt haben.\n\nAllerdings hat das Land für uns nur einen geringen Wert. Der Verkauf der Ländereien könnte uns die notwendigen finanziellen Mittel für wichtigere Angelegenheiten verschaffen. Wir könnten die Möglichkeit prüfen, den Titel insgesamt zu verkaufen und uns so von diesem lästigen Land zu befreien. Sicherlich gäbe es viele Interessenten für [GetCountry('SOR').GetName|U], und dank unserer guten Beziehungen zu [target_buyer.GetName|U] wäre es eine vertrauenswürdige Option."
  flavor_sale_of_lusatia.1100.desc_fallback: "Die Verpflichtung von [GetCountry('SOR').GetName|U] ist erfüllt, das Gebiet ist jedoch leider nicht mehr im fremdländischen Besitz. Wir haben derzeit nur wenige rechtliche Möglichkeiten, um diese Gebiete zurückzuerlangen."
- flavor_sale_of_lusatia.1100.a: "Wenden wir uns an [target_buyer.GetName]."
+ flavor_sale_of_lusatia.1100.a: "Wenden wir uns an [target_buyer.GetNameWithNoTooltip]."
  flavor_sale_of_lusatia.1100.b: "Wir haben genug Ländereien verkauft."
  flavor_sale_of_lusatia.1100.c: "Wir werden unser rechtmäßiges Land zurückerhalten!"
  flavor_sale_of_lusatia.1100.d: "Möglicherweise ein Fehltritt."

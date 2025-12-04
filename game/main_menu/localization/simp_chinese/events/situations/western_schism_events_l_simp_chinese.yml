@@ -9,7 +9,7 @@
  western_schism.4.desc: "在[ROOT.GetCountry.GetCapital.GetArea.GetName]的腹地，宗教的分歧引燃了星星之火，并在变革之风的煽动下熊熊燃烧。一位富有魅力的[ShowCultureName('czech')]牧师兼学者，[jan_hus.GetName]，站出来指控[GetInternationalOrganization('catholic_church').GetName]的腐败。[jan_hus.GetHerHis|U]的话语引起了普通民众的深刻共鸣，一种新的宗教，[ShowReligionAdjective('hussite')]，开始在民众心中扎根。\n\n[jan_hus.GetNameWithNoTooltip]反对[GetInternationalOrganization('catholic_church').GetNameWithNoTooltip]的奢华与铺张，呼吁回归早期基督教的简朴与纯洁。[jan_hus.GetHerHis|U]的追随者被称为[ShowReligionAdjectiveWithNoTooltip('hussite')]，他们拥护[jan_hus.GetHerHis]的思想，狂热与日俱增。既定的秩序正颤颤巍巍，[jan_hus.GetLastNameWithNoTooltip]的言论已经极大挑战了[GetInternationalOrganization('catholic_church').GetNameWithNoTooltip]和[GetInternationalOrganization('hre').GetName]的权威。"
  western_schism.4.historical_info: "扬·胡斯，全名为约翰内斯·胡斯，是一位神学家和哲学家、天主教最早的改革者之一。他是胡斯派的启蒙者，并成为路德宗的先驱。他出身贫寒，为了摆脱贫困而进入教会学习。作为一名牧师，他反对波西米亚天主教会的方方面面。亚历山大五世当选教宗后开除了他的教籍。在康斯坦茨大公会议期间，会议宣告了西方教会分裂的结束，扬·胡斯列席会议并就教会分歧表达了自己的观点，旋即被捕入狱。由于拒绝撤回自己的观点，他在1415年7月6日因异端学说被烧死在火刑柱上。他的追随者宣布建立胡斯派，并在接下来的几十年里抵御了五次十字军的讨伐。胡斯派信仰在波西米亚持续了近两个世纪。"
  western_schism.4.a: "他的学说有些地方也蛮有趣的……"
- lots_of_hussites_tt: "[ROOT.GetCountry.GetCapital.GetArea.GetName][area|e]的大量[pops|e]将会皈依[ShowReligionName('hussite')]"
+ lots_of_hussites_tt: "我们在[ROOT.GetCountry.GetCapital.GetRegion.GetName][region|e]的[locations|e]的大量[pops|e]将会皈依[ShowReligionName('hussite')]"
  western_schism.5.title: "腐蚀的信仰"
  western_schism.5.desc: "[target_schism_pope_cardinal.GetName]和[target_schism_opponent_cardinal.GetName]之间的冲突已经影响了我们[ROOT.GetCountry.GetFlavorRank]的稳定。圣座受他人掌控所带来的不确定性让到底应该向哪一方服务的疑问逐渐滋长，从而慢慢侵蚀人们的信仰。"
  western_schism.5.a: "我们将祈祷他们之间的争吵快些结束。"

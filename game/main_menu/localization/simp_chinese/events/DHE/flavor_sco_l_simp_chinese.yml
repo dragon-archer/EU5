@@ -58,7 +58,7 @@
  flavor_sco.12.desc: "自[young_king_david.GetName]还是个襁褓中的婴儿起，他就一直过着流亡生活，以躲避[england.GetAdjective]随时可能发起的抓捕。在此期间，王国的防务一直由我们可靠的[ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')]掌管。\n\n由于最近战事平息，年轻的[young_king_david.GetShortNameWithNoTooltip]已启程前往[ROOT.GetCountry.GetCapital.GetName]，准备收回继承[ROOT.GetCountry.GetAdjective]王位的合法权利。\n\n尽管在某些人眼中他或许只是个懦弱的孩子，但他毕竟是已故英雄[young_king_david.GetFather.GetName]的长子。"
  flavor_sco.12.a: "以盛大的仪式迎接[ROOT.GetCountry.GetGovernment.GetRulerTitle]归来！"
  flavor_sco.12.b: "危险尚未解除，而我们有[guardian_of_scotland.GetShortNameWithNoTooltip]这样强有力的领导者。"
- flavor_sco.12.c: "[young_king_david.GetName]不适合统治，应当由[guardian_of_scotland.GetShortNameWithNoTooltip]接任[ROOT.GetCountry.GetGovernment.GetRulerTitle]。"
+ flavor_sco.12.c: "[young_king_david.GetNameWithNoTooltip]不适合统治，应当由[guardian_of_scotland.GetShortNameWithNoTooltip]接任[ROOT.GetCountry.GetGovernment.GetRulerTitle]。"
  flavor_sco.13.title: "我们的苏格兰"
  flavor_sco.13.desc: "[ROOT.GetCountry.GetName]本质上就是一片多元化的土地，居住着各种不同起源的族群。\n\n但也有人认为这种多样性是种弱点，我们最好团结起来，以一个民族、一种声音的形象示人。"
  flavor_sco.13.a: "正是这种多样性造就了我们。"

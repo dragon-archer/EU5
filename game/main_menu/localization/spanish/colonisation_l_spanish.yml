@@ -9,7 +9,7 @@
  NO_COLONIAL_CHARTER_RELIGION: "Debido a esto: $NAME|Y$, solo [COUNTRY.GetName] tiene permitido colonizarlo, y todos los demás países de fe [COUNTRY.GetReligion.GetAdjective|l] tienen bloqueado el acceso."
  treaty_of_noteborg: "En el tratado de #Y $oreshek$#!, Nóvgorod y Suecia resolvieron sus reivindicaciones sobre Finlandia y Carelia"
  COLONIAL_PROGRESS_POT_HEADER: "Progreso colonial"
- COLONIAL_MIGRATION_HEADER_TT: "Migración mensual a [ColonialCharter.GetNameWithNoTooltip]"
+ COLONIAL_MIGRATION_HEADER_TT: "Migración mensual a [ColonialCharter.GetNameWithNooltip]"
  COLONIAL_CHARTER_TOTAL_MIGRATION: "Total de [migration|el] de $VAL|y$ [pops|el] al mes."
  COLONIAL_CHARTER_FROM_CHARTER: "De la [colonial_charter|el]:"
  COLONIAL_CHARTER_FROM_CABINET: "De nuestras [cabinet_actions|el]:"

@@ -193,7 +193,7 @@
  flavor_ira.45.title: "Las tribus de los [ShowDynastyNameWithNoTooltip('qajar_dynasty')]"
  flavor_ira.45.desc: "La reciente migración de las tribus de los [ShowDynastyName('qajar_dynasty')] dentro de [ROOT.GetCountry.GetName] ha provocado cierta desestabilización en [ROOT.GetCountry.GetFlavorRank|l]. A pesar de ello, los gobernantes de la tribu, [target_character.GetName] y [target_character2.GetName], han demostrado ser estrategas y administradores competentes. Si bien son bastante impopulares entre todos los que moran en [ROOT.GetCountry.GetFlavorRank|l], aún podría ser posible mantenerlos en nuestro gobierno actual, beneficiándonos de su experiencia y quizás utilizando a su tribu como ayuda adicional."
  flavor_ira.45.historical_info: "Como sucesores de los safávidas, la familia Kayar asistió principalmente a los shas iraníes durante sus primeros días. Con el ascenso de Agá Mohammad Jan Qayar en la región y la fragmentación del dominio safávida, los Kayar pudieron proclamarse shas y conquistar lentamente a las numerosas tribus que se resistían a su legitimidad. Su reinado duraría hasta 1925, cuando un golpe de Estado los reemplazaría por la dinastía Pahlaví."
- flavor_ira.45.a: "Son bienvenidos en [ROOT.GetCountry.GetName]."
+ flavor_ira.45.a: "Todo el mundo es bienvenido en [ROOT.GetCountry.GetNameWithNoTooltip]."
  flavor_ira.45.b: "¡Largo de aquí!"
  ira_qajar_dynasty_may_claim_crown: "La dinastía [ShowDynastyName('qajar_dynasty')] intentará reclamar nuestro trono si carecemos de [legitimacy|el] y [stability|el]."
  flavor_ira.46.title: "Rebelión de las tribus de los [ShowDynastyNameWithNoTooltip('qajar_dynasty')]"

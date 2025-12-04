@@ -32,7 +32,7 @@
  anglican_events.7.c: "Skrócić [Select_CString(minister.IsFemale,'ją','go')] o głowę!"
  anglican_events.8.title: "Modlitwy do świętych"
  anglican_events.8.desc: "Kiedy [ROOT.GetCountry.GetName] i Rzym rozłączyły się, pozbyliśmy się zabobonnego poglądu, że modlitwy powinny być kierowane do świętych, a nie do samego Boga. Ponieważ w naszej nowej teologii nie ma miejsca na papistyczną koncepcję czyśćca, nie ma potrzeby, aby święci wstawiali się za naszymi duszami. Mimo to wiele osób kontynuuje praktykę modlitwy do świętych, a wiele kościołów oddaje nadmierną cześć ich patronom."
- anglican_events.8.a: "To nieszkodliwe, możemy na to pozwolić."
+ anglican_events.8.a: "To nieszkodliwe. Możemy na to pozwolić."
  anglican_events.8.b: "Należy egzekwować jednolitość."
  anglican_events.9.title: "Zniesienie dni świątecznych"
  anglican_events.9.desc: "Katolicki kalendarz liturgiczny jest wypełniony dniami świątecznymi, które funkcjonują jako dni wolne od pracy i okazje do świętowania. Nie podlegając już władzy papieskiej, nasz własny kościół musi zdecydować, jak dalece należy kontynuować te praktyki. Najbardziej zagorzali reformatorzy argumentują, że zbędne święta zachęcają do grzesznych pokus i odwracają uwagę od pracy zarobkowej. Twierdzenia te uznano za zgodne z naszą teologią, ale zniesienie dni świątecznych może zdenerwować ludność, która bardzo ceni okazjonalny dzień wolny."

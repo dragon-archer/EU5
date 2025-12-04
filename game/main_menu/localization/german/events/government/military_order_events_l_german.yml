@@ -37,6 +37,6 @@
  military_order_events.9.a: "Wir sind siegreich!"
  forming_koj_easier_tt: "Das Königreich von Jerusalem zu gründen, wird unsere [stability|e] und [government_power|e] erhöhen und wird uns „[ShowModifier('jerusalem_resurgent_modifier')]“ für #Y 20#! Jahre garantieren"
  military_order_events.9.b: "Das Land gehört zu unserem Orden!"
- military_order_events.9.c: "Übergebt die Territorien von [ShowLocationName('jerusalem')] an ihren rechtmäßigen Besitzer."
+ military_order_events.9.c: "Übergebt die Territorien von [ShowLocationNameWithNoTooltip('jerusalem')] an ihren rechtmäßigen Besitzer."
  #Tooltips
  because_we_opted_inwards_tt: "Da wir uns für „#italic Blicken wir nach innen – wir müssen unsere Festung ausbauen#!“ beim Ereignis „#Y Nachgang der Kreuzfahrerära#!“ entschieden haben, wurde diese Auswahl verstärkt"

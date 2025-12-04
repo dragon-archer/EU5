@@ -2,6 +2,7 @@
  SAVE_BUTTON_DISABLED: "@trigger_no! Автосохранение работает только в режиме «Железная воля»."
  SAVE_BUTTON_DISABLED_BY_TUTORIAL: "@trigger_no! Во время демонстрации игру сохранять нельзя."
  LOAD_INGAME_BUTTON_DISABLED: "В сетевой игре загрузка недоступна"
+ LOAD_INGAME_BUTTON_IRONMAN: "@trigger_no! You cannot load a game in Ironman mode"
  HOST_GAME_BUTTON_DISABLED: "Вы сейчас в сетевой игре"
  GAME_NOT_PAUSED: "#X Игра НЕ приостановлена #!"
  PAUSE_MENU_GAME_RULES_TOOLTIP: "Просмотрите текущую конфигурацию правил игры"

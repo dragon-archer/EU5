@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "Będzie musiał głosić swoje kazania gdzie indziej."
  muslim_school_events.8.title: "Zagraniczni teologowie ożywiają szkolnictwo"
  muslim_school_events.8.desc: "Teolodzy, których zaprosiliśmy do naszego kraju, znacznie wzbogacili miejscowe szkolnictwo religijne. Odcisnęli swoje piętno na naszym kraju a nowo wykształceni [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l] znaleźli w nich inspirację."
- muslim_school_events.8.a: "Stolica, [ROOT.GetCountry.GetCapital.GetName], będzie miała z nich pożytek."
+ muslim_school_events.8.a: "Stolica, [ROOT.GetCountry.GetCapital.GetNameWithNoTooltip], będzie mieć z nich pożytek."
  muslim_school_events.8.b: "Znajdą dla siebie miejsce w kraju."
  muslim_school_events.9.title: "Teologowie ze szkoły [SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip]"
  muslim_school_events.9.desc: "Wpuszczając do naszych madras uczonych ze szkoły [SCOPE.sCountry('scholar_country').GetReligiousSchool|l] nie tylko podwyższamy poziom dyskusji teologicznych w naszym kraju, ale poprawiamy też nasze relacje, jakie ma z nim [SCOPE.sCountry('scholar_country').GetAdjective|l] [SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName|l]."

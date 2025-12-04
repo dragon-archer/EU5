@@ -91,6 +91,7 @@
  STATIC_MODIFIER_NAME_giving_support_military: "提供军事支援"
  STATIC_MODIFIER_NAME_receiving_support_military: "接收军事支援"
  STATIC_MODIFIER_NAME_receiving_scutage: "接收兵役免除税"
+ STATIC_MODIFIER_NAME_receiving_rein_in_junior_diplomacy: "Reined in Junior Diplomacy"
  STATIC_MODIFIER_NAME_giving_support_loyalists: "提供效忠者支持"
  STATIC_MODIFIER_NAME_receiving_support_loyalists: "接收效忠者支持"
  STATIC_MODIFIER_NAME_receiving_divert_trade: "遭遇贸易转移"
@@ -731,6 +732,7 @@
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "胡斯派异端"
  STATIC_MODIFIER_DESC_hussite_heresy_modifier: "[ShowReligionName('hussite')]近来兴起，其信徒呼吁对[ShowReligionAdjective('catholic')]教会进行改革。"
+ STATIC_MODIFIER_NAME_expanded_mines_modifier: "扩建矿场"
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "吉兆"
  STATIC_MODIFIER_DESC_good_omen_modifier: "适逢更新之时，气候温和、粮食充足，一切征兆皆表明众神心满意足。"
@@ -800,6 +802,8 @@
  STATIC_MODIFIER_DESC_austere_court: "该国宫廷生活与官僚文化充斥着刻板与节制的氛围。"
  STATIC_MODIFIER_NAME_ostentatious_court: "浮华的宫廷"
  STATIC_MODIFIER_DESC_ostentatious_court: "该国宫廷原本就高雅，现今更以奢靡盛会与财富炫耀为特征——但确实对访客颇具震撼力。"
+ STATIC_MODIFIER_NAME_tur_public_cats: "Public Cat Property"
+ STATIC_MODIFIER_DESC_tur_public_cats: "The cats in this location have been turned into public property, protecting them from any misconduct that may occur. This especially increases the number of rats being hunted, ensuring that no deadly diseases appear."
  #Byzantium
  STATIC_MODIFIER_NAME_defensive_effort_modifier: "防御措施"
  STATIC_MODIFIER_DESC_defensive_effort_modifier: "大量士兵已被部署以保护此地。"
@@ -1055,6 +1059,7 @@
  STATIC_MODIFIER_NAME_fra_birth_of_college_de_france: "法兰西学院的诞生"
  STATIC_MODIFIER_NAME_fra_routiers_looted_province: "强盗贵族"
  STATIC_MODIFIER_NAME_fra_estates_general_halts_support: "三级议会暂停支持"
+ STATIC_MODIFIER_NAME_fra_recognized_marcel_in_parliament: "Recognized Marcel in the Estates-General"
  STATIC_MODIFIER_NAME_fra_marcel_tax_embargo: "市民抵制征税"
  STATIC_MODIFIER_NAME_fra_burghers_broken_by_marcel_death: "市民阶层遭受重挫"
  STATIC_MODIFIER_NAME_fra_lavish_gifts_to_cadet_branches: "慷慨地支持分家"
@@ -1727,8 +1732,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "限制农民权力"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "主张地方权威"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "免税政策"
- STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
- STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "政府中的专制主义影响"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "政府中的自由主义影响"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "立法机构恢复"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "士气下降"

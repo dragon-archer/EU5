@@ -85,7 +85,7 @@
  flavor_cas.21.title: "Der [GetCountry('POR').GetAdjectiveWithNoTooltip|l]e Thron ist gesichert"
  flavor_cas.21.desc: "Unser Eingriff in „[GetCountry('POR').GetName]“ war erfolgreich. Nach einem schwer umkämpften Krieg befindet sich die [GetCountry('POR').GetAdjectiveWithNoTooltip|l]e Krone nun fest unter unserer Kontrolle, womit die beiden iberischen Reiche unter der Herrschaft von „[ROOT.GetCountry.GetName]“ vereint sind."
  flavor_cas.21.a: "Lasst uns diesen Sieg feiern!"
- flavor_cas.21.b: "Gedenken wir diesem Sieg, indem wir ihm das [ShowBuildingTypeNameWithNoTooltip('monastery')] in [ShowLocationName('guadalupe')] widmen."
+ flavor_cas.21.b: "Gedenken wir diesem Sieg, indem wir ihm das [ShowBuildingTypeNameWithNoTooltip('monastery')] in [ShowLocationNameWithNoTooltip('guadalupe')] widmen."
  flavor_cas.22.title: "Der Titel der [ShowReligionAdjectiveWithNoTooltip('catholic')]en Könige"
  flavor_cas.22.desc: "Unsere unerschütterliche Verteidigung des #L [ShowReligionAdjective('catholic')|l]en#! Glaubens und die Unterstützung des Heiligen Stuhls sind nicht unbemerkt geblieben. Als Anerkennung unserer Frömmigkeit und unseres Einflusses innerhalb des Christentums hat [pope.GetName] eine #L [GetCountry('PAP').GetAdjective|l]e#! Bulle erlassen, die uns den prestigeträchtigen Titel eines katholischen Monarchen verleiht."
  flavor_cas.22.a: "Wir nehmen dankend an!"

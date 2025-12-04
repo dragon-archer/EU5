@@ -211,7 +211,7 @@
  flavor_jap.153.a: "Adoptons cette pratique de manière officielle."
  flavor_jap.153.b: "Ce ne serait qu'une distraction inutile."
  flavor_jap.154.title: "[ShowLocationNameWithNoTooltip('kyoto')] Shoshidai"
- flavor_jap.154.desc: "Souhaitant renforcer davantage l'administration, [our_ruler.GetName] a jeté les bases du bureau de #italic [ShowLocationName('kyoto')] shoshidai#!, une variation de l'ancienne fonction Tandai exercée par les gouverneurs régionaux. Dans le cadre de ce nouveau poste, le titulaire servira de représentant personnel du l'[ROOT.GetCountry.GetGovernment.GetRulerTitle] et exercera ses fonctions directement sous sa direction."
+ flavor_jap.154.desc: "Souhaitant renforcer davantage l'administration, [our_ruler.GetName] a jeté les bases du bureau de #italic [ShowLocationName('kyoto')] shoshidai#!, une variation de l'ancienne fonction Tandai exercée par les gouverneurs régionaux. Dans le cadre de ce nouveau poste, le titulaire servira de représentant personnel du [ROOT.GetCountry.GetGovernment.GetRulerTitle] et exercera ses fonctions directement sous sa direction."
  flavor_jap.154.a: "Établissons ce bureau !"
  flavor_jap.154.b: "Cela ne serait qu'un gaspillage de ressources."
  flavor_jap.155.title: "Institutionnalisation des hatamoto"

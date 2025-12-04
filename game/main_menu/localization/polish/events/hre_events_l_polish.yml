@@ -35,7 +35,7 @@
  hre.900.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle] nie żyje..."
  hre.900.desc: "Niech żyje [GetUniqueInternationalOrganization('hre').GetLeaderTitle|l]! Elektorzy zachowali w nas wiarę, a państwo [GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetName] nadal posiada cesarską koronę. W miarę jak nasz kraj umacnia swoją władzę, a książęta zaczynają postrzegać nas jako jej naturalnych posiadaczy, [GetUniqueInternationalOrganization('hre').GetName] traktuje nas z większym szacunkiem."
  hre.900.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName] zyska #Y $imperial_authority$#! w łącznej liczbie [ROOT.GetVariable('imperial_authority_change').GetValue] pkt."
+ hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName] zyska #Y $imperial_authority$#! w łącznej liczbie [ROOT.GetVariable('imperial_authority_change').GetValue|+2] pkt."
  hre.901.title: "Powrót księstwa"
  hre.901.desc: "Państwo [released_country.GetName] powstaje niczym feniks z popiołów i dołącza do książąt, których domem jest [GetUniqueInternationalOrganization('hre').GetName]!"
  hre.901.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "Que predique en otro lado."
  muslim_school_events.8.title: "Teólogos extranjeros enriquecen la erudición"
  muslim_school_events.8.desc: "Los teólogos que invitamos a nuestro país han enriquecido enormemente la erudición religiosa local. Han dejado huella en nuestro país e inspirado a una nueva generación en el estamento [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l]."
- muslim_school_events.8.a: "Los necesito en [ROOT.GetCountry.GetCapital.GetName]."
+ muslim_school_events.8.a: "Los necesito en [ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]."
  muslim_school_events.8.b: "Encontrarán sitio por todo el país."
  muslim_school_events.9.title: "Teólogos del [SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNotooltip|l]"
  muslim_school_events.9.desc: "Con eruditos [SCOPE.sCountry('scholar_country').GetAdjectiveWithNoTooltip|l] en nuestras madrasas, no solo mejoramos la discusión teológica en nuestro país, sino también nuestros vínculos con [SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName|l] de [SCOPE.sCountry('scholar_country').GetName]."

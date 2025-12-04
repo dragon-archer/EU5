@@ -124,6 +124,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_fem:0 "о"
  rank_duchy_tribe_endrank_fem:0 "о"
  rank_duchy_turkish_endrank_fem:0 ""
+ rank_duchy_voivode_endrank_fem:0 "о"
  rank_duchy_persian_endrank_fem:0 ""
  rank_duchy_andalusi_endrank_fem:0 "а"
  rank_duchy_muslim_marinids_endrank_fem:0 ""
@@ -133,6 +134,7 @@
  rank_duchy_muslim_endrank_fem:0 ""
  rank_duchy_korean_endrank_fem:0 "о"
  rank_duchy_indian_endrank_fem:0 ""
+ rank_duchy_dauphiny_endrank_fem:0 ""
  rank_duchy_palatinate_endrank_fem:0 ""
  rank_duchy_principality_endrank_fem:0 "о"
  rank_duchy_principality_slavic_endrank_fem:0 "о"
@@ -289,6 +291,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_etut:0 "ет"
  rank_duchy_tribe_endrank_etut:0 "ет"
  rank_duchy_turkish_endrank_etut:0 "ет"
+ rank_duchy_voivode_endrank_etut:0 "ет"
  rank_duchy_persian_endrank_etut:0 "ет"
  rank_duchy_andalusi_endrank_etut:0 "ет"
  rank_duchy_muslim_marinids_endrank_etut:0 "ет"
@@ -298,6 +301,7 @@
  rank_duchy_muslim_endrank_etut:0 "ет"
  rank_duchy_korean_endrank_etut:0 "ет"
  rank_duchy_indian_endrank_etut:0 "ет"
+ rank_duchy_dauphiny_endrank_etut:0 "ет"
  rank_duchy_palatinate_endrank_etut:0 "ет"
  rank_duchy_principality_endrank_etut:0 "ет"
  rank_duchy_principality_slavic_endrank_etut:0 "ет"
@@ -454,6 +458,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_etyut:0 "ет"
  rank_duchy_tribe_endrank_etyut:0 "ет"
  rank_duchy_turkish_endrank_etyut:0 "ет"
+ rank_duchy_voivode_endrank_etyut:0 "ет"
  rank_duchy_persian_endrank_etyut:0 "ет"
  rank_duchy_andalusi_endrank_etyut:0 "ет"
  rank_duchy_muslim_marinids_endrank_etyut:0 "ет"
@@ -463,6 +468,7 @@
  rank_duchy_muslim_endrank_etyut:0 "ет"
  rank_duchy_korean_endrank_etyut:0 "ет"
  rank_duchy_indian_endrank_etyut:0 "ет"
+ rank_duchy_dauphiny_endrank_etyut:0 "ет"
  rank_duchy_palatinate_endrank_etyut:0 "ет"
  rank_duchy_principality_endrank_etyut:0 "ет"
  rank_duchy_principality_slavic_endrank_etyut:0 "ет"
@@ -619,6 +625,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_gegu:0 "же"
  rank_duchy_tribe_endrank_gegu:0 "же"
  rank_duchy_turkish_endrank_gegu:0 "же"
+ rank_duchy_voivode_endrank_gegu:0 "же"
  rank_duchy_persian_endrank_gegu:0 "же"
  rank_duchy_andalusi_endrank_gegu:0 "же"
  rank_duchy_muslim_marinids_endrank_gegu:0 "же"
@@ -628,6 +635,7 @@
  rank_duchy_muslim_endrank_gegu:0 "же"
  rank_duchy_korean_endrank_gegu:0 "же"
  rank_duchy_indian_endrank_gegu:0 "же"
+ rank_duchy_dauphiny_endrank_gegu:0 "же"
  rank_duchy_palatinate_endrank_gegu:0 "же"
  rank_duchy_principality_endrank_gegu:0 "же"
  rank_duchy_principality_slavic_endrank_gegu:0 "же"
@@ -784,6 +792,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_enna:0 "ено"
  rank_duchy_tribe_endrank_enna:0 "ено"
  rank_duchy_turkish_endrank_enna:0 "ен"
+ rank_duchy_voivode_endrank_enna:0 "ено"
  rank_duchy_persian_endrank_enna:0 "ен"
  rank_duchy_andalusi_endrank_enna:0 "на"
  rank_duchy_muslim_marinids_endrank_enna:0 "ен"
@@ -793,6 +802,7 @@
  rank_duchy_muslim_endrank_enna:0 "ен"
  rank_duchy_korean_endrank_enna:0 "ено"
  rank_duchy_indian_endrank_enna:0 "ен"
+ rank_duchy_dauphiny_endrank_enna:0 "ен"
  rank_duchy_palatinate_endrank_enna:0 "ен"
  rank_duchy_principality_endrank_enna:0 "ено"
  rank_duchy_principality_slavic_endrank_enna:0 "ено"
@@ -949,6 +959,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_ityat:0 "ит"
  rank_duchy_tribe_endrank_ityat:0 "ит"
  rank_duchy_turkish_endrank_ityat:0 "ит"
+ rank_duchy_voivode_endrank_ityat:0 "ит"
  rank_duchy_persian_endrank_ityat:0 "ит"
  rank_duchy_andalusi_endrank_ityat:0 "ит"
  rank_duchy_muslim_marinids_endrank_ityat:0 "ит"
@@ -958,6 +969,7 @@
  rank_duchy_muslim_endrank_ityat:0 "ит"
  rank_duchy_korean_endrank_ityat:0 "ит"
  rank_duchy_indian_endrank_ityat:0 "ит"
+ rank_duchy_dauphiny_endrank_ityat:0 "ит"
  rank_duchy_palatinate_endrank_ityat:0 "ит"
  rank_duchy_principality_endrank_ityat:0 "ит"
  rank_duchy_principality_slavic_endrank_ityat:0 "ит"
@@ -1114,6 +1126,7 @@
  rank_duchy_tribe_haudenosaunee_endrank_itat:0 "ит"
  rank_duchy_tribe_endrank_itat:0 "ит"
  rank_duchy_turkish_endrank_itat:0 "ит"
+ rank_duchy_voivode_endrank_itat:0 "ит"
  rank_duchy_persian_endrank_itat:0 "ит"
  rank_duchy_andalusi_endrank_itat:0 "ит"
  rank_duchy_muslim_marinids_endrank_itat:0 "ит"
@@ -1123,6 +1136,7 @@
  rank_duchy_muslim_endrank_itat:0 "ит"
  rank_duchy_korean_endrank_itat:0 "ит"
  rank_duchy_indian_endrank_itat:0 "ит"
+ rank_duchy_dauphiny_endrank_itat:0 "ит"
  rank_duchy_palatinate_endrank_itat:0 "ит"
  rank_duchy_principality_endrank_itat:0 "ит"
  rank_duchy_principality_slavic_endrank_itat:0 "ит"
@@ -1279,6 +1293,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_fem:0 "о"
  rank_duchy_tribe_endlong_fem:0 "о"
  rank_duchy_turkish_endlong_fem:0 ""
+ rank_duchy_voivode_endlong_fem:0 "о"
  rank_duchy_persian_endlong_fem:0 ""
  rank_duchy_andalusi_endlong_fem:0 "а"
  rank_duchy_muslim_marinids_endlong_fem:0 ""
@@ -1288,6 +1303,7 @@
  rank_duchy_muslim_endlong_fem:0 ""
  rank_duchy_korean_endlong_fem:0 "о"
  rank_duchy_indian_endlong_fem:0 ""
+ rank_duchy_dauphiny_endlong_fem:0 ""
  rank_duchy_palatinate_endlong_fem:0 ""
  rank_duchy_principality_endlong_fem:0 "о"
  rank_duchy_principality_slavic_endlong_fem:0 "о"
@@ -1444,6 +1460,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_etut:0 "ет"
  rank_duchy_tribe_endlong_etut:0 "ет"
  rank_duchy_turkish_endlong_etut:0 "ет"
+ rank_duchy_voivode_endlong_etut:0 "ет"
  rank_duchy_persian_endlong_etut:0 "ет"
  rank_duchy_andalusi_endlong_etut:0 "ет"
  rank_duchy_muslim_marinids_endlong_etut:0 "ет"
@@ -1453,6 +1470,7 @@
  rank_duchy_muslim_endlong_etut:0 "ет"
  rank_duchy_korean_endlong_etut:0 "ет"
  rank_duchy_indian_endlong_etut:0 "ет"
+ rank_duchy_dauphiny_endlong_etut:0 "ет"
  rank_duchy_palatinate_endlong_etut:0 "ет"
  rank_duchy_principality_endlong_etut:0 "ет"
  rank_duchy_principality_slavic_endlong_etut:0 "ет"
@@ -1609,6 +1627,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_etyut:0 "ет"
  rank_duchy_tribe_endlong_etyut:0 "ет"
  rank_duchy_turkish_endlong_etyut:0 "ет"
+ rank_duchy_voivode_endlong_etyut:0 "ет"
  rank_duchy_persian_endlong_etyut:0 "ет"
  rank_duchy_andalusi_endlong_etyut:0 "ет"
  rank_duchy_muslim_marinids_endlong_etyut:0 "ет"
@@ -1618,6 +1637,7 @@
  rank_duchy_muslim_endlong_etyut:0 "ет"
  rank_duchy_korean_endlong_etyut:0 "ет"
  rank_duchy_indian_endlong_etyut:0 "ет"
+ rank_duchy_dauphiny_endlong_etyut:0 "ет"
  rank_duchy_palatinate_endlong_etyut:0 "ет"
  rank_duchy_principality_endlong_etyut:0 "ет"
  rank_duchy_principality_slavic_endlong_etyut:0 "ет"
@@ -1774,6 +1794,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_gegu:0 "же"
  rank_duchy_tribe_endlong_gegu:0 "же"
  rank_duchy_turkish_endlong_gegu:0 "же"
+ rank_duchy_voivode_endlong_gegu:0 "же"
  rank_duchy_persian_endlong_gegu:0 "же"
  rank_duchy_andalusi_endlong_gegu:0 "же"
  rank_duchy_muslim_marinids_endlong_gegu:0 "же"
@@ -1783,6 +1804,7 @@
  rank_duchy_muslim_endlong_gegu:0 "же"
  rank_duchy_korean_endlong_gegu:0 "же"
  rank_duchy_indian_endlong_gegu:0 "же"
+ rank_duchy_dauphiny_endlong_gegu:0 "же"
  rank_duchy_palatinate_endlong_gegu:0 "же"
  rank_duchy_principality_endlong_gegu:0 "же"
  rank_duchy_principality_slavic_endlong_gegu:0 "же"
@@ -1939,6 +1961,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_enna:0 "ено"
  rank_duchy_tribe_endlong_enna:0 "ено"
  rank_duchy_turkish_endlong_enna:0 "ен"
+ rank_duchy_voivode_endlong_enna:0 "ено"
  rank_duchy_persian_endlong_enna:0 "ен"
  rank_duchy_andalusi_endlong_enna:0 "на"
  rank_duchy_muslim_marinids_endlong_enna:0 "ен"
@@ -1948,6 +1971,7 @@
  rank_duchy_muslim_endlong_enna:0 "ен"
  rank_duchy_korean_endlong_enna:0 "ено"
  rank_duchy_indian_endlong_enna:0 "ен"
+ rank_duchy_dauphiny_endlong_enna:0 "ен"
  rank_duchy_palatinate_endlong_enna:0 "ен"
  rank_duchy_principality_endlong_enna:0 "ено"
  rank_duchy_principality_slavic_endlong_enna:0 "ено"
@@ -2104,6 +2128,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_ityat:0 "ит"
  rank_duchy_tribe_endlong_ityat:0 "ит"
  rank_duchy_turkish_endlong_ityat:0 "ит"
+ rank_duchy_voivode_endlong_ityat:0 "ит"
  rank_duchy_persian_endlong_ityat:0 "ит"
  rank_duchy_andalusi_endlong_ityat:0 "ит"
  rank_duchy_muslim_marinids_endlong_ityat:0 "ит"
@@ -2113,6 +2138,7 @@
  rank_duchy_muslim_endlong_ityat:0 "ит"
  rank_duchy_korean_endlong_ityat:0 "ит"
  rank_duchy_indian_endlong_ityat:0 "ит"
+ rank_duchy_dauphiny_endlong_ityat:0 "ит"
  rank_duchy_palatinate_endlong_ityat:0 "ит"
  rank_duchy_principality_endlong_ityat:0 "ит"
  rank_duchy_principality_slavic_endlong_ityat:0 "ит"
@@ -2269,6 +2295,7 @@
  rank_duchy_tribe_haudenosaunee_endlong_itat:0 "ит"
  rank_duchy_tribe_endlong_itat:0 "ит"
  rank_duchy_turkish_endlong_itat:0 "ит"
+ rank_duchy_voivode_endlong_itat:0 "ит"
  rank_duchy_persian_endlong_itat:0 "ит"
  rank_duchy_andalusi_endlong_itat:0 "ит"
  rank_duchy_muslim_marinids_endlong_itat:0 "ит"
@@ -2278,6 +2305,7 @@
  rank_duchy_muslim_endlong_itat:0 "ит"
  rank_duchy_korean_endlong_itat:0 "ит"
  rank_duchy_indian_endlong_itat:0 "ит"
+ rank_duchy_dauphiny_endlong_itat:0 "ит"
  rank_duchy_palatinate_endlong_itat:0 "ит"
  rank_duchy_principality_endlong_itat:0 "ит"
  rank_duchy_principality_slavic_endlong_itat:0 "ит"
@@ -30758,9 +30786,7 @@
  rank_kingdom_catholic_spain_endrank_fem:0 "а" #True
  rank_kingdom_pirate_republic_endrank_fem:0 "а" #True
  rank_japanese_clan_endrank_fem:0 "" #True
- rank_duchy_dauphiny_endrank_fem:0 "" #True
  rank_duchy_pirate_republic_endrank_fem:0 "а" #True
- rank_duchy_voivode_endrank_fem:0 "о" #False
  rank_duchy_nahua_endrank_fem:0 "" #True
  rank_duchy_thai_endrank_fem:0 "о" #True
  rank_county_pirate_republic_endrank_fem:0 "а" #True
@@ -30777,9 +30803,7 @@
  rank_kingdom_catholic_spain_endrank_etut:0 "ет" #True
  rank_kingdom_pirate_republic_endrank_etut:0 "ет" #True
  rank_japanese_clan_endrank_etut:0 "ет" #True
- rank_duchy_dauphiny_endrank_etut:0 "ет" #True
  rank_duchy_pirate_republic_endrank_etut:0 "ет" #True
- rank_duchy_voivode_endrank_etut:0 "ет" #False
  rank_duchy_nahua_endrank_etut:0 "ет" #True
  rank_duchy_thai_endrank_etut:0 "ет" #True
  rank_county_pirate_republic_endrank_etut:0 "ет" #True
@@ -30796,9 +30820,7 @@
  rank_kingdom_catholic_spain_endrank_etyut:0 "ет" #True
  rank_kingdom_pirate_republic_endrank_etyut:0 "ет" #True
  rank_japanese_clan_endrank_etyut:0 "ет" #True
- rank_duchy_dauphiny_endrank_etyut:0 "ет" #True
  rank_duchy_pirate_republic_endrank_etyut:0 "ет" #True
- rank_duchy_voivode_endrank_etyut:0 "ет" #False
  rank_duchy_nahua_endrank_etyut:0 "ет" #True
  rank_duchy_thai_endrank_etyut:0 "ет" #True
  rank_county_pirate_republic_endrank_etyut:0 "ет" #True
@@ -30816,9 +30838,7 @@
  rank_kingdom_catholic_spain_endrank_gegu:0 "же" #True
  rank_kingdom_pirate_republic_endrank_gegu:0 "же" #True
  rank_japanese_clan_endrank_gegu:0 "же" #True
- rank_duchy_dauphiny_endrank_gegu:0 "же" #True
  rank_duchy_pirate_republic_endrank_gegu:0 "же" #True
- rank_duchy_voivode_endrank_gegu:0 "же" #False
  rank_duchy_nahua_endrank_gegu:0 "же" #True
  rank_duchy_thai_endrank_gegu:0 "же" #True
  rank_county_pirate_republic_endrank_gegu:0 "же" #True
@@ -30835,9 +30855,7 @@
  rank_kingdom_catholic_spain_endrank_enna:0 "на" #True
  rank_kingdom_pirate_republic_endrank_enna:0 "на" #True
  rank_japanese_clan_endrank_enna:0 "ен" #True
- rank_duchy_dauphiny_endrank_enna:0 "ен" #True
  rank_duchy_pirate_republic_endrank_enna:0 "на" #True
- rank_duchy_voivode_endrank_enna:0 "но" #False
  rank_duchy_nahua_endrank_enna:0 "ен" #True
  rank_duchy_thai_endrank_enna:0 "но" #True
  rank_county_pirate_republic_endrank_enna:0 "на" #True
@@ -30854,9 +30872,7 @@
  rank_kingdom_catholic_spain_endrank_ityat:0 "ит" #True
  rank_kingdom_pirate_republic_endrank_ityat:0 "ит" #True
  rank_japanese_clan_endrank_ityat:0 "ит" #True
- rank_duchy_dauphiny_endrank_ityat:0 "ит" #True
  rank_duchy_pirate_republic_endrank_ityat:0 "ит" #True
- rank_duchy_voivode_endrank_ityat:0 "ит" #False
  rank_duchy_nahua_endrank_ityat:0 "ит" #True
  rank_duchy_thai_endrank_ityat:0 "ит" #True
  rank_county_pirate_republic_endrank_ityat:0 "ит" #True
@@ -30873,9 +30889,7 @@
  rank_kingdom_catholic_spain_endrank_itat:0 "ит" #True
  rank_kingdom_pirate_republic_endrank_itat:0 "ит" #True
  rank_japanese_clan_endrank_itat:0 "ит" #True
- rank_duchy_dauphiny_endrank_itat:0 "ит" #True
  rank_duchy_pirate_republic_endrank_itat:0 "ит" #True
- rank_duchy_voivode_endrank_itat:0 "ит" #False
  rank_duchy_nahua_endrank_itat:0 "ит" #True
  rank_duchy_thai_endrank_itat:0 "ит" #True
  rank_county_pirate_republic_endrank_itat:0 "ит" #True
@@ -30893,9 +30907,7 @@
  rank_kingdom_catholic_spain_endlong_fem:0 "а" #True
  rank_kingdom_pirate_republic_endlong_fem:0 "а" #True
  rank_japanese_clan_endlong_fem:0 "" #True
- rank_duchy_dauphiny_endlong_fem:0 "" #True
  rank_duchy_pirate_republic_endlong_fem:0 "а" #True
- rank_duchy_voivode_endlong_fem:0 "о" #False
  rank_duchy_nahua_endlong_fem:0 "" #True
  rank_duchy_thai_endlong_fem:0 "о" #True
  rank_county_pirate_republic_endlong_fem:0 "а" #True
@@ -30912,9 +30924,7 @@
  rank_kingdom_catholic_spain_endlong_etut:0 "ет" #True
  rank_kingdom_pirate_republic_endlong_etut:0 "ет" #True
  rank_japanese_clan_endlong_etut:0 "ет" #True
- rank_duchy_dauphiny_endlong_etut:0 "ет" #True
  rank_duchy_pirate_republic_endlong_etut:0 "ет" #True
- rank_duchy_voivode_endlong_etut:0 "ет" #False
  rank_duchy_nahua_endlong_etut:0 "ет" #True
  rank_duchy_thai_endlong_etut:0 "ет" #True
  rank_county_pirate_republic_endlong_etut:0 "ет" #True
@@ -30931,9 +30941,7 @@
  rank_kingdom_catholic_spain_endlong_etyut:0 "ет" #True
  rank_kingdom_pirate_republic_endlong_etyut:0 "ет" #True
  rank_japanese_clan_endlong_etyut:0 "ет" #True
- rank_duchy_dauphiny_endlong_etyut:0 "ет" #True
  rank_duchy_pirate_republic_endlong_etyut:0 "ет" #True
- rank_duchy_voivode_endlong_etyut:0 "ет" #False
  rank_duchy_nahua_endlong_etyut:0 "ет" #True
  rank_duchy_thai_endlong_etyut:0 "ет" #True
  rank_county_pirate_republic_endlong_etyut:0 "ет" #True
@@ -30951,9 +30959,7 @@
  rank_kingdom_catholic_spain_endlong_gegu:0 "же" #True
  rank_kingdom_pirate_republic_endlong_gegu:0 "же" #True
  rank_japanese_clan_endlong_gegu:0 "же" #True
- rank_duchy_dauphiny_endlong_gegu:0 "же" #True
  rank_duchy_pirate_republic_endlong_gegu:0 "же" #True
- rank_duchy_voivode_endlong_gegu:0 "же" #False
  rank_duchy_nahua_endlong_gegu:0 "же" #True
  rank_duchy_thai_endlong_gegu:0 "же" #True
  rank_county_pirate_republic_endlong_gegu:0 "же" #True
@@ -30970,9 +30976,7 @@
  rank_kingdom_catholic_spain_endlong_enna:0 "на" #True
  rank_kingdom_pirate_republic_endlong_enna:0 "на" #True
  rank_japanese_clan_endlong_enna:0 "ен" #True
- rank_duchy_dauphiny_endlong_enna:0 "ен" #True
  rank_duchy_pirate_republic_endlong_enna:0 "на" #True
- rank_duchy_voivode_endlong_enna:0 "но" #False
  rank_duchy_nahua_endlong_enna:0 "ен" #True
  rank_duchy_thai_endlong_enna:0 "но" #True
  rank_county_pirate_republic_endlong_enna:0 "на" #True
@@ -30989,9 +30993,7 @@
  rank_kingdom_catholic_spain_endlong_ityat:0 "ит" #True
  rank_kingdom_pirate_republic_endlong_ityat:0 "ит" #True
  rank_japanese_clan_endlong_ityat:0 "ит" #True
- rank_duchy_dauphiny_endlong_ityat:0 "ит" #True
  rank_duchy_pirate_republic_endlong_ityat:0 "ит" #True
- rank_duchy_voivode_endlong_ityat:0 "ит" #False
  rank_duchy_nahua_endlong_ityat:0 "ит" #True
  rank_duchy_thai_endlong_ityat:0 "ит" #True
  rank_county_pirate_republic_endlong_ityat:0 "ит" #True
@@ -31008,9 +31010,7 @@
  rank_kingdom_catholic_spain_endlong_itat:0 "ит" #True
  rank_kingdom_pirate_republic_endlong_itat:0 "ит" #True
  rank_japanese_clan_endlong_itat:0 "ит" #True
- rank_duchy_dauphiny_endlong_itat:0 "ит" #True
  rank_duchy_pirate_republic_endlong_itat:0 "ит" #True
- rank_duchy_voivode_endlong_itat:0 "ит" #False
  rank_duchy_nahua_endlong_itat:0 "ит" #True
  rank_duchy_thai_endlong_itat:0 "ит" #True
  rank_county_pirate_republic_endlong_itat:0 "ит" #True

@@ -5,6 +5,7 @@
  flavor_azt.70.a: "Jeder muss zum Bau der Pyramide beitragen!"
  flavor_azt.70.b: "Lasst unsere Klientelländer ihren gerechten Beitrag leisten."
  flavor_azt.70.c: "Ein Projekt für ein anderes Mal – vielleicht."
+ subject_contribution_reason: "Klientellandbeitrag"
  we_will_be_able_to_construct_the_building_later_tt: "Wir können dieses [building|e] zu einem späteren Zeitpunkt errichten."
  flavor_azt.70.historical_info: "Im Zentrum von Tenochtitlán thront der „Huēyi Teōcalli“ als imposantes Symbol für die Hingabe und Macht der Mexica. Der ab dem 14. Jahrhundert in mehreren Etappen erbaute Tempel verfügt über zwei Treppen, die zu separaten Tempeln führen: einer für Huitzilopochtli, den Gott des Krieges, der andere für Tlaloc, den Gott des Regens und der Fruchtbarkeit. In der Nähe befindet sich zudem ein Schrein für Ehecatl, den Gott des Windes. Der Tempel wurde zu einem markanten Merkmal des heiligen Herzens der Stadt, in dem Priester Opferungen und Zeremonien durchführten, um die kosmische Ordnung aufrechtzuerhalten."
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

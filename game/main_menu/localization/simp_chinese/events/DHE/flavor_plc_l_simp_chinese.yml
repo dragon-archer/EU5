@@ -113,7 +113,7 @@
  flavor_plc.1001.title: "牧首的访问"
  flavor_plc.1001.desc: "近日，[ShowLocationName('constantinople')]牧首造访[leader_of_the_kyiv_patriarchate.GetName]的[target_religion.GetAdjective]都主教区，为[target_religion.GetAdjectiveWithNoTooltip]教会的崇高事业募集资金。访问期间，他对当地信徒的请求只是敷衍了事，无视他们希望教会帮助解决危机的恳求。\n\n鉴于这种情况，我们或许有望推动两教会的联合。"
  flavor_plc.1001.historical_info: "1588年，君士坦丁堡牧首耶利米二世造访罗斯诸邦募集资金，以充实牧首金库并巩固其政治权力。途中，他授予莫斯科都主教区自主牧首地位。在鲁塞尼亚访问期间，他罢免了基辅都主教奥尼西福尔，并警告神职人员中存在的多妻现象。然而这些举措未能平息鲁塞尼亚主教们的不满——他们认为耶利米对遏制鲁塞尼亚平民信仰衰微的作为远远不够。"
- flavor_plc.1001.a: "向[leader_of_the_kyiv_patriarchate.GetAdjective]都主教区提议合并。"
+ flavor_plc.1001.a: "向[leader_of_the_kyiv_patriarchate.GetAdjectiveWithNoTooltip]都主教区提议合并。"
  flavor_plc.1001.b: "尝试引导[target_religion.GetAdjectiveWithNoTooltip]平民改信[ROOT.GetCountry.GetReligion.GetNameWithNoTooltip]。"
  plc_revoking_empowered_orthodox_nobility_will_prevent: "撤销[ShowEstatePrivilegeName('plc_empower_orthodox_nobility')]会阻止进一步[events|e]的触发。"
  STATIC_MODIFIER_NAME_plc_diplomatic_efforts_to_unify_churches: "统一教会"

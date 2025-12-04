@@ -1,7 +1,7 @@
 ﻿l_braz_por:
  flavor_gra.1.title: "Refugiados Mouros"
  flavor_gra.1.desc: "Em nome de Alá, o mais gracioso, o mais misericordioso. Granada foi tomada pelos infiéis! A última joia de Al-Andalus, uma importante fonte de aprendizado, está agora nas mãos dos castelhanos. À medida que o mundo islâmico se recupera dessa perda, inúmeros refugiados mouros fogem para cidades muçulmanas e cortes do Norte da África e Oriente Médio, trazendo seu conhecimento e obras de estudiosos excepcionais como Averróis, Abulcasis e Abu Bakr. Convidar esses refugiados para o país [ROOT.GetCountry.GetName] talvez possa dar um grande impulso em nossos próprios esforços nos campos da ciência e da cultura."
- flavor_gra.1.a: "Sem dúvidas, convide-os para o país [ROOT.GetCountry.GetName]!"
+ flavor_gra.1.a: "Sem dúvidas, convide-os para a entidade política [ROOT.GetCountry.GetNameWithNoTooltip]!"
  flavor_gra.1.b: "Não, nós não precisamos deles."
  flavor_gra.2.title: "O Emirado da Sicília"
  flavor_gra.2.desc: "Em épocas passadas, o Emirado da Sicília foi um bastião valente da nossa fé e seguiu forte até as cruzadas conquistarem a ilha em 1087.\n\nAgora que temos a posse dessa terra cobiçada, não perderemos o controle dela novamente!"

@@ -216,6 +216,7 @@
  rtr_demand_occupied_territories_entry_short: "$rtr_demand_occupied_territories$"
  rtr_demand_occupied_territories_desc: "대상 [country|e]에 [occupied|e]당한 지점을 모두 요구합니다."
  rtr_demand_occupied_territories_tt: "[winner.GetName]에 점령당한 모든 [loser.GetAdjective] [location|e]이 [winner.GetNameWithNoTooltip]에 압류되었습니다"
+ rtr_demand_occupied_territories_no_winner_loser_tt: "Any [location|e] the winner occupies from the loser is seized."
  rtr_demand_complete_annexation: "완전한 합병 요구"
  rtr_demand_complete_annexation_entry: "$rtr_demand_complete_annexation$"
  rtr_demand_complete_annexation_entry_short: "$rtr_demand_complete_annexation$"

@@ -2,6 +2,7 @@
  SAVE_BUTTON_DISABLED: "@trigger_no! W trybie Ironman gra jest zapisywana tylko automatycznie"
  SAVE_BUTTON_DISABLED_BY_TUTORIAL: "@trigger_no! Nie możesz zapisywać gry w trakcie rozgrywania samouczka."
  LOAD_INGAME_BUTTON_DISABLED: "Zapis nie może zostać wczytany w grze wieloosobowej"
+ LOAD_INGAME_BUTTON_IRONMAN: "@trigger_no! You cannot load a game in Ironman mode"
  HOST_GAME_BUTTON_DISABLED: "Obecnie prowadzisz rozgrywkę wieloosobową"
  GAME_NOT_PAUSED: "#X Gra NIE jest wstrzymana#!"
  PAUSE_MENU_GAME_RULES_TOOLTIP: "Zobacz obecną konfigurację zasad gry"

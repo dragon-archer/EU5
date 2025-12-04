@@ -76,7 +76,7 @@
  exploration_monthly.23.a: "Gözcü kulesi inşa edilsin."
  exploration_monthly.23.b: "Gerek yok."
  exploration_monthly.24.title: "Can Dostu Köpek"
- exploration_monthly.24.desc: "[explorer.GetName], [ROOT.GetExploration.GetArea.GetName] bölgesini keşfederken hoş bir sürprizle karşılaştı. Yakın zamanlarda kampının çevresinde bir köpek kendini göstermeye başladı ve oldukça arkadaş canlısı görünüyordu. Köpek sürekli havlasa da bunu bir tehdit olarak değil de [explorer.GetNameWithNoTooltip] tarafından ilgi görmek için yapıyor gibi görünüyor. Aynı zamanda keşif seferini bir yöne yönlendirmeye çalışıyor gibi dursa da günün sonunda onun bir köpek olduğunu unutmamak gerek."
+ exploration_monthly.24.desc: "[explorer.GetName], [ROOT.GetExploration.GetArea.GetName] alanını keşfederken hoş bir sürprizle karşılaştı. Yakın zamanlarda kampının çevresinde bir köpek kendini göstermeye başladı ve oldukça arkadaş canlısı görünüyordu. Köpek sürekli havlasa da bunu bir tehdit olarak değil de [explorer.GetNameWithNoTooltip] tarafından ilgi görmek için yapıyor gibi görünüyor. Aynı zamanda keşif seferini bir yöne yönlendirmeye çalışıyor gibi dursa da günün sonunda onun bir köpek olduğunu unutmamak gerek."
  exploration_monthly.24.a: "Havlıyorsa bir bildiği vardır."
  exploration_monthly.24.a.tt: "[explorer.GetNameWithNoTooltip], köpeği sahiplenip onu takip edecek."
  exploration_monthly.24.b: "Hanimiş benim oğluşum?"

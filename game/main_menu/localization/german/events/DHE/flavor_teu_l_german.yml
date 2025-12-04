@@ -94,7 +94,7 @@
  flavor_teu.102.title: "$flavor_teu.101.title$"
  flavor_teu.102.desc: "$flavor_teu.100.desc.crusader_dead$"
  flavor_teu.102.a: "Das sind in der Tat unerquickliche Neuigkeiten."
- flavor_pol_teu.1.title: "Das Urteil von 1339"
+ flavor_pol_teu.1.title: "Das Urteil von 1339"
  flavor_pol_teu.1.desc: "Im Jahr 1335 legten wir am #L [GetCountry('PAP').GetAdjective|l]en#! [GetCountry('PAP').GetGovernment.GetCourtTitle] Beschwerde gegen [GetCountry('TEU').GetName] ein. Nach Jahren des Wartens ist endlich eine [GetCountry('PAP').GetAdjectiveWithNoTooltip|l]e Kommission zusammengekommen, und der Beratungsprozess hat begonnen. Wie wir erwartet hatten, stimmten die Richter unserer ernsten Beschwerde zu und erklärten, dass [GetCountry('TEU').GetNameWithNoTooltip] die Provinzen [ShowProvinceDefinitionName('danzig_province')], [ShowProvinceDefinitionName('tuchola_province')], [ShowProvinceDefinitionName('kuyavia_province')], [ShowProvinceDefinitionName('dobrzyn_province')] und [ShowProvinceDefinitionName('stolp_province')] zurückgeben muss."
  flavor_pol_teu.1.historical_info: "Sowohl 1319 als auch 1335 reichte die polnische Seite am päpstlichen Hof Beschwerde gegen den Deutschen Orden ein und verlangte die Rückgabe von „Danzig Pommern“ an Polen. Im Fall der Beschwerde von 1335 entschied die vom Kirchenstaat gesandte Kommission, dass die teutonische Aggression ungerechtfertigt gewesen war und dass die Gebiete zurückgegeben und eine Reparationszahlung zurückgezahlt werden müsse. Der Deutsche Orden legte gegen diese Entscheidung Beschwerde ein, und nach der päpstlichen Beratung war er lediglich gezwungen, die besetzten Gebiete Bydgoszcz und Dobrzyń zurückzugeben."
  flavor_pol_teu.1.a: "Und wir dachten, die Gerechtigkeit wäre tot …"

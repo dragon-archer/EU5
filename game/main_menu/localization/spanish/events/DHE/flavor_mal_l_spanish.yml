@@ -59,7 +59,7 @@
  flavor_mal.14.title: "La apuesta por la independencia de [target_subject_country.GetNameWithNoTooltip]"
  flavor_mal.14.desc: "Pese a los intentos por mejorar la vida de todos los súbditos, hay entre nosotros quienes desean vernos caer para erradicar nuestro legado. Planean en las sombras, daga en mano, esperando a atacar en un momento de debilidad.\n\nLa voz de discrepancia de [target_subject_country.GetName] es puro teatro por parte de un niño petulante, demasiado osado y ansioso."
  flavor_mal.14.a: "Muy bien, concedámosles la independencia."
- flavor_mal.14.b: "Si es guerra lo que quieren..."
+ flavor_mal.14.b: "Si lo que quieren es una guerra..."
  flavor_mal.14.b.tt: "Intentaremos refrenar a [GetCountry('JOL').GetName].\n#italic ¡Eso podría provocar una #R guerra#! entre nuestros Estados!#!"
  flavor_mal.15.title: "[target_overlord_country.GetNameWithNoTooltip] interviene"
  flavor_mal.15.desc: "A pesar de nuestros intentos por convencer a [target_overlord_country.GetName] y a su inculta y repulsiva realeza de que no deseamos más que coexistir en paz y sin servidumbres, parece que exigen nuestro total sometimiento. ¡Tal insulto sin duda avivará los fuegos de la independencia a lo largo de nuestras fronteras!"

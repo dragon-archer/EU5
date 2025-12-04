@@ -293,7 +293,7 @@
  flavor_mam.64.a: "Wir brauchen die Unterstützung der #L [target_culture.GetNameWithNoTooltip|l]en#! Mamālīk."
  flavor_mam.64.b: "Die Unterstützung der #L [target_culture2.GetNameWithNoTooltip|l]en#! Mamālīk ist so wichtig wie eh und je."
  flavor_mam.64.c: "[third_ruler.GetNameWithNoTooltip|U] ist zwar nicht so bedeutend, hat aber Können bewiesen."
- flavor_mam.64.d: "Ein Mitglied der traditionellen Mamālīk aus unseren #L [target_culture4.GetName|l]en#! Reihen."
+ flavor_mam.64.d: "Ein Mitglied der traditionellen Mamālīk aus unseren [target_culture4.GetNameWithNoTooltip|l]en Reihen."
  flavor_mam.65.title: "Soldaten aus [target_location.GetNameWithNoTooltip]"
  flavor_mam.65.desc: "Obgleich $mamluks$ den Kern unserer Truppen ausmachen, besteht unser Militär nicht gänzlich aus Kriegersklaven. Örtliche Soldaten aus [target_location.GetName] stellen den Großteil unserer Infanterie, und sie erfüllen auch Wach- und Garnisonsaufgaben.\n\nGeringe Aufstiegsmöglichkeiten und schlechter Sold sind jedoch keine große Motivation, und wir wissen nicht, wie sehr wir diesen Männern vertrauen können. Zudem vernachlässigen [ROOT.GetCountry.GetGovernment.GetRuler.Custom('DE_ART_DEF_S_N')] [ROOT.GetCountry.GetGovernment.GetRulerTitle] und die örtlichen Statthalter der [target_location.GetRank.GetName] ihre Ausbildung und Ausrüstung häufig. In [target_location.GetArea.GetName] hat das Misstrauen zwischen den Einheimischen und $mamluks$-Statthaltern zu Unruhen geführt."
  flavor_mam.65.a: "Wir müssen dies im Keim ersticken!"

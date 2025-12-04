@@ -193,7 +193,7 @@
  flavor_ira.45.title: "[ShowDynastyNameWithNoTooltip('qajar_dynasty')] Kabileleri"
  flavor_ira.45.desc: "[ShowDynastyName('qajar_dynasty')] kabilelerinin [ROOT.GetCountry.GetName] toprakları boyunca göç etmesi, [ROOT.GetCountry.GetFlavorRank] içinde istikrarsızlığa sebep oldu. Buna rağmen kabilenin hükümdarları [target_character.GetName] ile [target_character2.GetName], yetenekli stratejistler ve yöneticiler olduklarını kanıtladı. [ROOT.GetCountry.GetFlavorRank] halkı tarafından rağbet görmeseler de onları mevcut hükûmetimizde tutup deneyimlerinden yararlanarak kabilelerinden fayda sağlayabiliriz."
  flavor_ira.45.historical_info: "Safevîlerin vârisi olan Kaçar ailesi ilk başlarda çoğunlukla İranlı şahlara destek olmuştur. Bölgede Ağa Muhammed Şah'ın yükselişi ve Safevî topraklarının bölünmesiyle birlikte Kaçar ailesi, meşruiyetlerine karşı gelen çok sayıda kabileyi fethederek kendilerini Şah ilan etmişlerdir. Ailenin hükümdarlığı, 1925 yılında gerçekleşen bir darbe sonucunda yerini Pehlevî Hanedanı'na bırakana kadar sürmüştür."
- flavor_ira.45.a: "[ROOT.GetCountry.GetName] ülkesine hoş gelmişler."
+ flavor_ira.45.a: "Buyursunlar, [ROOT.GetCountry.GetNameWithNoTooltip] topraklarına gelsinler."
  flavor_ira.45.b: "Hepsini kovun gitsin!"
  ira_qajar_dynasty_may_claim_crown: "[legitimacy|e] ve [stability|e] sıkıntısı çekersek [ShowDynastyName('qajar_dynasty')] [Concept('dynasty', 'Hanedanı')|e] tahtımızı elimizden almaya çalışabilir."
  flavor_ira.46.title: "[ShowDynastyNameWithNoTooltip('qajar_dynasty')] Kabilelerinin İsyanı"

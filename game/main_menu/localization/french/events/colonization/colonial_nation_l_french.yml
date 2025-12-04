@@ -22,7 +22,7 @@
  colonial_nation.183.title: "Nouveau gouverneur"
  colonial_nation.183.desc: "Les rumeurs sur l'incompétence de [ROOT.GetCountry.GetGovernment.GetRuler.GetName] sont parvenues jusqu'à la Cour, où l'on s'inquiète des effets que cela pourrait avoir sur notre réputation. Menacée d'une reprise en main par la Couronne, la colonie nous a proposé une mesure de temporisation : nommer un nouveau gouverneur qui pourra reprendre en main les affaires avant qu'il soit trop tard. "
  colonial_nation.183.a: "Faisons donc contre mauvaise fortune bon cœur."
- colonial_nation.183.b: "Non, [ROOT.GetCountry.GetGovernment.GetRuler.GetName] restera à notre tête."
+ colonial_nation.183.b: "Non, [ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip] restera à notre tête."
  colonial_nation.184.title: "Le [ROOT.GetCountry.GetName] est endetté !"
  colonial_nation.184.desc: "Les difficultés auxquelles se trouve confrontée la colonie semblent sans fin. La dette est telle que la population semble perdre tout courage. Et, face à la faim qui menace les familles, [ROOT.GetCountry.GetGovernment.GetRuler.GetName] n'a d'autre choix que trouver une solution prompte et efficace."
  colonial_nation.184.a: "Nous saurons user de notre influence pour régler ce problème."

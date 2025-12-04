@@ -5,6 +5,7 @@
  flavor_azt.70.a: "Herkes piramide katkıda bulunmalı!"
  flavor_azt.70.b: "Tabi devletlerimiz üstlerine düşeni yapsın."
  flavor_azt.70.c: "Bu projeyi belki başka bir zaman yaparız."
+ subject_contribution_reason: "Tabi Devlet Katkısı"
  we_will_be_able_to_construct_the_building_later_tt: "Bu [Concept('building', 'Yapıyı')|e] daha sonra inşa edebiliriz."
  flavor_azt.70.historical_info: "Huēyi Teōcalli, Meksika adanmışlığının ve gücünün yüce bir sembolü olarak Tenochtitlan'ın merkezinde bulunur. 14. yüzyıl itibarıyla aşamalar hâlinde inşa edilmiştir ve iki merdivene sahiptir. Biri savaş tanrısı Huitzilopochtli, diğeri yağmur ve bereket tanrısı Tlaloc için olmak üzere iki tapınağa çıkarlar. Yakınlarda Rüzgâr Tanrısı Ehecatl adına bir mabet bulunur. Kozmik düzeni korumak için din adamlarının kurban sunup törenler yaptığı bu tapınak daha sonra şehrin kutsal kalbinin görkemli bir parçası hâline gelmiştir."
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

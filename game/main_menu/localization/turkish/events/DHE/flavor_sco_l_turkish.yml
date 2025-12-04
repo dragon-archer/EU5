@@ -58,7 +58,7 @@
  flavor_sco.12.desc: "[young_king_david.GetName] çocukluktan itibaren [england.GetAdjective] tehdidinden korunmak amacıyla sürgün hayatı yaşadı. Bu sırada krallığın savunmasıysa [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')] zümresinin ehil ellerine bırakılmıştı.\n\nSavaş nihayet duruldu ve genç [young_king_david.GetShortNameWithNoTooltip] [ROOT.GetCountry.GetAdjective] tahtı üzerindeki meşru hakkını geri almak üzere [ROOT.GetCountry.GetCapital.GetName] şehrine doğru yolculuğa koyuldu.\n\nBazılarının gözünde ödlek bir süt çocuğu olarak yer etmiş olsa da kendisinin merhum kahraman [young_king_david.GetFather.GetName] Hazretleri'nin ilk oğlu olduğunu unutmamak lazım."
  flavor_sco.12.a: "[ROOT.GetCountry.GetGovernment.GetRulerTitle] Hazretleri'nin dönüşü ihtişam ve merasimlerle kutlansın."
  flavor_sco.12.b: "Tehlike daha sona ermedi ve [guardian_of_scotland.GetShortNameWithNoTooltip] güçlü bir lidere sahip."
- flavor_sco.12.c: "[young_king_david.GetName] yönetmek için uygun değil. [ROOT.GetCountry.GetGovernment.GetRulerTitle] [guardian_of_scotland.GetShortNameWithNoTooltip] olmalı."
+ flavor_sco.12.c: "[young_king_david.GetNameWithNoTooltip] ülkeyi yönetmek için uygun değil. [ROOT.GetCountry.GetGovernment.GetRulerTitle], [guardian_of_scotland.GetShortNameWithNoTooltip] olmalı."
  flavor_sco.13.title: "İskoçyamız"
  flavor_sco.13.desc: "Birçok farklı kökenden çeşitli halklara ev sahipliği yapan [ROOT.GetCountry.GetName] tabiatı gereği çoğulcu bir toprak parçasıdır.\n\nÖte yandan bazıları çeşitliliğin bir zayıflık olduğunu, tek bir ses ve tek bir vücut olarak kendimizi ifade etmemizin daha iyi olacağını iddia ediyor."
  flavor_sco.13.a: "Çeşitliliğimiz bizi biz yapan unsurumuzdur."

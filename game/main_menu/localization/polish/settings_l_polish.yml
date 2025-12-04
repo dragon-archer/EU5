@@ -69,6 +69,7 @@
  # Game
  SETTING_DEBUG_SAVES: "Liczba automatycznych zapisów"
  SETTING_DEBUG_SAVES_TOOLTIP: "#T $SETTING_DEBUG_SAVES$#!\nMaksymalna liczba automatycznych zapisów"
+ IRONMAN_BLOCKS_THIS: "@trigger_fail! Nieodpowiednie w grach Ironman."
  # Multiplayer
  SETTING_MAX_TICKS_AHEAD: "Maksymalny czas odliczania"
  SETTING_MAX_TICKS_AHEAD_TOOLTIP: "#T $SETTING_MAX_TICKS_AHEAD$#!\nMaksymalny czas odliczania przed rozpoczęciem, który odczekasz jako gospodarz, zanim rozpocznie się przydzielanie klientów"
@@ -126,6 +127,7 @@
  SETTINGS_CATEGORY_CONFIRM: "Tryb potwierdzenia konfiguracji"
  SETTINGS_CATEGORY_INPUT_LOCK: "Ustawienia zatwierdzania sterowania"
  SETTINGS_CATEGORY_DYNAMIC_NAMES: "Dynamiczne nazwy"
+ SETTINGS_CATEGORY_PLAYSETS: "Playsets"
  # Hotkeys
  SETTING_INPUT_CONTEXT_COMMON: "Powszechne"
  SETTING_INPUT_CONTEXT_COMMON_TOOLTIP: "#T Powszechne#! Najczęściej używane skróty klawiszowe"
@@ -217,6 +219,16 @@
  SETTING_INPUT_ACTION_TOP_RIGHT_8: "Górna prawa 8"
  SETTING_INPUT_ACTION_TOP_RIGHT_9: "Górna prawa 9"
  SETTING_INPUT_ACTION_TOP_RIGHT_10: "Górna prawa 10"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_0: "Control Group 0"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_1: "Control Group 1"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_2: "Control Group 2"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_3: "Control Group 3"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_4: "Control Group 4"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_5: "Control Group 5"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_6: "Control Group 6"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_7: "Control Group 7"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_8: "Control Group 8"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_9: "Control Group 9"
  SETTING_INPUT_ACTION_MAPMODE_MENU: "Przełącz menu trybu mapy"
  # Tooltips
  SETTING_TOOLTIP_MODE: "Tryb podpowiedzi"
@@ -348,3 +360,5 @@
  SETTING_ENABLE_PARTICLES_TOOLTIP: "#T $SETTING_ENABLE_PARTICLES$\n#!Pozwala wyłączyć efekty cząsteczkowe w grze, aby zwiększyć wydajność."
  SETTING_GUI_TEXTURE_STREAMING: "Strumieniowanie tekstur interfejsu graficznego"
  SETTING_GUI_TEXTURE_STREAMING_TOOLTIP: "#T $SETTING_GUI_TEXTURE_STREAMING$\n#!Włącz lub wyłącz strumieniowanie elementów będących częścią interfejsu graficznego\nWłączenie tej opcji zmniejszy użycie pamięci VRAM, lecz może te spowodować chwilowy spadek jakości grafiki."
+ #Playsets
+ SETTINGS_WARNING_PLAYSET: "Show dialog to warn about playset errors"

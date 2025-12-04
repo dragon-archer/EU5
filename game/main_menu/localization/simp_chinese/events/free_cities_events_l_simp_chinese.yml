@@ -47,7 +47,7 @@
  free_cities.12.b: "“……不适合统治……”。所以，不会有任何帮助了。"
  free_cities.13.title: "城邦同盟"
  free_cities.13.desc: "汉萨同盟和伦巴第同盟这样的先例，鼓动我们去询问是否有其他自由市愿意一同组建联盟。自由市是弱小的，但是总得来说，小国联合的作用在一些事项上已经被证明，比如贸易，维护帝国和平，支持法律，维持一支联合军队，使我们成为一支即使是大国也不可忽视的力量。"
- free_cities.13.a: "向[SCOPE.sCountry('fc_league_invitation_target').GetName]派遣外交官！"
+ free_cities.13.a: "向[SCOPE.sCountry('fc_league_invitation_target').GetNameWithNoTooltip]派遣外交官！"
  free_cities.13.b: "难道我们就不能雇一些佣兵吗？"
  free_cities.14.title: "城邦同盟的建议"
  free_cities.14.desc: "在[GetUniqueInternationalOrganization('hre').GetName]内部存在着许多互助的同盟。例如，由诸多商人行会建立的商业和防御联盟——汉萨同盟，或者共同防御和维持和平的施瓦本同盟。一些同盟变得如此强大而团结，甚至其他国家将他们视作一个国家，比如瑞士联盟。[SCOPE.sCountry('fc_league_invitation_source').GetName][ShowSpecialStatusName('free_city')]建议我们加入类似的同盟，在那里我们可以进行贸易合作，维护帝国和平以及在裁决上互相支持。"

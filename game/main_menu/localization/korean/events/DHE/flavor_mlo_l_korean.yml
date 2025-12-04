@@ -48,7 +48,7 @@
  flavor_mlo.13.b: "이미 무너지고 있는 특권에 실컷 매달려 보라지. 얼마 가지 않을 테니..."
  flavor_mlo.14.title: "[target_character.GetNameWithNoTooltip]의 #italic 세계 연대기#! 집필 완료"
  flavor_mlo.14.desc: "이탈리아의 역사가이자 연대기 작가인 [target_character.GetName](이)가 중요한 역사 저작물인 #italic 세계 연대기#!를 집필했습니다. [GetCurrentYear]년에 완성된 이 연대기는 여러 지역과 시대를 아우르며 수많은 사건을 포괄적으로 기록하고 있어, 중세 역사를 이해하는 데 귀중한 사료로 인정받고 있습니다.\n\n[target_character.GetNameWithNoTooltip]의 꼼꼼한 연구와 세심함은 이 최신작에 수록된 방대한 문서와 연대표에서 잘 드러납니다. $cronica_universalis_desc$\n\n[target_character.GetNameWithNoTooltip](이)가 이번 저술을 통해 역사학에 기여한 공헌은 중세사 연구에 쉽게 지워지지 않을 족적을 남기고, 우리나라의 정치 문화적 영향력을 확대할 것입니다."
- flavor_mlo.14.a: "실로 [target_location.GetName](은)는 학문 발전의 중심지로구나!"
+ flavor_mlo.14.a: "실로 [target_location.GetNameWithNoTooltip](은)는 학문 발전의 중심지로구나!"
  flavor_mlo.14.b: "이러한 책은 우리에게 저주가 될 뿐이다..."
  flavor_mlo.15.title: "[target_character.GetNameWithNoTooltip]의 역경"
  flavor_mlo.15.desc: "[target_character.GetName](이)가 정의감에 불타는 모습으로 [ROOT.GetCountry.GetCapital.GetName] 궁정에 들어와 [ROOT.GetCountry.GetName]의 [ROOT.GetCountry.GetGovernment.GetRuler.GetName] [ROOT.GetCountry.GetGovernment.GetRulerTitle](을)를 만나 직접 자기 부친을 살해한 자들에 관한 진상 규명을 요구하겠다고 고집을 피우고 있습니다.\n\n과거에도 우리 도시에서 자기 친족에 대한 암살을 모의한 자들이 있었습니다. 그리고 이 무슨 운명의 장난인지, [target_character.GetNameWithNoTooltip](은)는 있지도 않은 그림자를 상상하며 음모론의 늪에 빠져 있습니다. 목적이 무엇인지는 모르겠으나 이자는 우리 [ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip](이)가 암살에 가담한 것으로 확신하고 있습니다. 필시 근거 없는 헛소리에 불과할 겁니다..."

@@ -89,7 +89,7 @@
  giving_economic_support_list_who_tt: "$WHO$(이)가 $LIST$에 [economic_support|e]를 제공하고 있습니다"
  getting_war_reparations_list_who_tt: "$WHO$(이)가 $LIST$의 [war_reparations|e]을 받고 있습니다"
  giving_war_reparations_list_who_tt: "$WHO$(이)가 $LIST$에 [war_reparations|e]을 제공하고 있습니다"
- truce_list_who_tt: "$WHO$(이)가 $LIST$(과)와 $EXTRA|Y$까지 휴전 상태입니다. 휴전 중에 [war|e]을 선포하면 공격 국가는 [stability|e]가 #R 50#! 감소합니다"
+ truce_list_who_tt: "$WHO$(이)가 $LIST$(과)와 $EXTRA|Y$까지 휴전 상태입니다. 휴전 중에 [war|e]을 선포하면 공격 국가는 $PRICE$에 타격을 받습니다"
  annul_treaties_list_who_tt: "$WHO$(은)는 $LIST$(과)와의 모든 조약을 강제로 $EXTRA|Y$까지 무효화하게 되었습니다."
  casus_belli_list_who_tt: "$WHO$(이)가 $LIST$에 대한 [casus_belli|e]을 갖고 있습니다. 이로써 $WHO$(은)는 [war|e]을 선포해도 [stability|e]에 불이익을 받지 않습니다.\n\n보유한 전쟁 명분:\n$EXTRA$"
  casus_belli_target_list_who_tt: "$LIST$(이)가 $WHO$에 대한 [casus_belli|e]을 갖고 있습니다. 이로써 $LIST$(은)는 [war|e]을 선포해도 [stability|e]에 불이익을 받지 않습니다.\n\n보유한 전쟁 명분:\n$EXTRA$"

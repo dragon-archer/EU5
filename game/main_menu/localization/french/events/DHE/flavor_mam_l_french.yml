@@ -293,7 +293,7 @@
  flavor_mam.64.a: "Nous avons besoin du soutien des mamelouks #L [target_culture.GetNameWithNoTooltip|l]s#!."
  flavor_mam.64.b: "Le soutien des mamelouks #L [target_culture2.GetNameWithNoTooltip|l]s#! est plus important que jamais."
  flavor_mam.64.c: "Même si ce n'est pas si important, [third_ruler.GetNameWithNoTooltip] a fait preuve de talent."
- flavor_mam.64.d: "Un mamelouk traditionnel de nos rangs #L [target_culture4.GetName|l]s#!."
+ flavor_mam.64.d: "Un mamelouk traditionnel de nos rangs #L [target_culture4.GetNameWithNoTooltip]s#!."
  flavor_mam.65.title: "Soldats de [target_location.GetNameWithNoTooltip]"
  flavor_mam.65.desc: "Si les $mamluks$ constituent le noyau de nos forces, nos armées ne se composent pas uniquement d'esclaves-soldats. Une large part de l'infanterie provient de [target_location.GetName], ces hommes étant employés aux tâches de garde et de garnison.\n\nMais de faibles perspectives d'avancement et une solde dérisoire ne sont guère propres à les motiver, et leur loyauté demeure incertaine. Leur entraînement comme leur équipement sont d'ailleurs trop souvent négligés par les #L [ROOT.GetCountry.GetGovernment.GetRulerTitle]s#! et les gouverneurs du [target_location.GetRank.GetName]. En [target_location.GetArea.GetName], la défiance croissante entre habitants de [target_location.GetName] et gouverneurs $mamluks$ a déjà provoqué des troubles."
  flavor_mam.65.a: "Écrasons cette rébellion dans l'œuf !"

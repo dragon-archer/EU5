@@ -173,7 +173,7 @@
  flavor_vij.1101.title: "$flavor_vij.1100.title$"
  flavor_vij.1101.desc.a: "Com as políticas para tentar conter a rebelião [ShowCultureName('tamil')], nós pacificamos a maior parte desses rebeldes. Eles estão satisfeitos com o nosso governo novamente, melhor ainda, capturaram o traidor que organizou a rebelião. Agora que nossas forças aprisionaram [target_character.GetName], todos desejam bani-l[target_character2.GetHerHim]."
  flavor_vij.1101.desc.b: "Após falhar ao tentar conter a rebelião [ShowCultureName('tamil')], o líder dessa hoste traidora mostra seu rosto. [target_character.GetName] conspirou para ganhar apoio e criar seu próprio reino, um independente da entidade política [ROOT.GetCountry.GetName], [target_character.GetHeShe] negociou com o povo [ShowCultureNameWithNoTooltip('tamil')]. Agora só resta destruir esses rebeldes."
- flavor_vij.1101.a: "Livrem-se dessa pessoa! Traidores não pertencem à entidade política [ROOT.GetCountry.GetName]!"
+ flavor_vij.1101.a: "Livrem-se dessa pessoa! Traidores não pertencem à entidade política [ROOT.GetCountry.GetNameWithNoTooltip]!"
  flavor_vij.1101.b: "Às armas, homens! Vamos destruir [target_character.GetNameWithNoTooltip] e sua gentalha!"
  tamil_uprising: "Revolta Tâmil"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "Todos os [pops|e] do povo [ShowCultureName('tamil')] perderão [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] de [pop_satisfaction|e]."

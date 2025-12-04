@@ -318,7 +318,7 @@
  child_gregarious_die_desc: "생전에 아이와 어울렸던 많은 이들이 안타깝게도 요절하고 만 후손의 죽음을 애도하고 있습니다."
  desc_child_gregarious: "이 아이는 끊임없이 많은 사람에게 둘러싸여 있는 것을 즐기며, 그들과 교류하며 큰 만족감을 느낍니다."
  child_rowdy: "야단법석"
- child_rowdy_die_desc: "후손이 마침내 안식에 들었습니다. 이 아이가 이토록 조용한 걸 보자니 기분이 이상하군요."
+ child_rowdy_die_desc: "[CHARACTER.GetName](이)가 마침내 안식에 들었습니다. 이 아이가 이토록 조용한 걸 보자니 기분이 이상하군요."
  desc_child_rowdy: "이 아이는 조용히 가만있는 일이 없습니다. 언제나 자기 존재감을 얌전하다고는 결코 말할 수 없는 방식으로 드러냅니다."
  child_ambitious: "야심가"
  child_ambitious_die_desc: "요절한 후손의 야심에 찬 꿈은 안타깝게도 이루어지지 못했습니다."

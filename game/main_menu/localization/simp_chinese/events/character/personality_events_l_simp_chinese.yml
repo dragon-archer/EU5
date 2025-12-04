@@ -151,7 +151,7 @@
  personality_events.38.a.tt: "所有相邻国家会获得[ShowNamedValue('army_tradition_mild_bonus')|+=0][army_tradition|e]。"
  personality_events.38.b: "他们今天会为我们喝彩，日后怕是会背后捅我们一刀。"
  personality_events.39.title: "处处和平，没有乐子"
- personality_events.39.desc: "[target_ruler.GetName]近来坐立不安，变着花样的折腾。有传言说[ROOT.GetCountry.GetGovernment.GetRulerTitle]有心脏问题才使得[target_ruler.GetHerHis]性格变得如此焦躁，但实际上了解这位[target_ruler.GetWomanMan]的人都知道这背后的真正原因是近来国家和平的环境——[target_ruler.GetShortNameWithNoTooltip]这样勇敢的战士在[ROOT.GetCountry.GetFlavorRank]的和平时代无处施展[target_ruler.GetHerHis]的军事才华，感觉就像一只被关在笼子里的小鸟。不过话说回来，[target_ruler.GetSheHe]可是[ROOT.GetCountry.GetGovernment.GetRulerTitle]……"
+ personality_events.39.desc: "[target_ruler.GetName]近来坐立不安，变着花样折腾。有传言说[ROOT.GetCountry.GetGovernment.GetRulerTitle]有心脏问题才使得[target_ruler.GetHerHis]性格变得如此焦躁，但实际上了解这位[target_ruler.GetWomanMan]的人都知道这背后的真正原因是近来国家和平的环境——[target_ruler.GetShortNameWithNoTooltip]这样勇敢的战士在[ROOT.GetCountry.GetFlavorRank]的和平时代无处施展[target_ruler.GetHerHis]的军事才华，感觉就像一只被关在笼子里的小鸟。不过话说回来，[target_ruler.GetSheHe]可是[ROOT.GetCountry.GetGovernment.GetRulerTitle]……"
  personality_events.39.a: "[ROOT.GetCountry.GetGovernment.GetRulerTitle]要举办一场比武大会！"
  personality_events.39.b: "[ROOT.GetCountry.GetGovernment.GetRulerTitle]要在训练[target_ruler.GetHerHis]的军队上消磨多余的精力。"
  personality_events.40.title: "严格的礼仪"

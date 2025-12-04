@@ -129,7 +129,7 @@
  flavor_bra_dynasty.1101.a.tt: "[emperor_ruler.GetName] otrzyma tytuł [Concept('ruler','osoby rządzącej')|e] państwem [root_country.GetName], tworząc z nim [Concept('union','unię')|e]"
  flavor_bra_dynasty.1101.b: "Niech [dynasty_character.GetNameWithNoTooltip] rządzi krajem [root_country.GetNameWithNoTooltip]."
  flavor_bra_dynasty.1101.b.tt: "[dynasty_character.GetName] otrzyma tytuł [Concept('ruler','osoby rządzącej')|e] krajem [root_country.GetName]"
- flavor_bra_dynasty.1101.c: "[cabinet_character.GetName] będzie sprawować władzę w naszym imieniu."
+ flavor_bra_dynasty.1101.c: "[cabinet_character.GetNameWithNoTooltip] będzie sprawować władzę w naszym imieniu."
  flavor_bra_dynasty.1101.c.tt: "[cabinet_character.GetName] otrzyma tytuł [Concept('ruler','osoby rządzącej')|e] krajem [root_country.GetName], co oznacza, że od teraz jest to nasz [ShowSubjectTypeName('vassal')|l], ale spowoduje to wzrost [Concept('antagonism','antagonizmu')|e] członków unii [GetUniqueInternationalOrganization('hre').GetName] o [ShowBiasValue('subjugated_elector_antagonism')|-=0]."
  subjugated_elector_antagonism: "Podporządkowany elektor"
  flavor_bra_dynasty.1101.d: "Jeden z naszych doradców poprawi sytuację w państwie [root_country.GetAdjectiveWithNoTooltip]kim."

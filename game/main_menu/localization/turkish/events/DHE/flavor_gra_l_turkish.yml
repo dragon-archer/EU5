@@ -1,7 +1,7 @@
 ﻿l_turkish:
  flavor_gra.1.title: "Mağribî Sığınmacılar"
  flavor_gra.1.desc: "Allah'ım korusun! Granada kâfirlerin eline düştü! Endülüs'ün son incisi, ilim merkezi Granada, Kastilya ellerine düştü! İslam dünyası bu kaybın acısını yaşarken Emevi sığınmacıları Kuzey Afrika'nın ve Orta Doğu'nun Müslüman şehirlerine akın ediyor. Her şerde bir hayır vardır derler; sığınmacılar yanlarında İbn Rüşd, Zehrâvî ve İbn-i Tufeyl gibi olağanüstü âlimlerin çalışmaları da dâhil olmak üzere devasa bir bilgi birikimini de getiriyor. Onları [ROOT.GetCountry.GetName] topraklarına davet edersek bilim ve kültür çalışmalarımızda bize çok büyük faydaları dokunabilir."
- flavor_gra.1.a: "Hemen [ROOT.GetCountry.GetName] topraklarına davet edilsinler!"
+ flavor_gra.1.a: "Hemen [ROOT.GetCountry.GetNameWithNoTooltip] topraklarına davet edilsin!"
  flavor_gra.1.b: "Hayır, onlara ihtiyacımız yok."
  flavor_gra.2.title: "Sicilya Emirliği"
  flavor_gra.2.desc: "Sicilya Emirliği, geçmiş çağlarda inancımızın en güçlü kalelerinden biriydi ve 1087'de Haçlıların eline düşene kadar var gücüyle direndi.\n\nŞimdi bu kutlu topraklar tekrar bize geçti, burayı bir daha kaybetmeyeceğiz!"

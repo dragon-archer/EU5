@@ -547,7 +547,7 @@
  wotr_action_price: "$war_of_the_roses$ Ana Eylemleri Bedeli"
  peasants_war_actions_price: "$peasants_war$ Ana Eylemleri Bedeli"
  religious_turmoil_actions_price: "$religious_turmoil$ Ana Eylemleri Bedeli"
- change_government_type_price: "$government_type$ Fiyatını Değiştir"
+ change_government_type_price: "$game_concept_government_type$ Fiyatını Değiştir"
  #Special Units
  n_panokseon_build: "$n_panokseon$ Yapım Maliyeti"
  n_panokseon_reinforce: "$n_panokseon$ Takviye Maliyeti"

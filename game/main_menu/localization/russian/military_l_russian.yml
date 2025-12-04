@@ -7,7 +7,7 @@
  FORT_FLIPPING_SLIPPING: "$FLIPPER$ снова начинает терять провинцию @location!$PROV$. Прогресс: $PERCENT|Y%$."
  HAS_NO_FORTS: "Не обладает [Concept('forts','крепостями')|e] и не находится в [Concept('zone_of_control','зоне контроля')|e]."
  APPLY_MILITARY_STANCE_TO_ALL: "Выбрать военную позицию для всех наших ленников"
- normal_military_stance: "Обычная зима"
+ normal_military_stance: "Самостоятельность"
  normal_military_stance_desc: "[Concept('subject','Ленник')|e] будет в равной степени использовать разные военные тактики."
  normal_military_stance_desc_all: "Все наши [Concept('subjects','ленники')|e] будут в равной степени использовать разные военные тактики."
  aggressive_military_stance: "Агрессия"

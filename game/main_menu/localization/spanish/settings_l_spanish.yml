@@ -69,6 +69,7 @@
  # Game
  SETTING_DEBUG_SAVES: "Número de guardados automáticos"
  SETTING_DEBUG_SAVES_TOOLTIP: "#T $SETTING_DEBUG_SAVES$#!\nCantidad máxima de guardados automáticos que se conservan."
+ IRONMAN_BLOCKS_THIS: "@trigger_fail! No válido para partidas de Ironman."
  # Multiplayer
  SETTING_MAX_TICKS_AHEAD: "Ventaja máxima de tics"
  SETTING_MAX_TICKS_AHEAD_TOOLTIP: "#T $SETTING_MAX_TICKS_AHEAD$#!\nCantidad máxima de tics antes de que, como anfitrión, empieces a esperar a que los clientes se pongan al día."
@@ -126,6 +127,7 @@
  SETTINGS_CATEGORY_CONFIRM: "Establecer modo de confirmación"
  SETTINGS_CATEGORY_INPUT_LOCK: "Ajustes de bloqueo de entrada"
  SETTINGS_CATEGORY_DYNAMIC_NAMES: "Nombres dinámicos"
+ SETTINGS_CATEGORY_PLAYSETS: "Playsets"
  # Hotkeys
  SETTING_INPUT_CONTEXT_COMMON: "Comunes"
  SETTING_INPUT_CONTEXT_COMMON_TOOLTIP: "#T Comunes#!\nLas asignaciones de teclas más utilizadas."
@@ -217,6 +219,16 @@
  SETTING_INPUT_ACTION_TOP_RIGHT_8: "Arriba a la derecha 8"
  SETTING_INPUT_ACTION_TOP_RIGHT_9: "Arriba a la derecha 9"
  SETTING_INPUT_ACTION_TOP_RIGHT_10: "Arriba a la derecha 10"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_0: "Control Group 0"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_1: "Control Group 1"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_2: "Control Group 2"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_3: "Control Group 3"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_4: "Control Group 4"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_5: "Control Group 5"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_6: "Control Group 6"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_7: "Control Group 7"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_8: "Control Group 8"
+ SETTING_INPUT_ACTION_CONTROL_GROUP_9: "Control Group 9"
  SETTING_INPUT_ACTION_MAPMODE_MENU: "Alternar menú de modo del mapa"
  # Tooltips
  SETTING_TOOLTIP_MODE: "Modo de descripciones emergentes"
@@ -348,3 +360,5 @@
  SETTING_ENABLE_PARTICLES_TOOLTIP: "#T $SETTING_ENABLE_PARTICLES$#!\nPermite desactivar los efectos de partículas para mejorar el rendimiento."
  SETTING_GUI_TEXTURE_STREAMING: "Retransmisión de texturas de interfaz"
  SETTING_GUI_TEXTURE_STREAMING_TOOLTIP: "#T $SETTING_GUI_TEXTURE_STREAMING$\n#!Activa o desactiva la transmisión de elementos de la interfaz gráfica de usuario.\nEsta opción reduce el uso de VRAM, pero puede bajar temporalmente la calidad."
+ #Playsets
+ SETTINGS_WARNING_PLAYSET: "Show dialog to warn about playset errors"

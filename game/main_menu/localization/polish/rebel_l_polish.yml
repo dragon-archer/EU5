@@ -18,7 +18,7 @@
  REBEL_STALLED_NOT_ENOUGH: "Zamrożenie ze względu na brak odpowiedniej liczby zwolenników."
  REBEL_PROGRESS_ESTATE: "[estate_power|e]: $VAL|2-=%$"
  REBEL_NATIONALISM_SOURCE: "Nacjonalizm\nPodstawowy nacjonalizm: $VAL|2=-%$"
- REBEL_NATIONALISM_CULTURE_WAR: "Kultura [CULTURE.GetName|l] [Concept('cultural_influence','wpływa')|e] na [Concept('cultural_tradition','tradycję')|e], jaką posiada kultura [TARGET_CULTURE.GetName|l], z siłą: $VAL|+=2%$"
+ REBEL_NATIONALISM_CULTURE_WAR: "Kultura #L [CULTURE.GetName|l]ka#! [Concept('cultural_influence','wpływa')|e] na [Concept('cultural_tradition','tradycję')|e], jaką posiada kultura #L [TARGET_CULTURE.GetName|l]ka#!, z siłą: $VAL|-=2%$"
  RSI_HEADER: "Powody, dla których [Concept('pops','społeczności')|e] popierają tych buntowników."
  RSI_ENTRY: "$NAME$: $VAL|2+=%$"
  rsi_separatism: "[separatism|e]"

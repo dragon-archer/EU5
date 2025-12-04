@@ -273,7 +273,7 @@
  societal_values.604.b: "Ele pode servir a [ROOT.GetCountry.GetReligion.GetGodName]!"
  societal_values.604.c: "$societal_values.604.b$"
  societal_values.604.d: "$societal_values.604.b$"
- societal_values.604.e: "Ele servirá ao [GetUniqueInternationalOrganization('hre').GetName]!"
+ societal_values.604.e: "Ele servirá ao [GetUniqueInternationalOrganization('hre').GetNameWithNoTooltip]!"
  societal_values.605.title: "Reconciliando Diferenças"
  societal_values.605.desc: "Às vezes, quando países têm diferentes tipos de governos, eles simplesmente são incapazes de entenderem uns aos outros completamente. Com nossos diplomatas competentes, temos reconciliado as diferenças com um de nossos vizinhos."
  societal_values.605.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

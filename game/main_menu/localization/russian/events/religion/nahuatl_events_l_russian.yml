@@ -118,7 +118,7 @@
  nahuatl_events.29.d: "В этот раз мы не можем позволить себе слишком много."
  religious_focus_gain_tt: "Пока действует модификатор «[ShowModifier('nahuatl_temple_expansion_modifier')]», мы будем получать #G +0,2#! к ежемесячному прогрессу [Concept('religious_focuses','религиозных целей')|e]"
  nahuatl_events.30.title: "Паломничество в [ShowLocationNameWithNoTooltip('cholollan')]"
- nahuatl_events.30.desc: "Все наши [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')|l] традиционно совершают паломничество к великому святилищу Кецалькоатля в храмовом городе #TOOLTIP:LOCATION,cholollan_tt,X #L Чолольян#!#!. Здесь добрый пернатый змей, покровитель искусств и дождей, принимает почести от своих поклонников, а [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')|l] Мезоамерики хвастаются богатством, не вступая в бой друг с другом."
+ nahuatl_events.30.desc: "Все наши [ROOT.GetCountry.GetGovernment.GetEstateName('nobles_estate')|l] традиционно совершают паломничество к великому святилищу Кецалькоатля в храмовом городе #TOOLTIP:LOCATION,cholollan,X #L Чолольян#!#!. Здесь добрый пернатый змей, покровитель искусств и дождей, принимает почести от своих поклонников, а [ROOT.GetCountry.GetGovernment.GetEstateNameWithNoTooltip('nobles_estate')|l] Мезоамерики хвастаются богатством, не вступая в бой друг с другом."
  nahuatl_events.30.a: "Воздадим должное Кецалькоатлю."
  nahuatl_events.30.b: "Что он за бог, если ему не нужны человеческие жертвы?"
  nahuatl_events.310.title.a: "Праздник Атлькауало"

@@ -8,4 +8,4 @@
  autocephalous_patriarchates.2.desc: "$ap_falls_desc_key$"
  autocephalous_patriarchates.2.a: "Patrikhaneyi lağvedelim."
  autocephalous_patriarchates.2.b: "Kalsın."
- every_member_of_scopeloser_ap_loses_opinion_of_scopewinner_tt: "Her [target_ap.GetName] mensubu, bize yönelik [ShowBiasValue('destroyed_my_autocephalous_patriarchate')|-=0] görüş kaybeder."
+ every_member_of_scopeloser_ap_loses_opinion_of_scopewinner_tt: "Her [target_ap.GetName] mensubunun bize karşı görüşü [ShowBiasValue('destroyed_my_autocephalous_patriarchate')|+=0] azalır."

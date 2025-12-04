@@ -82,7 +82,7 @@
  church_aspects.21.a: "Пусть монахи продолжают своё дело."
  church_aspects.21.b: "Люди должны следовать их примеру."
  church_aspects.22.title: "Боязнь криптокатоликов"
- church_aspects.22.desc: "Решение нашей церкви открыть #ONCLICK:BUILDING_TYPE,monastery #TOOLTIP:BUILDING_TYPE,monastery,X #L монастырь#!#!#!#! вызвало споры. Есть мнение, что это может препятствовать Реформации и укрепить позиции #TOOLTIP:RELIGION,$catholic_tt$,X #L католичества#!#! среди жителей #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#!. Если мы не проявим должной осторожности и бдительности, подобные тенденции могут развиться очень быстро."
+ church_aspects.22.desc: "Решение нашей церкви открыть #TOOLTIP:BUILDING_TYPE,monastery,X #L монастырь#!#! вызвало споры. Есть мнение, что это может препятствовать Реформации и укрепить позиции #TOOLTIP:RELIGION,$catholic_tt$,X #L католичества#!#! среди жителей #ONCLICK:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')] #TOOLTIP:COUNTRY,[ROOT.GetCountry.Custom('CL_tt')],X [ROOT.GetCountry.Custom('CL_GEN')|L]#!#!. Если мы не проявим должной осторожности и бдительности, подобные тенденции могут развиться очень быстро."
  church_aspects.22.a: "Монастыри должны быть ограничены в правах."
  church_aspects.22.b: "Беспокоиться не о чем."
  church_aspects.23.title: "Держава [target_country.GetNameWithNoTooltip] следует нашему примеру"

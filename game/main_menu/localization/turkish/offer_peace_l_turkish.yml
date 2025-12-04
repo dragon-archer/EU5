@@ -216,6 +216,7 @@
  rtr_demand_occupied_territories_entry_short: "$rtr_demand_occupied_territories$"
  rtr_demand_occupied_territories_desc: "Hedef [Concept('country', 'Ülkeden')|e] [occupied|e] tüm illeri talep et."
  rtr_demand_occupied_territories_tt: "[winner.GetName] tarafından işgal edilmiş her [loser.GetAdjective] [location|e], [winner.GetNameWithNoTooltip] tarafından ele geçirilir"
+ rtr_demand_occupied_territories_no_winner_loser_tt: "Any [location|e] the winner occupies from the loser is seized."
  rtr_demand_complete_annexation: "Tam İlhak Talep Et"
  rtr_demand_complete_annexation_entry: "$rtr_demand_complete_annexation$"
  rtr_demand_complete_annexation_entry_short: "$rtr_demand_complete_annexation$"

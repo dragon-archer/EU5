@@ -48,7 +48,7 @@
  flavor_mlo.13.b: "他们可以暂时保留那些腐朽的特权……"
  flavor_mlo.14.title: "[target_character.GetNameWithNoTooltip]完成#italic 《世界编年史》#!"
  flavor_mlo.14.desc: "意大利史学家[target_character.GetName]撰写了一部历史巨著#italic 《世界编年史》#!。这部史书完成于[GetCurrentYear]年，详细记述了不同区域不同时期的历史事件，为了解中世纪历史提供了宝贵的史料。\n\n从[target_character.GetNameWithNoTooltip]最新作品中的大量文档和年表可以清晰地看出他研究的细致和对细节的关注。$cronica_universalis_desc$\n\n[target_character.GetNameWithNoTooltip]对历史学术的贡献必将对中世纪历史的研究产生深远影响，并将进一步增强我们的政治和文化影响力。"
- flavor_mlo.14.a: "[target_location.GetName]是学术创新的中心！"
+ flavor_mlo.14.a: "[target_location.GetNameWithNoTooltip]是学术创新的中心！"
  flavor_mlo.14.b: "这些书籍只会带给我们诅咒……"
  flavor_mlo.15.title: "[target_character.GetNameWithNoTooltip]的困境"
  flavor_mlo.15.desc: "[target_character.GetName]怀揣着对真相的无比渴望，冲入了[ROOT.GetCountry.GetCapital.GetName]的会面厅，决心与[ROOT.GetCountry.GetName]的[ROOT.GetCountry.GetGovernment.GetRulerTitle]——[ROOT.GetCountry.GetGovernment.GetRuler.GetName]本人进行对峙，要求揭露其父亲遇害的真相。\n\n在我们的城市，兄弟同族间的暗杀阴谋并不罕见。然而，命运的安排让[target_character.GetNameWithNoTooltip]卷入了一场阴谋的风暴之中，他在无形中感受到了暗影的存在。不管出于何种动机，他似乎坚信我们敬爱的[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip]亲自策划了这场暗杀，这无疑是一个毫无根据的谣言……"

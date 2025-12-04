@@ -293,7 +293,7 @@
  flavor_mam.64.a: "[target_culture.GetNameWithNoTooltip] 맘루크의 도움이 필요하다."
  flavor_mam.64.b: "[target_culture2.GetNameWithNoTooltip] 맘루크의 지원이 그 어느 때보다 간절하다."
  flavor_mam.64.c: "비록 그 위상은 덜할지라도, [third_ruler.GetNameWithNoTooltip](은)는 자신의 실력을 입증하였다."
- flavor_mam.64.d: "우리 [target_culture4.GetName] 인사 중 전통 맘루크를 선택하라."
+ flavor_mam.64.d: "우리 [target_culture4.GetNameWithNoTooltip] 인사 중 전통 맘루크를 선택하라."
  flavor_mam.65.title: "[target_location.GetNameWithNoTooltip]의 병사들"
  flavor_mam.65.desc: "$mamluks$는 우리 지상군의 핵심 병력이지만, 그렇다고 모든 군사력이 이 노예 전사들로만 이루어진 것은 아닙니다. 현지 [target_location.GetName] 병사들 또한 우리 지상군 중 상당수를 차지하고 있으며, 각종 경비 및 주둔지 임무에도 자주 동원됩니다.\n\n하지만 진급 기회가 적고 봉급이 낮은 탓에 동기 부여 정도가 낮아, 이들을 얼마나 믿을 수 있는지 확신할 수 없는 실정입니다. 확실한 것은 [ROOT.GetCountry.GetGovernment.GetRulerTitle](과)와 [target_location.GetRank.GetName]의 현지 총독이 이들의 훈련과 장비를 등한시했다는 것입니다. 심지어 [target_location.GetArea.GetName]에서는 [target_location.GetName]의 현지 주민들과 $mamluks$ 총독 사이의 불신으로 인해 소요가 발생하기도 했습니다."
  flavor_mam.65.a: "문제가 커지기 전에 싹을 잘라야 한다!"

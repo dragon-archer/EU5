@@ -91,6 +91,7 @@
  STATIC_MODIFIER_NAME_giving_support_military: "군사 지원하는 중"
  STATIC_MODIFIER_NAME_receiving_support_military: "군사 지원받는 중"
  STATIC_MODIFIER_NAME_receiving_scutage: "군역 대납금 받는 중"
+ STATIC_MODIFIER_NAME_receiving_rein_in_junior_diplomacy: "Reined in Junior Diplomacy"
  STATIC_MODIFIER_NAME_giving_support_loyalists: "충성파 지원하는 중"
  STATIC_MODIFIER_NAME_receiving_support_loyalists: "충성파 지원받는 중"
  STATIC_MODIFIER_NAME_receiving_divert_trade: "교역 전환 당하는 중"
@@ -731,6 +732,7 @@
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "후스파 이단"
  STATIC_MODIFIER_DESC_hussite_heresy_modifier: "최근 [ShowReligionName('hussite')]가 부상하고 있습니다. 후스파 추종자들은 [ShowReligionAdjective('catholic')]교회 내부의 개혁을 요구합니다."
+ STATIC_MODIFIER_NAME_expanded_mines_modifier: "확장된 광산"
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "길조"
  STATIC_MODIFIER_DESC_good_omen_modifier: "온화한 날씨와 풍족한 식량이 어우러진 회복의 시기는 신들이 기뻐한다는 좋은 징조로 여겨집니다."
@@ -800,6 +802,8 @@
  STATIC_MODIFIER_DESC_austere_court: "엄격하고 금욕적인 분위기가 이 국가의 궁정 생활과 관료 문화를 지배하고 있습니다."
  STATIC_MODIFIER_NAME_ostentatious_court: "과시적인 궁정"
  STATIC_MODIFIER_DESC_ostentatious_court: "원래 고상했던 이 국가의 궁정 생활은 현재 퇴폐적인 구경거리와 방탕한 부의 과시로 점철되었습니다. 그런데 방문객에게는 꽤 깊은 인상을 남기는 것으로 보입니다."
+ STATIC_MODIFIER_NAME_tur_public_cats: "Public Cat Property"
+ STATIC_MODIFIER_DESC_tur_public_cats: "The cats in this location have been turned into public property, protecting them from any misconduct that may occur. This especially increases the number of rats being hunted, ensuring that no deadly diseases appear."
  #Byzantium
  STATIC_MODIFIER_NAME_defensive_effort_modifier: "방어 노력"
  STATIC_MODIFIER_DESC_defensive_effort_modifier: "이 지점을 보호하고자 다수의 병력이 배치되었습니다."
@@ -1055,6 +1059,7 @@
  STATIC_MODIFIER_NAME_fra_birth_of_college_de_france: "콜레주 드 프랑스의 탄생"
  STATIC_MODIFIER_NAME_fra_routiers_looted_province: "강도 귀족"
  STATIC_MODIFIER_NAME_fra_estates_general_halts_support: "삼부회의 지원 중단"
+ STATIC_MODIFIER_NAME_fra_recognized_marcel_in_parliament: "Recognized Marcel in the Estates-General"
  STATIC_MODIFIER_NAME_fra_marcel_tax_embargo: "도시민의 세금 징수 금지"
  STATIC_MODIFIER_NAME_fra_burghers_broken_by_marcel_death: "도시민의 급격한 약화"
  STATIC_MODIFIER_NAME_fra_lavish_gifts_to_cadet_branches: "방계 혈통에 후한 대우"
@@ -1727,8 +1732,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "농민 행사력 억제"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "지방 자치권 주장"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "세금 면제"
- STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
- STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "정부 내 절대주의 영향력"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "정부 내 자유주의 영향력"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "입법 의회 복원"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "사기 저하"

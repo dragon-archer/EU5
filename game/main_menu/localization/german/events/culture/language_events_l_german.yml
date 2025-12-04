@@ -11,7 +11,7 @@
  language.2.desc: "Die fortgesetzte Verwendung von [enemy_dialect.GetName|U] als bevorzugte Hofsprache im einen Reich ([overlord.GetLongName|U]) hat aufgrund des derzeitigen Streits mit einem anderen ([enemy_country.GetLongName|U]) zu einigen Kontroversen geführt.\n\nAls Lösung hat man beschlossen, stattdessen [new_language.GetName|U] als Hofsprache zu verwenden. Sollten wir diesem Beispiel folgen?"
  language.2.a: "Wir sollten auch den offiziellen Gebrauch unserer Muttersprache ([common_dialect.GetNameWithNoTooltip|U]) fördern."
  language.2.b: "Wir sollten ebenfalls [new_language.GetNameWithNoTooltip|U] sprechen."
- language.2.c: "Nein, aber es ist an der Zeit, die [common_dialect.GetName|l]e Sprache selbst zu übernehmen."
+ language.2.c: "Nein, aber es ist an der Zeit, die [common_dialect.GetNameWithNoTooltip|l]e Sprache selbst zu übernehmen."
  language.2.d: "Nein, mit der [enemy_dialect.GetNameWithNoTooltip|l]en Sprache ist alles in Ordnung."
  language.10.title: "Die Sprache unseres Oberhaupts ([country.GetGovernment.GetRulerTitle|U])"
  language.10.desc: "Noch eine Ratssitzung, noch ein offizielles Dokument – und es wird deutlich, dass [ruler.GetShortName] nicht in der Lage ist, sich bei Hofe angemessen zu benehmen.\n\nAufgrund [ruler.Custom('DE_PRO_POS_S_3P')]er [ruler_culture.GetName|l]en Erziehung lässt [ruler.Custom('DE_PRO_POS_S_3P')] [court_language.GetName|U] zu wünschen übrig. [ruler.Custom('DE_PRO_POS_S_3P')|U] ausgeprägter fremdländischer Akzent ist für einheimische Ohren unerträglich und eine ständige Erinnerung daran, dass [ruler.Custom('DE_PRO_PER_S_3P_N')] nicht wirklich die richtige Person ist, um einen [court_language.GetNameWithNoTooltip|l]en Hof zu führen."

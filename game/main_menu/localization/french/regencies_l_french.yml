@@ -24,7 +24,7 @@
  fratricide_succesion_regency_tt3: "Le seul fils compétent du Dirigeant précédent est celui qui montera immédiatement sur le trône."
  fratricide_succesion_regency_tt4: "Les fils doivent d'abord grandir avant que la question du trône puisse être résolue."
  republican_election_regency_desc: "Lorsqu'une république n'a pas de [ruler|e], un Dirigeant temporaire est désigné pour la diriger en tant que [regent|e] jusqu'à ce qu'une [election|e] officielle puisse être organisée."
- consort_regency_desc: "Lorsque le [ruler|e] d'une Monarchie meurt alors que l'[heir|e] est encore [child|e|l], le [consort|e] peut gouverner le [country|e] à sa place en tant que [regent|e]."
+ consort_regency_desc: "Lorsque le [ruler|e] d'une Monarchie meurt alors que l'[heir|e] est encore [child|el], le [consort|e] peut gouverner le [country|e] à sa place en tant que [regent|e]."
  nobles_estate_regency_desc: "Si un [country|e] n'a pas de [ruler|e], un membre de la $nobles_estate$ pourrait être amené à diriger en tant que [regent|e]."
  clergy_estate_regency_desc: "Si un [country|e] n'a pas de [ruler|e], un membre du $clergy_estate$ pourrait être amené à diriger en tant que [regent|e]."
  burghers_estate_regency_desc: "Si un [country|e] n'a pas de [ruler|e], un membre de la $burghers_estate$ pourrait être amené à diriger en tant que [regent|e]."

@@ -241,7 +241,7 @@
  new_model_army_pi_desc: "A devastação da atual guerra civil contra a Realeza provou que nosso exército precisa de uma reforma total com urgência."
  edict_of_nantes_issue: "Édito de Nantes"
  edict_of_nantes_issue_desc: "Após anos de esforços religiosos, é hora de promover a união por meio da coexistência e acabar com a carnificina desnecessária."
- end_the_french_wars_of_religion_tt: "O [disaster|e] [ShowDisasterName('french_wars_of_religion')] terminará"
+ end_the_french_wars_of_religion_tt: "O [disaster|e] [ShowDisasterName('french_wars_religion')] terminará"
  mug_promote_rajput_officials: "Promover Oficiais do Povo $rajasthani_language$"
  mug_promote_rajput_officials_desc: "Ao promover o povo $rajasthani_language$ na nação, podemos garantir que tenhamos uma quantidade de oficiais militares com os quais poderemos contar."
  promote_rajput_officials_passed_tt: "Um(a) habilidoso(a) membro do [language|e] [ShowLanguageName('rajasthani_language')] aparecerá."

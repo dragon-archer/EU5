@@ -173,7 +173,7 @@
  flavor_vij.1101.title: "$flavor_vij.1100.title$"
  flavor_vij.1101.desc.a: "[ShowCultureName('tamil')] isyanını bastırmaya yönelik politikalarımız sayesinde isyancıların büyük çoğunluğuyla barış yapmayı başardık. Yönetimimizden memnun olduklarını belirttiler. Daha da önemlisi, bu isyanı başlatan hain de onların eline geçti. [target_character.GetName] artık kuvvetlerimiz tarafından yakalandı ve herkes onun sürgüne gönderilmesi için sabırsızlanıyor."
  flavor_vij.1101.desc.b: "[ShowCultureName('tamil')] isyanını bastırmakta başarısız olduktan sonra bu hain ordunun lideri nihayet ortaya çıktı. [target_character.GetName], [ROOT.GetCountry.GetName] ülkesinden bağımsız kendi krallığını kurmak amacıyla destek toplamaya çalışmış ve [ShowCultureNameWithNoTooltip('tamil')] halkıyla pazarlık yapmış. Artık geriye kalan tek şey, bu isyancıları ezip yok etmek."
- flavor_vij.1101.a: "Kovun gitsin! Hainler [ROOT.GetCountry.GetName] ülkesinde barınamaz!"
+ flavor_vij.1101.a: "Kovun gitsin! [ROOT.GetCountry.GetNameWithNoTooltip] topraklarında hainler barınamaz!"
  flavor_vij.1101.b: "Silahlarınızı kuşanın, askerler! [target_character.GetNameWithNoTooltip] ve onun izinden gidenleri ezeceğiz!"
  tamil_uprising: "Tamil Ayaklanması"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "Tüm [ShowCultureName('tamil')] [pops|e] [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] [pop_satisfaction|e] kaybeder."

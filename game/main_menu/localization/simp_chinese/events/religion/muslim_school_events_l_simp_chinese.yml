@@ -27,7 +27,7 @@
  muslim_school_events.7.b: "他最好得去别的地方传教。"
  muslim_school_events.8.title: "外国神学家大兴学问"
  muslim_school_events.8.desc: "我们请来的神学家们已经大大扩展了我国宗教学问。他们在我国起到了重要意义，激励了新一代[ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')]。"
- muslim_school_events.8.a: "我需要他们来[ROOT.GetCountry.GetCapital.GetName]。"
+ muslim_school_events.8.a: "我需要他们来[ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]。"
  muslim_school_events.8.b: "他们总会在我国找到适合的地方。"
  muslim_school_events.9.title: "[SCOPE.sCountry('scholar_country').GetReligiousSchool.GetNameWithNoTooltip]神学家"
  muslim_school_events.9.desc: "为我国伊斯兰学校送入[SCOPE.sCountry('scholar_country').GetAdjectiveWithNoTooltip]的学者不光提高了国家神学讨论水平，还强化了我们与[SCOPE.sCountry('scholar_country').GetName][SCOPE.sCountry('scholar_country').GetGovernment.GetGovernmentType.GetName]的关系。"

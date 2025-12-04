@@ -7,7 +7,7 @@
  guelphs_and_ghibellines.2.desc: "Bien qu'il soit d'usage que chaque famille importante se range aux côtés soit des [GetUniqueInternationalOrganization('guelphs_io').GetName] soit des [GetUniqueInternationalOrganization('ghibellines_io').GetName], il n'est pas rare que des individus particulièrement opportunistes passent d'un bord à l'autre et essayent de convaincre d'autres États, par force ou par ruse diplomatique, de soutenir le parti le plus légitime... ou peut-être simplement celui qui rapportera le plus ?"
  guelphs_and_ghibellines.2.a: "Pour l'[GetUniqueInternationalOrganization('hre').GetLeaderTitle]."
  guelphs_and_ghibellines.2.a.tt: "Ce choix nous ralliera aux [GetUniqueInternationalOrganization('ghibellines_io').GetNameWithNoTooltip]"
- guelphs_and_ghibellines.2.b: "Prenons parti pour l'[GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle]."
+ guelphs_and_ghibellines.2.b: "Prenons parti pour le [GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle]."
  guelphs_and_ghibellines.2.b.tt: "Ce choix nous ralliera aux [GetUniqueInternationalOrganization('guelphs_io').GetNameWithNoTooltip]"
  guelphs_and_ghibellines.2.c: "Ce n'est pas le moment de prendre cette décision."
  guelphs_and_ghibellines.2.c.tt: "Ce choix ne changera pas notre allégeance."

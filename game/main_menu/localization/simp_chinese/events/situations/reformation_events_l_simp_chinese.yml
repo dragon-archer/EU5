@@ -3,7 +3,7 @@
  reformation.1.desc: "由于神职人员愈加放肆的放纵行为，以及人们对教会贪婪的质疑日渐加深，反对罗马[GetUniqueInternationalOrganization('catholic_church').GetName]的思潮在整个[ShowContinentName('europe')]蔓延。\n\n尽管就目前而言，这些指责的声音还显得宽泛而空洞，但发生在[target_location.GetName]的一起风波让事情起了一些变化。一位名叫[target_character.GetName]的卑微修士撰写了一篇有关“真正崇拜与我们信仰的本质”的宣言书并大肆公开，[target_character.GetSheHe|U]特别抨击了贩卖赎罪券的行为，诽谤这是“贪婪且非必要的”，进而直接质疑了[GetUniqueInternationalOrganization('catholic_church').GetLeaderTitle]的权威。"
  reformation.1.a: "只有时间才能说明这可能会带来什么。"
  reformation.2.title: "翻译圣经"
- reformation.2.desc: "[ROOT.GetCountry.GetCapital.GetName]的一位牧师将圣经翻译成了[ROOT.GetCountry.GetCourtLanguage.GetName]，并开始向[ROOT.GetCountry.GetName]附近的村庄分发圣经。他们声称，将《圣经》翻译成[ROOT.GetCountry.GetLiturgicalLanguage.GetName]以外的其他语言，可以为人们带来最宝贵的财富，让他们用一种能表达自己思想和心灵的语言来认识上帝。然而，教会反对这样做，因为这显然违背了上帝的旨意！"
+ reformation.2.desc: "[ROOT.GetCountry.GetCapital.GetName]的一位牧师将圣经翻译成了[ROOT.GetCountry.GetDominantLanguage.GetName]，并开始向[ROOT.GetCountry.GetName]附近的村庄分发圣经。他们声称，将《圣经》翻译成[ROOT.GetCountry.GetLiturgicalLanguage.GetName]以外的其他语言，可以为人们带来最宝贵的财富，让他们用一种能表达自己思想和心灵的语言来认识上帝。然而，教会反对这样做，因为这显然违背了上帝的旨意！"
  reformation.2.a: "异端！烧死这教士还有他的书！"
  reformation.2.b: "好消息！让它尽量广泛地传播出去。"
  reformation.3.title: "改革者[target_character.GetNameWithNoTooltip]"

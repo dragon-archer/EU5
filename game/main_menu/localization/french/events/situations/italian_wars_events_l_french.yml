@@ -41,7 +41,7 @@
  italian_wars.300.title: "Victoire de [target_io.GetNameWithNoTooltip] en [ShowRegionNameWithNoTooltip('italy_region')]"
  italian_wars.300.desc: "Malgré sa féroce et inébranlable résistance durant des décennies, l'[ShowRegionName('italy_region')] est désormais fermement sous notre contrôle. Ceux qui ont cherché à se mêler de nos plans sont reclus derrière de grands murs, tremblant et fuyant les marches de nos grandes armées. Ce jour marque le début d'une nouvelle ère dans la région et notre revendication incontestable sur celle-ci !"
  italian_wars.300.a: "Longue vie à [target_character.GetNameWithNoTooltip] !"
- italian_wars.400.title: "Impasse #L [ShowCultureGroupNameWithNoTooltip('italian_group')|l]ne#!"
+ italian_wars.400.title: "Impasse [ShowCultureGroupNameWithNoTooltip('italian_group')|l]"
  italian_wars.400.desc: "Malgré tous nos efforts pour faire pencher la balance au cours des [ShowSituationName('italian_wars')], il semble que les États, ainsi que tout envahisseur étranger, ont échoué à unifier la région, ou même à imposer leur influence..."
  italian_wars.400.a: "À quoi bon la guerre, alors ?"
  end_the_italian_wars_stalemate_tt: "Les [ShowSituationNameWithNoTooltip('italian_wars')] vont se retrouver dans une impasse..."

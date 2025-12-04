@@ -11,7 +11,7 @@
  language.2.desc: "[overlord.GetLongName], [enemy_dialect.GetName] dilini sarayında kullanmaya devam ettiği için [enemy_country.GetLongName] ile arasındaki anlaşmazlıkta bazı ikilemler yarattı.\n\nBuna çözüm olarak [new_language.GetName] dilini Saray Dili olarak benimsemeye karar verdiler. Biz de aynı yolu izlemeli miyiz?"
  language.2.a: "Biz de yetkilileri yerli [common_dialect.GetNameWithNoTooltip] dilimizi kullanmaya teşvik etmeliyiz."
  language.2.b: "Biz de [new_language.GetNameWithNoTooltip] dilini benimsemeliyiz."
- language.2.c: "Hayır ama bizim de [common_dialect.GetName] dilini benimseme vaktimiz geldi."
+ language.2.c: "Hayır ama bizim de [common_dialect.GetNameWithNoTooltip] dilini benimseme vaktimiz geldi."
  language.2.d: "Hayır, [enemy_dialect.GetNameWithNoTooltip] bize yeter."
  language.10.title: "[country.GetGovernment.GetRulerTitle|U] Tarafından Yapılan Konuşma"
  language.10.desc: "Yine bir konsey toplantısı ve resmî belge gösteriyor ki [ruler.GetShortName], dilini sarayda korumayı başaramıyor.\n\n[ruler_culture.GetName] kökeninden dolayı onun [court_language.GetName] dilindeki yetkinliği çok zayıf kalıyor. Kendine özgü yabancı aksanı yerlilerin kulağını tırmalıyor ve [court_language.GetNameWithNoTooltip] sarayının önderi olmayı hak etmediğini herkese tekrar tekrar hatırlatıyor."

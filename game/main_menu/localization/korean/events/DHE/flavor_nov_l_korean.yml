@@ -116,7 +116,7 @@
  nov_accepted_alliance_with_us: "우리와의 동맹 수락"
  flavor_nov.24.title: "[GetCountry('LIT').GetNameWithNoTooltip](과)와의 동맹"
  flavor_nov.24.desc: "[GetCountry('LIT').GetName]에 간 우리 사절단이 좋은 소식과 함께 돌아왔습니다. [GetCountry('LIT').GetNameWithNoTooltip] 측이 동맹을 수락했습니다!"
- flavor_nov.24.a: "[marfa_boretskaya.GetName]의 말이 옳았구나!"
+ flavor_nov.24.a: "[marfa_boretskaya.GetNameWithNoTooltip]의 말이 옳았구나!"
  flavor_nov.25.title: "[GetCountry('LIT').GetNameWithNoTooltip](과)와의 동맹"
  flavor_nov.25.desc: "[GetCountry('LIT').GetName]에 간 우리 사절단이 나쁜 소식을 가지고 돌아왔습니다. [GetCountry('LIT').GetNameWithNoTooltip] 측이 동맹을 거절했습니다!"
  flavor_nov.25.a: "그 여자를 믿은 우리 잘못이지..."

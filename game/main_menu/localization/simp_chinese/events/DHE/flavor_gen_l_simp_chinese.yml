@@ -82,7 +82,7 @@
  flavor_gen.18.desc: "科西嘉一直是[ROOT.GetCountry.GetLongName]的麻烦之源。当地居民顽固不化，一有机会便寻求独立。\n\n然而，他们也不愿向任何封建领主低头。农民起义的领袖[sambucuccio_dalando.GetName]及其盟友在[rebel_location.GetName]发动了针对[rebel_location.GetController.GetAdjective]的叛乱，这些起义者源自百年战争期间[GetCountry('FRA').GetName]的农民暴动。"
  anti_feudal_revolters: "反封建起义军"
  flavor_gen.18.a: "愿起义者击退我们的敌人。"
- flavor_gen.18.b: "我们需要[sambucuccio_dalando.GetName]来做我们的将军！"
+ flavor_gen.18.b: "我们需要[sambucuccio_dalando.GetNameWithNoTooltip]来做我们的将军！"
  flavor_gen.19.title: "巴斯蒂亚的建成"
  flavor_gen.19.desc: "科西嘉已经被证明是一座没有油水可捞的岛屿，因此许多[ROOT.GetCountry.GetAdjective]商人与官员已经放弃了对科西嘉岛的内部政治进行干涉。然而在[ROOT.GetCountry.GetFlavorRank]，依然有一些商人看到了这座岛屿的潜力。在该岛，当地的地方会社已经加固了[ShowLocationName('bastia')]的防御工事，以加强对该岛的控制。此外，他们还打算加快附近城镇的发展，但这需要额外的资金支持。"
  flavor_gen.19.a: "给予该地会社一切所需的支持。"

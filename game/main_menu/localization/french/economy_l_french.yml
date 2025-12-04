@@ -594,7 +594,7 @@
  MARKET_PRICE_WITH_CHANGE: "$VAL|2$@$DIFFERENCE$ !@$ICON$ !"
  GOODS_MARKET_ENTRY_TITLE: "[GoodsMarketEntry.GetGoods.GetNameWithNoTooltip] à [Market.GetShortNameWithNoTooltip]"
  GOODS_NOT_A_RAW_MATERIAL: "@trigger_no![GOODS.GetName] n'est pas une [raw_material|e]"
- GOODS_NOT_IN_THIS_MARKET: "@trigger_no! Nous ne possédons plus de [locations|e] sur le [MARKET.GetName] qui puissent produire plus de [GOODS.GetName] en tant que [raw_material|e]."
+ GOODS_NOT_IN_THIS_MARKET: "@trigger_no! Nous ne possédons actuellement pas de [locations|e] sur le [MARKET.GetName] qui puissent produire plus de [GOODS.GetName] en tant que [raw_material|e]."
  GOODS_CLICK_TO_SELECT_WHERE: "Sélectionnez le lieu vers lequel s'étendre."
  GOODS_NOT_POSS_BUILDINGS: "@trigger_no! [COUNTRY.GetName] ne connaît pas de [buildings|e] qui puisse produire [GOODS.GetName]."
  GOODS_CLICK_TO_SELECT_WHERE_B: "Sélectionnez le lieu de construction."

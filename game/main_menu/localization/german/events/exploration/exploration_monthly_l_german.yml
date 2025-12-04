@@ -76,7 +76,7 @@
  exploration_monthly.23.a: "Lasst uns diesen Wachturm bauen."
  exploration_monthly.23.b: "Es besteht keine Notwendigkeit."
  exploration_monthly.24.title: "Ein freundlicher Hund"
- exploration_monthly.24.desc: "[explorer.GetName|U] hat bei der Erkundung des Gebiets [ROOT.GetExploration.GetArea.GetName] eine angenehme Überraschung erlebt. In der Nähe des Lagers ist vor Kurzem ein Hund aufgetaucht, der recht freundlich zu sein scheint. Der Hund bellt ständig, doch es hat den Anschein, als wolle er eher die Aufmerksamkeit von [explorer.GetNameWithNoTooltip] auf sich ziehen, als eine Bedrohung darzustellen, da sich ihm jeder ohne Schwierigkeiten nähern kann. Er scheint zu versuchen, die Expedition auf einen bestimmten Weg zu lenken, aber am Ende ist es doch nur ein Hund, oder?"
+ exploration_monthly.24.desc: "[explorer.GetName|U] erlebte bei der Erkundung des Gebiets [ROOT.GetExploration.GetArea.GetName] eine angenehme Überraschung. In der Nähe des Lagers tauchte vor Kurzem ein Hund auf, der recht freundlich zu sein scheint. Der Hund bellt ständig, doch es hat den Anschein, als wolle er eher die Aufmerksamkeit von [explorer.GetNameWithNoTooltip] auf sich ziehen, als eine Bedrohung darzustellen, da sich ihm jeder ohne Schwierigkeiten nähern kann. Er will offenbar die Expedition auf einen bestimmten Weg, aber am Ende ist es doch nur ein Hund, oder?"
  exploration_monthly.24.a: "Dein Freund und Helfer"
  exploration_monthly.24.a.tt: "[explorer.GetNameWithNoTooltip|U] wird den Hund als Haustier halten und seine Anweisungen befolgen"
  exploration_monthly.24.b: "Wer ist ein braver Junge?"

@@ -116,7 +116,7 @@
  nov_accepted_alliance_with_us: "Zaakceptowano sojusz z nami"
  flavor_nov.24.title: "Sojusz z państwem [GetCountry('LIT').GetNameWithNoTooltip]"
  flavor_nov.24.desc: "Nasi posłańcy przynoszą z kraju [GetCountry('LIT').GetName] dobre wieści: [GetCountry('LIT').GetNameWithNoTooltip] zgadza się na sojusz!"
- flavor_nov.24.a: "[marfa_boretskaya.GetName] od początku miała słuszność!"
+ flavor_nov.24.a: "[marfa_boretskaya.GetNameWithNoTooltip] cały czas miała rację!"
  flavor_nov.25.title: "Sojusz z państwem [GetCountry('LIT').GetNameWithNoTooltip]"
  flavor_nov.25.desc: "Nasi posłańcy przynoszą z kraju [GetCountry('LIT').GetName] złe wieści: [GetCountry('LIT').GetNameWithNoTooltip] nie zgadza się na sojusz!"
  flavor_nov.25.a: "Czemuż zaufaliśmy tej kobiecie?"

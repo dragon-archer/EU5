@@ -173,7 +173,7 @@
  flavor_vij.1101.title: "$flavor_vij.1100.title$"
  flavor_vij.1101.desc.a: "Grâce à nos politiques visant à contenir la rébellion des #L [ShowCultureName('tamil')]s#!, nous avons pacifié la majorité des rebelles. Ils acceptent de nouveau notre autorité, et mieux encore, ils ont capturé le traître à l'origine de cette révolte. [target_character.GetName] est désormais sous notre contrôle, et tous attendent avec impatience que nous ordonnions son exil."
  flavor_vij.1101.desc.b: "N'ayant pas réussi à contenir la rébellion des #L [ShowCultureName('tamil')]s#!, l'instigateur de cette trahison révèle son visage. [target_character.GetName] avait manigancé pour gagner du soutien et se tailler un royaume indépendant du [ROOT.GetCountry.GetName], et [target_character.GetHeShe] a ainsi négocié avec les #L [ShowCultureNameWithNoTooltip('tamil')]s#!. Il ne nous reste plus qu'à écraser ces rebelles."
- flavor_vij.1101.a: "Dehors ! Les traîtres n'ont pas leur place dans le [ROOT.GetCountry.GetName] !"
+ flavor_vij.1101.a: "Dehors ! Les traîtres n'ont pas leur place en [ROOT.GetCountry.GetNameWithNoTooltip] !"
  flavor_vij.1101.b: "Aux armes ! Écrasons [target_character.GetNameWithNoTooltip] et ses canailles !"
  tamil_uprising: "Soulèvement tamoul"
  VIJ_ALL_TAMILS_LOSE_90_SATISFACTION: "Tous les [pops|e] #L [ShowCultureName('tamil')|l]s#! vont perdre [ShowNamedValue('pop_satisfaction_ultimate_penalty')|+=2%] de [pop_satisfaction|e]."

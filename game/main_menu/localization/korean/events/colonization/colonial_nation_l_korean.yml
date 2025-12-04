@@ -22,7 +22,7 @@
  colonial_nation.183.title: "새로운 총독"
  colonial_nation.183.desc: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName]의 통치 능력이 미흡하다는 소식이 결국 통치자의 귀에까지 흘러 들어가, 이 안타까운 상황이 그들과 우리의 평판에 미칠 영향에 대해 다양한 우려가 확산되기 시작했습니다. 그러던 와중, 본국에 병합될 위험에 놓인 식민지 측에서 우리에게 상황을 완화할 제안을 보내왔습니다. 너무 늦기 전에 식민지를 이끌 새 총독을 임명하겠다는 것입니다."
  colonial_nation.183.a: "제안을 받아들여야겠군."
- colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetName]에게 계속 통치를 맡길 것이다."
+ colonial_nation.183.b: "[ROOT.GetCountry.GetGovernment.GetRuler.GetNameWithNoTooltip]에게 계속 통치를 맡길 것이다."
  colonial_nation.184.title: "[ROOT.GetCountry.GetName], 빚더미에 오르다!"
  colonial_nation.184.desc: "우리 식민지에 닥친 고난의 시기에 끝이 보이지 않습니다. 우리를 짓누르는 부채의 무게로 주민들의 사기는 꺾이고 말았습니다. 급기야 기아로 가족들이 굶주리기 시작하자, 주민들은 [ROOT.GetCountry.GetGovernment.GetRuler.GetName]에게 즉각적이고 효과적인 해결책을 요구하기 시작했습니다."
  colonial_nation.184.a: "우리의 영향력을 활용해 이 문제를 해결해 보자."

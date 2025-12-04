@@ -91,6 +91,7 @@
  STATIC_MODIFIER_NAME_giving_support_military: "Gewährt Militärhilfe"
  STATIC_MODIFIER_NAME_receiving_support_military: "Erhält Militärhilfe"
  STATIC_MODIFIER_NAME_receiving_scutage: "Erhält Rittersteuer"
+ STATIC_MODIFIER_NAME_receiving_rein_in_junior_diplomacy: "Reined in Junior Diplomacy"
  STATIC_MODIFIER_NAME_giving_support_loyalists: "Gewährt Loyalistenunterstützung"
  STATIC_MODIFIER_NAME_receiving_support_loyalists: "Erhält Loyalistenunterstützung"
  STATIC_MODIFIER_NAME_receiving_divert_trade: "Erhält Handelsumleitung"
@@ -607,7 +608,7 @@
  STATIC_MODIFIER_NAME_clergy_estate_less_levy_obligations: "Aufgebotsverringerung ($clergy_estate$)"
  STATIC_MODIFIER_NAME_burghers_estate_less_levy_obligations: "Aufgebotsverringerung ($burghers_estate$)"
  STATIC_MODIFIER_NAME_peasants_estate_less_levy_obligations: "Aufgebotsverringerung ($peasants_estate$)"
- STATIC_MODIFIER_NAME_cracking_down_on_rebels: "Rebellenaufbringen"
+ STATIC_MODIFIER_NAME_cracking_down_on_rebels: "Rebellenunterdrückung"
  STATIC_MODIFIER_NAME_rise_of_the_horde: "Aufstieg der Horde"
  STATIC_MODIFIER_NAME_war_declared_on_us: "Uns wurde der Krieg erklärt"
  STATIC_MODIFIER_NAME_refused_favors: "Lehnte Gefallen ab"
@@ -731,6 +732,7 @@
  #Bohemia
  STATIC_MODIFIER_NAME_hussite_heresy_modifier: "Hussitenketzerei"
  STATIC_MODIFIER_DESC_hussite_heresy_modifier: "Der [ShowReligionName('hussite')] erlebt derzeit einen Aufschwung, da seine Anhänger nach Reformen in der #L [ShowReligionAdjective('catholic')|l]en#! Kirche verlangen."
+ STATIC_MODIFIER_NAME_expanded_mines_modifier: "Erweiterte Minen"
  #Aztec Modifiers
  STATIC_MODIFIER_NAME_good_omen_modifier: "Gute Omen"
  STATIC_MODIFIER_DESC_good_omen_modifier: "Eine Zeit der Erneuerung in Verbindung mit mildem Wetter und reichlich Nahrung sind gute Zeichen: Die Götter sind erfreut."
@@ -800,6 +802,8 @@
  STATIC_MODIFIER_DESC_austere_court: "Ein freudloses Klima der Sparsamkeit prägt das höfische Leben und die bürokratische Kultur dieses Lands."
  STATIC_MODIFIER_NAME_ostentatious_court: "Pompöser Hof"
  STATIC_MODIFIER_DESC_ostentatious_court: "Das ansonsten kultivierte Hofleben dieses Landes wird derzeit gerpägt von dekadenten Spektakeln und ausufernden Zurschaustellungen von Reichtum – doch es weiß zumindest Besucher mächtig zu beindrucken."
+ STATIC_MODIFIER_NAME_tur_public_cats: "Public Cat Property"
+ STATIC_MODIFIER_DESC_tur_public_cats: "The cats in this location have been turned into public property, protecting them from any misconduct that may occur. This especially increases the number of rats being hunted, ensuring that no deadly diseases appear."
  #Byzantium
  STATIC_MODIFIER_NAME_defensive_effort_modifier: "Verteidigungsbemühungen"
  STATIC_MODIFIER_DESC_defensive_effort_modifier: "Eine große Zahl von Soldaten wurde entsandt, um diesen Ort zu schützen."
@@ -1055,6 +1059,7 @@
  STATIC_MODIFIER_NAME_fra_birth_of_college_de_france: "Geburt des Collège de France"
  STATIC_MODIFIER_NAME_fra_routiers_looted_province: "Raubritter"
  STATIC_MODIFIER_NAME_fra_estates_general_halts_support: "Generalstände stellen Unterstützung ein"
+ STATIC_MODIFIER_NAME_fra_recognized_marcel_in_parliament: "Recognized Marcel in the Estates-General"
  STATIC_MODIFIER_NAME_fra_marcel_tax_embargo: "Bürger-Steuerembargo"
  STATIC_MODIFIER_NAME_fra_burghers_broken_by_marcel_death: "Bürger stark geschwächt"
  STATIC_MODIFIER_NAME_fra_lavish_gifts_to_cadet_branches: "Verwöhnte Nebenlinien"
@@ -1727,8 +1732,8 @@
  STATIC_MODIFIER_NAME_curbed_peasants_power_modifier: "Beschnittene Bauernmacht"
  STATIC_MODIFIER_NAME_cnc_local_authority_asserted: "Behauptete Lokalautorität"
  STATIC_MODIFIER_NAME_cnc_refused_to_pay_taxes: "Steuerbefreiung"
- STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutist Influences in the Government"
- STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberal Influences in the Government"
+ STATIC_MODIFIER_NAME_absolutist_influences_government_modifier: "Absolutistische Einflüsse in der Regierung"
+ STATIC_MODIFIER_NAME_liberal_influences_government_modifier: "Liberale Einflüsse in der Regierung"
  #Aspiration for Liberty
  STATIC_MODIFIER_NAME_reinstated_the_parliament_modifier: "Wiedereingesetzte gesetzgebende Versammlungen"
  STATIC_MODIFIER_NAME_decreased_morale_modifier: "Verringerte Moral"

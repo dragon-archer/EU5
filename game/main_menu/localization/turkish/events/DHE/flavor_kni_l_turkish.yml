@@ -104,7 +104,7 @@
  flavor_kni.120.b: "Bunun yerine altyapımızı geliştirelim."
  flavor_kni.121.title: "[target_location.GetNameWithNoTooltip] İlinde Deniz Ticareti"
  flavor_kni.121.desc: "[target_location.GetName], oldukça avantajlı bir konumda bulunan bir adadır. [target_location.GetRegion.GetName] kıyısına yakınlığı, komşu kıyılardaki deniz faaliyetlerimiz için bir liman olarak değerini artırıyor. Aynı zamanda Doğu ile Batı arasında bir geçit olması sebebiyle yurt dışından gelen birçok tüccar, [target_location.GetNameWithNoTooltip] ilini Yakın Doğu yolculuklarında bir durak hâline getirdi."
- flavor_kni.121.a: "[ShowGoodsName('naval_supplies')] üretimini destekleyeceğiz!"
+ flavor_kni.121.a: "[ShowGoodsNameWithNoTooltip('naval_supplies')] üretimini destekleyeceğiz!"
  flavor_kni.121.b: "Daha fazla tüccar ağırlamalıyız."
  flavor_kni.121.c: "Bunun yerine yerel halkla ilgilenmeye odaklanalım."
  flavor_kni.130.title: "Mucizevi Deprem"

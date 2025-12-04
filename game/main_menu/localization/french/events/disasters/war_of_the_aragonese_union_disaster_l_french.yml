@@ -1,9 +1,9 @@
 ﻿l_french:
  war_of_the_aragonese_union_disaster.1.title: "La renaissance de l'Union"
  war_of_the_aragonese_union_disaster.1.desc: "[ruler_brother.GetName] a été expulsé de [target_location.GetName] et interdit d'entrée en [ShowAreaName('catalonia_area')] et à [ShowLocationName('zaragoza')] pour éviter que son poison ne se propage à d'autres nobles. Au lieu de cela, il a tourné en dérision les ordres de notre roi et convoqué ses co-conspirateurs à l'extérieur de la ville de [ShowLocationNameWithNoTooltip('zaragoza')]. Ensemble, ils ont fait renaître la rébellion qui a humilié [scope_alfons_iii.GetName], l' #italic Union d'Aragon#!.\n\nLes mensonges de [ruler_brother.GetNameWithNoTooltip] se mêlent aux vieux griefs que la noblesse et les villes #L [GetCountry('ARA').GetAdjective|l]es#! nourrissent à l'égard de la Couronne pour créer un feu de joie qui se propage rapidement dans tout [ShowLocationNameWithNoTooltip('zaragoza')]."
- war_of_the_aragonese_union_disaster.1.a: "Écoutons leurs revendications ; peut-être le problème pourra-t-il être résolu pacifiquement."
+ war_of_the_aragonese_union_disaster.1.a: "Nous n'écouterons pas les rebelles et les traîtres."
  war_of_the_aragonese_union_disaster.1.a.tt: "Tous les [pops|e] de [ShowProvinceDefinitionName('zaragoza_province')] rejoindront l'[union_of_aragon.GetName]"
- war_of_the_aragonese_union_disaster.1.b: "Nous n'écouterons pas les rebelles et les traîtres."
+ war_of_the_aragonese_union_disaster.1.b: "Écoutons leurs revendications ; peut-être le problème pourra-t-il être résolu pacifiquement."
  union_of_aragon_name: "Union d'Aragon"
  war_of_the_aragonese_union_disaster.2.title: "Anciennes revendications"
  war_of_the_aragonese_union_disaster.2.desc: "Les chefs de l'#italic Union d'Aragon#! ont répondu à l'invitation du roi et sont arrivés à la cour dans le calme. Renonçant à toute revendication concernant la succession du royaume, ils n'abandonneront toutefois pas leur combat en faveur de droits étendus. Ce n'est qu'en acceptant leurs dernières revendications que nous mettrons fin au conflit."

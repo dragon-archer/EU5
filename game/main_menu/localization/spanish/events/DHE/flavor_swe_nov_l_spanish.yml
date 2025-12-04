@@ -23,7 +23,7 @@
  flavor_swe_nov.4.b.tt: "[swedish_theologian.GetName] y otros teólogos viajarán a [target_location.GetName] para realizar un debate religioso con el estamento [ROOT.GetCountry.GetGovernment.GetEstateName('clergy_estate')|l] de [byzantium_country.GetName]."
  flavor_swe_nov.5.title: "La visita del teólogo [sweden_country.GetAdjectiveWithNoTooltip|l]"
  flavor_swe_nov.5.desc: "Ha aparecido un personaje interesante en nuestra corte. [swedish_theologian.GetName] es un teólogo [sweden_country.GetAdjective|l] que nos han enviado desde [novgorod_country.GetNameWithNoTooltip] para debatir sobre la verdadera confesión de Cristo, puesto que los teólogos [GetCountry('BYZ').GetAdjective|l] son famosos por su pericia en estos asuntos de fe."
- flavor_swe_nov.5.a: "Vamos a explicarle lo que es el [ShowReligionName('orthodox')|l]."
+ flavor_swe_nov.5.a: "Vamos a explicarle lo que es el [ShowReligionNameWithNoTooltip('orthodox')|l]."
  flavor_swe_nov.5.a.at: "[swedish_theologian.GetName] acepta su derrota en el debate y se convierte al [ROOT.GetCountry.GetReligion.GetName|l].\nVuelve a [sweden_country.GetName] para predicar nuestra fe."
  flavor_swe_nov.5.b: "Interesante."
  swe_theologian_visit_received: "Visita de teólogo recibida"

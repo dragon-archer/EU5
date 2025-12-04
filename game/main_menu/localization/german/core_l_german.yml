@@ -54,6 +54,7 @@
  END_OF_TIME_MERCS: "sie entweder alle in der Schlacht sterben oder zu ihren Geliebten zurückkehren"
  END_OF_TIME_REBELS: "sie sich dazu entschließen, dass sie mit der Lage zufrieden sind"
  END_OF_TIME_IO: "die Verwaltung zum letzten Mal ihre Türen schließt"
+ END_OF_TIME_DYNASTY: "their extinction"
  END_OF_TIME_LIFE: "zu ihrem Tod"
  BULLET_WITH_TAB: "    • "
  BULLET: "• "

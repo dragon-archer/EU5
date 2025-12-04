@@ -5,6 +5,7 @@
  flavor_azt.70.a: "所有人都必须为金字塔的修建做出贡献！"
  flavor_azt.70.b: "让我们的附属国做出应有的贡献。"
  flavor_azt.70.c: "也许下次吧。"
+ subject_contribution_reason: "属国贡赋"
  we_will_be_able_to_construct_the_building_later_tt: "我们之后可以建造该[building|e]"
  flavor_azt.70.historical_info: "大神庙，维伊·特奥卡利​，作为墨西卡供奉与权力的象征屹立于特诺奇蒂特兰中央。它从14世纪开始分阶段建造，两条楼梯通往两座神庙：一座供奉战神维齐洛波奇特利，另一座供奉雨水与丰饶之神特拉洛克。附近还有一座风神埃埃卡特尔的神龛。这座寺庙一直是这座城市神圣心脏的醒目特色，祭司们在这里进行祭祀和仪式，以维持宇宙秩序。"
  flavor_azt.80.title: "[target_character.GetNameWithNoTooltip]"

@@ -273,7 +273,7 @@
  societal_values.604.b: "Er kann ein Diener [SelectLocalization(EqualTo_string(ROOT.GetCountry.GetReligion.GetGodName,'Götter'),'der','von')] [ROOT.GetCountry.GetReligion.GetGodName] werden!"
  societal_values.604.c: "$societal_values.604.b$"
  societal_values.604.d: "$societal_values.604.b$"
- societal_values.604.e: "Er wird ein Diener des HRR ([GetUniqueInternationalOrganization('hre').GetName]) sein!"
+ societal_values.604.e: "Er wird ein Diener des HRR ([GetUniqueInternationalOrganization('hre').GetNameWithNoTooltip]) sein!"
  societal_values.605.title: "Unterschiede überbrücken"
  societal_values.605.desc: "Gelegentlich, wenn Länder verschiedene Regierungsformen haben, verstehen sie einander einfach nicht gänzlich. Mit unseren fähigen Diplomaten konnten wir die Unterschiede zu einem unserer Nachbarn überbrücken."
  societal_values.605.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

@@ -35,7 +35,7 @@
  hre.900.title: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle]의 승하"
  hre.900.desc: "[GetUniqueInternationalOrganization('hre').GetLeaderTitle] 폐하 만세! 선제후들이 우리를 계속 믿어 주기로 한 덕에 [GetUniqueInternationalOrganization('hre').GetLeaderCountry.GetName](이)가 황권을 유지할 수 있었습니다. 우리 국가가 제국 황권을 더욱 단단히 장악했고 제후들도 이를 당연하게 여기기 시작했으며, 그 결과 [GetUniqueInternationalOrganization('hre').GetName] 내에서 우리가 갖는 권위가 한층 더 향상되었습니다."
  hre.900.a: "[ROOT.GetCountry.Custom('common_string_positive')]"
- hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName]이 #Y $imperial_authority$#!를 [ROOT.GetVariable('imperial_authority_change').GetValue] 획득합니다"
+ hre.imperial_authority_change.tt: "[GetUniqueInternationalOrganization('hre').GetName]이 #Y $imperial_authority$#!를 [ROOT.GetVariable('imperial_authority_change').GetValue|+2] 획득합니다"
  hre.901.title: "회생한 선제후"
  hre.901.desc: "[released_country.GetName](이)가 마치 불사조가 잿더미 속에서 되살아나듯 회생하여 다시금 [GetUniqueInternationalOrganization('hre').GetName]의 제후가 되었습니다!"
  hre.901.a: "[ROOT.GetCountry.Custom('common_string_positive')]"

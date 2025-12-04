@@ -8,9 +8,10 @@ types Newsfeed
 	type "newsfeed_carousel" = button
 	{ 
 		name = "newsfeed_slot_template"
-		visible = yes
+		visible = "[MarketingSlot.HasContent]"
 		alwaystransparent = no
 		scissor = yes
+		datacontext = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('main')]" # override for other slots
 		widget = {
 			size = { 902 230 }
 			widgetanchor = bottom|left
@@ -22,15 +23,10 @@ types Newsfeed
 				name = carousel_hold
 				next = carousel_transition
 
-				block "start_animating" {
-					trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').StartAnimating]"
-					on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').ClearStartAnimating]"
-				}
-
-				# TODO: Delay should be from card data
-				block "delay" {
-					duration = 5
-				}
+				trigger_when = "[MarketingSlot.StartAnimating]"
+				on_start = "[MarketingSlot.ClearStartAnimating]"
+				
+				delay = "[MarketingSlot.GetCarouselDelay]"
 				position_x = 0
 			}
 			state = {
@@ -50,18 +46,15 @@ types Newsfeed
 				delay = 0
 				duration = 0
 
-				block "cycle_card" {
-					on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').CycleActiveContentCard]"
-				}
+				on_start = "[MarketingSlot.CycleActiveContentCard]"
+				
 				position_x = 0
 			}
 
 			state = {
 				name = carousel_stop
-				block "stop_animating" {
-					trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').StopAnimating]"
-					on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').ClearStopAnimating]"
-				}
+				trigger_when = "[MarketingSlot.StopAnimating]"
+				on_start = "[MarketingSlot.ClearStopAnimating]"
 				on_start = "[PdxGuiWidget.InterruptAnimation( 'carousel_hold' )]"
 				on_start = "[PdxGuiWidget.InterruptAnimation( 'carousel_transition' )]"
 				on_start = "[PdxGuiWidget.InterruptAnimation( 'carousel_flip' )]"
@@ -70,8 +63,8 @@ types Newsfeed
 			}
 			button = {
 				name = "newsfeed_slot_main_button"
-				block "current_texture" {
-					texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('main').GetTexture]"
+				texture = "[MarketingSlot.GetTexture]"
+				block "current_button_pos" {
 					size = { 451 230 }
 				}
 				position = { 0 0 }
@@ -82,8 +75,8 @@ types Newsfeed
 			}
 			button = {
 				name = "newsfeed_slot_main_button_next"
-				block "next_texture" {
-					texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('main').GetNextTexture]"
+				texture = "[MarketingSlot.GetNextTexture]"
+				block "next_button_pos" {
 					size = { 451 230 }
 					position = { 451 0 }
 				}
@@ -93,9 +86,7 @@ types Newsfeed
 				alwaystransparent = yes # makes the button be ignored so click is passed to parent - alternatively we may want different onclicks for the two buttons
 			}
 		}
-		block "onclick" {
-			onclick = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').ClickActiveCard]"
-		}
+		onclick = "[MarketingSlot.ClickActiveCard]"
 	}
 
 	type newsfeed_full = widget {
@@ -107,118 +98,56 @@ types Newsfeed
 		size = { 960 230 }
 		scissor = yes
 
-		newsfeed_carousel = {
-			name = "newsfeed_slot_main"
-			#raw_text = "main"
-			position = { 0 0 }
-			size = { 451 230 }
-			align = left
-			parentanchor = top|left
-			widgetanchor = top|left
+		flowcontainer = {
+			spacing = 10
 
-			blockoverride "start_animating" {
-				trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').StartAnimating]"
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').ClearStartAnimating]"
-			}
-			blockoverride "delay" {
-				delay = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').GetCarouselDelay]"
-			}
-			blockoverride "cycle_card" {
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').CycleActiveContentCard]"
-			}
-			blockoverride "stop_animating" {
-				trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').StopAnimating]"
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').ClearStopAnimating]"
-			}
-			blockoverride "current_texture" {
-				texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('main').GetTexture]"
+			alwaystransparent = yes
+			ignoreinvisible = yes
+			visible = yes
+			scissor = yes
+
+			newsfeed_carousel = {
+				name = "newsfeed_slot_main"
 				size = { 451 230 }
+				align = left
+				parentanchor = top|left
+				widgetanchor = top|left
 			}
-			blockoverride "next_texture" {
-				texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('main').GetNextTexture]"
-				size = { 451 230 }
-				position = { 451 0 }
-			}
-			blockoverride "onclick" {
-				onclick = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('main').ClickActiveCard]"
-			}
-		}
 
-		newsfeed_carousel = {
-			name = "newsfeed_slot_secondary_1"
-			position = { 460 0 }
-			size = { 245 230 }
-			align = left
-			parentanchor = top|left
-			widgetanchor = top|left
+			newsfeed_carousel = {
+				name = "newsfeed_slot_secondary_1"
+				size = { 245 230 }
+				align = left
+				parentanchor = top|left
+				widgetanchor = top|left
+				blockoverride "offset_x" {
+					position_x = -245
+				}
+				blockoverride "current_button_pos" {
+					size = { 245 230 }
+				}
+				blockoverride "next_button_pos" {
+					size = { 245 230 }
+					position = { 245 0 }
+				}
+			}
 
-			blockoverride "start_animating" {
-				trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').StartAnimating]"
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').ClearStartAnimating]"
-			}
-			blockoverride "delay" {
-				delay = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').GetCarouselDelay]"
-			}
-			blockoverride "offset_x" {
-				position_x = -245
-			}
-			blockoverride "cycle_card" {
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').CycleActiveContentCard]"
-			}
-			blockoverride "stop_animating" {
-				trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').StopAnimating]"
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').ClearStopAnimating]"
-			}
-			blockoverride "current_texture" {
-				texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('secondary-1').GetTexture]"
+			newsfeed_carousel = {
+				name = "newsfeed_slot_secondary_2"
 				size = { 245 230 }
-			}
-			blockoverride "next_texture" {
-				texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('secondary-1').GetNextTexture]"
-				size = { 245 230 }
-				position = { 245 0 }
-			}
-			blockoverride "onclick" {
-				onclick = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-1').ClickActiveCard]"
-			}
-		}
-
-		newsfeed_carousel = {
-			name = "newsfeed_slot_secondary_2"
-			position = { 715 0 }
-			size = { 245 230 }
-			align = left
-			parentanchor = top|left
-			widgetanchor = top|left
-
-			blockoverride "start_animating" {
-				trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').StartAnimating]"
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').ClearStartAnimating]"
-			}
-			blockoverride "delay" {
-				delay = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').GetCarouselDelay]"
-			}
-			blockoverride "offset_x" {
-				position_x = -245
-			}
-			blockoverride "cycle_card" {
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').CycleActiveContentCard]"
-			}
-			blockoverride "stop_animating" {
-				trigger_when = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').StopAnimating]"
-				on_start = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').ClearStopAnimating]"
-			}
-			blockoverride "current_texture" {
-				texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('secondary-2').GetTexture]"
-				size = { 245 230 }
-			}
-			blockoverride "next_texture" {
-				texture = "[FrontEndMainView.AccessMarketingContainer.GetSlotByName('secondary-2').GetNextTexture]"
-				size = { 245 230 }
-				position = { 245 0 }
-			}
-			blockoverride "onclick" {
-				onclick = "[FrontEndMainView.AccessMarketingContainer.AccessSlotByName('secondary-2').ClickActiveCard]"
+				align = left
+				parentanchor = top|left
+				widgetanchor = top|left
+				blockoverride "offset_x" {
+					position_x = -245
+				}
+				blockoverride "current_button_pos" {				
+					size = { 245 230 }
+				}
+				blockoverride "next_button_pos" {
+					size = { 245 230 }
+					position = { 245 0 }
+				}
 			}
 		}
 	}

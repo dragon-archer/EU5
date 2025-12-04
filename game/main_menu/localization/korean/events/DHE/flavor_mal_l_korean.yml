@@ -59,7 +59,7 @@
  flavor_mal.14.title: "독립을 위한 [target_subject_country.GetNameWithNoTooltip]의 노력"
  flavor_mal.14.desc: "모든 종속국의 주민에게 좀 더 나은 삶을 선사하려는 갖은 노력에도 불구하고, 우리의 멸망을 종용하고 우리 유산을 말살하려는 자들이 있습니다. 이들은 어둠 속에서 손에 칼을 쥔 채 암약하며, 우리가 약해진 틈을 타 공세에 나설 기회를 노리고 있습니다... \n\n[target_subject_country.GetName]에서 들리는 반대의 목소리는 건방지고 되바라진 아이가 생떼를 부리는 소리일 뿐입니다."
  flavor_mal.14.a: "좋다. 독립을 인정해 주어라."
- flavor_mal.14.b: "전쟁을 치르더라도 안 된다."
+ flavor_mal.14.b: "전쟁을 원하는 거라면..."
  flavor_mal.14.b.tt: "[GetCountry('JOL').GetName]에 대한 통제를 시도합니다\n#italic 두 나라 사이에 #R 전쟁#!이 일어날 수 있습니다!#!"
  flavor_mal.15.title: "[target_overlord_country.GetNameWithNoTooltip]의 개입"
  flavor_mal.15.desc: "[target_overlord_country.GetName](과)와 그 무식한 돼지 같은 왕족들을 설득해 어떠한 굴레도 없이 평화롭게 공존하려고 그렇게 노력했건만, 저들은 우리의 완전하고 총체적인 복종을 요구하고 있습니다. 이러한 모욕은 우리 국경 지대 전역에 독립의 불길을 지피는 불씨가 될 것입니다!"
