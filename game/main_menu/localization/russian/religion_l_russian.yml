@@ -798,6 +798,7 @@
  invite_foreign_cleric: "Привлечь чужеземного священнослужителя"
  invite_foreign_cleric_desc: "К нам направят опытного священника из другой страны. Местные [actor.GetGovernment.GetEstateName('clergy_estate')|l] будут недовольны, однако знания чужеземца могут оказаться бесценными."
  invite_foreign_cleric_tt: "В нашу [Concept('country', 'страну')|e] прибудет [Concept('character', 'персонаж')|e]-иностранец #L [actor.GetReligion.GetAdjective|l]ой#! веры из сословия #TOOLTIP:ESTATE_TYPE,clergy_estate,X #L священников#!#!, обладающий высоким [Concept('adm', 'административным навыком')|e], средним [Concept('dip', 'дипломатическим навыком')|e] и низким [Concept('mil', 'военным навыком')|e]. #Catholic Законы и политика церкви cc_indulgences: «Продажа индульгенций»"
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "Официальная позиция #TOOLTIP:INTERNATIONAL_ORGANIZATION,$catholic_church_tt$,X #L католической церкви#!#! относительно индульгенций."
  limited_indulgences: "Cum Postquam"
  limited_indulgences_desc: "#TOOLTIP:RELIGION,$catholic_tt$,X #L Католик#!#! может сократить время своего пребывания в чистилище, занимаясь благотворительностью, например раздавая милостыню или принося пожертвования #TOOLTIP:INTERNATIONAL_ORGANIZATION,$catholic_church_tt$,X #L католической церкви#!#!."

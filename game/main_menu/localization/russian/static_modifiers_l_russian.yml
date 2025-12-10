@@ -1918,6 +1918,7 @@
  STATIC_MODIFIER_NAME_reduced_payment_obligations: "Сокращение платёжных обязательств"
  STATIC_MODIFIER_NAME_appanage_diplomatic_betrayal_modifier: "Дипломатическое предательство"
  STATIC_MODIFIER_DESC_appanage_diplomatic_betrayal_modifier: "Мы решили променять неучастие в политической ситуации, сложившейся между нашим сюзереном и державой [GetCountry('ENG').GetLongName], на увесистый мешок золота."
+ STATIC_MODIFIER_NAME_victory_in_the_hyw_modifier: "Victory in the $hundred_years_war$"
  #Western Schism
  STATIC_MODIFIER_NAME_ws_show_unity_of_faith: "Демонстрация единства веры"
  #Little Ice Age

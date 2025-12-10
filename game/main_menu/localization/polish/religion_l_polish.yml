@@ -798,6 +798,7 @@
  invite_foreign_cleric: "Zaproś cudzoziemskiego duchownego"
  invite_foreign_cleric_desc: "Z innego kraju przybędzie do nas doświadczony duchowny. Nasi [actor.GetGovernment.GetEstateName('clergy_estate')|l] będą wściekli, ale wiedza tego cudzoziemskiego kleryka może być bezcenna."
  invite_foreign_cleric_tt: "Do naszego [Concept('country','kraju')|e] przybędzie cudzoziemska #L [actor.GetReligion.GetAdjective|l]a#! [character|el] ze stanu [ShowEstateTypeName('clergy_estate')], która ma wysokie [adm|el], średnie [dip|el] i niskie [mil|el]."
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "Oficjalne stanowisko, jakie zajmuje [GetInternationalOrganization('catholic_church').GetName] w kwestii odpustów."
  limited_indulgences: "Cum postquam"
  limited_indulgences_desc: "Wyznawcy wiary #L [ShowReligionAdjective('catholic')|l]iej#! mogą skrócić swój czas w czyśćcu, dokonując aktów charytatywnych, takich jak przekazywanie jałmużny lub innych datków na rzecz instytucji, które ustanowił [GetInternationalOrganization('catholic_church').GetName]."

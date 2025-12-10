@@ -798,6 +798,7 @@
  invite_foreign_cleric: "Invitar a un clérigo extranjero"
  invite_foreign_cleric_desc: "Nos enviarán a un clérigo experimentado de otro país. Esto enfadará a los miembros [actor.GetGovernment.GetEstateName('clergy_estate')|l] local, pero la experiencia de este extranjero podría ser de valor incalculable."
  invite_foreign_cleric_tt: "Un miembro extranjero [ShowEstateTypeName('clergy_estate')|l] de fe [actor.GetReligion.GetAdjective|l], con [adm|el] alta, [dip|el] media y [mil|el] baja llegará a nuestro [country|el]. Leyes y políticas de la Iglesia católica: «La compra de indulgencias»"
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "Esta es la postura oficial de la [GetInternationalOrganization('catholic_church').GetName] sobre el asunto de las indulgencias."
  limited_indulgences: "Cum postquam"
  limited_indulgences_desc: "Los devotos de la fe [ShowReligionAdjective('catholic')|l] pueden reducir el tiempo en el purgatorio mediante la caridad, en forma de limosnas u otras donaciones a la institución de la [GetInternationalOrganization('catholic_church').GetName]."

@@ -1918,6 +1918,7 @@
  STATIC_MODIFIER_NAME_reduced_payment_obligations: "지불 의무 완화"
  STATIC_MODIFIER_NAME_appanage_diplomatic_betrayal_modifier: "외교적 배신"
  STATIC_MODIFIER_DESC_appanage_diplomatic_betrayal_modifier: "우리 종주국과 [GetCountry('ENG').GetLongName] 사이의 정치 상황에 간섭하지 않는 대가로 상당량의 금화를 받기로 했습니다."
+ STATIC_MODIFIER_NAME_victory_in_the_hyw_modifier: "Victory in the $hundred_years_war$"
  #Western Schism
  STATIC_MODIFIER_NAME_ws_show_unity_of_faith: "신앙의 통일 표현"
  #Little Ice Age

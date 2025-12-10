@@ -798,6 +798,7 @@
  invite_foreign_cleric: "外国の聖職者の招聘"
  invite_foreign_cleric_desc: "他国の経験豊かな聖職者がわが国に派遣される。これは地元の[actor.GetGovernment.GetEstateName('clergy_estate')]の怒りを買うだろうが、異国の聖職者の知見には計り知れない価値があるはずだ。"
  invite_foreign_cleric_tt: "[actor.GetReligion.GetAdjective]を信仰する、異国の[ShowEstateTypeName('clergy_estate')][character|e]がわが国に到着する。この[character]は[adm|e]が高く、[dip|e]は平均的、[mil|e]は低い"
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "免罪符に関する問題についての[GetInternationalOrganization('catholic_church').GetName]の公式な見解。"
  limited_indulgences: "クム・ポストクアム"
  limited_indulgences_desc: "[ShowReligionAdjective('catholic')]信者は、[GetInternationalOrganization('catholic_church').GetName]に対して施しや寄付などの慈善行為をおこなうことで、煉獄で過ごす時間を短縮することができる。"

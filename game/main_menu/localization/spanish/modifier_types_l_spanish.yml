@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "Afecta a los [costs|el] que conlleva construir [ShowBuildingTypeName('mamluk_barracks')|l]."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "Eficacia combativa de levas"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "Afecta a la eficacia que demuestra un [regiment|el] de [levies|el] en [combat|el]."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "Recuperación de levas"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "Afecta a la rapidez con que las [levies|el] se recuperan en un [country|el]."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "Tamaño mínimo de regimiento de levas"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "Afecta al tamaño mínimo que puede tener un [regiment|el] de [levies|el] en un país."
  MODIFIER_TYPE_NAME_army_food_gathering: "Recolección militar de comida"

@@ -798,6 +798,7 @@
  invite_foreign_cleric: "邀请外国神职人员"
  invite_foreign_cleric_desc: "我们将从另一个国家请来一位经验丰富的神职人员。此举会惹恼我们的本地[actor.GetGovernment.GetEstateName('clergy_estate')]，但这位外国神职人员的专业知识或许极为宝贵。"
  invite_foreign_cleric_tt: "一位属于[ShowEstateTypeName('clergy_estate')]，拥有高[adm|e]、中[dip|e]和低[mil|e]的外国[actor.GetReligion.GetAdjective][character|e]将抵达我国。"
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "[GetInternationalOrganization('catholic_church').GetName]对大赦问题的官方立场。"
  limited_indulgences: "《从此往后》"
  limited_indulgences_desc: "[ShowReligionAdjective('catholic')]信徒可通过慈善减少在炼狱中受罚的刑期，如施舍或向[GetInternationalOrganization('catholic_church').GetName]捐赠财物。"

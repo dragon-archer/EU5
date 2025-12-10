@@ -1918,6 +1918,7 @@
  STATIC_MODIFIER_NAME_reduced_payment_obligations: "Verringerte Zahlungspflichten"
  STATIC_MODIFIER_NAME_appanage_diplomatic_betrayal_modifier: "Diplomatischer Verrat"
  STATIC_MODIFIER_DESC_appanage_diplomatic_betrayal_modifier: "Wir haben entschieden, unsere Zurückhaltung hinsichtlich der politischen Lage zwischen unserem Suzerän und [GetCountry('ENG').GetLongName] für reichlich Gold aufzugeben."
+ STATIC_MODIFIER_NAME_victory_in_the_hyw_modifier: "Victory in the $hundred_years_war$"
  #Western Schism
  STATIC_MODIFIER_NAME_ws_show_unity_of_faith: "Glaubenseinheit zeigen"
  #Little Ice Age

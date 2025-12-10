@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "[ShowBuildingTypeName('mamluk_barracks')]の建設にかかる[costs|e]に影響を与える。"
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "召集軍の戦闘効率"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "[levies|e][regiment|e]の[combat|e]時の効率に影響を与える。"
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "召集軍回復"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "[country|e]で[levies|e]が回復する速度に影響を与える。"
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "召集軍連隊の最少規模"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "国家の[levies|e][regiment|e]の最小規模に影響を与える。"
  MODIFIER_TYPE_NAME_army_food_gathering: "陸軍の食糧調達"

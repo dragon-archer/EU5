@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "Wpływa na [Concept('costs','koszt')|e] konstrukcji budowli typu [ShowBuildingTypeName('mamluk_barracks')|l]."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "Efektywność poborowych w walce"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "Wpływa na efektywność [Concept('regiment','pułku')|e] [Concept('levies','poborowego')|e] w [Concept('combat','walce')|e]."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "Odnawianie poboru"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "Wpływa na tempo odnawiania się [Concept('levies','oddziałów poborowych')|e] w [Concept('country','kraju')|e]."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "Min. rozmiar pułku poborowego"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "Wpływa na minimalny rozmiar [Concept('regiment','pułku')|e] [Concept('levies','poborowego')|e] w kraju."
  MODIFIER_TYPE_NAME_army_food_gathering: "Gromadzenie żywności przez armię"

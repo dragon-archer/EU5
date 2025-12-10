@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "这影响建造[ShowBuildingTypeName('mamluk_barracks')]的[costs|e]。"
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "征召兵作战效率"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "这影响[levies|e][regiment|e]在[combat|e]中的效率。"
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "征召兵恢复"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "这影响一个[country|e]的[levies|e]恢复速度。"
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "征兆军团的最小单位规模"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "影响一个国家中[levies|e]的[regiment|e]最小可能规模。"
  MODIFIER_TYPE_NAME_army_food_gathering: "军队采集粮食"

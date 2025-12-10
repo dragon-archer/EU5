@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "[ShowBuildingTypeName('mamluk_barracks')] yapmanın [Concept('costs', 'Maliyetini')|e] düzenler."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "Seferber Çatışma Verimliliği"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "Bir [levy|e] [Concept('regiment', 'Alayının')|e] [combat|e] esnasındaki verimliliğini düzenler."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "Levy Recovery"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "This impacts how quickly [levies|e] recovers in a [country|e]."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "Minimum Seferber Alayı Boyutu"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "Bir ülkedeki [levy|e] [Concept('regiment', 'Alayının')|e] minimum boyutunu belirler."
  MODIFIER_TYPE_NAME_army_food_gathering: "Ordunun Yiyecek Toplaması"

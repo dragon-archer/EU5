@@ -33,6 +33,7 @@
  INTERNATIONAL_ORGANIZATION_TT_CAN_BUILD_RGOS_IN_MEMBERS: "Peut développer l'[rgo|e] chez les [members|e] : $VAL$"
  INTERNATIONAL_ORGANIZATION_TT_BONUS_OPINION: "Bonus d'[opinion|e] entre les membres : $AMOUNT$"
  INTERNATIONAL_ORGANIZATION_TT_BONUS_TRUST: "Bonus de [trust|e] entre les membres : $AMOUNT$"
+ INTERNATIONAL_ORGANIZATION_TT_ANNEXATION_SPEED_STATIC: "Vitesse d'annexion : $AMOUNT|Y$"
  INTERNATIONAL_ORGANIZATION_TT_ANNEXATION_SPEED: "Vitesse d'annexion : $AMOUNT|Y$"
  INTERNATIONAL_ORGANIZATION_TT_ANNEXATION_SPEED_DYNAMIC: "Annexation Speed is determined by the following factors:\n$HOW$"
  INTERNATIONAL_ORGANIZATION_TT_MIN_OPINION: "Si l'[opinion|e] de deux pays membres passe en dessous de $AMOUNT$, l'[international_organization|e] s'effondrera"

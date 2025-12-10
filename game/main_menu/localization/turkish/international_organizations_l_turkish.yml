@@ -33,6 +33,7 @@
  INTERNATIONAL_ORGANIZATION_TT_CAN_BUILD_RGOS_IN_MEMBERS: "[Concept('members', 'Üyelerin')|e] ülkelerinde [rgo|e] genişletebilir: $VAL$"
  INTERNATIONAL_ORGANIZATION_TT_BONUS_OPINION: "Üyeler arasındaki bonus [opinion|e]: $AMOUNT$"
  INTERNATIONAL_ORGANIZATION_TT_BONUS_TRUST: "Üyeler arasındaki bonus [trust|e]: $AMOUNT$"
+ INTERNATIONAL_ORGANIZATION_TT_ANNEXATION_SPEED_STATIC: "Annexation Speed: $AMOUNT|Y$"
  INTERNATIONAL_ORGANIZATION_TT_ANNEXATION_SPEED: "İlhak Hızı: $AMOUNT|Y$"
  INTERNATIONAL_ORGANIZATION_TT_ANNEXATION_SPEED_DYNAMIC: "Annexation Speed is determined by the following factors:\n$HOW$"
  INTERNATIONAL_ORGANIZATION_TT_MIN_OPINION: "İki üye ülkenin [Concept('opinion', 'Görüşü')|e] $AMOUNT$ değerinin altına düşerse [international_organization|e] çöker"

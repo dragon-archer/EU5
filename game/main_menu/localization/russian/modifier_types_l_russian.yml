@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "Влияет на [Concept('costs','стоимость')|e] строительства казармы мамлюков."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "Эффективность ополчения в бою"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "Влияет на эффективность в [Concept('combat','бою')|e] [Concept('regiment','полка')|e] [Concept('levies','ополченцев')|e]."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "Восполнение ополчения"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "Влияет на то, как быстро восполняется [Concept('levies', 'ополчение')|e] [Concept('country', 'державы')|e]."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "Минимальный размер полков ополчения"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "Влияет на минимально допустимый размер [Concept('regiment','полка')|e] [Concept('levies','ополченцев')|e] в державе."
  MODIFIER_TYPE_NAME_army_food_gathering: "Сбор пищи войсками"

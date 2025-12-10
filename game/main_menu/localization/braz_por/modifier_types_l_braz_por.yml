@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "Afeta os [costs|e] para construir um [ShowBuildingTypeName('mamluk_barracks')]."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "Eficiência de Combate de Conscritos"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "Afeta a eficácia que um [regiment|e] de [levies|e] terá em [combat|e]."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "Recuperação de Conscritos"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "Afeta a velocidade com que [levies|e] se recuperam em um [country|e]."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "Tamanho Mínimo de Regimento de Conscritos"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "Afeta o menor tamanho que um [regiment|e] de [levies|e] pode ter em um país."
  MODIFIER_TYPE_NAME_army_food_gathering: "Coleta de Alimentos do Exército"

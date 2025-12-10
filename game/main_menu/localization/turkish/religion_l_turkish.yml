@@ -798,6 +798,7 @@
  invite_foreign_cleric: "Yabancı Rahip Davet Et"
  invite_foreign_cleric_desc: "Topraklarımıza başka bir ülkeden deneyimli bir rahip gönderilecek. Bu durum yerel [actor.GetGovernment.GetEstateName('clergy_estate')] zümresini sinirlendirecek ancak yabancı rahibin ustalığı paha biçilemez olacaktır."
  invite_foreign_cleric_tt: "Yüksek düzeyde [adm|e], orta düzeyde [dip|e] ve düşük düzeyde [mil|e] yeteneklerine sahip yabancı bir [actor.GetReligion.GetAdjective] [ShowEstateTypeName('clergy_estate')] [character|e], [country|e] topraklarımıza adım atacak. Katolik Kilisesi Kanun ve Politikaları"
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "[GetInternationalOrganization('catholic_church').GetName] kurumunun endüljans meselesi karşısındaki resmî duruşu."
  limited_indulgences: "Cum Postquam"
  limited_indulgences_desc: "[ShowReligionAdjective('catholic')] inancı mensubu bir kimse maddi yardımda veya [GetInternationalOrganization('catholic_church').GetName] kurumuna bağışta bulunarak arafta geçireceği süreyi kısaltabilir."

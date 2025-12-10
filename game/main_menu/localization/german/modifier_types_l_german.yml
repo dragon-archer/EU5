@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "Dies wirkt sich darauf aus, wie viel der Bau einer [ShowBuildingTypeName('mamluk_barracks')] [Concept('costs', 'kostet')|e]."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "Kampf-Effizienz (Aufgebot)"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "Dies wirkt sich auf die Effektivität eines [Concept('regiment', 'Regiments')|e] von [Concept('levies', 'Aufgeboten')|e] im [combat|e] aus."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "Aufgebotserholung"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "Dies wirkt sich darauf aus, wie schnell sich [levies|e] in einem [country|e] erholen."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "Regiments-Größenminimum (Aufgebote)"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "Dies wirkt sich auf die kleinste Größe aus, die ein [regiment|e] von [Concept('levies', 'Aufgeboten')|e] in einem Land haben kann."
  MODIFIER_TYPE_NAME_army_food_gathering: "Armee-Proviantsammlung"

@@ -3093,6 +3093,8 @@
  MODIFIER_TYPE_DESC_mamluk_barracks_price_cost_modifier: "[ShowBuildingTypeName('mamluk_barracks')]을 건설하는 데 드는 [costs|e]에 영향을 줍니다."
  MODIFIER_TYPE_NAME_levy_combat_efficiency_modifier: "징집군 전투 효율"
  MODIFIER_TYPE_DESC_levy_combat_efficiency_modifier: "[levies|e] [regiment|e]의 [combat|e] 수행 효율에 영향을 줍니다."
+ MODIFIER_TYPE_NAME_levy_recovery_modifier: "징집군 회복력"
+ MODIFIER_TYPE_DESC_levy_recovery_modifier: "이 [country|e]에서 [levies|e]이 회복되는 속도에 영향을 줍니다."
  MODIFIER_TYPE_NAME_minimum_regiment_levy_size: "징집군 최소 연대 규모"
  MODIFIER_TYPE_DESC_minimum_regiment_levy_size: "국가에서 [levies|e] [regiment|e]를 구성할 수 있는 최소 규모에 영향을 줍니다."
  MODIFIER_TYPE_NAME_army_food_gathering: "지상군 식량 조달"

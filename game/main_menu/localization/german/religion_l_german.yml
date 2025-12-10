@@ -798,6 +798,7 @@
  invite_foreign_cleric: "Fremdländischen Kleriker einladen"
  invite_foreign_cleric_desc: "Uns wird ein erfahrener Kleriker aus einem anderen Land geschickt. Dies wird unseren örtlichen [actor.GetGovernment.GetEstateName('clergy_estate')] verärgern, doch die Kenntnisse des fremdländischen Klerikers könnten wertvoll sein."
  invite_foreign_cleric_tt: "Ein fremdländischer #L [actor.GetReligion.GetAdjective|l]er#! [character|e] des #L [ShowEstateTypeName('clergy_estate')]s#! mit hoher [adm|e], mittlerer [dip|e] und niedrigem [mil|e] wird in unserem [country|e] eintreffen."
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "Die offizielle Haltung für die [GetInternationalOrganization('catholic_church').GetName] in Sachen Ablässe."
  limited_indulgences: "Cum Postquam"
  limited_indulgences_desc: "Anhänger des #L [ShowReligionAdjective('catholic')|l]en#! Glaubens können ihre Zeit im Fegefeuer verringern, wenn sie wohltätig sind, indem sie zum Beispiel jenen Institutionen, die die „[GetInternationalOrganization('catholic_church').GetName]“ ihr Eigen nennt, Almosen oder Sachgüter spenden."

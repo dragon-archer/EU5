@@ -798,6 +798,7 @@
  invite_foreign_cleric: "외국 성직자 초빙"
  invite_foreign_cleric_desc: "타국에서 경험 많은 성직자 한 명이 파견됩니다. 비록 우리나라 내 현지 [actor.GetGovernment.GetEstateName('clergy_estate')]의 반감을 사겠지만, 이 외국 성직자의 전문성은 큰 도움이 될 수 있습니다."
  invite_foreign_cleric_tt: "[adm|e]이 높고 [dip|e]은 보통이며 [mil|e]은 낮은 [actor.GetReligion.GetAdjective] [ShowEstateTypeName('clergy_estate')] 계층의 외국 [character|e]이 우리 [country|e]에 도착합니다."
+ cc_indulgences: "The Purchase of Indulgence"
  cc_indulgences_desc: "면죄부 문제에 대한 [GetInternationalOrganization('catholic_church').GetName]의 공식 입장입니다."
  limited_indulgences: "쿰 포스트쿠암"
  limited_indulgences_desc: "쿰 포스트쿠암, 그 이후에. [ShowReligionAdjective('catholic')] 신도는 구호금을 기부하거나 [GetInternationalOrganization('catholic_church').GetName] 기관에 기타 형태로 기부금을 바침으로써 연옥에서 보내야 하는 시간을 줄일 수 있습니다."
