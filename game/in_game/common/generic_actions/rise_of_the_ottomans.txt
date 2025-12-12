@@ -240,7 +240,7 @@
 				}
 				add = {
 					desc = "wants casus belli on target owner"
-					value = 5
+					value = 50
 				}
 			}
 

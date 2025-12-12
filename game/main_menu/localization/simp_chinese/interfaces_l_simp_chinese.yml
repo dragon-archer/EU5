@@ -1984,6 +1984,7 @@
  INT_ORG_MEMBERSHIP_TITLE: "成员"
  ASK_FOR_IO_MEMBERSHIP: "申请加入[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  INVITE_FOR_IO_MEMBERSHIP: "邀请加入[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
+ JOIN_IO_MEMBERSHIP: "加入 [InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  LEAVE_IO_MEMBERSHIP: "退出[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  VOTE_IO_LEADER: "为下一任[InternationalOrganizationsView.GetInternationalOrganization.GetLeaderTitle]投票"
  VOTE_IO_PARLIAMENT: "在[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName]投票"

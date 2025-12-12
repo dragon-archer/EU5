@@ -1984,6 +1984,7 @@
  INT_ORG_MEMBERSHIP_TITLE: "구성국"
  ASK_FOR_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] 가입 요청"
  INVITE_FOR_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]에 초대"
+ JOIN_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]에 가입"
  LEAVE_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] 탈퇴"
  VOTE_IO_LEADER: "다음 [InternationalOrganizationsView.GetInternationalOrganization.GetLeaderTitle] 투표"
  VOTE_IO_PARLIAMENT: "[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName]에서 투표"

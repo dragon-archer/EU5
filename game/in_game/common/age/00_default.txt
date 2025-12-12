@@ -199,7 +199,7 @@ age_5_absolutism = {
 		subject_loyalty = -10
 		
 		global_navy_levy_size_modifier = -2.0
-		levy_combat_efficiency_modifier = -0.4
+		levy_combat_efficiency_modifier = -0.3
 
 		antagonism_religion_influence = 0.1
 		antagonism_culture_influence = 0.2
@@ -254,7 +254,7 @@ age_6_revolutions = {
 		
 		global_navy_levy_size_modifier = -2.0
 		
-		levy_combat_efficiency_modifier = -0.5
+		levy_combat_efficiency_modifier = -0.4
 		
 		subject_pays_colonial_cost_modifier = 2.0
 		

@@ -1984,6 +1984,7 @@
  INT_ORG_MEMBERSHIP_TITLE: "メンバー資格"
  ASK_FOR_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]への参加資格を要求"
  INVITE_FOR_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]への招待"
+ JOIN_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] に加盟する"
  LEAVE_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]を離脱"
  VOTE_IO_LEADER: "次期[InternationalOrganizationsView.GetInternationalOrganization.GetLeaderTitle]への投票"
  VOTE_IO_PARLIAMENT: "[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName]での投票"

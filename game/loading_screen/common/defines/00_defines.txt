@@ -626,9 +626,8 @@ NAI = {
 	SHIP_RECRUITMENT_COST_FACTOR = 0.2 # multiplier for how much we care about the cost of ships vs budget
 	REGIMENT_RECRUITMENT_COST_FACTOR = 0.5 # multiplier for how much we care about the cost of regiments vs budget
 	
-	MONTHLY_MANPOWER_MAXIMUM_VALUE = 0.2 # The maximum value the manpower scale curve can reach
-	MONTHLY_MANPOWER_PER_BASE_TAX_REFERENCE = 0.0065 # This is how big manpower pool AI wants based on their tax base
-	MAXIMUM_MANPOWER_MAXIMUM_VALUE = 5 # This is how hard they will try to reach their manpower pool target
+	MONTHLY_MANPOWER_PER_BASE_TAX_REFERENCE = 0.04 # This is how big manpower pool AI wants based on each 100 taxbase
+	MAXIMUM_MANPOWER_MAXIMUM_VALUE = 0.5 # This is how hard they will try to reach their manpower pool target
 	AI_ESSENTIAL_MANPOWER_UTILITY_VALUE = 0.25 # This is how hard they will try to reach their essential manpower pool target, which is enough to maintain their armies and have enough replenishment to rebuild them fast
 	
 	MONTHLY_SAILORS_PER_BASE_TAX_REFERENCE = 0.00012 # This much monthly_sailors per tax base will be used as "default" reference
@@ -680,14 +679,15 @@ NAI = {
 	AI_GLOBAL_SEA_TRADE_COST_UTIL = -0.2
 
 	GOVERNMENT_POWER_INHERENT_UTILITY = 0.7 # inherent util when below 55 to avoid bad situations
-	AI_STABILITY_INHERENT_UTILITY = 1.5 # AI inherent willingness to invest in stability slider
+	AI_STABILITY_INHERENT_UTILITY = 0.25 # AI diminishing inherent willingness to invest in stability slider up to 100
+	AI_STABILITY_LINEAR_INHERENT_UTILITY = 1 # AI linear willingness to invest up to 0 stability
 	AI_EMBRACE_INSTITUTION_STABILITY_UTILITY = 0.05 # AI extra willingness to invest in stability slider when it is close to embracing institutions
 
 	# AI is allowed to go a bit negative into stability to embrace their first institution of each age
 	AI_ALLOWED_STABILITY_FIRST_INSTITUTION_EMBRACE = 20
 	
-	AI_REBEL_JOIN_THRESHOLD_IMPORTANCE = 10 # AI willingness to invest into rebel join threshold modifier
-	AI_REBEL_LEAVE_THRESHOLD_IMPORTANCE = 5 # AI willingness to invest into rebel leave threshold modifier
+	AI_REBEL_JOIN_THRESHOLD_IMPORTANCE = 5 # AI willingness to invest into rebel join threshold modifier
+	AI_REBEL_LEAVE_THRESHOLD_IMPORTANCE = 2.5 # AI willingness to invest into rebel leave threshold modifier
 	POP_SATISFACTION_IMPORTANCE_FOR_REVOLTS = 10 # AI willingness to invest into unrest reduction / satisfaction to reduce revolts
 	POP_SATISFACTION_IMPORTANCE_TO_ESTATES = 250.0
 	ESTATE_SATISFACTION_LEVY_THRESHOLD_IMPORTANCE = 10 # AI willingness to specifically keep estate satisfaction above the threshold for raising levies
@@ -1049,13 +1049,16 @@ NAI = {
 	AI_MISSION_CURRENCY_TARGET_UTILITY_MODIFIER_LESS = -0.15
 	AI_MISSION_LOCATION_TARGET_UTILITY_VALUE = 10
 
-	AI_CONQUER_DESIRE_DISTANCE_BASE = 50
-	AI_CONQUER_DESIRE_DISTANCE_MULTIPLIER = -0.2 #Penalty for ai to attack targets far away
+	AI_CONQUER_DESIRE_DISTANCE_BASE = 200
+	AI_CONQUER_DESIRE_DISTANCE_PER_COUNTRY_SIZE = 0.5
+	AI_CONQUER_DESIRE_DISTANCE_PER_AGE = 50
+
+	AI_CONQUER_DESIRE_DISTANCE_MULTIPLIER = -0.1 #Penalty for ai to attack targets far away
 	AI_CONQUER_DESIRE_NAVAL_DISTANCE_MULTIPLIER = -0.5 #Penalty for ai to attack targets far away over sea, smaller number means more likely to attack
 	AI_CONQUER_DESIRE_MAX = 100
 	AI_CONQUER_DESIRE_THROUGH_SUBJECT_MULT = 0.5 # Score mult when you have to go through your subject to reach enemy
-	AI_CONQUER_DESIRE_CAPITAL_DISTANCE = 200 # After this map distance locations starts getting a penalty from being too far away from capital
-	AI_CONQUER_DESIRE_CAPITAL_DISTANCE_MIN_FACTOR = 0.5 # Minimum allowed multiplier from distance to capital
+	AI_CONQUER_DESIRE_CAPITAL_DISTANCE = 100 # After this map distance locations starts getting a penalty from being too far away from capital
+	AI_CONQUER_DESIRE_CAPITAL_DISTANCE_MIN_FACTOR = 0.05 # Minimum allowed multiplier from distance to capital
 	AI_CALL_ALLY_STRENGTH_BALANCE_THRESHOLD = 0.75 # AI will not call in allies if war balance is over this
 
 	AI_CEDE_TREATY_DISTANCE = 500
@@ -1092,11 +1095,11 @@ NAI = {
 	AI_CONQUER_TREATY_DESIRE_NOT_WARGOAL_MULT = 0.5
 	AI_CHILD_EDUCATION_CHANGE_THRESHOLD = 200
 	AI_CONQUER_TREATY_DESIRE_WARGOAL_BASE = 2
-	AI_CONQUER_TREATY_DESIRE_SAME_PROVINCE = 5
+	AI_CONQUER_TREATY_DESIRE_SAME_PROVINCE = 3
 	AI_CONQUER_LOCATION_TREATY_BASE_SCORE = 3				# base score for AI to pick locations in war goal
 	AI_CONQUER_LOCATION_TREATY_WAR_WORTH_FACTOR = 0.25		# How much AI cares about war worth when picking locations in peace deals
 	AI_CONQUER_TREATY_DESIRE_ADJECENT = 10					# score bonus for picking neighboring locations in peace deal, other locations get 1/bonus penalty
-	AI_CONQUER_TREATY_DESIRE_POTENTIAL_BORDERGORE = 0.1 	# Score penalty for when AI is taking a location that will maybe cause bordergore
+	AI_CONQUER_TREATY_DESIRE_POTENTIAL_BORDERGORE = 0.05 	# Score penalty for when AI is taking a location that will maybe cause bordergore
 	AI_REVOKE_CORES_DESIRE_MULT = 0.1
 	AI_CONSTRUCTIONS_PREDICTED_INCOME_MONTHS = 24			# How much more months of last median balance does the evaluator add to the utility bias for construction queue
 	AI_CONSTRUCTIONS_EMPTY_QUEUE_UPDATE_MONTHS = 6			# Cooldown for construction queue if the previous recalc resulted in an empty queue
@@ -1813,9 +1816,9 @@ NDiplomacy = {
 
 	LIBERTY_DESIRE_MONTHLY_DECAY = -0.5
 	
-	PEACE_TREATY_FOOD_ACCESS = 10
-	PEACE_TREATY_MILITARY_ACCESS = 10
-	PEACE_TREATY_FLEET_BASING = 10
+	PEACE_TREATY_FOOD_ACCESS = 0
+	PEACE_TREATY_MILITARY_ACCESS = 0
+	PEACE_TREATY_FLEET_BASING = 0
 	PEACE_TREATY_ANTI_PIRACY = 10
 	PEACE_TREATY_WAR_REPARATIONS = 10
 	WAR_REPARATIONS_FACTOR = 0.1

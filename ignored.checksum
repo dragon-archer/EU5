@@ -1,5 +1,5 @@
 f9b6dd0ad4461adc0c92f6fe1c904c42  binaries/1.ico
-6f1ecd46e83a7aba569a0e9b012f41a3  binaries/checksum.txt
+a185c2d04a2d6aeee99c809d65546be9  binaries/checksum.txt
 94cfcd68c0d15456a22f53c21eda1565  binaries/crash_reporter/binaries/CrashReporter.exe
 b8ee23fd452f9a4704bdddc442791237  binaries/crash_reporter/binaries/CrashReporter.exe.manifest
 59a317acd0e5f7d4b04780e499ea1d7e  binaries/cream_api.ini
@@ -7,7 +7,7 @@ b8ee23fd452f9a4704bdddc442791237  binaries/crash_reporter/binaries/CrashReporter
 d2169449a014d097c9461b606d6c9263  binaries/dbghelp.dll
 1810267b2377bff225ca913329a86e60  binaries/dxcompiler.dll
 f0f354f447c175f18d95d13c8debce85  binaries/dxil.dll
-78eb5fbd380d70f46918cb856e187a30  binaries/eu5.exe
+2713f6785d8e983381237cdfd43e3aa8  binaries/eu5.exe
 e662b083c927cfbeffa43f63d31c50dd  binaries/eu5.exe.manifest
 dbcf1f50bbf94592938f8097fba12d5e  binaries/FreeImage.dll
 cb6f312201db436d3f4aef42365efbd8  binaries/GFSDK_Aftermath_Lib.x64.dll

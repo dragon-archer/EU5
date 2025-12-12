@@ -1984,6 +1984,7 @@
  INT_ORG_MEMBERSHIP_TITLE: "Członkostwo"
  ASK_FOR_IO_MEMBERSHIP: "Poproś o dołączenie do organizacji [InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  INVITE_FOR_IO_MEMBERSHIP: "Zaproś do organizacji [InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
+ JOIN_IO_MEMBERSHIP: "Dołącz do [InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  LEAVE_IO_MEMBERSHIP: "Opuść organizację [InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  VOTE_IO_LEADER: "Zagłosuj na następnego przywódcę ([InternationalOrganizationsView.GetInternationalOrganization.GetLeaderTitle])"
  VOTE_IO_PARLIAMENT: "[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] – głosuj"

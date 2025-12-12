@@ -1984,6 +1984,7 @@
  INT_ORG_MEMBERSHIP_TITLE: "Üyelik"
  ASK_FOR_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] bünyesine katılmayı iste"
  INVITE_FOR_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] bünyesine katılmaya davet et"
+ JOIN_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] kuruluşuna katıl"
  LEAVE_IO_MEMBERSHIP: "[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip] bünyesinden ayrıl"
  VOTE_IO_LEADER: "Gelecek [InternationalOrganizationsView.GetInternationalOrganization.GetLeaderTitle] için oy ver"
  VOTE_IO_PARLIAMENT: "[InternationalOrganizationsView.GetInternationalOrganization.GetParliament.GetName] oylamasına katıl"

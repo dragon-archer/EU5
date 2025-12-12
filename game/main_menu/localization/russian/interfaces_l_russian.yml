@@ -1984,6 +1984,7 @@
  INT_ORG_MEMBERSHIP_TITLE: "Участие"
  ASK_FOR_IO_MEMBERSHIP: "Попросить о вступлении в [InternationalOrganizationsView.GetInternationalOrganization.Custom('IO_wntt_ACC')]"
  INVITE_FOR_IO_MEMBERSHIP: "Пригласить в объединение «[InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]»"
+ JOIN_IO_MEMBERSHIP: "Вступить в [InternationalOrganizationsView.GetInternationalOrganization.GetNameWithNoTooltip]"
  LEAVE_IO_MEMBERSHIP: "Покинуть [InternationalOrganizationsView.GetInternationalOrganization.Custom('IO_wntt_ACC')]"
  VOTE_IO_LEADER: "Проголосовать за следующего кандидата на должность «[InternationalOrganizationsView.GetInternationalOrganization.GetLeaderTitle]»"
  VOTE_IO_PARLIAMENT: "Проголосовать в [InternationalOrganizationsView.GetInternationalOrganization.Custom('parliament_ru_PREP')|l]"
