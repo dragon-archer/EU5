@@ -4225,6 +4225,9 @@ alsno_stadga = {
 
 shahbandariyya_reform = {
 	unique = yes
+
+	potential = { has_or_had_tag = MLC }
+	allow = { has_advance = shahbandar }
 	country_modifier = {
 		global_trade_center_power = 0.1
 		global_merchant_capacity_modifier = 0.2

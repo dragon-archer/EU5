@@ -2643,7 +2643,7 @@
  RIVALS_NOT_OPTION: "@trigger_no! [COUNTRY.GetNameWithNoTooltip] is not eligible as [rival|e]"
  RIVALS_ADD_LEFT_CLICK: "Left-click to select [COUNTRY.GetNameWithNoTooltip] as [rival|e]"
  RIVALS_REMOVE_LEFT_CLICK: "Left-click to unselect [COUNTRY.GetNameWithNoTooltip] as [rival|e]"
- RIVALS_NO_POSITIVE_OPINION: "@trigger_no!We have a [opinion|e] of $CURR|+=2$ of [COUNTRY.GetName], and it needs to be lower than $VAL|V$."
+ RIVALS_NO_POSITIVE_OPINION: "@trigger_no![COUNTRY.GetName] have a [opinion|e] of $CURR|+=2$ of us, and it needs to be lower than $VAL|V$."
  RIVALS_NOT_ENOUGH_RANK: "@trigger_no![COUNTRY.GetName] has higher [country_rank|e] than us."
  RIVALS_NOT_ENOUGH_POPS: "@trigger_no![COUNTRY.GetName] has 25% more [pops|e] compared to us."
  RIVALS_ANY_OF_THESE: "@trigger_no!Any of the following:"

@@ -1962,7 +1962,7 @@ flavor_byz.31 = { #Alt-history. Byzantium never really reformed their army since
 	trigger = {
 		has_embraced_institution = institution:professional_armies
 		has_reform = government_reform:theme_system
-		army_size >= 10
+		regular_army_size >= 10
 		has_ruler = yes
 		any_cabinet_character = {
 			count > 0

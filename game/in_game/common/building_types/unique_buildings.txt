@@ -2006,7 +2006,7 @@ peel_towers = {
 
 	modifier = {
 		local_garrison_size = 0.1
-		local_monthly_prosperity = 0.001
+		local_devastation_recovery = 0.005
 	}
 	graphical_tags = { small_military }
 	

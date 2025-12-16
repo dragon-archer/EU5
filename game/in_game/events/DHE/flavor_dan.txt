@@ -1267,6 +1267,7 @@ flavor_dan.19 = { #The Assassination of Gerhard III
 			limit = {
 				scope:target_valdemar.first_spouse ?= character:dan_helvig
 				country_exists = c:SLV
+				c:SLV = { is_subject_of = root }
 			}
 			annex_country = { country = c:SLV }
 			province_definition:norrejylland_province = {

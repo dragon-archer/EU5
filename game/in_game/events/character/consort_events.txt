@@ -622,11 +622,6 @@ consort_events.61 = {
 		ruler ?= {
 			save_scope_as = target_ruler
 		}
-		consort.birth_location = {
-			owner = {
-				save_scope_as = origin_country_of_consort
-			}
-		}
 		consort.religion = {
 			save_scope_as = origin_religion
 		}

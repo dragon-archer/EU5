@@ -2528,6 +2528,8 @@ on_government_type_change = {
 		if = {
 			limit = {
 				is_emperor = yes
+				scope:from = government_type:monarchy
+				scope:to != government_type:monarchy
 			}
 			international_organization:hre = {
 				international_organization_remove_special_status = {

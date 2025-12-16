@@ -733,7 +733,7 @@ betray_our_allegiance = {	#Betray our Allegiance
 
 	ai_will_do = {
 		add = {
-			value = 10
+			value = 5
 			desc = BASE_VALUE
 		}
 		if = {
@@ -840,7 +840,6 @@ betray_our_allegiance = {	#Betray our Allegiance
 			limit = { exists = scope:target_war }
 			add = {
 				value = scope:target_war.war_length
-				multiply = 2
 				desc = "war length"
 			}
 		}
@@ -1327,7 +1326,12 @@ hyw_defect_action = {	#Betray our Allegiance
 				is_subject_of = c:ENG
 			}
 
-			capital.continent = overlord.capital.continent
+			OR = {
+				capital.region = region:france_region
+				capital.area = area:brabant_area
+				capital.area = area:flanders_area
+				capital.area = area:holland_area
+			}
 		}
 	}
 

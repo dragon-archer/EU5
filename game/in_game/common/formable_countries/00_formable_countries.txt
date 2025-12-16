@@ -1032,10 +1032,8 @@ PRU_f = { #Prussia
 	form_effect = {
 		if = {
 			limit = {
-				OR = {
-					government_type != government_type:republic
-					government_type != government_type:monarchy
-				}
+				government_type != government_type:republic
+				government_type != government_type:monarchy
 			}
 			change_government_type = government_type:monarchy
 			add_legitimacy = legitimacy_radical_bonus
@@ -1108,7 +1106,7 @@ LVA_f = { # Baltic
 GER_f = {
 
 	level = 4
-	required_locations_fraction = 0.75
+	required_locations_fraction = 0.66
 	rule = plausible
 	potential = {
 		culture = { has_culture_group = culture_group:german_group }

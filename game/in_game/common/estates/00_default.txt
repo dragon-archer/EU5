@@ -614,7 +614,7 @@ peasants_estate = {
 	satisfaction = {
 		stability_cost = -0.2
 		global_monthly_food_modifier = 0.25
-		levy_recovery_modifier = 0.2
+		levy_recovery_modifier = 0.5
 	}
 	#multiplied with (relative_power - LOW_POWER_THRESHOLD) if > LOW_POWER_THRESHOLD
 	high_power = {

@@ -2009,9 +2009,7 @@ hook_and_cod_wars.1203 = {
 	option = {
 		name = hook_and_cod_wars.1203.a
 		hacw_set_ruler = { ruler = scope:alive_claimant }
-		show_as_tooltip = {
-			disable_disaster_effect = { type = hook_and_cod_wars }	#Yes, the whole disaster ends when BOTH claimants are dead at the same time
-		}
+		disable_disaster_effect = { type = hook_and_cod_wars }	#Yes, the whole disaster ends when BOTH claimants are dead at the same time
 	}
 }
 

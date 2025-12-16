@@ -132,18 +132,13 @@ noble_leaders_only = {
 		dhimmi_estate_blocked_from_leading_military = yes
 		cossacks_estate_blocked_from_leading_military = yes
 		clergy_estate_blocked_from_leading_military = yes
-		tribes_estate_allowed_leading_military = no
-		cossacks_estate_allowed_leading_military = no
-		clergy_estate_allowed_leading_military = no
-		burghers_estate_allowed_leading_military = no
-		peasants_estate_allowed_leading_military = no
-		dhimmi_estate_allowed_leading_military = no
 		global_nobles_estate_power = 0.5
 		nobles_estate_target_satisfaction = medium_privilege_target_satisfaction
 		burghers_estate_target_satisfaction = small_privilege_target_satisfaction_penalty
 		peasants_estate_target_satisfaction = small_privilege_target_satisfaction_penalty
 		cossacks_estate_target_satisfaction = small_privilege_target_satisfaction_penalty
 		tribes_estate_target_satisfaction = small_privilege_target_satisfaction_penalty
+		dhimmi_estate_target_satisfaction = small_privilege_target_satisfaction_penalty
 	}
 }
 

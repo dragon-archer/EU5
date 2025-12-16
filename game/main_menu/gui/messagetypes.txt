@@ -1096,7 +1096,33 @@ option=yes
 pausepopup=no
 message_category = diplomacy
 }
-
+REJECT_SUBJECT_REQUEST={
+log=yes
+onmap=no
+popup=no
+idle=no
+option=yes
+pausepopup=no
+message_category = diplomacy
+}
+WE_REJECT_SUBJECT_REQUEST={
+log=yes
+onmap=no
+popup=yes
+idle=no
+option=yes
+pausepopup=no
+message_category = diplomacy
+}
+OTHER_REJECT_SUBJECT_REQUEST={
+log=yes
+onmap=no
+popup=no
+idle=no
+option=yes
+pausepopup=no
+message_category = diplomacy
+}
 
 BREAK_SUBJECT={
 log=yes
@@ -4456,6 +4482,16 @@ message_category = society
 }
 
 WE_PERFORM_leave_international_organization_ACTION={
+log=yes
+onmap=no
+popup=yes
+idle=no
+option=yes
+pausepopup=no
+message_category = society
+}
+
+WE_PERFORM_join_international_organization_ACTION={
 log=yes
 onmap=no
 popup=yes

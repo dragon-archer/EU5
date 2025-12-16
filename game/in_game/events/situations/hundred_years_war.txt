@@ -2596,6 +2596,11 @@ hundred_years_war.230 = { #Subject Defects!
 				type = hyw_defect_action
 				years = 10
 			}
+
+			if = {
+				limit = { has_country_modifier = appanage_diplomatic_betrayal_modifier }
+				remove_country_modifier = appanage_diplomatic_betrayal_modifier
+			}
 		}
 
 	}
